@@ -1,0 +1,1 @@
+visid: M8S78N4500342, Explanation: Unit fails bin1407 for: GROUP:IAX3_-_GUARDBAND_FREQ_3.500_IS_OUT_OF_MEASUREMENT_BOUNDS:_['0.8','1.6','2.2','3','3.2','3.4']. Not passing any Bucket.

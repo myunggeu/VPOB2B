@@ -1,0 +1,16 @@
+visid: M9KK695401123, Explanation: bin 42 is a false failure, this is a good unit
+visid: M9S83J1700123, Explanation: bin 42 is a false failure, this is a good unit
+visid: M9S83J1700100, Explanation: bin 42 is a false failure, this is a good unit
+visid: M9LJ518200253, Explanation: bin 42 is a false failure, this is a good unit
+visid: M9KN918500089, Explanation: bin 42 is a false failure, this is a good unit
+visid: M9KN918500417, Explanation: bin 42 is a false failure, this is a good unit
+visid: M9S83J1700121, Explanation: bin 42 is a false failure, this is a good unit
+visid: M9S83J1700148, Explanation: bin 42 is a false failure, this is a good unit
+visid: M9S83J1700099, Explanation: bin 42 is a false failure, this is a good unit
+visid: M9KK695400574, Explanation: bin 42 is a false failure, this is a good unit
+visid: M9KN918500509, Explanation: bin 42 is a false failure, this is a good unit
+visid: M9S83J1700111, Explanation: bin 42 is a false failure, this is a good unit
+visid: M9S83J1700126, Explanation: bin 42 is a false failure, this is a good unit
+visid: M9KK695401150, Explanation: bin 42 is a false failure, this is a good unit
+visid: M9KK695400569, Explanation: bin 42 is a false failure, this is a good unit
+visid: M9KK695400576, Explanation: bin 42 is a false failure, this is a good unit

@@ -1,0 +1,2 @@
+visid: D73U27M900007, Explanation: invalid bin2737, core23 FIVR vload reading all 0s, likely socketing issue at cold
+visid: D73U27M900097, Explanation: invalid bin2737, core15 FIVR vload reading all 0s, likely socketing issue at cold

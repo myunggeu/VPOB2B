@@ -1,0 +1,63 @@
+visid: M73J2G6200624, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M73J2G6201385, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M73J2G6201409, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7NN267100129, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7NN267101229, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7NN267101243, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7NN267101254, Explanation: should be HW issue at previous run
+visid: M73J2G6200876, Explanation: cache: invalid. Testing issue happened to S805TP - unit recovered as good bin when reran S805TP
+visid: M73J2G6201309, Explanation: cache: invalid. Testing issue happened to S805TP - unit recovered as good bin when reran S805TP
+visid: M7NN267101370, Explanation: bin 41 is a false failure, possible tester issue
+visid: M7NN267100842, Explanation: bin 41 is a false failure, possible tester issue
+visid: M7NN267100917, Explanation: bin 41 is a false failure, possible tester issue
+visid: M73J2G6200192, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M73J2G6201093, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7NN267101083, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M73J2G6200062, Explanation: marginal - same failure intermittently occurred on old TP.
+visid: M73J2G6200364, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7NN267100804, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7NN267100642, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7NN267100791, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M73J2G6200593, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7NN267101174, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7NN267101232, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7NN267101261, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7NN267100089, Explanation: Recovered due to content improvement
+visid: M73J2G6200336, Explanation: Recovered due to content improvement
+visid: M73J2G6200143, Explanation: Recovered due to content improvement
+visid: M73J2G6200498, Explanation: Recovered due to content improvement
+visid: M73J2G6200936, Explanation: Recovered due to content improvement
+visid: M73J2G6200602, Explanation: Recovered due to content improvement
+visid: M73J2G6200652, Explanation: Recovered due to content improvement
+visid: M73J2G6200748, Explanation: Recovered due to content improvement
+visid: M7NN267101064, Explanation: 9787 bins was a HW/AP instability on site A202 that caused the units to come in with a high delta compared to the handler setpoint. Recovered in new VPO
+visid: M7NN267101108, Explanation: 9787 bins was a HW/AP instability on site A202 that caused the units to come in with a high delta compared to the handler setpoint. Recovered in new VPO
+visid: M7NN267101318, Explanation: 9787 bins was a HW/AP instability on site A202 that caused the units to come in with a high delta compared to the handler setpoint. Recovered in new VPO
+visid: M73J2G6200768, Explanation: HW issue with the TIU design
+visid: M73J2G6200793, Explanation: HW issue with the TIU design
+visid: M73J2G6201342, Explanation: HW issue with the TIU design
+visid: M7NN267100885, Explanation: HW issue with the TIU design
+visid: M7NN267100911, Explanation: HW issue with the TIU design
+visid: M7NN267100995, Explanation: HW issue with the TIU design
+visid: M73J2G6201306, Explanation: HW issue with the TIU design
+visid: M7NN267100617, Explanation: CRES fail, HW issue
+visid: M7NN267101075, Explanation: CRES fail, HW issue
+visid: M7NN267101172, Explanation: CRES fail, HW issue
+visid: M73J2G6200729, Explanation: dint get tested in new run
+visid: M73J2G6200393, Explanation: invalid. Testing issue on S807 TP with HW bin switching observed.
+visid: M73J2G6200241, Explanation: invalid. HW issue. no TP content changes. B4621 failure is from random lane on S807TP test run units, and all units having HWRT bin swicth from other HW related bin.
+visid: M73J2G6200918, Explanation: invalid. Testing issue happened to S805TP - HW bin switching observed.
+visid: M73J2G6201095, Explanation: invalid. Testing issue happened to S805TP - HW bin switching observed.
+visid: M73J2G6201120, Explanation: invalid. Testing issue happened to S805TP - HW bin switching observed.
+visid: M73J2G6201156, Explanation: invalid. Testing issue happened to S805TP - HW bin switching observed.
+visid: M73J2G6201165, Explanation: invalid. Testing issue happened to S805TP - HW bin switching observed.
+visid: M73J2G6201277, Explanation: invalid. Testing issue happened to S805TP - HW bin switching observed.
+visid: M7NN267101325, Explanation: invalid. Testing issue happened to S805TP - HW bin switching observed.
+visid: M7NN267101376, Explanation: invalid. HW issue. no TP content changes. B4621 failure is from random lane on S807TP test run units, and all units having HWRT bin swicth from other HW related bin.
+visid: M73J2G6201197, Explanation: invalid. Testing issue happened to S805TP - HW bin switching observed.
+visid: M7NN267100872, Explanation: invalid. Testing issue happened to S805TP - HW bin switching observed.
+visid: M7NN267101343, Explanation: invalid. HW issue. no TP content changes. B4821 failure is from random lane on S807TP test run units, and all units having HWRT bin swicth from other HW related bin.
+visid: M73J2G6200103, Explanation: No TP content changes. Invalid mostly.
+visid: M73J2G6200901, Explanation: invalid. Testing issue happened to S805TP - HW bin switching observed.
+visid: M73J2G6201533, Explanation: Cache: invalid failure, it's failing all COREF1, F3, and F6 testsl for SCAN, SBFT, and CACHE.
+visid: M7NN267101074, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit.

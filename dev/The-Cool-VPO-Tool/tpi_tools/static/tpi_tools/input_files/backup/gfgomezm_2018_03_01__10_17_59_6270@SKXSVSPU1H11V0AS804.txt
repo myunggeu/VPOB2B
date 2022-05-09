@@ -1,0 +1,26 @@
+visid: M73J2G6200150, Explanation: New TIUs and Improved content for them. Expected B68 Reduction
+visid: M73J2G6200191, Explanation: New TIUs and Improved content for them. Expected B68 Reduction
+visid: M73J2G6200302, Explanation: New TIUs and Improved content for them. Expected B68 Reduction
+visid: M73J2G6201119, Explanation: New TIUs and Improved content for them. Expected B68 Reduction
+visid: M73J2G6201319, Explanation: New TIUs and Improved content for them. Expected B68 Reduction
+visid: M73J2G6201466, Explanation: New TIUs and Improved content for them. Expected B68 Reduction
+visid: M7NN267100865, Explanation: New TIUs and Improved content for them. Expected B68 Reduction
+visid: M7NN267101034, Explanation: New TIUs and Improved content for them. Expected B68 Reduction
+visid: M7NN267101100, Explanation: New TIUs and Improved content for them. Expected B68 Reduction
+visid: M7NN267101138, Explanation: New TIUs and Improved content for them. Expected B68 Reduction
+visid: M7NN267101188, Explanation: New TIUs and Improved content for them. Expected B68 Reduction
+visid: M7NN267101276, Explanation: New TIUs and Improved content for them. Expected B68 Reduction
+visid: M7NN267101295, Explanation: New TIUs and Improved content for them. Expected B68 Reduction
+visid: M7NN267101336, Explanation: New TIUs and Improved content for them. Expected B68 Reduction
+visid: M7NN267101268, Explanation: b1306 Caused by HW (opens)
+visid: M73J2G6200306, Explanation: b1306 Caused by HW (opens)
+visid: M7NN267101024, Explanation: b1306 Caused by HW (opens)
+visid: M7NN267101145, Explanation: b1306 Caused by HW (opens)
+visid: M73J2G6201121, Explanation: b1306 Caused by HW (opens)
+visid: M73J2G6201350, Explanation: b1306 Caused by HW (opens)
+visid: M73J2G6201469, Explanation: b1306 Caused by HW (opens)
+visid: M7NN267100615, Explanation: b1306 Caused by HW (opens)
+visid: M7NN267101030, Explanation: b1306 Caused by HW (opens)
+visid: M7NN267101128, Explanation: b1306 Caused by HW (opens)
+visid: M73J2G6200088, Explanation: b1307 Caused by HW (opens/short)
+visid: M73J2G6200144, Explanation: b1307 Caused by HW (opens/short)

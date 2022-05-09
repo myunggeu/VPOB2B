@@ -1,0 +1,36 @@
+
+{% extends "tpi_tools/home.html" %}
+{% block content %}
+
+tr.group:hover {
+    background-color: #ddd !important;
+}
+
+<br><br><br>
+	<h2>Select TP</h2>
+		{% for maintp, maintp_value in maintp_boms_tps.items %}
+			<div class="panel panel-default">
+				<div class="panel-heading">{{maintp}}</div>
+				<table id="b2b_table" class="table table-condensed" cellspacing="0" width="100%">
+					<thead>
+						<tr>
+							<th>BOM</th>
+							<th>TP B2B</th>
+						</tr>
+					</thead>
+					<tbody>
+						{% for bom, bom_value in maintp_value.items %}
+							{%for tp_bom in bom_value%}
+							<tr>
+								<td>{{bom}}</td>
+								<td><a href="/bin2bin/tp_bin2bin/{{tp_bom}}">&nbsp{{tp_bom}}</a></td>
+							</tr>
+							{% endfor %}
+
+						{% endfor%}
+
+					</tbody>
+				</table>
+			</div>
+		{% endfor %}
+{% endblock %}

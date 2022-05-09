@@ -1,0 +1,8 @@
+visid: M8KR236200017, Explanation: HW related: SHOPS CRES fail (open pin)
+visid: M8KR236200221, Explanation: THIS IS A SHOPS FAIL (SHOPS CRES fail (open pin))
+visid: M8HC458500115, Explanation: SHOPS fail SHOPS CRES fail (open pin BCLK1_DN)
+visid: M94R2R2100336, Explanation: THIS IS A SHOPS FAIL (SHOPS CRES fail (open pin))
+visid: M8KR236200261, Explanation: SHOPS FAIL (SHOPS CRES fail (open pin))
+visid: M8KR236200550, Explanation: SHOPS FAIL (SHOPS CRES fail (open pin))
+visid: M8HC458500521, Explanation: SHOPS FAIL (SHOPS CRES fail (open pin))
+visid: M8HC458500132, Explanation: SHOPS FAIL (SHOPS CRES fail (open pin))

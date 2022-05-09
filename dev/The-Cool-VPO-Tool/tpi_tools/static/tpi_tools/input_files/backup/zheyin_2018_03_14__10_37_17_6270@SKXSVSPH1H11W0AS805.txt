@@ -1,0 +1,20 @@
+visid: M7N7K70500579, Explanation: unit started to fail since S804TP on both hot and cold. Suspect unit degradation and suggest to remove unit from pilot
+visid: M7SH412400147, Explanation: HW contact issue
+visid: M7SH412400526, Explanation: CRES fail, HW issue
+visid: M7N7K70500657, Explanation: CRES fail, HW issue
+visid: M7N7K70500170, Explanation: CRES fail, HW issue
+visid: M7SH412400591, Explanation: recovered at RV run
+visid: M7SH412400423, Explanation: recovered at RV run
+visid: M7SH412400594, Explanation: recovered at RV run
+visid: M7N7K70501161, Explanation: HW issue on previous run
+visid: M7SH412401516, Explanation: HW contact issue
+visid: M7SH412400755, Explanation: HW issue on previous run
+visid: M7SH412400152, Explanation: HW issue on previous run
+visid: M7SH412400621, Explanation: CRES fail on previous run, HW issue
+visid: M7SH412400984, Explanation: CRES fail on previous run, HW issue
+visid: M7SH412400601, Explanation: CRES fail on previous run, HW issue
+visid: M7N7K70500899, Explanation: CRES fail on previous run, HW issue
+visid: M7N7K70500028, Explanation: KTI2_DFX_DP fail, suspect HW issue
+visid: M7N7K70500152, Explanation: HW contact issue
+visid: M7N7K70501408, Explanation: CRES fail, HW issue
+visid: M7L1Y26800104, Explanation: HW contact issue

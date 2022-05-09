@@ -1,0 +1,11 @@
+visid: D970U5V201236, Explanation: Recovered from HW issue
+visid: D9481LV800558, Explanation: Recovered from HW issue
+visid: D997E7C700017, Explanation: Recovered from HW issue
+visid: D9563MT000073, Explanation: Recovered from HW issue
+visid: D9563MT000026, Explanation: HW related issue, TIU commonality found
+visid: D9481LV800001, Explanation: HW related issue, TIU commonality found
+visid: D9481LV800591, Explanation: HW related issue, TIU commonality found
+visid: D997E7C700023, Explanation: HW related issue, TIU commonality found
+visid: D9481LV801092, Explanation: HW related issue, TIU commonality found
+visid: D9481LV800527, Explanation: HW related issue, TIU commonality found
+visid: D9617FV304520, Explanation: HW related issue, TIU commonality found

@@ -1,0 +1,2 @@
+visid: M73J2G6201169, Explanation: core 7 has  high vmin for sbft in lttc mlc f6 causing to fail in the old run. 
+visid: M73J2G6200026, Explanation: incoming cores are different for sbft in lttc mlc f6 between old and new runs.

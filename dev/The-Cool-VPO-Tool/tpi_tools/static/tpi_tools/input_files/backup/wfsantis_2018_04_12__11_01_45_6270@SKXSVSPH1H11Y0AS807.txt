@@ -1,0 +1,2 @@
+visid: M7N7K70500111, Explanation: No content or module changes at all for reset (Only vrev for TOS3.4).  Reset failing for seg10a which checks for basic TAP functionality, according to unit history (B100) this failure could be HW related.
+visid: M7SH412400282, Explanation: No content or module changes at all for reset (Only vrev for TOS3.4).  Reset failing for seg110a but due to FIVRTRIM: U_KOFivrtap_nom_BEGIN_overshift failure, this generally associated to TAP marginality.  Unit history shows TAP and VCC failures.

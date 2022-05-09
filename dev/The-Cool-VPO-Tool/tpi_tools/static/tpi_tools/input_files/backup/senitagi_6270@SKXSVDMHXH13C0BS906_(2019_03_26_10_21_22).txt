@@ -1,0 +1,19 @@
+visid: D9563MT000095, Explanation: Unit recovered from HW issue
+visid: D970U5V201274, Explanation: Unit recovered from HW issue
+visid: D970U5V201248, Explanation: Unit recovered from HW issue
+visid: D970U5V201105, Explanation: Unit recovered from HW issue
+visid: D970U5V201028, Explanation: Unit recovered from HW issue
+visid: D970U5V201172, Explanation: HW issue
+visid: D9563MT000030, Explanation: HW issue
+visid: D9563MT000002, Explanation: HW issue
+visid: D9563MT000145, Explanation: HW issue
+visid: D970U5V201169, Explanation: HW issue
+visid: D970U5V201240, Explanation: Test instability or HW issue
+visid: D905541K00532, Explanation: Test instability or HW issue
+visid: D970U5V201238, Explanation: Test instability or HW issue
+visid: D970U5V201266, Explanation: Test instability or HW issue
+visid: D970U5V201136, Explanation: Test instability or HW issue
+visid: D9563MT000131, Explanation: Test instability or HW issue
+visid: D905541K00546, Explanation: Test instability or HW issue
+visid: D970U5V201047, Explanation: Test instability or HW issue
+visid: D970U5V201153, Explanation: Test instability or HW issue

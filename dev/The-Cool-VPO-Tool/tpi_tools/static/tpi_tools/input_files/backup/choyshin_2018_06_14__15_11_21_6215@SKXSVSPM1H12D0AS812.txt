@@ -1,0 +1,7 @@
+visid: M7HU061900904, Explanation: Invalid B43 on OLD TP.
+visid: M7HU061900845, Explanation: suspected HW issue.
+visid: M7HU061900857, Explanation: suspcted HW issue.
+visid: M7HU061900955, Explanation: invalid. HW related bin switching on new TP.
+visid: M7HU061900959, Explanation: suspected HW issue.
+visid: M7J13X7701084, Explanation: marginal Bin43 unit on OLD and NEW TP.
+visid: M7HU061900654, Explanation: invalid. HW related bin switching on new TP.

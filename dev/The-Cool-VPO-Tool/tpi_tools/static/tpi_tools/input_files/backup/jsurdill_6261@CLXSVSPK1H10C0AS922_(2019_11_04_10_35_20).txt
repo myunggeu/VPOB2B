@@ -1,0 +1,1 @@
+visid: M9KB375201225, Explanation: Marginal unit.  In old run unit passed ARR_CACHE::c_llcdatksx_vclmminfreq3_CHKCLMF3_Multipass, then failed for SCN_SCAN::c_chatatpg_vclmminfreq3_CHKCLMF3_odd.  In new run, the unit failed ARR_CACHE::c_llcdatksx_vclmminfreq3_CHKCLMF3_Multipass at a test point 10 mV higher

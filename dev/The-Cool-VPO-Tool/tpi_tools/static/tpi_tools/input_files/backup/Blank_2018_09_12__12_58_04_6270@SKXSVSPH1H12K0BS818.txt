@@ -1,0 +1,3 @@
+visid: M7N7K70500074, Explanation: Unit fails bin1407 for exceeding power. Not passing any Bucket. 
+visid: M7N7K70500700, Explanation: Unit fails bin1407 for exceeding power. Not passing any Bucket. 
+visid: M7SH412400919, Explanation: Unit fails bin1498 due to IDSK disable (0010000000010000000000000000)

@@ -1,0 +1,6 @@
+visid: D8S77S0700017, Explanation: Hot rejects are recovered 
+visid: D8S77S0700385, Explanation: Hot rejects are recovered 
+visid: D8S77S0700219, Explanation: Hot rejects are recovered 
+visid: D8S77S0700318, Explanation: Hot rejects are recovered 
+visid: D8S77S0700098, Explanation: Hot rejects are recovered 
+visid: D8S77S0700131, Explanation: Hot rejects

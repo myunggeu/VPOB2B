@@ -1,0 +1,9 @@
+visid: M7N7K70500565, Explanation: invalid, HW related bin switching happened on S810TP.
+visid: M7N7K70500507, Explanation: invalid, HW related bin switching happened on S810TP.
+visid: M7N7K70501159, Explanation: invalid, HW related bin switching happened on S810TP.
+visid: M7N7K70501252, Explanation: invalid, HW related bin switching happened on S810TP.
+visid: M7N7K70501181, Explanation: invalid, HW related bin switching happened on S810TP.
+visid: M7N7K70500672, Explanation: invalid B4321 on S807TP.
+visid: M7N7K70501251, Explanation: invalid B4332 on S807TP.
+visid: M7N7K70500393, Explanation: invalid B4335 on S807TP.
+visid: M7SH412400303, Explanation: invalid B4335 on S807TP.

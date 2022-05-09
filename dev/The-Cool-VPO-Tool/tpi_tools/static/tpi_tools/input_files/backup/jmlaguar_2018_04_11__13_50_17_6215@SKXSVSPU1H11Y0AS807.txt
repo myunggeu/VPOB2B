@@ -1,0 +1,2 @@
+visid: M7NN267101074, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit.
+visid: M73J2G6200393, Explanation: invalid. Testing issue on S807 TP with HW bin switching observed.

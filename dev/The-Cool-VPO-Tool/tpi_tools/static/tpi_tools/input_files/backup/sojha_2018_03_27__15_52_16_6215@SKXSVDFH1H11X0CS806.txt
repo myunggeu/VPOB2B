@@ -1,0 +1,19 @@
+visid: M7774QA300682, Explanation: No change in tp; Marginal unit got recovered in new run
+visid: M7774QA300877, Explanation: B13 Equivalent to OPENS. HW Related bin
+visid: M7DR176200200, Explanation: B68 due to known Board design failure
+visid: M7774QA300774, Explanation: 2 DDR lines failing low, not marginal. poor socketing
+visid: M7774QA300756, Explanation: B13 Equivalent to OPENS. HW Related bin
+visid: M7774QA300895, Explanation: B13 Equivalent to OPENS. HW Related bin
+visid: M7DR176200438, Explanation: B13 Equivalent to OPENS. HW Related bin
+visid: M7DR176200479, Explanation: B13 Equivalent to OPENS. HW Related bin
+visid: M7PU387100046, Explanation: B13 Equivalent to OPENS. HW Related bin
+visid: M7PU387100070, Explanation: B13 Equivalent to OPENS. HW Related bin
+visid: M7DR176200198, Explanation: If the fail is coming from SIOBSCAN and it is hardware related. Following tester and load_board looks bad: CR03SHHX1785 and BB2TLH1P4273:SKXTFH11014 and BB2TLH1P4273:SKXTFH11486
+visid: M7DR176200583, Explanation: No change in TP; Marginal unit failing for h_urfiiopsx_vsaretfreq1_END
+visid: M7PU387100099, Explanation: bin2737 likely due to cold socketing issue, core14 vload pin reading all 0s. Not valid
+visid: M7DR176200345, Explanation: Hardware related related fail. Following tester and load_board looks bad: CR03SHHX1785 and BB2TLH1P4273:SKXTFH11014 and BB2TLH1P4273:SKXTFH11486
+visid: M7DR176200457, Explanation: Hardware related related fail. Following tester and load_board looks bad: CR03SHHX1785 and BB2TLH1P4273:SKXTFH11014 and BB2TLH1P4273:SKXTFH11486
+visid: M7PU387100098, Explanation: Hardware related related fail. Following tester and load_board looks bad: CR03SHHX1785 and BB2TLH1P4273:SKXTFH11014 and BB2TLH1P4273:SKXTFH11486
+visid: M7774QA300751, Explanation: B68 due to known Board design failure
+visid: M7DR176200318, Explanation: B68 due to known Board design failure
+visid: M7774QA300021, Explanation: got defeatured by LLCSIGon which was not enabled in the old tp

@@ -1,0 +1,1 @@
+visid: D970U5V200022, Explanation: Unit fails bin1498: IDSK disabled IA02;IA01 for exceeding Vmin variability limits, after that, the unit exceeded the limit of core defeature.

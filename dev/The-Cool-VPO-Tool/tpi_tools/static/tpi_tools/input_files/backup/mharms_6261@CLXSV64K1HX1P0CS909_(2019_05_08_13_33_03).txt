@@ -1,0 +1,12 @@
+visid: M8HC458500073, Explanation: HW related issue. Old TP run SHOPS CRES fail (open pin PE3_DMON)
+visid: M8HC458500375, Explanation: HW related issue. Old TP run SHOPS CRES fail (open pin SVIDDATA0)
+visid: M8HC458500370, Explanation: Old run: HW alarm during SBFT SRHCOREF7 vminsearch
+visid: M8HC458500525, Explanation: HW related issue. Old TP run SHOPS CRES fail (open pins PE3_DMON, PE3_HSCLK_DN)
+visid: M8HC458500323, Explanation: Old run: HW alarm during THRSOAK
+visid: M8HC458500159, Explanation: HW related. New TP run SHOPS CRES fail (open pin MCI_NOA_AVRB14)
+visid: M8HC458500504, Explanation: HW related. New TP run SHOPS CRES fail (open pin  PE3_DFX_DN)
+visid: M8HC458500413, Explanation:  Old run HW alarm (current clamp on VCCD pin). Unit has history of b2737
+visid: M8HC458500150, Explanation: Old run HW related (open pin PE3_DMON). Unit has never passed.
+visid: M8HC458500337, Explanation: dint get to SBFT in the old run. Old run HW related (bad contact FIVR_VLOAD_CORE01)
+visid: M8HC458500488, Explanation: Old run HW related
+visid: M84S2F9100429, Explanation: HW related issue (poor contact on FIVR_VLOAD_CORE13)

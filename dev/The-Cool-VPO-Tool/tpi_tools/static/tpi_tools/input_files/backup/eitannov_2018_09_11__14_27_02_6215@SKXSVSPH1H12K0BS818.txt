@@ -1,0 +1,3 @@
+visid: M7N7K70500650, Explanation: DDRA345 was not seated correctly at TIU and did not read voltage. No test program issue. 
+visid: M7SH412401445, Explanation: Core 20 was not seated correctly at TIU and did not read voltage. No test program issue. 
+visid: M7SH412400075, Explanation: Unit typically fails 1306. for reference run, Core 05 VDAC pin was not seated correctly on TIU. 

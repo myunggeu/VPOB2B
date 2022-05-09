@@ -1,0 +1,2 @@
+visid: M8S78N4500309, Explanation: core 0 was caught in the old run by our ROM LTTC test, while in the new run it passed the test, but was caught by our new ROM LTTC test that was in EDC mode but it didnt bin out as cache bin
+visid: M8S78N4500533, Explanation: cores 7 and 17 were caught in the new run by our old ROM LTTC test, while in the reference run they were  caught by the new ROM LTTC test that is in EDC mode - hence why it didnt bin out as cache bin

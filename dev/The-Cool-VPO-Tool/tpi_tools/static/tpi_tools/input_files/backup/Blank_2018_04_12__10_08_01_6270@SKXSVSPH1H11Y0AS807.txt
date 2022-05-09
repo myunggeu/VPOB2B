@@ -1,0 +1,3 @@
+visid: M7SH412400919, Explanation: In actual TP unit failed bin1498 due to IDSK disabling IA19 for exceeding voltage limit.
+visid: M7SH412401496, Explanation: In actual TP unit failed bin1498 due to IDSK disabling IA19 for exceeding voltage limit.
+visid: M7SH412401430, Explanation: Unit failed  throughout most of its history. In actual TP fail by Guardband frequency is out of measurement. String result GROUP:DDRD---GUARDBAND-FREQ-2.667-IS-OUT-OF-MEASUREMENT-BOUNDS:-['2.4']

@@ -1,0 +1,7 @@
+visid: M8SA531000442, Explanation: Recovered from HW issue
+visid: D8S77S0700145, Explanation: Recovered from HW issue
+visid: M8SA531000083, Explanation: Recovered from HW issue
+visid: M8SA531000065, Explanation: Recovered from HW issue
+visid: M8SA531000412, Explanation: Historically the unit have been Bin 114, recovered in retest
+visid: M8SA531000125, Explanation: HW related issue
+visid: M8SA531000353, Explanation: HW related issue

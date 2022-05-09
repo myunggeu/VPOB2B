@@ -1,0 +1,1 @@
+visid: M9KB375201301, Explanation: Core 10 FIVR is flakey. Either tests at 800mV or <760mV (Fail). alternates between passing reading and fail according to test history. (2738-->114)

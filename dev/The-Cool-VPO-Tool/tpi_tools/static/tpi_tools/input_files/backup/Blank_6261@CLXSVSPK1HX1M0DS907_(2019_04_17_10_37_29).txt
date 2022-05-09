@@ -1,0 +1,1 @@
+visid: M83G18S200553, Explanation: Unit was failling bin1407 due just pass RF93 and it was not passing any Bucket combination. For S907 the combination for this unit is able

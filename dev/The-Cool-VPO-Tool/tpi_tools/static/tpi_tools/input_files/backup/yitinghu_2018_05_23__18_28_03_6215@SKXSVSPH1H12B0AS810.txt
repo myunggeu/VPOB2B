@@ -1,0 +1,1 @@
+visid: M7N7K70501076, Explanation: SBFT CHKCOREF3 is failing completely and causing invalid combination when going to CHKCOREF6 in cache

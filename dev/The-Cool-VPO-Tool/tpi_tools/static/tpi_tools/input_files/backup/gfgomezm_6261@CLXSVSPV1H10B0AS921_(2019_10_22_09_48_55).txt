@@ -1,0 +1,20 @@
+visid: M9FD363600724, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9FD363600678, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9FD363601311, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9DE105401300, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9DE105400787, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9DE105401373, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9DE105401149, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9DE105400416, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9DE105400339, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9FD363600296, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9DE105400844, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9DE105400839, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9FD363600129, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9DE105401437, Explanation: HW Related (OPENS), same TEster site as most of B13s
+visid: M9DE105401293, Explanation: HW Related (OPENS), same TEster site as most of B13s
+visid: M9DE105400737, Explanation: HW Related (OPENS), same TEster site as most of B13s
+visid: M9FD363600134, Explanation: HW Related (OPENS), same TEster site as most of B13s
+visid: M9FD363600383, Explanation: HW Related, same TEster site as most of B13/51s
+visid: M9FD363600733, Explanation: HW Related, same TEster site as most of B13/51s
+visid: M9FD363600554, Explanation: HW Related, same TEster site as most of B13/51s

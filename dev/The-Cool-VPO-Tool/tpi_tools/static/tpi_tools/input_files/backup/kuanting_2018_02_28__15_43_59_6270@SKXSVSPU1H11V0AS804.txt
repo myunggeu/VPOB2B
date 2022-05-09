@@ -1,0 +1,15 @@
+visid: M73J2G6200790, Explanation: Unit recovers to bin1 in the last 2 runs
+visid: M73J2G6201096, Explanation: KTI1_RX_DN/DP[4] is failing viadelam and rxdetect solidly. It looks like the link is damaged at some point
+visid: M73J2G6201152, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M73J2G6201178, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7NN267100797, Explanation: Unit was failing b4625 at the first run and bin4621 at the RV run. However, the failing pins are different. Hence suspecting it is due to connection issue. Would suggest to run the unit again
+visid: M73J2G6201492, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M73J2G6201530, Explanation: Unit was failing b4625 at the first run and bin4621 at the RV run. However, the failing pins are different. Hence suspecting it is due to connection issue. Would suggest to run the unit again
+visid: M7NN267101026, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7NN267101107, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7NN267101130, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7NN267101274, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7NN267101307, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7NN267101368, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7NN267101222, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M73J2G6201324, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue

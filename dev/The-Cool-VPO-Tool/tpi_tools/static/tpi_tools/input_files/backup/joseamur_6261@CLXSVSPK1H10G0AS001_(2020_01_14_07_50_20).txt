@@ -1,0 +1,2 @@
+visid: M9R48M5000337, Explanation: Unit recovered from bin 9438, however we'll keep an eye on it, it seems to be degrading in the latest VPOs
+visid: M9R48M5000519, Explanation: 2 additional cores failing in LTTC subflow Vcoremin @ F6, vmin expected for them is lower than before.

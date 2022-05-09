@@ -1,0 +1,19 @@
+visid: M8S78N4500243, Explanation: Unit is recovered to bin 1 in the last VPO with 9 bin 4625 out of 41 tests
+visid: M8S78N4500500, Explanation: Unit is recovered to bin 1 in the last VPO with 2 bin 4821 out of 36 tests
+visid: M8S78N4500369, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue
+visid: M8S78N4500002, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue
+visid: M8S78N4500507, Explanation: Unit is failing bin 1524 only once throughout the history. Most likely a tester issue
+visid: M8S78N4500360, Explanation: Unit is failing bin 1525 only once throughout the history. Most likely a tester issue
+visid: M8S78N4500080, Explanation: Unit is recovered to bin 1 in the last VPO with 2 bin 1525 out of 35 tests
+visid: M8S78N4500250, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 1533 out of 33 tests. should be connection issue
+visid: M8S78N4500064, Explanation: Unit is failing bin 1553 only once throughout the history. Most likely a tester issue
+visid: M8S78N4500315, Explanation: Unit is failing bin 1553 only once throughout the history. Most likely a tester issue
+visid: M8601RW601243, Explanation: There are multiple bin 1 results from the same testing condition with 3 bin 4625 out of 43 tests. should be connection issue
+visid: M8601RW601215, Explanation: There are multiple bin 1 results from the same testing condition with 6 bin 4625 out of 29 tests. should be connection issue
+visid: M8S78N4500313, Explanation: Unit is recovered to bin 1 in the last VPO with 2 bin 4625 out of 31 tests
+visid: M8S78N4500295, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue
+visid: M8601RW601155, Explanation: Unit is recovered to bin 1 in the last VPO with 3 bin 4625 out of 31 tests
+visid: M8601RW601187, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue
+visid: M8S78N4500280, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4821 out of 35 tests. should be connection issue
+visid: M8S78N4500510, Explanation: Unit is failing bin 5411 only once throughout the history. Most likely a tester issue
+visid: M8S78N4500321, Explanation: Unit has failed only once in history, most likely a connection issue.

@@ -1,0 +1,33 @@
+visid: M7N7K70500503, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 41 tests. should be connection issue
+Blank Entry: M7N7K70500132
+visid: M7SH412401477, Explanation: Unit is failing bin4313 only once throughout the history. Most likely a tester issue
+visid: M7SH412400876, Explanation: Unit is failing bin4313 only once throughout the history. Most likely a tester issue
+visid: M7SH412401083, Explanation: Unit is failing bin4321 only once throughout the history. Most likely a tester issue
+visid: M7SH412401001, Explanation: Unit is recovered to bin1 in the last VPO with 4 bin4621 out of 46 tests
+visid: M7SH412401032, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4621 out of 43 tests
+visid: M7SH412400003, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501290, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4621 out of 22 tests
+visid: M7SH412400844, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 24 tests. should be connection issue
+visid: M7SH412400703, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 22 tests. should be connection issue
+visid: M7SH412401523, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500552, Explanation: There are multiple bin1 results from the same testing condition with 3 bin4621 out of 30 tests. should be connection issue
+visid: M7SH412400777, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7SH412401125, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4625 out of 24 tests
+visid: M7SH412400300, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4625 out of 30 tests. should be connection issue
+visid: M7SH412400476, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7L1Y26800132, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4821 out of 28 tests
+visid: M7N7K70500227, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4625 out of 35 tests. should be connection issue
+visid: M7N7K70500149, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4625 out of 29 tests
+visid: M7N7K70500214, Explanation: Unit is recovered to bin1 in the last VPO with 4 bin4625 out of 32 tests
+visid: M7N7K70500298, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7SH412400313, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4821 out of 29 tests. should be connection issue
+visid: M7SH412401443, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7SH412400291, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7SH412400842, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7SH412400106, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500265, Explanation: There are multiple bin1 results from the same testing condition with 4 bin4821 out of 35 tests. should be connection issue
+visid: M7N7K70501153, Explanation: Unit is failing bin4822 only once throughout the history. Most likely a tester issue
+visid: M7SH412400358, Explanation: Unit is failing bin5422 only once throughout the history. Most likely a tester issue
+visid: M7SH412400923, Explanation: Unit is failing bin5433 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500088, Explanation: Unit is failing bin5433 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500563, Explanation: Unit is failing bin5436 only once throughout the history. Most likely a tester issue

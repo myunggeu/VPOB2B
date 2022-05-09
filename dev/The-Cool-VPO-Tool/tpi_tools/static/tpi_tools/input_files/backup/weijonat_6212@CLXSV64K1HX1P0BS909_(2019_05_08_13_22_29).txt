@@ -1,0 +1,2 @@
+visid: M8X0G79900440, Explanation: core14 and core20 vload reading 0s, pointing to TIU setup issue
+visid: M8X0G79900111, Explanation: core20 vload pin reading 0s, likely set up issue

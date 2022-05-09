@@ -1,0 +1,7 @@
+visid: M9DE105401266, Explanation: Unit failed after retesting bin1306. MIO_DDR_C_PYTHON_NONE_END_VOXDATAMIN. Induced by HW Issue.
+visid: M9DE105400758, Explanation: Unit is failing for shorts in the following Pins:  OVERCLK1, DDR4_CAVREF, BCLK1_DP, PE3_AMONV, BCLK2_DN and NMI.
+visid: M9FD363600520, Explanation: Unit failed after retesting bin1321. MIO_DDR_C_PYTHON_NONE_END_VOXMDTLMIN. Induced by HW Issue.  
+visid: M9FD363600215, Explanation: Unit failed after retesting bin1321. MIO_DDR_C_PYTHON_NONE_END_VOXMDTLMIN. Induced by HW Issue.  
+visid: M9DE105400809, Explanation: Unit passed retest in Summary 1D. 
+visid: M9DE105401378, Explanation: Unit passed retest in Summary 1D. 
+visid: M9DE105400829, Explanation: Unit passed retest in Summary 1D. 

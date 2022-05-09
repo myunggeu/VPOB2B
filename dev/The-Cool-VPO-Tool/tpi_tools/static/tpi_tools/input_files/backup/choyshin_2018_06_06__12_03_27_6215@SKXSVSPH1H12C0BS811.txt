@@ -1,0 +1,3 @@
+visid: M7N7K70500033, Explanation: failed as other bin at RT
+visid: M7SH412401102, Explanation: failed as other bin at RT
+visid: M7SH412400526, Explanation: HW related. Multiple HW related bin switching on S811TP testing.

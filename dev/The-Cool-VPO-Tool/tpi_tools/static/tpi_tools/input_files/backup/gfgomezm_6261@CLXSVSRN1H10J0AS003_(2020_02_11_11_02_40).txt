@@ -1,0 +1,11 @@
+visid: M9F05R5401096, Explanation: B68 caused by HW previous run., NO COOKIES for unit!
+visid: M9F05R5400486, Explanation: B68 caused by HW previous run. (recovered on later run with same previous TP), NO COOKIES for unit!
+visid: M9F05R5400498, Explanation: B13 caused by HW on previous run. Recovered with no issues, NO COOKIES for unit!
+visid: M9F05R5400530, Explanation: B13 caused by HW on previous run. Recovered with no issues, NO COOKIES for unit!
+visid: M9F05R5400646, Explanation: B13 caused by HW on previous run. Recovered with no issues, NO COOKIES for unit!
+Blank Entry: M9F05R5401081
+Blank Entry: M9F05R5400747
+Blank Entry: M9F05R5400002
+Blank Entry: M9F05R5400523
+visid: M9F05R5401021, Explanation: Previously failed due to anomalous current (9801), most likely bin is real, NO COOKIES for unit!
+Blank Entry: M9F05R5400669

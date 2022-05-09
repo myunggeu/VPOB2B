@@ -1,0 +1,2 @@
+visid: M8GL547600215, Explanation: Part came in in socket with a high delta between thermal diodes and the handler set point. Rerunning on different HW should recover unit. 
+visid: M8GL547600601, Explanation: B9787 was a HW/AP instability that caused an uneven heat distribution between thermal diodes. Thus causing unit to be unable to reach setpoint temperature. Rerunning will recover unit

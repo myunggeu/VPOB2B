@@ -1,0 +1,4 @@
+visid: M7N7K70500638, Explanation: it's failing core 27 and causing invalid combination in the old run but not in the new tp
+visid: M7N7K70500464, Explanation: this failure is marginal, the same bin 6004 failed in S805 and S810 but not in S807
+visid: M7N7K70500022, Explanation: the old run is failing for speckle screen for lsf but not in the new run, the failure is marginal
+visid: M7N7K70500673, Explanation: No changes on the TP. The failure looks marginal

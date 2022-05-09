@@ -1,0 +1,12 @@
+visid: M7J13X7701170, Explanation: socketing issue now passing
+visid: M7J13X7701496, Explanation: socketing issue now passing
+visid: M7J13X7700646, Explanation: socketing issue now passing
+visid: M7J13X7700539, Explanation: socketing issue now passing
+visid: M7J13X7701215, Explanation: socketing issue now passing
+visid: M7J13X7701212, Explanation: socketing issue now passing
+visid: M7HU061901106, Explanation: Hardware/Socketing issue to passing
+visid: M7HU061900209, Explanation: Hardware/Socketing issue to passing
+visid: M7HU061900757, Explanation: Hardware/Socketing issue to passing
+visid: M88J7X3800545, Explanation: socketing issue now passing
+visid: M88J7X3800737, Explanation: Hardware/Socketing issue
+visid: M7HU061900983, Explanation: Hardware/Socketing issue

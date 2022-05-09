@@ -1,0 +1,1 @@
+visid: M9KB375201301, Explanation: core10 FIVR has issue. Most of the time fails for Voltage check at 1.2V. sometimes passes. Intermittent failure

@@ -1,0 +1,4 @@
+visid: D9432ME900090, Explanation: Marginal unit at cold location. Limits verified against past TP. Marginal pass at hot. Likely unit issue.
+visid: D9481LV800586, Explanation: Likely testing issue. History and test results suggest it's a one off, execution situation. Not a TP issue
+visid: D997E7C700051, Explanation: Unit test result heavily exceeds limits, unit history suggests it's a passing unit. Likely testing issue.
+visid: D997E7C700100, Explanation: Consistenly passing unit. Results exceed limits inconsistently with past runs. Limits verified. Not a TP issue.

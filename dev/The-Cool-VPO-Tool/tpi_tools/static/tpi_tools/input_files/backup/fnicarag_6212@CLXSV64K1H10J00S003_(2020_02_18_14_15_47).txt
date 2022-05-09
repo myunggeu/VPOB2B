@@ -1,0 +1,14 @@
+visid: M8HC458500048, Explanation: Unit hit bin44 once, since then has been bin1
+visid: M8HC458500094, Explanation: Unit hit bin44 once, since then has been bin1
+visid: M8HC458500372, Explanation: vmin lower than expected in F7, known issue in 64L. Should pass if retested
+visid: M8HC458500086, Explanation: vmin lower than expected in F7, known issue in 64L. Should pass if retested
+visid: M8HC458500062, Explanation: unit's been bin44 on cold
+visid: M8HC458500044, Explanation: unstable unit
+visid: M8HC458500064, Explanation: Need to RV unit, first bin44
+visid: M8HC458500114, Explanation: tester issue on old bin
+visid: M8HC458500065, Explanation: most likely tester issue on old run
+visid: M8HC458500115, Explanation: tester issue at IDV instance, unit with unstable history
+visid: M8HC458500120, Explanation: vmin lower than expected in F7, known issue in 64L. Real bin4425 failure
+visid: M8HC458500497, Explanation: Most like tester issue, SHOPS failed
+visid: M8HC458500275, Explanation: Most like tester issue, not seeing the 7299 bin reported
+visid: M8HC458500523, Explanation: Most likely tester issue, not seeing the 7299 bin reported

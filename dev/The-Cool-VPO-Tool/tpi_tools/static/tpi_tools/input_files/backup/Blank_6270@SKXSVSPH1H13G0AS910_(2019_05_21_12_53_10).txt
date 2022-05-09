@@ -1,0 +1,1 @@
+visid: M7N7K70500336, Explanation: Scan looks like  a flase failure as to many pin are failing

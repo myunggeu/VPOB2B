@@ -1,0 +1,1 @@
+visid: M8S78N4500618, Explanation: Unit fails bin1498: IDSK disables IA15;IA14;IA17;IA16 for exceeding Vmin variability limits making it unable to match any valid core combination.

@@ -1,0 +1,2 @@
+visid: M7HU061900311, Explanation: Change to new TOS is causing content to run at higher frequency. Issue is understood and will be fixed on next release.
+visid: M7HU061900900, Explanation: Change to new TOS is causing content to run at higher frequency. Issue is understood and will be fixed on next release.

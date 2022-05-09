@@ -1,0 +1,1 @@
+visid: M9R48M5000720, Explanation: Fail Flow Reset failing to bring up cores after FUN_SBFT, odd fuse core disabled not cleaned before running reset.

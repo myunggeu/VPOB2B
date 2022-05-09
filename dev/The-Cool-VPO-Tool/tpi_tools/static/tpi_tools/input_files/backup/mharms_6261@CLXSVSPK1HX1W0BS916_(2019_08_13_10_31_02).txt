@@ -1,0 +1,29 @@
+visid: M9FE297101273, Explanation: B1551 (TPI_SHOPS): HW issue (open pin). New VPO recovered
+visid: M9FE297101224, Explanation: B866 (TPI_VCONT): HW issue (near zero current/open, groupA LCDPS18). New VPO recovered 
+visid: M9FE297100854, Explanation: B868 (TPI_VCONT): HW issue (near zero current/open, groupC LCDPS18). New VPO recovered 
+visid: M9BR819701546, Explanation: B1553 (TPI_SHOPS): HW issue (open pin). New VPO recovered
+visid: M9R48M5000674, Explanation: B1551 (TPI_SHOPS): HW issue (open pin). New VPO recovered
+visid: M9FE297101304, Explanation: B1550 (TPI_SHOPS): HW issue (open pin). New VPO recovered
+visid: M9R48M5000932, Explanation: B1552 (TPI_SHOPS): HW issue (open pin). New VPO recovered
+visid: M9R48M5000750, Explanation: B867 (TPI_VCONT): HW issue (low current/near open, groupB LCDPS16). New VPO recovered 
+visid: M9BR819701159, Explanation: B1532 (TPI_SHOPS): HW issue (fail open-side limit). New VPO recovered
+visid: M9Q50W3800532, Explanation: B1553 (TPI_SHOPS): HW issue (open pin). New VPO recovered
+visid: M9Q50W3800077, Explanation: B1553 (TPI_SHOPS): HW issue (open pin). New VPO recovered
+visid: M9Q50W3800079, Explanation: B1553 (TPI_SHOPS): HW issue (open pin). New VPO recovered
+visid: M95B8W9300205, Explanation: B870 (TPI_VCONT): HW issue (near zero current/open, groupE LCDPS19). New VPO recovered 
+visid: M9FE297100546, Explanation: New VPO B1550 (TPI_SHOPS): HW issue (open pin). Retest should recover
+visid: M9R48M5000979, Explanation: New VPO B1550 (TPI_SHOPS): HW issue (open pin). Retest should recover
+visid: M9617MB800924, Explanation: New VPO B1551 (TPI_SHOPS): HW issue (open pin). Retest should recover
+visid: M9FE297100559, Explanation: New VPO B1552 (TPI_SHOPS): HW issue (open pin). Retest should recover
+visid: M9R48M5000801, Explanation: New VPO B1552 (TPI_SHOPS): HW issue (open pin). Retest should recover
+visid: M9KB375200401, Explanation: New VPO B1552 (TPI_SHOPS): HW issue (open pin). Retest should recover
+visid: M9FE297101025, Explanation: New VPO B1553 (TPI_SHOPS): HW issue (open pin). Retest should recover
+visid: M9R48M5000567, Explanation: B866 (TPI_VCONT): HW issue (near zero current/open, groupA LCDPS19). Old run doesnt reach to SBFT. New run is failing old FC pattern
+visid: M9FE297101288, Explanation: New VPO B866 (TPI_VCONT): HW issue (near zero current/open, groupA LCDPS19). Retest should recover.
+visid: M9R48M5000834, Explanation: New VPO B866 (TPI_VCONT): HW issue (near zero current/open, groupA LCDPS18). Retest should recover.
+visid: M9R48M5000509, Explanation: New VPO B866 (TPI_VCONT): Likely HW issue (very low current, groupA LCDPS19). Retest may recover.
+visid: M9FE297101297, Explanation: New VPO B868 (TPI_VCONT): HW issue (near zero current/open, groupC LCDPS18). Retest should recover.
+visid: M9R48M5000116, Explanation: New VPO B868 (TPI_VCONT): HW issue (near zero current/open, groupC LCDPS18). Retest should recover.
+visid: M9KB375200514, Explanation: New VPO B868 (TPI_VCONT): HW issue (near zero current/open, groupC LCDPS16). Retest should recover.
+visid: M9FE297100784, Explanation: New VPO B870 (TPI_VCONT): HW issue (near zero current/open, groupE LCDPS19). Retest should recover.
+visid: M9R48M5000747, Explanation: B867 (TPI_VCONT): HW issue (near zero current/open, groupB LCDPS16). Retest should recover.

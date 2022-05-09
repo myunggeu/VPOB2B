@@ -1,0 +1,20 @@
+visid: M7N7K70500064, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70500091, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70500118, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70501065, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70501114, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70501191, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70501290, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70501307, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70500686, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70500963, Explanation: Historically hard B9 unit. In old TP didn't reached LKG test.
+visid: M73K2D8500684, Explanation: HW issue related. Unit recovered in retest.
+visid: M7A176X401251, Explanation: HW issue related. Unit recovered in retest.
+visid: M7N7K70500058, Explanation: HW issue related. Unit recovered in retest.
+visid: M7N7K70500695, Explanation: HW issue related.Unit recovered in retest.
+visid: M7N7K70500700, Explanation: HW issue related.Unit recovered in retest.
+visid: M7N7K70500814, Explanation: HW issue related.Unit recovered in retest.
+visid: M7N7K70501081, Explanation: HW issue related.
+visid: M7N7K70501172, Explanation: HW issue related.Unit recovered in retest.
+visid: M7N7K70501244, Explanation: HW issue related.
+visid: M7N7K70501317, Explanation: HW issue related. Unit recovered in retest.

@@ -1,0 +1,11 @@
+visid: M7SH412401353, Explanation: The fail is due to Tester/HW issue. Unit failed B1330 once 
+visid: M7N7K70500368, Explanation: There's a passing Bin1 for the same test condition and TP before the unit failed B1330 once. The fail is not valid. Tester/HW issue
+visid: M7N7K70500207, Explanation: Unit recovered to Bin1
+visid: M7L1Y26800242, Explanation: Unit recovered to Bin1. Fail was due to HW issue
+visid: M7SH412400313, Explanation: Fail is invalid. The unit failed Bin1321 once in VPO history due to HW/Tester issue
+visid: M7SH412401409, Explanation: Unit pass Bin1 twice before failing Bin1330 once. This is not a valid fail. Possible HW issue
+visid: M7N7K70500758, Explanation: Unit recovered to Bin1. Fail was due to HW issue
+visid: M7SH412401312, Explanation: Fail is not valid. Unit previously pass in Bin1, then failed B1330 once due to HW issue
+visid: M7N7K70501397, Explanation: Fail is not valid. Unit previously pass in Bin1, then failed B1330 once due to HW issue
+visid: M7SH412400739, Explanation: There are multiple Bin1s for each of the test conditions. The Bin1306 fails are due to possible connectivity issue
+visid: M7N7K70501212, Explanation: Unit recovered to Bin1

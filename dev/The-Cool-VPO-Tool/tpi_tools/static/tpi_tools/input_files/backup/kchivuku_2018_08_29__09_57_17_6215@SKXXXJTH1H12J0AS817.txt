@@ -1,0 +1,1 @@
+visid: M8BD231400058, Explanation: Core 3 PLL lock failure. Could be a testing issue as the unit is a Bin 1 unit.

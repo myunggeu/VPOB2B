@@ -1,0 +1,31 @@
+visid: M9BR819701551, Explanation: OPENs/Poor Contact. HW Related bin. Recovered
+visid: M9R48M5000116, Explanation: OPENs/Poor Contact. HW Related bin. Recovered
+visid: M9FE297101345, Explanation: OPENs/Poor Contact. HW Related bin. Recovered
+visid: M9R48M5000123, Explanation: OPENs/Poor Contact. HW Related bin. Recovered
+visid: M9MH566301509, Explanation: OPENs/Poor Contact. HW Related bin. Recovered
+visid: M9R48M5000782, Explanation: OPENs/Poor Contact. HW Related bin. Recovered
+visid: M9KB375201233, Explanation: OPENs/Poor Contact. HW Related bin. Recovered
+visid: M9KB375201300, Explanation: OPENs/Poor Contact. HW Related bin. Recovered
+visid: M9FE297100785, Explanation: OPENs/Poor Contact. HW Related bin. Recovered
+visid: M9FE297101114, Explanation: OPENs/Poor Contact. HW Related bin. Recovered
+visid: M9R48M5000601, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9BR819701467, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9R48M5000979, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9R48M5000896, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9MH566301499, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9MH566301502, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9FE297100843, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9KB375200993, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9FE297101013, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9FE297101295, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9FE297100973, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9FE297101351, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9FE297100939, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9FE297100942, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9FE297101389, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9R48M5000168, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9Q50W3800557, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9Q50W3800698, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9Q50W3800523, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9FE297101010, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9FE297101238, Explanation: OPENs/Poor Contact. HW Related bin.

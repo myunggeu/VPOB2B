@@ -1,0 +1,25 @@
+visid: M7NN267101375, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M73J2G6200522, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M73J2G6200620, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M73J2G6200579, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M73J2G6200552, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M73J2G6200262, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M73J2G6201104, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M73J2G6201139, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M73J2G6201138, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M73J2G6200792, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M73J2G6201352, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M73J2G6201395, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M73J2G6201357, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M7NN267101097, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M7NN267101014, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M7NN267101058, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M7NN267100830, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M7NN267100870, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M7NN267100905, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M7NN267100831, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M73J2G6201225, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M7NN267101238, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M7NN267100902, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M7NN267100759, Explanation: OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.
+visid: M7NN267101146, Explanation: Unit is failing all cores for SKX_CACHE_H::c_lsfallksx_vclmminfreq3_CHKCLMF3.  Looks like a power induced failure, OCP Core Recovery implemented in this test program. Bad cores disabled instead of killing die.

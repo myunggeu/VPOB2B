@@ -1,0 +1,3 @@
+visid: M7N7K70501283, Explanation: looks like no core left in a column in old run
+visid: M7N7K70501336, Explanation: failed shops in new run
+visid: M7N7K70500221, Explanation: removed fc patterns

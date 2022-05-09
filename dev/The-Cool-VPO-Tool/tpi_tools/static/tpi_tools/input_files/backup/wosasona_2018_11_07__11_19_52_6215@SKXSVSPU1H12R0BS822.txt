@@ -1,0 +1,12 @@
+visid: M7NN267101322, Explanation: Unit is failing bin5433 only once throughout the history. Due to tester/HW issue
+visid: M73J2G6200730, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester/HW issue
+visid: M73J2G6200764, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4821 out of 13 tests
+visid: M73J2G6200387, Explanation: Unit is failing bin4621 on old TP only once throughout the history; due to tester/HW issue
+visid: M7NN267101193, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester/HW issue
+visid: M7NN267100397, Explanation: Unit is failing bin4621 on old TP only once throughout the history. Most likely a tester/HW issue
+visid: M7NN267100886, Explanation: Unit is failing bin4322 only once throughout the history; due tester/HW issue
+visid: M7NN267100617, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester/HW issue
+visid: M73J2G6201174, Explanation: Unit is failing bin4336 only once throughout the history due to tester/HW issue
+visid: M73J2G6200746, Explanation: Unit is failing bin4621 only once throughout the history. Due to tester/HW issue
+visid: M73J2G6200434, Explanation: Unit is failing bin5432 only once throughout the history. Due to tester/HW issue
+visid: M7NN267100737, Explanation: Unit is failing bin5433 only once throughout the history; due to tester issue

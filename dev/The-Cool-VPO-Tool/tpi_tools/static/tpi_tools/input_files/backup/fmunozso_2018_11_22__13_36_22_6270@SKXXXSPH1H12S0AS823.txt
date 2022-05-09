@@ -1,0 +1,1 @@
+visid: M7N7K70500415, Explanation: removed LCCSB patterns that were causing fallout. Recovers as expected

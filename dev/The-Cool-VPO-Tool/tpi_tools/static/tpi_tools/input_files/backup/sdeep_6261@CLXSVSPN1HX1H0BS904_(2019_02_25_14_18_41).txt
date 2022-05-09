@@ -1,0 +1,2 @@
+visid: M8S78N4500050, Explanation: dint get the lttc in the new run
+visid: M8S78N4500400, Explanation: Same core getting killed by the other test

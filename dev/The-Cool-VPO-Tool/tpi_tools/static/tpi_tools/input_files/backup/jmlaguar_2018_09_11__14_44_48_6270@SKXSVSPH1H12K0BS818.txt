@@ -1,0 +1,1 @@
+visid: M7A176X401224, Explanation: Part came in socket with very high delta compared to handler setpoint. AP cannot ramp to setpoint temperature within soak time-out period as huge delta with set-point vs actual temp. Recovered in new VPO.

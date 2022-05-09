@@ -1,0 +1,3 @@
+visid: M8601RW600706, Explanation: Recovered from a HW issue 
+visid: M8601RW600554, Explanation: Recovered from a HW issue 
+visid: M8601RW600458, Explanation: Marginal fail

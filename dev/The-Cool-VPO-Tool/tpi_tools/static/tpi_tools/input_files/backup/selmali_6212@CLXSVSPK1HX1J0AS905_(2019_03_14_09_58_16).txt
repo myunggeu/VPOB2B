@@ -1,0 +1,2 @@
+visid: M83G18S200531, Explanation: no change in SS. Based on unit history, this looks like a marginal retention failure in the old run
+visid: M83G18S200379, Explanation: Unit failed at vmin of 700mv in the old run, while it passed at the same vmin 700mv in the new run. This looks like a marginal vmin failure in the old run, and now the unit is passing

@@ -1,0 +1,5 @@
+visid: M7774QA300065, Explanation: Hardware related related fail. Following tester and load_board looks bad: CR03SHHX1785 and BB2TLH1P4273:SKXTFH11014 and BB2TLH1P4273:SKXTFH11486
+visid: M7774QA300993, Explanation: Hardware related related fail. Following tester and load_board looks bad: CR03SHHX1785 and BB2TLH1P4273:SKXTFH11014 and BB2TLH1P4273:SKXTFH11486
+visid: M7DR176200293, Explanation: No content change, HW issue.
+visid: M7DR176200378, Explanation: No content change, HW issue.
+visid: M7PU387100369, Explanation: Hardware related related fail. Following tester and load_board looks bad: CR03SHHX1785 and BB2TLH1P4273:SKXTFH11014 and BB2TLH1P4273:SKXTFH11486

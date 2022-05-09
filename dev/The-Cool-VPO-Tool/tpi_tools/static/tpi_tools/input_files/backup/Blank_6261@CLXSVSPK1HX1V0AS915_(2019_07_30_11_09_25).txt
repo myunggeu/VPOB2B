@@ -1,0 +1,27 @@
+visid: D8S77S0700281, Explanation: Unit recovered from HW issue (near open DDR012_DRAM_PWR_OK)
+visid: M8SA531000244, Explanation: Unit recovered from HW issue
+visid: M8SA531000085, Explanation: Unit recovered from a HW issue
+visid: M8SA531000255, Explanation: Unit recovered from a HW issue
+visid: M8SA531000329, Explanation: Unit recovered from a HW issue
+visid: M8SA531000162, Explanation: Unit recovered from a HW issue
+visid: M8SA531000695, Explanation: Unit recovered from a HW issue
+visid: D8S77S0700050, Explanation: Unit recovered from a HW issue
+visid: M8SA531000466, Explanation: Unit recovered from a HW issue
+visid: M8SA531000281, Explanation: Unit recovered from a HW issue
+visid: M8SA531000043, Explanation: Unit recovered from a HW issue
+visid: M8SA531000090, Explanation: Unit recovered from a HW issue
+visid: D8S77S0700124, Explanation: Unit recovered from a HW issue
+visid: M8SA531000025, Explanation: Unit recovered from a HW issue
+visid: M8SA531000166, Explanation: Unit recovered from a HW issue
+visid: D8S77S0700131, Explanation: Unit recovered from a HW issue
+visid: M8SA531000307, Explanation: New run had HW issue, should recover on RV
+visid: M8SA531000294, Explanation: New run had HW issue, should recover on RV
+visid: M8SA531000209, Explanation: Unit has history of often failing bin15, may recover upon RV
+visid: M9HC416301383, Explanation: New run had HW issue, should recover on RV
+visid: D8S77S0700010, Explanation: unit has history of often failing bin15
+visid: M8SA531000658, Explanation: HW Related bin, should recover on RV
+visid: M9HC416300931, Explanation: HW Related bin, should recover on RV
+visid: M8SA531000685, Explanation: HW Related bin, should recover on RV
+visid: D8S77S0700238, Explanation: HW Related bin, should recover on RV
+visid: D8S77S0700176, Explanation: unit has history of often failing B8 or B15
+visid: M8SA531000306, Explanation: unit has not passed since mid June -- may have been damaged on first run

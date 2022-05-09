@@ -1,0 +1,14 @@
+visid: M8R42V9100104, Explanation: HW related issue
+visid: M8R42V9100107, Explanation: HW related issue
+visid: M9HC416300279, Explanation: HW related issue
+visid: D8S77S0700090, Explanation: HW related issue
+visid: M8R42V9100211, Explanation: HW related issue for bin820
+visid: M8R42V9100183, Explanation: HW related issue
+visid: M8SA531000403, Explanation: HW related issue
+visid: M83G18S200659, Explanation: HW related issue
+visid: D85V64V200209, Explanation: HW related issue
+visid: D8S77S0700076, Explanation: HW related issue
+visid: M8R42V9100208, Explanation: HW related issue
+visid: M8R42V9100164, Explanation: HW related issue
+visid: M8R42V9100200, Explanation: HW related issue
+visid: M8R42V9100020, Explanation: HW related issue

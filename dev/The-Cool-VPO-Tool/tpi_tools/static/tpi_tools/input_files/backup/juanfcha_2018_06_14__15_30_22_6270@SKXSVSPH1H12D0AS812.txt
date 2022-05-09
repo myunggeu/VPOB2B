@@ -1,0 +1,1 @@
+visid: M7N7K70500464, Explanation: Unit failed bin1498 due to IDSK disabling IA09 for exceeding voltage limit. B60 was seen in S810 TP failing VmaxCoreF1 is marginal failure, original passing B1 in S807. 

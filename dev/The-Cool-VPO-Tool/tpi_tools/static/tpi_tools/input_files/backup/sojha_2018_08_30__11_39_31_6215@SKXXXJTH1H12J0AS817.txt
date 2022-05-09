@@ -1,0 +1,9 @@
+visid: M8NE567700426, Explanation: Cache: Old run was disabling additional core for c_2ruallksx_vclmmaxfreq1_VMAXCLMF1. In the new TP we provided fix with new CONTTR solution so the unit is recovering as expected.
+visid: M8NE567700617, Explanation: Cache: Old run was disabling additional core for c_2ruallksx_vclmmaxfreq1_VMAXCLMF1. In the new TP we provided fix with new CONTTR solution so the unit is recovering as expected.
+visid: M8NE567700715, Explanation: Cache: Old run was disabling additional core for c_2ruallksx_vclmmaxfreq1_VMAXCLMF1. In the new TP we provided fix with new CONTTR solution so the unit is recovering as expected.
+visid: M8LM305300425, Explanation: Could not find 6215 run with 817TP in trace
+visid: M8CQ906300185, Explanation: Could not find 6215 run with 817TP in trace
+visid: M8CQ906300141, Explanation: Cache: Old run was disabling additional core for c_2ruallksx_vclmmaxfreq1_VMAXCLMF1. In the new TP we provided fix with new CONTTR solution so the unit is recovering as expected.
+visid: M8LM305300282, Explanation: Cache: Old run was failing all cores for c_llcdatksx_vclmminfreq3_CHKCLMF3_7911 due to power induced failure in CLM domain. In the new run its passing its passing as expected.
+visid: M8NE567700294, Explanation: Cache: Marginal unit failure for retention.
+visid: M8NE567700521, Explanation: Cache: New run failing 9 cores for c_mlcdatksx_vcoreminfreq6_CHKCOREF6_7911. This failure does not look real and could be related to power. Please re-run.

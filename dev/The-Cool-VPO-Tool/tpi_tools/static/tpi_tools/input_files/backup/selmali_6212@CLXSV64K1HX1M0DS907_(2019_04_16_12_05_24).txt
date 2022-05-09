@@ -1,0 +1,3 @@
+visid: M8KR236200457, Explanation: Looks like a marginal failure in the old run, and now it is passing
+visid: M8HC458500256, Explanation: Core 0 failed in the new run for pattern  MCI:g0738165S2038137_CQB_xx14a_PB00076xxxxxxxuE0_xjxxxxxxxx0xxxxx_1FPGETCSx950rrC_cBPU_TGE_movipar_cx_2F0xx0xm in crfallksx_vcoreminfreq1_CHKCOREF1 for  invalid_combination_0000000000000010000000001101. The core passed in the old run at a 690mv vmin, while it failed for 680mv min in the new run
+visid: M94R2R2100132, Explanation: For both runs, the same core failed and for the same pattern; however, in the new run the test additionally failed for invalid_combination_0000000001100000000000000000

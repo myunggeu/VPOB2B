@@ -1,0 +1,5 @@
+visid: M73J2G6201469, Explanation: Unit is failing bin4336 on old TP only once throughout the history; due to tester/HW issue
+visid: M73J2G6200763, Explanation: Unit is failing bin4336 on old TP only once throughout the history; due to tester/HW issue
+visid: M73J2G6200753, Explanation: Unit is failing bin4336 on old TP only once throughout the history; due to tester/HW issue
+visid: M73J2G6201253, Explanation: Unit is failing bin4336 on old TP only once throughout the history; due to tester/HW issue
+visid: M73J2G6200050, Explanation: Unit is failing bin4336 on old TP only once throughout the history; due to tester/HW issue

@@ -1,0 +1,15 @@
+visid: M9V06E8800727, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8801450, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8800829, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8801013, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8801652, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8800992, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8802175, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8801754, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8801801, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8801138, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8800556, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8800708, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8801889, Explanation: B1306 caused by OPENs. HW problem on previous TP
+visid: M9V06E8802158, Explanation: B1306 caused by OPENs. HW problem on previous TP
+visid: M9V06E8801799, Explanation: B1306 caused by OPENs. HW problem on previous TP

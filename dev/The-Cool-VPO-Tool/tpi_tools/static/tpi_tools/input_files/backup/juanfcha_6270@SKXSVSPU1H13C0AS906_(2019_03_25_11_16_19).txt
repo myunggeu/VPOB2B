@@ -1,0 +1,1 @@
+visid: M73J2G6201437, Explanation: Unit fails bin1404 because unit does not meet any valid recovery configuration (1111111111111111110000001100_DOESNT_FIT_COREDEFEATURINGVECTOR/8C_VALUES).

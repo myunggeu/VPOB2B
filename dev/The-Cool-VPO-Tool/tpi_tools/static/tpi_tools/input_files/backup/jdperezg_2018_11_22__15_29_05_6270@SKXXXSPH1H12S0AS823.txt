@@ -1,0 +1,3 @@
+visid: M7N7K70500830, Explanation: One unit failure on SBFT out of 715 units, input string issue. Likely not TP infrastructure
+visid: M7SH412400166, Explanation: One unit failure on SBFT out of 700+units, input string issue. Likely not TP infrastructure
+visid: M7N7K70500642, Explanation: Cache failure on FAST, one fail out of 263 units ran.

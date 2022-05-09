@@ -1,0 +1,3 @@
+visid: M73J2G6200393, Explanation: invalid Bin43 on old TP.
+visid: M7NN267100795, Explanation: invalid. HW related bin switching on S812TP.
+visid: M7NN267100886, Explanation: invalid. HW related bin switching on S812TP.

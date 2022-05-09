@@ -1,0 +1,5 @@
+visid: M7SH412400559, Explanation: Hardware failure
+visid: M7N7K70501418, Explanation: real failure. Previous run SHOPS failed.
+visid: M7N7K70500721, Explanation: New Super scan content added
+visid: M7N7K70501127, Explanation: New Super scan content added
+visid: M7N7K70501376, Explanation: New Super scan content added

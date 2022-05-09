@@ -1,0 +1,12 @@
+visid: M7N7K70500802, Explanation: VALID FAILURE. Unit is failing SIO module b9 for leakage_low. Will need debug/further review
+visid: M7SH412400973, Explanation: Unit is failing bin1321 only once throughout the history.;due to hardware/tester issue
+visid: M7SH412400681, Explanation: Unit fails at bin5314 (FUSE)most of the time throughout history with only 2 out of 26 times bin4621 (SIO). The SIO fails are invalid
+visid: M7SH412400355, Explanation: Unit is failing bin4621 only once throughout the history.;due to hardware/tester issue
+visid: M7N7K70501140, Explanation: There are multiple bin1 results from the same testing condition with 5 bin4621 out of 30 tests.;usually due to connection issue
+visid: M7SH412401570, Explanation: Unit is failing bin4621 only once throughout the history.;due to hardware/tester issue
+visid: M7SH412400625, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4625 out of 27 tests.;usually due to connection issue
+visid: M7N7K70500163, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4625 out of 36 tests.;usually due to connection issue
+visid: M7SH412400786, Explanation: There are multiple bin1 results from the same testing condition with 4 bin4821 out of 35 tests.;usually due to connection issue
+visid: M7SH412400358, Explanation: Unit is failing bin5422/4821 only once throughout the history; due to tester issue
+visid: M7SH412401350, Explanation: Unit is failing bin5432 only once throughout the history.;due to hardware/tester issue
+visid: M7SH412400510, Explanation: Unit is failing bin5433 only once throughout the history.;due to hardware/tester issue

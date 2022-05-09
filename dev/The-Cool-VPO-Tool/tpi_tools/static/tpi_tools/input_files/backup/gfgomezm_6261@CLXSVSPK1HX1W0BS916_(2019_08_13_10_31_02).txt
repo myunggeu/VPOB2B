@@ -1,0 +1,28 @@
+visid: M9FE297101334, Explanation: B51 was HW related previous run. Recovered
+visid: M9FE297101359, Explanation: B13 was HW related previous run. Recovered
+visid: M9FE297100508, Explanation: B13 was HW related previous run. Recovered
+visid: M95B8W9300259, Explanation: B13 was HW related previous run. Recovered
+visid: M9617MB801029, Explanation: B13 was HW related previous run. Recovered
+visid: M9FE297101287, Explanation: B13 was HW related previous run. Recovered
+visid: M9FE297101009, Explanation: B13 was HW related previous run. Recovered
+visid: M9FE297100908, Explanation: B13 was HW related previous run. Recovered
+visid: M9FE297100574, Explanation: B13 was HW related previous run. Recovered
+visid: M9FE297100905, Explanation: B13 was HW related previous run. Recovered
+visid: M9R48M5000781, Explanation: B13 was HW related previous run. Recovered
+visid: M9R48M5000285, Explanation: B13 was HW related previous run. Recovered
+visid: M9R48M5000938, Explanation: B13 was HW related previous run. Recovered
+visid: M95B8W9300251, Explanation: B13 was HW related previous run. Recovered
+visid: M95B8W9300245, Explanation: B13 was HW related previous run. Recovered
+visid: M95B8W9300255, Explanation: B13 was HW related previous run. Recovered
+visid: M95B8W9300215, Explanation: B13 was HW related previous run. Recovered
+visid: M9MH566301495, Explanation: B13 was HW related previous run. Recovered
+visid: M9KB375201119, Explanation: B13 was HW related previous run. Recovered
+visid: M9KB375200519, Explanation: B13 was HW related previous run. Recovered
+visid: M9FE297100736, Explanation: B1306 OPEN. HW releated
+visid: M9FE297100536, Explanation: B1306 OPEN. HW releated
+visid: M9R48M5001003, Explanation: B1306 OPEN. HW releated
+visid: M9R48M5000956, Explanation: B1306 OPEN. HW releated
+visid: M9R48M5000129, Explanation: B1306 OPEN. HW releated
+visid: M9Q50W3800689, Explanation: B1306 OPEN. HW releated
+visid: M9KB375201101, Explanation: B1306 OPEN. HW releated
+visid: M9FE297100891, Explanation: Failed for parametric bin before B51. Marginal pass on RON due to poor contact. Failed due to HW condition.

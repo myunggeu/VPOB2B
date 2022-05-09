@@ -1,0 +1,14 @@
+visid: M7N7K70500053, Explanation: hW Related due to TIU design problem.
+visid: M7SH412400508, Explanation: hW Related due to TIU design problem.
+visid: M7N7K70500753, Explanation: hW Related due to TIU design problem.
+visid: M7SH412400371, Explanation: hW Related due to TIU design problem.
+visid: M7N7K70500055, Explanation: hW Related due to TIU design problem.
+visid: M7SH412400595, Explanation: hW Related due to TIU design problem.
+visid: M7N7K70500055, Explanation: hW Related due to TIU design problem.
+visid: M7SH412400595, Explanation: hW Related due to TIU design problem.
+visid: M7N7K70500852, Explanation: hW Related due to TIU design problem.
+visid: M7N7K70501275, Explanation: hW Related due to TIU design problem.
+visid: M7N7K70501290, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue/hW Related due to TIU design problem.
+visid: M7N7K70501301, Explanation: hW Related due to TIU design problem.
+visid: M7SH412400015, Explanation: hW Related due to TIU design problem.
+visid: M7SH412400382, Explanation: hW Related due to TIU design problem.

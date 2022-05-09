@@ -1,0 +1,2 @@
+visid: M8HC458500117, Explanation: All cores have a vmin of -777 causing clamp
+visid: M8HC458500370, Explanation: All cores have a vmin of -777 causing clamp

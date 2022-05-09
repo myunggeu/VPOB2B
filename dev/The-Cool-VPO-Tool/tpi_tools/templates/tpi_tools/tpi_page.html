@@ -1,0 +1,131 @@
+{% extends "tpi_tools/home.html" %}
+{% block content %}
+    <head>
+        <meta charset="UTF-8">
+        <title>Submit B2B</title>
+    </head>
+    <br><br><br>
+    <form action="" class="form-inline" method="post">
+    	{% csrf_token %}
+        <fieldset>
+            <legend>
+                Enter Information:
+            </legend>
+            <label>
+                <input type="text" name=old_VPOs class="form-control" id="old_VPOs" placeholder="Old VPOs">
+            </label>
+            <label>
+                <input type="text" name=old_TP_Path class="form-control" id="old_TP_Path" placeholder="Old TP Path">
+            </label>
+            <label>
+                <input type="text" name=old_TP_Name class="form-control" id="old_TP_name" placeholder="Old TP Name">
+            </label>
+            <br />
+            <label>
+                <input type="text" name=new_VPOs class="form-control" id="new_VPOs" placeholder="New VPOs">
+            </label>
+            <label>
+                <input type="text" name=new_TP_Path class="form-control" id="new_TP_Path" placeholder="New TP Path">
+            </label>
+            <label>
+                <input type="text" name=new_TP_Name class="form-control" id="new_TP_name" placeholder="New TP Name">
+            </label>
+            <!-- <p>Select Locations: <br />
+                <input type="checkbox" id="loc_6167" name="loc_6167" value="6167"> 6167
+                <input type="checkbox" id="loc_6261" name="loc_6261" value="6261"> 6261
+                <input type="checkbox" id="loc_6262" name="loc_6262" value="6262"> 6262
+                <input type="checkbox" id="loc_6270" name="loc_6270" value="6270"> 6270
+                <input type="checkbox" id="loc_6264" name="loc_6264" value="6264"> 6264
+                <input type="checkbox" id="loc_6212" name="loc_6212" value="6212"> 6212
+                <input type="checkbox" id="loc_6215" name="loc_6215" value="6215"> 6215
+            </p> -->
+            <p>Select Locations: <br /> Hot:
+                <input type="checkbox" id="loc_6167" name="loc_6167" value="6167"> 6167
+                <input type="checkbox" id="loc_6242" name="loc_6242" value="6242"> 6242
+                <input type="checkbox" id="loc_6261" name="loc_6261" value="6261"> 6261
+                <input type="checkbox" id="loc_6262" name="loc_6262" value="6262"> 6262
+                <input type="checkbox" id="loc_6265" name="loc_6265" value="6265"> 6265
+                <input type="checkbox" id="loc_6266" name="loc_6266" value="6266"> 6266
+                <input type="checkbox" id="loc_6268" name="loc_6268" value="6268"> 6268
+                <input type="checkbox" id="loc_6269" name="loc_6269" value="6269"> 6269
+                <input type="checkbox" id="loc_6270" name="loc_6270" value="6270"> 6270
+                <input type="checkbox" id="loc_5261" name="loc_5261" value="5261"> 5261
+                <input type="checkbox" id="loc_5265" name="loc_5265" value="5265"> 5265
+                <input type="checkbox" id="loc_5266" name="loc_5266" value="5266"> 5266
+                <input type="checkbox" id="loc_5268" name="loc_5268" value="5268"> 5268
+                <input type="checkbox" id="loc_5269" name="loc_5269" value="5269"> 5269
+                <input type="checkbox" id="loc_5270" name="loc_5270" value="5270"> 5270
+                <br /> Cold:
+                <input type="checkbox" id="loc_6212" name="loc_6212" value="6212"> 6212
+                <input type="checkbox" id="loc_6216" name="loc_6216" value="6216"> 6216
+                <input type="checkbox" id="loc_6218" name="loc_6218" value="6218"> 6218
+                <input type="checkbox" id="loc_6219" name="loc_6219" value="6219"> 6219
+                <input type="checkbox" id="loc_6220" name="loc_6220" value="6220"> 6220
+                <input type="checkbox" id="loc_5212" name="loc_5212" value="5212"> 5212
+                <input type="checkbox" id="loc_5216" name="loc_5216" value="5216"> 5216
+                <input type="checkbox" id="loc_5218" name="loc_5218" value="5218"> 5218
+                <input type="checkbox" id="loc_5219" name="loc_5219" value="5219"> 5219
+                <input type="checkbox" id="loc_5220" name="loc_5220" value="5220"> 5220
+            </p>
+            <p>Site
+                <select name="Sites">
+                    <!--<option value="Site_SC">SC</option>
+                    <option value="Site_CR">CR</option>
+                    <option value="Site_AN">AN</option>-->
+                    <option value="SC">SC</option>
+                    <option value="CR">CR</option>
+                    <option value="AN">AN</option>
+                </select>
+            </p>
+            <button type="submit" class="btn btn-default" onclick="return confirm('Are you sure you want to submit?')">Submit</button>
+        </fieldset>
+    </form>
+
+
+<!--
+<br><br><br>
+<h3>TPI Page</h3>
+<table class="table table-bordered">
+    <tr>
+        <td>
+            <form action="/bin2bin/tpi_page/" class="form-inline" method="post">
+            {% csrf_token %}
+            <div class="form-group">
+                <label class="sr-only" for="old_vpo">Old VPO</label>
+                <input type="text" name=old_vpo class="form-control" id="old_vpo" placeholder="Old VPO">
+            </div>
+            <div class="form-group">
+                <label class="sr-only" for="old_tp">Old tp</label>
+                <input type="text" name=old_tp class="form-control" id="old_tp" placeholder="Old TP Name">
+            </div>
+            <br>
+            <div class="form-group">
+                <label class="sr-only" for="new_vpo">New VPO</label>
+                <input type="text" name=new_vpo class="form-control" id="new_vpo" placeholder="New VPO">
+            </div>
+            <div class="form-group">
+                <label class="sr-only" for="new_tp">New TP</label>
+                <input type="text" name=new_tp class="form-control" id="new_tp" placeholder="New TP Name">
+            </div>
+            <br>
+            <div class="form-group">
+                <label class="sr-only" for="location">New TP</label>
+                <input type="text" name=location class="form-control" id="location" placeholder="Location">
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox" id="reparse_csv" value="reparse_crv" name="reparse_csv"> Re-Parse CSV
+                    </label>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-default" onclick="return confirm('Are you sure you want to submit?')">Submit</button>
+            <br>
+
+            </form>
+        </td>
+    </tr>
+</table>
+-->
+Status: {{status}}
+{%endblock%}

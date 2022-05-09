@@ -1,0 +1,1 @@
+visid: M7N7K70501226, Explanation: Core 10 was not seated correctly at TIU and did not read voltage. No test program issue. 

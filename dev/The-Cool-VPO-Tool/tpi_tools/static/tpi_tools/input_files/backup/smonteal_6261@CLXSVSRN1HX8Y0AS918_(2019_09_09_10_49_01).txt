@@ -1,0 +1,2 @@
+visid: M9V06E8801177, Explanation: SIO_PCIE_AC1 trigger fail flow, reset failure may be cause by instability 
+visid: M9V06E8800541, Explanation: One or more cores failing core bring up, history shows unit consistently fails indicating real failure.

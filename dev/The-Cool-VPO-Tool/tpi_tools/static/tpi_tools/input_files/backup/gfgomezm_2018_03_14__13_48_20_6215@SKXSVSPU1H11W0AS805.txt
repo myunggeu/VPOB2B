@@ -1,0 +1,22 @@
+visid: M73J2G6201209, Explanation: Bin is equivalent to OPENS. HW Related
+visid: M73J2G6201409, Explanation: Bin is equivalent to OPENS. HW Related
+visid: M7NN267100129, Explanation: Bin is equivalent to OPENS. HW Related
+visid: M7NN267101318, Explanation: Bin is equivalent to OPENS. HW Related
+visid: M73J2G6200110, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M73J2G6200251, Explanation: hW Related due to TIU design problem.
+visid: M73J2G6200280, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M73J2G6200288, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M73J2G6200293, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M73J2G6200406, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M73J2G6200481, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M73J2G6200518, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M73J2G6200558, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M73J2G6200648, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M73J2G6201318, Explanation: hW Related due to TIU design problem.
+visid: M73J2G6201371, Explanation: hW Related due to TIU design problem.
+visid: M7NN267101166, Explanation: equivalent to shorts on DDR lines
+visid: M7NN267101362, Explanation: hW Related due to TIU design problem.
+visid: M73J2G6200787, Explanation: hW Related due to TIU design problem.
+visid: M73J2G6200336, Explanation: hW Related due to TIU design problem.
+visid: M73J2G6200143, Explanation: hW Related due to TIU design problem.
+visid: M73J2G6200748, Explanation: hW Related due to TIU design problem.

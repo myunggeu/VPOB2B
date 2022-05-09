@@ -1,0 +1,1 @@
+visid: M9PB483200249, Explanation: Unit is usually b9460 in operation 6270. One specific core usually fails and creates an invalid combination, but it passed in the last VPO. Unit will most likely return to b9460

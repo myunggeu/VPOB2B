@@ -1,0 +1,2 @@
+visid: M73J2G6201392, Explanation: Unit should fail for OCP 100% of the time. Bin 9901 in reference is unknown, but all other tests fail for too many cores fail for OCP
+visid: M7NN267101363, Explanation: Unit should fail for OCP 100% of the time. Bin 5307 in new run is unknown, but all other tests fail for too many cores fail for OCP

@@ -1,0 +1,22 @@
+visid: M7SH412400407, Explanation: Corrupt DFF data.
+visid: M7SH412400408, Explanation: Corrupt DFF data.
+visid: M7SH412400409, Explanation: Corrupt DFF data.
+visid: M7SH412400660, Explanation: Corrupt DFF data.
+visid: M7SH412400661, Explanation: Corrupt DFF data.
+visid: M7SH412400662, Explanation: Corrupt DFF data.
+visid: M7SH412400663, Explanation: Corrupt DFF data.
+visid: M7SH412400664, Explanation: Corrupt DFF data. Recovered on latest run
+visid: M7SH412400668, Explanation: Corrupt DFF data.
+visid: M7SH412400669, Explanation: Corrupt DFF data.
+visid: M7SH412400670, Explanation: Corrupt DFF data.
+visid: M7SH412400674, Explanation: Corrupt DFF data.
+visid: M7SH412400675, Explanation: Corrupt DFF data.
+visid: M7SH412400676, Explanation: Corrupt DFF data.
+visid: M7SH412400678, Explanation: Corrupt DFF data.
+visid: M7SH412400679, Explanation: Corrupt DFF data.
+visid: M7SH412400681, Explanation: Corrupt DFF data.
+visid: M7SH412400683, Explanation: Corrupt DFF data.
+visid: M7SH412401440, Explanation: Corrupt DFF data.
+visid: M7SH412401454, Explanation: Corrupt DFF data.
+visid: M7SH412401459, Explanation: Corrupt DFF data.
+visid: M7SH412401463, Explanation: Corrupt DFF data.

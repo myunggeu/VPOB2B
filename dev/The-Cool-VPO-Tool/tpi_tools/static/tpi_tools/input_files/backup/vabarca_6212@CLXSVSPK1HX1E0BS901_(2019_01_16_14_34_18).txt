@@ -1,0 +1,3 @@
+visid: D8S77S0700306, Explanation: Unit failed b5433 only once in VPO history due to possible Hardware/Connection issue
+visid: D8S77S0700249, Explanation: Unit failed b4821 only once in VPO history due to possible Hardware/Connection issue
+visid: D8S77S0700093, Explanation: Unit failed b4331 only once in VPO history due to possible Hardware/Connection issue

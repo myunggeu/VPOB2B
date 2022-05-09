@@ -1,0 +1,1 @@
+visid: M7NN267100073, Explanation: This is the bad unit showing history of switching between bin 28 and 64 with any all previous program. Bin28 is PLL failure, and if that passes, it carries obsolete vailue next to DTS what makes it fail immediatelly.

@@ -1,0 +1,2 @@
+visid: M7SH412400477, Explanation: History of unit shows B99 through several previous TPs
+visid: M7SH412400956, Explanation: All failures coming from VCC, no new signature, expected failure.

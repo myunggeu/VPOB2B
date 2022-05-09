@@ -1,0 +1,2 @@
+visid: M9R48M5000666, Explanation: Marginal core 18.  In new run, Vmins appear to be ~10 mV higher on all cores which may have caused core 18 to fail
+visid: M9KB375201249, Explanation: Marginal core 4 passed in ref run

@@ -1,0 +1,1 @@
+visid: M7NN267100073, Explanation: Trim is maxed out. but the unit history suggests its passing ADPLL instances with good trim values and, there was a run after the Bin28 occures, the retest passed ADPLL. looks like a testing issue. not PLL content induced falure

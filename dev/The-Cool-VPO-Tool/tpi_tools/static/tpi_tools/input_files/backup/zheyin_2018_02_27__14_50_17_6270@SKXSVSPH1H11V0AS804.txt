@@ -1,0 +1,12 @@
+visid: M7SH412400282, Explanation: marginal fail, should recover with retest
+visid: M7N7K70500608, Explanation: bad contact, HW issue
+visid: M7SH412400119, Explanation: bad contact, HW issue
+visid: M7N7K70501222, Explanation: bad contact, HW issue
+visid: M7N7K70501229, Explanation: bad contact, HW issue
+visid: M7SH412400863, Explanation: bad contact, HW issue
+visid: M7SH412401015, Explanation: bad contact, HW issue
+visid: M7N7K70500170, Explanation: CRES fail, HW issue
+visid: M7N7K70501228, Explanation: marginal fail, suspect HW issue, need to rerun
+visid: M7SH412400015, Explanation: recover at retest
+visid: M7N7K70500352, Explanation: suspect HW issue, need to rerun
+visid: M7SH412400624, Explanation: CRES fail, HW issue

@@ -1,0 +1,5 @@
+visid: M8CQ906300026, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M8BD231400272, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester/HW issue
+visid: M8LM305300678, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester/HW issue
+visid: M8LM305300604, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester/HW issue
+visid: M8LM305300361, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester/HW issue

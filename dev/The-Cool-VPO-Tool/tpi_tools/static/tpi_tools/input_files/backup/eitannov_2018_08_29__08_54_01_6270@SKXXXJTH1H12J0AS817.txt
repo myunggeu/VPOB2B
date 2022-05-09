@@ -1,0 +1,1 @@
+visid: M8LM305300190, Explanation: This unit has never been Bin1. Core 11 had voltage read for 0.8 point of 8.48V. This is a failure of the unit.

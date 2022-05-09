@@ -1,0 +1,175 @@
+visid: M8BD231400477, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8LM305300647, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700604, Explanation: Marginal Failure. No Changes in DDRD, NO COOKIES for unit!
+visid: M8NE567700390, Explanation: For Bin 1 IDSK disabled the outlier core before LTTC is tested. When if fails bin 94, idsk doesn't disable the outlier core, and it subsequently fail on LTTC, NO COOKIES for unit!
+Blank Entry: M8NE567700129
+Blank Entry: M8LM305300051
+Blank Entry: M8BD231400203
+Blank Entry: M8NE567700712
+Blank Entry: M8LM305300018
+Blank Entry: M8LM305300665
+Blank Entry: M8NE567700003
+visid: M8NE567700378, Explanation: Unit recoverd from HW issue, NO COOKIES for unit!
+Blank Entry: M8NE567700325
+Blank Entry: M8NE567700310
+visid: M8LM305300709, Explanation: Unit recoverd from HW issue, NO COOKIES for unit!
+Blank Entry: M8BD231400232
+Blank Entry: M8NE567700665
+Blank Entry: M8LM305300237
+Blank Entry: M8BD231400599
+Blank Entry: M8LM305300287
+visid: M8NE567700181, Explanation: Unit recoverd from HW issue, NO COOKIES for unit!
+Blank Entry: M8LM305300360
+Blank Entry: M8LM305300407
+Blank Entry: M8NE567700268
+Blank Entry: M8LM305300415
+Blank Entry: M8LM305300198
+Blank Entry: M8BD231400040
+Blank Entry: M8NE567700048
+visid: M8BD231400627, Explanation: Unit recoverd from HW issue, NO COOKIES for unit!
+Blank Entry: M8LM305300269
+visid: M8NE567700190, Explanation: Unit recoverd from HW issue, NO COOKIES for unit!
+Blank Entry: M8CQ906300361
+Blank Entry: M8LM305300083
+Blank Entry: M8NE567700055
+Blank Entry: M8LM305300155
+Blank Entry: M8LM305300277
+visid: M8NE567700444, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700076, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700715, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8LM305300365, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700363, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700530, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700054, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700074, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8BD231400217, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700674, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700516, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8BD231400253, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700568, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8BD231400154, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8BD231400582, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8BD231400164, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8LM305300056, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700380, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8BD231400695, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700179, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8BD231400053, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8LM305300173, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8CQ906300405, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8CQ906300307, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8BD231400056, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700128, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8CQ906300114, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8BD231400652, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8LM305300303, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8LM305300464, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8LM305300460, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8BD231400017, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700152, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8CQ906300304, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8CQ906300277, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700193, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8LM305300116, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8LM305300115, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8LM305300204, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8LM305300235, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700263, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU, NO COOKIES for unit!
+visid: M8NE567700429, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M8BD231400417, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M8NE567700442, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M8LM305300495, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M8BD231400464, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M8BD231400574, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M8CQ906300398, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M8LM305300340, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M8LM305300184, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M8NE567700617, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8NE567700117, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8NE567700512, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8NE567700523, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8NE567700719, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8LM305300008, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8BD231400273, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8BD231400339, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8NE567700498, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8LM305300068, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8BD231400391, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8BD231400392, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8LM305300404, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8LM305300363, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8BD231400610, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8NE567700185, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8LM305300219, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8NE567700194, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8NE567700124, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8NE567700214, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8BD231400634, Explanation: Historically b1 unit. It failed due to HW issue, NO COOKIES for unit!
+Blank Entry: M8CQ906300449
+Blank Entry: M8NE567700458
+Blank Entry: M8CQ906300267
+Blank Entry: M8NE567700107
+Blank Entry: M8LM305300229
+Blank Entry: M8NE567700638
+Blank Entry: M8LM305300435
+Blank Entry: M8NE567700114
+Blank Entry: M8BD231400462
+Blank Entry: M8CQ906300443
+Blank Entry: M8NE567700172
+Blank Entry: M8LM305300589
+Blank Entry: M8LM305300408
+Blank Entry: M8LM305300675
+Blank Entry: M8LM305300496
+Blank Entry: M8NE567700367
+Blank Entry: M8NE567700197
+Blank Entry: M8LM305300311
+visid: M8LM305300190, Explanation: unit typically fails, often at 4427. Failed for offset somehow, probably TIU issue, NO COOKIES for unit!
+Blank Entry: M8NE567700669
+Blank Entry: M8NE567700356
+Blank Entry: M8NE567700303
+Blank Entry: M8BD231400177
+Blank Entry: M8BD231400166
+Blank Entry: M8BD231400030
+Blank Entry: M8NE567700002
+Blank Entry: M8NE567700507
+Blank Entry: M8NE567700701
+Blank Entry: M8NE567700529
+Blank Entry: M8NE567700483
+Blank Entry: M8BD231400404
+Blank Entry: M8NE567700322
+Blank Entry: M8NE567700437
+Blank Entry: M8BD231400130
+Blank Entry: M8BD231400315
+Blank Entry: M8NE567700445
+Blank Entry: M8NE567700134
+Blank Entry: M8BD231400387
+Blank Entry: M8LM305300466
+Blank Entry: M8LM305300239
+Blank Entry: M8BD231400085
+Blank Entry: M8NE567700422
+Blank Entry: M8BD231400158
+Blank Entry: M8BD231400086
+Blank Entry: M8BD231400286
+Blank Entry: M8BD231400018
+Blank Entry: M8CQ906300075
+Blank Entry: M8LM305300361
+Blank Entry: M8LM305300238
+Blank Entry: M8NE567700145
+visid: M8NE567700106, Explanation: Historically b1 unit. It failed due to HW issue., NO COOKIES for unit!
+visid: M8NE567700004, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU, NO COOKIES for unit!
+visid: M8NE567700652, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU, NO COOKIES for unit!
+visid: M8NE567700072, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU, NO COOKIES for unit!
+visid: M8CQ906300186, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU, NO COOKIES for unit!
+visid: M8LM305300406, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU, NO COOKIES for unit!
+visid: M8LM305300601, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU, NO COOKIES for unit!
+visid: M8NE567700244, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU, NO COOKIES for unit!
+visid: M8BD231400008, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU, NO COOKIES for unit!
+visid: M8NE567700046, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU, NO COOKIES for unit!
+visid: M8CQ906300193, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU, NO COOKIES for unit!
+Blank Entry: M8BD231400344
+Blank Entry: M8LM305300339
+Blank Entry: M8LM305300509
+Blank Entry: M8LM305300088
+Blank Entry: M8CQ906300217
+Blank Entry: M8CQ906300461
+Blank Entry: M8BD231400113

@@ -1,0 +1,28 @@
+visid: M7SH412400920, Explanation: Showing as B1 on S819 runs, no bin switch
+visid: M73K2D8500681, Explanation: Unit recovered on S819 runs, testing issue
+visid: M7N7K70500741, Explanation: Unit recovered on S819 subsequent runs, testing issue
+visid: M7SH412401078, Explanation: Unit recovered in subsequent S819 runs, testing issue
+visid: M7N7K70500890, Explanation: Unit recovered in subsequent S819 runs, testing issue.
+visid: M7SH412401463, Explanation: Unit history shows consistent SHOPS passing. Likely HW issue.
+visid: M7SH412400927, Explanation: Unit history shows consistent SHOPS pass, likely tester issue
+visid: M7SH412401433, Explanation: Unit history shows consistent SHOPS pass, likely tester issue
+visid: M7SH412400356, Explanation: Unit history shows consistent SHOPS pass, likely tester issue
+visid: M7SH412400950, Explanation: Unit history shows consistent SHOPS pass, likely tester issue
+visid: M7N7K70501230, Explanation: Unit history shows consistent SHOPS pass, likely tester issue
+visid: M7N7K70500875, Explanation: Unit recovered on subsequent HW runs on S819, tester issue.
+visid: M7N7K70501310, Explanation: Unit recovered on subsequent HW runs on S819, tester issue.
+visid: M7N7K70500073, Explanation: Unit recovered on subsequent HW runs on S819, tester issue.
+visid: M7N7K70500050, Explanation: Unit recovered on subsequent HW runs on S819, tester issue.
+visid: M7N7K70500212, Explanation: Unit recovered on subsequent HW runs on S819, tester issue.
+visid: M7L1Y26800248, Explanation: Marginal unit, several bin switches and marginality on measurements
+visid: M7N7K70501414, Explanation: Unit recovered on subsequent HW runs on S819, tester issue.
+visid: M7N7K70500411, Explanation: Unit recovered on subsequent HW runs on S819, tester issue.
+visid: M7L1Y26800258, Explanation: Unit recovered on subsequent HW runs on S819, tester issue.
+visid: M7N7K70500343, Explanation: Unit history shows consistent SHOPS passing, testing issue
+visid: M7N7K70500350, Explanation: Unit recovered on subsequent S819 runs, testing issue
+visid: M7N7K70500976, Explanation: Unit recovered on subsequent S819 runs, testing issue
+visid: M7SH412401345, Explanation: Unit recovered on subsequent S819 runs, testing issue
+visid: M7SH412401033, Explanation: No changes to VCC, consistent passing unit. Marginal measurement. Testing issue
+visid: M7N7K70500872, Explanation: No changes to VCC, consistent passing unit. Marginal measurement. Testing issue
+visid: M7SH412401229, Explanation: No changes to VCC, consistent passing unit. Marginal measurement. Testing issue
+visid: M7SH412400636, Explanation: No changes to VCC, consistent passing unit. Marginal measurement. Testing issue

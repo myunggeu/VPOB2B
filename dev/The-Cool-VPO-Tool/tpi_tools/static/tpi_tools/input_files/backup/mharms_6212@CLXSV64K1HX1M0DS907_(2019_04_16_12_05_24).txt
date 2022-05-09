@@ -1,0 +1,88 @@
+visid: M93Y2R6200087, Explanation: failed at class hot, automatic b7299 at cold
+visid: M84S2F9100482, Explanation: failed at class hot, automatic b7299 at cold
+visid: M8KR236200478, Explanation: failed at class hot, automatic b7299 at cold
+visid: M93Y2R6200509, Explanation: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900473, Explanation: failed at class hot, automatic b7299 at cold
+visid: M8HC458500496, Explanation: failed at class hot, automatic b7299 at cold
+visid: M8HC458500117, Explanation: failed at class hot, automatic b7299 at cold
+visid: M8HC458500041, Explanation: failed at class hot, automatic b7299 at cold
+visid: M8HC458500358, Explanation: failed at class hot, automatic b7299 at cold
+visid: M8HC458500409, Explanation: failed at class hot, automatic b7299 at cold
+visid: M8KR236200461, Explanation: failed at class hot, automatic b7299 at cold
+visid: M8KR236200025, Explanation: failed at class hot, automatic b7299 at cold
+visid: M8KR236200264, Explanation: failed at class hot, automatic b7299 at cold
+visid: M8KR236200240, Explanation: failed at class hot, automatic b7299 at cold
+visid: M8KR236200513, Explanation: failed at class hot, automatic b7299 at cold
+visid: M8KR236200458, Explanation: failed at class hot, automatic b7299 at cold
+visid: M8KR236200551, Explanation: failed at class hot, automatic b7299 at cold
+visid: M94R2R2100207, Explanation: failed at class hot, automatic b7299 at cold
+visid: M94R2R2100088, Explanation: failed at class hot, automatic b7299 at cold
+visid: M94R2R2100051, Explanation: failed at class hot, automatic b7299 at cold
+visid: M94R2R2100140, Explanation: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900350, Explanation: new data: HW issue (CRES Open)
+visid: M8X0G79900074, Explanation: new data: HW issue (CRES Open)
+visid: M8HC458500044, Explanation: new data: HW issue (CRES Open)
+visid: M8HC458500110, Explanation: new data: HW issue (CRES Open)
+visid: M8HC458500006, Explanation: new data: HW issue (CRES Open)
+visid: M8KR236200452, Explanation: new data: HW issue
+visid: M8KR236200425, Explanation: new data: HW issue
+visid: M94R2R2100275, Explanation: new data: HW issue
+visid: M8KR236200544, Explanation: new data: HW issue (CRES Open)
+visid: M8HC458500115, Explanation: failed at class hot, automatic b7299 at coldHW related issue
+visid: M8X0G79900262, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M93Y2R6200102, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900344, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900342, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900118, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900311, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M93Y2R6200388, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M93Y2R6200511, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M93Y2R6200071, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M93Y2R6200024, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M93Y2R6200031, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900123, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900343, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900046, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900448, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900052, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900122, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900109, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900100, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900274, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8X0G79900326, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500525, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500404, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500278, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500071, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500399, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500305, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500199, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500312, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500203, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500072, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M84S2F9100428, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500120, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500130, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500513, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500280, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500078, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8HC458500270, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8KR236200234, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8KR236200158, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8KR236200546, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8KR236200351, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8KR236200334, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8KR236200484, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8KR236200215, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8KR236200241, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8KR236200437, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8KR236200216, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8KR236200435, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8KR236200195, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8KR236200179, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8KR236200422, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M8KR236200163, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M94R2R2100062, Explanation: new data: failed at class hot, automatic b7299 at cold
+visid: M84S2F9100413, Explanation: HW issue
+visid: M8KR236200432, Explanation: HW issue
+visid: M8KR236200358, Explanation: HW issue

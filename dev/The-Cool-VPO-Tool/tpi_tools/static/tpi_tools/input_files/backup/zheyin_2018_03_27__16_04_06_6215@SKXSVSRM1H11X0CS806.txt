@@ -1,0 +1,4 @@
+visid: M7G050T401054, Explanation: bad contact, HW issue
+visid: M7G050T400100, Explanation: solid fail from previous TP
+visid: M7G050T400124, Explanation: suspect HW issue
+visid: M7G050T400211, Explanation: suspect HW issue

@@ -1,0 +1,6 @@
+visid: M7J13X7701682, Explanation: has been bin1 last few tp releases
+visid: M7J13X7700797, Explanation: Marginal core recovered in new run
+visid: M7J13X7701720, Explanation: Marginal core passed after getting very high vmin
+visid: M7J13X7702097, Explanation: Incming core config different btn 2 runs
+visid: M7J13X7702133, Explanation: Incming core config different btn 2 runs
+visid: M88J7X3800776, Explanation: Incming core config different btn 2 runs

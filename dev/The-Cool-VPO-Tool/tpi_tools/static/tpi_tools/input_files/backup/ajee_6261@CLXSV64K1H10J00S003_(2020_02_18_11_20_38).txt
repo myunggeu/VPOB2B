@@ -1,0 +1,19 @@
+visid: M8KR236200526, Explanation: Unit is recovered to bin 1 in the last VPO with 2 bin 4625 out of 35 tests
+visid: M8KR236200216, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4625 out of 35 tests. should be connection issue
+visid: M8KR236200197, Explanation: There are multiple bin 1 results from the same testing condition with 4 bin 4625 out of 28 tests. should be connection issue
+visid: M8KR236200545, Explanation: Unit is recovered to bin 1 in the last VPO with 3 bin 1553 out of 37 tests
+visid: M8HC458500141, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin 5433 out of 25 tests
+visid: M8KR236200204, Explanation: Unit is failing bin 1548 only once throughout the history. Most likely a tester issue
+visid: M8KR236200168, Explanation: Unit is failing bin 1553 only once throughout the history. Most likely a tester issue
+visid: M8HC458500449, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue
+visid: M8KR236200150, Explanation: Unit fails at bin 4625 10 out of 34 tests in the history. Should be a valid failure
+visid: M8KR236200366, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4625 out of 28 tests. should be connection issue
+visid: M8KR236200527, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4625 out of 28 tests. should be connection issue
+visid: M8KR236200331, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue
+visid: M8KR236200229, Explanation: There are multiple bin 1 results from the same testing condition with 7 bin 4625 out of 27 tests. should be connection issue
+visid: M8KR236200208, Explanation: There are multiple bin 1 results from the same testing condition with 3 bin 4821 out of 31 tests. should be connection issue
+visid: M8KR236200311, Explanation: Unit is failing bin 5432 only once throughout the history. Most likely a tester issue
+visid: M8KR236200418, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 5433 out of 24 tests. should be connection issue
+visid: M8HC458500467, Explanation: Unit is failing bin 5433 only once throughout the history. Most likely a tester issue
+visid: M8KR236200081, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 5433 out of 33 tests. should be connection issue
+visid: M8KR236200067, Explanation: Unit is failing bin 4821 only once throughout the history. Most likely a tester issue

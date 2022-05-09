@@ -1,0 +1,27 @@
+visid: M7N7K70500461, Explanation: HW issue on tester
+visid: M7N7K70500048, Explanation: HW issue on tester
+visid: M7L1Y26800258, Explanation: HW issue on tester
+visid: M7SH412401027, Explanation: HW issue on tester in previous run
+visid: M7SH412401196, Explanation: HW issue on tester in previous run
+visid: M7SH412401164, Explanation: HW issue on tester in previous run
+visid: M7N7K70500350, Explanation: HW issue on tester in previous run
+visid: M7N7K70500491, Explanation: HW issue on tester in previous run
+visid: M7N7K70500906, Explanation: HW issue on tester in previous run
+visid: M7SH412400438, Explanation: consistent fail on VCCFUSE and triggering clamp alarm
+visid: M7SH412400089, Explanation: HW issue on tester
+visid: M7SH412400058, Explanation: bad contact due to HW issue
+visid: M7L1Y26800132, Explanation: HW issue on tester in previous run
+visid: M7N7K70500164, Explanation: HW issue on tester in previous run
+visid: M7SH412400259, Explanation: HW issue on tester in previous run
+visid: M7SH412400972, Explanation: HW issue on tester in previous run
+visid: M7N7K70500262, Explanation: HW issue on tester in previous run
+visid: M7SH412400754, Explanation: HW issue on tester in previous run
+visid: M7N7K70500804, Explanation: HW issue on tester in previous run
+visid: M7N7K70501419, Explanation: HW issue on tester in previous run
+visid: M7N7K70501216, Explanation: HW issue on tester in previous run
+visid: M7SH412400970, Explanation: HW issue on tester in previous run
+visid: M7N7K70500631, Explanation: HW issue on tester in previous run
+visid: M7SH412400408, Explanation: HW issue on tester in previous run
+visid: M7N7K70501336, Explanation: HW issue on tester
+visid: M7N7K70500287, Explanation: HW issue on tester
+visid: M7N7K70501418, Explanation: HW issue on tester

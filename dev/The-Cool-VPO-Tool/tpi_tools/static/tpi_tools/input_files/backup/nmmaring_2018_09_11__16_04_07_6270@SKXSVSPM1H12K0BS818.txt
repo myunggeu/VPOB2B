@@ -1,0 +1,24 @@
+visid: M7J13X7700730, Explanation: Recovered from HW issue.  TIU communality found.
+visid: M7J13X7700527, Explanation: Recovered from HW issue.  TIU communality found.
+visid: M7J13X7700774, Explanation: Recovered from HW issue.
+visid: M7J13X7701080, Explanation: Recovered from HW issue.
+visid: M7J13X7701580, Explanation: Recovered from HW issue.
+visid: M7J13X7700693, Explanation: Recovered from HW issue.  TIU communality found.
+visid: M7J13X7701194, Explanation: Recovered from HW issue.  TIU communality found.
+visid: M7J13X7701199, Explanation: Recovered from HW issue.  TIU communality found.
+visid: M7J13X7700699, Explanation: Recovered from HW issue.  TIU communality found.
+visid: M7J13X7700537, Explanation: Recovered from HW issue.  TIU communality found.
+visid: M7J13X7700726, Explanation: Recovered from HW issue.  TIU communality found.
+visid: M7HU061900192, Explanation: Recovered from HW issue.
+visid: M7HU061900007, Explanation: Recovered from HW issue.
+visid: M7HU061900921, Explanation: Recovered from HW issue.
+visid: M7HU061900989, Explanation: Recovered from HW issue.
+visid: M7HU061900874, Explanation: Recovered from HW issue.
+visid: M7J13X7700516, Explanation: HW issue related.
+visid: M7J13X7701974, Explanation: HW issue related.
+visid: M88J7X3800853, Explanation: HW issue related.
+visid: M7HU061900652, Explanation: HW issue related.
+visid: M7HU061900019, Explanation: HW issue related.
+visid: M7HU061900311, Explanation: HW issue related.
+visid: M7HU061901268, Explanation: HW issue. TIU communality found. Historically B1.
+visid: M7HU061900024, Explanation: HW issue. TIU communality found. Historically B1.

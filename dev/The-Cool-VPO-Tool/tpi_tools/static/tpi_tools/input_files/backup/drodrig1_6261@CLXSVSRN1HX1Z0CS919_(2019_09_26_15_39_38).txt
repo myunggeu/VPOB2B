@@ -1,0 +1,2 @@
+visid: M9F05R5400040, Explanation: In previous TP, IDSK disabled 4 cores for this unit, making it a 1498 failure. Now it failed before UPS. Unit has failed for different bins in multiple VPOs with TP S915 and S919
+visid: M9F05R5400018, Explanation: In previous TP, IDSK disabled 2 cores for this unit, making it a 1498 failure. Now it failed before UPS. Unit has failed for different bins in multiple VPOs with TP S915 and S919.

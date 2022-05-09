@@ -1,0 +1,6 @@
+visid: D970U5V201223, Explanation: Recovered from HW issue
+visid: D9481LV800527, Explanation: Recovered from HW issue
+visid: D970U5V201065, Explanation: HW related issue
+visid: D9195AN200045, Explanation: HW related issue
+visid: D9481LV800517, Explanation: HW related issue
+visid: D997E7C700007, Explanation: HW related issue

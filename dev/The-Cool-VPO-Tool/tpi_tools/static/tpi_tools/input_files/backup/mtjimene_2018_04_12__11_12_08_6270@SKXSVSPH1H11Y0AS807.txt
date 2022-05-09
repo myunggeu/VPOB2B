@@ -1,0 +1,11 @@
+visid: M7SH412401422, Explanation: Broken Unit:The tester latch (In the Cell A101) was not properly adjusted, causing the tester to pop out of place, misplacing the TIU and causing 11 units to be crushed
+visid: M7SH412401423, Explanation: Broken Unit: The tester latch (In the Cell A101) was not properly adjusted, causing the tester to pop out of place, misplacing the TIU and causing 11 units to be crushed
+visid: M7SH412401446, Explanation: Broken unit: The tester latch (In the Cell A101) was not properly adjusted, causing the tester to pop out of place, misplacing the TIU and causing 11 units to be crushed
+visid: M7SH412400665, Explanation: Broken Unit:the tester latch (In the Cell A101) was not properly adjusted, causing the tester to pop out of place, misplacing the TIU and causing 11 units to be crushed
+visid: M7SH412401441, Explanation: Broken Unit:The tester latch (In the Cell A101) was not properly adjusted, causing the tester to pop out of place, misplacing the TIU and causing 11 units to be crushed
+visid: M7SH412400410, Explanation: Broken Unit:tester latch (In the Cell A101) was not properly adjusted, causing the tester to pop out of place, misplacing the TIU and causing 11 units to be crushed
+visid: M7SH412400666, Explanation: Broken Units:The tester latch (In the Cell A101) was not properly adjusted, causing the tester to pop out of place, misplacing the TIU and causing 11 units to be crushed
+visid: M7SH412400677, Explanation: Broken Unit: The tester latch (In the Cell A101) was not properly adjusted, causing the tester to pop out of place, misplacing the TIU and causing 11 units to be crushed
+visid: M7SH412400680, Explanation: Broken Unit:The tester latch (In the Cell A101) was not properly adjusted, causing the tester to pop out of place, misplacing the TIU and causing 11 units to be crushed
+visid: M7SH412401438, Explanation: Broken Unit:  The tester latch (In the Cell A101) was not properly adjusted, causing the tester to pop out of place, misplacing the TIU and causing 11 units to be crushed
+visid: M7SH412401447, Explanation: Broken Unit: The tester latch (In the Cell A101) was not properly adjusted, causing the tester to pop out of place, misplacing the TIU and causing 11 units to be crushed

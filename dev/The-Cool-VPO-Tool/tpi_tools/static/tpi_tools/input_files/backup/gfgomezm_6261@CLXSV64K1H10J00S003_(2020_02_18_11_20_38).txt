@@ -1,0 +1,44 @@
+visid: M8KR236200205, Explanation: B13 Poor contact with board/OPEN-SHORTs, NO COOKIES for unit!
+visid: M8KR236200196, Explanation: B13 Poor contact with board/OPEN-SHORTs, NO COOKIES for unit!
+visid: M8KR236200078, Explanation: B13 Poor contact with board/OPEN-SHORTs, NO COOKIES for unit!
+visid: M8KR236200232, Explanation: B13 Poor contact with board/OPEN-SHORTs, NO COOKIES for unit!
+visid: M8KR236200197, Explanation: B13 Poor contact with board/OPEN-SHORTs, NO COOKIES for unit!
+visid: M8KR236200194, Explanation: B13 Poor contact with board/OPEN-SHORTs, NO COOKIES for unit!
+visid: M8KR236200295, Explanation: B13 Poor contact with board/OPEN-SHORTs, NO COOKIES for unit!
+visid: M8KR236200329, Explanation: B13 Poor contact with board/OPEN-SHORTs (CMD/CTRL), NO COOKIES for unit!
+visid: M8HC458500015, Explanation: B13 Poor contact with board/OPEN-SHORTs (CMD/CTRL), NO COOKIES for unit!
+visid: M8KR236200160, Explanation: B13 Poor contact with board/OPEN-SHORTs, NO COOKIES for unit!
+visid: M8KR236200552, Explanation: B13 Poor contact with board/OPEN-SHORTs, NO COOKIES for unit!
+visid: M8KR236200538, Explanation: B13 Poor contact with board/OPEN-SHORTs, NO COOKIES for unit!
+visid: M8KR236200150, Explanation: B13 Poor contact with board/OPEN-SHORTs, NO COOKIES for unit!
+visid: M8KR236200527, Explanation: B13 Poor contact with board/OPEN-SHORTs, NO COOKIES for unit!
+visid: M8KR236200348, Explanation: B13 Poor contact with board/OPEN-SHORTs, NO COOKIES for unit!
+Blank Entry: M8KR236200526
+Blank Entry: M8KR236200216
+Blank Entry: M8KR236200545
+Blank Entry: M8KR236200263
+Blank Entry: M8HC458500141
+Blank Entry: M8KR236200047
+Blank Entry: M8KR236200202
+Blank Entry: M8KR236200546
+Blank Entry: M8KR236200483
+Blank Entry: M8KR236200043
+Blank Entry: M8HC458500455
+Blank Entry: M8KR236200435
+Blank Entry: M8KR236200204
+Blank Entry: M8KR236200168
+Blank Entry: M8KR236200224
+Blank Entry: M8HC458500449
+Blank Entry: M8KR236200551
+Blank Entry: M8KR236200366
+Blank Entry: M8KR236200331
+Blank Entry: M8KR236200229
+Blank Entry: M8KR236200208
+Blank Entry: M8KR236200311
+Blank Entry: M8KR236200418
+Blank Entry: M8HC458500467
+Blank Entry: M8KR236200081
+Blank Entry: M8KR236200067
+Blank Entry: M8KR236200025
+Blank Entry: M8KR236200247
+Blank Entry: M8KR236200159

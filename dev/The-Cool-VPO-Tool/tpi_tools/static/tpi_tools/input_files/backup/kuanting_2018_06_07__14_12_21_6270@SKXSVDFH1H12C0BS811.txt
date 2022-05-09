@@ -1,0 +1,4 @@
+visid: M7PU387100270, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7DR176200337, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7DR176200387, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7DR176200394, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue

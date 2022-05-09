@@ -1,0 +1,21 @@
+visid: M9MH566301491, Explanation: Due to OPENs, HW Related bin in previous TP
+visid: M9R48M5000831, Explanation: Due to OPENs, HW Related bin in previous TP
+visid: M9R48M5000165, Explanation: Due to OPENs, HW Related bin in previous TP
+visid: M9R48M5000796, Explanation: Due to OPENs, HW Related bin in previous TP
+visid: M9R48M5000341, Explanation: Due to OPENs, HW Related bin in previous TP
+visid: M9R48M5000713, Explanation: Due to OPENs, HW Related bin in previous TP (CMD/CTRL Pin)
+visid: M9R48M5000675, Explanation: Due to OPENs, HW Related bin in previous TP
+visid: M9R48M5000931, Explanation: Due to OPENs, HW Related bin in previous TP
+visid: M9R48M5000749, Explanation: Due to OPENs, HW Related bin in previous TP
+visid: M9KB375201188, Explanation: HW Related. All B9s coming from same Tester/Level
+visid: M9KB375201109, Explanation: HW Related. All B9s coming from same Tester/Level
+visid: M9R48M5000719, Explanation: Due to OPENs, HW Related
+visid: M9R48M5000556, Explanation: Due to OPENs, HW Related
+visid: M9R48M5000600, Explanation: Due to OPENs, HW Related
+visid: M9R48M5000946, Explanation: Due to OPENs, HW Related
+visid: M9R48M5000929, Explanation: Due to OPENs, HW Related
+visid: M9R48M5000156, Explanation: Due to OPENs, HW Related
+visid: M9KB375200420, Explanation: Due to OPENs, HW Related
+visid: M9BR819701538, Explanation: HW Related. All B9s coming from same Tester/Level
+visid: M9BR819701470, Explanation: Due to OPENs, HW Related
+visid: M9KB375201111, Explanation: HW Related. All B9s coming from same Tester/Level

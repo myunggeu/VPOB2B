@@ -1,0 +1,12 @@
+visid: M9WC266700234, Explanation: B1306 caused by OPENs. Recovered
+visid: M9PB483200173, Explanation: B1306 caused by OPENs. Recovered
+visid: M9PB483200656, Explanation: B1306 caused by OPENs. Recovered
+visid: M9WC266701244, Explanation: B1306 caused by OPENs.
+visid: M9WC266701763, Explanation: B1306 caused by OPENs.
+visid: M9KK695401354, Explanation: B1306 caused by OPENs.
+visid: M9EN577400617, Explanation: B1306 caused by OPENs.
+visid: M9EN577400908, Explanation: B1306 caused by OPENs.
+visid: M9KK695401135, Explanation: B1306 caused by OPENs on last execution. Passed new TP
+visid: M9KK695401357, Explanation: B51 caused by HW condition. Both units from same Tester/Site
+visid: M9KK695401362, Explanation: B9 caused by HW condition. Both units from same Tester/Site
+visid: M9S83J1700096, Explanation: B9 caused by HW condition. Both units from same Tester/Site

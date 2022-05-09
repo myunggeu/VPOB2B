@@ -1,0 +1,80 @@
+visid: M9WC266701456, Explanation: Upper prochot limit reached due to low temperature (~84C) during DTS testing, indicating issue with AP hardware. Retesting should recover unit., NO COOKIES for unit!
+visid: M9PB483200693, Explanation: B13 caused by HW on previous run. Recovered with no issues, NO COOKIES for unit!
+visid: M9PB483200249, Explanation: Unit is usually b9460 in operation 6270. One specific core usually fails and creates an invalid combination, but it passed in the last VPO. Unit will most likely return to b9460, NO COOKIES for unit!
+visid: M9PB483200252, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9PB483200166, Explanation: Unit is failing bin 4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9PB483200695, Explanation: There are multiple bin 1 results from the same testing condition with 4 bin 1330 out of 27 tests. should be connection issue, NO COOKIES for unit!
+visid: M9PB483200359, Explanation: Unit is failing bin 4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9PB483200698, Explanation: Unit is failing bin 1528 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9PB483200258, Explanation: Unit is recovered to bin 1 in the last VPO with 3 bin 1330 out of 32 tests, NO COOKIES for unit!
+visid: M9KK695400576, Explanation: Unit is recovered to bin 1 in the last VPO with 17 bin 5436 out of 27 tests, NO COOKIES for unit!
+visid: M9S83J1700131, Explanation: Unit is failing bin 4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9KK695401169, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9WC266701804, Explanation: Reference run had reset issue, No FIVR changes or issue here, NO COOKIES for unit!
+Blank Entry: M9WC266700503
+visid: M9WC266700404, Explanation: Unit is failing bin 4336 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9WC266701421, Explanation: Unit is failing bin 1332 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9WC266700244, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9WC266701318, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9WC266701329, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+Blank Entry: M9WC266701820
+visid: M99S9J4201043, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9EN577400571, Explanation: B51 caused by HW on previous run. Recovered with no issues, NO COOKIES for unit!
+visid: M9EN577400653, Explanation: Unit is recovered to bin 1 in the last VPO with 3 bin 1330 out of 28 tests, NO COOKIES for unit!
+visid: M9PB483200287, Explanation: Unit is failing bin 1528 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M99S9J4201077, Explanation: B13 caused by OPEN/SHORTs (poor contact with board), NO COOKIES for unit!
+visid: M9EN577400047, Explanation: B13 caused by OPEN/SHORTs (poor contact with board), NO COOKIES for unit!
+visid: M9PB483200689, Explanation: B13 caused by OPEN/SHORTs (poor contact with board), NO COOKIES for unit!
+visid: M9PB483200718, Explanation: B13 caused by OPEN/SHORTs (poor contact with board), NO COOKIES for unit!
+visid: M9WC266701250, Explanation: B13 caused by OPEN/SHORTs (poor contact with board), NO COOKIES for unit!
+visid: M9KN918500404, Explanation: B13 caused by OPEN/SHORTs (poor contact with board), NO COOKIES for unit!
+visid: M9EN577400731, Explanation: There are multiple bin 1 results from the same testing condition with 3 bin 1330 out of 26 tests. should be connection issue, NO COOKIES for unit!
+visid: M9PB483200333, Explanation: B51 caused by HW on previous run. , NO COOKIES for unit!
+visid: M9LJ518200256, Explanation: Bad socketing in previous run, UPS didn't found solution for bucketing., NO COOKIES for unit!
+visid: M9PB483200365, Explanation: Unit failed bin1498: IDSK disabled IA07 for exceeding Vmin variability limits, with this the unit exceeded the limit of class core defeature., NO COOKIES for unit!
+visid: M9LJ518200243, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9KN918500514, Explanation: United recovered due to bad pattern removed (g0529146S2185909), NO COOKIES for unit!
+visid: M9WC266701454, Explanation: Unstable unit, NO COOKIES for unit!
+visid: M9WC266700451, Explanation: Unstable unit, NO COOKIES for unit!
+visid: M9PB483200153, Explanation: Unit fails at bin 5423 18 out of 19 tests in the history. Should be a valid failure, NO COOKIES for unit!
+visid: M9PB483200141, Explanation: Unit is failing bin 1502 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9WC266701784, Explanation: Unit is failing bin 1502 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+Blank Entry: M9WC266701336
+visid: M9EN577400534, Explanation: Seems like tester issue, unit's been bin44 constantly, NO COOKIES for unit!
+visid: M9WC266701493, Explanation: Unit is failing bin 1590 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9WC266701463, Explanation: Unit is failing bin 1590 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9WC266701471, Explanation: Unit is failing bin 1590 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9EN577400603, Explanation: Unit typically fails for VDAC measurement. Worked once, not sure why, unit typically fails 2737. No FIVR module change, NO COOKIES for unit!
+visid: M9EN577401824, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 2814 out of 25 tests. should be connection issue, NO COOKIES for unit!
+visid: M9PB483200418, Explanation: Same Snapshot for Scan, could be a tester issue, NO COOKIES for unit!
+visid: M9PB483200248, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4313 out of 23 tests. should be connection issue, NO COOKIES for unit!
+visid: M9EN577400014, Explanation: Unit is failing bin 4402 only once throughout the history. Most likely a tester issue. Unit recovered as Bin 100 on a newer VPO, NO COOKIES for unit!
+visid: M9EN577401821, Explanation: Unstable behavior, units's been bin4406 half the time, NO COOKIES for unit!
+visid: M9WC266701232, Explanation: DPM hit due to new content, NO COOKIES for unit!
+visid: M9WC266700402, Explanation: DPM hit due to new content, NO COOKIES for unit!
+visid: M9EN577401022, Explanation: DPM hit due to new content, NO COOKIES for unit!
+visid: M9WC266701792, Explanation: DPM hit due to new content, NO COOKIES for unit!
+visid: M9EN577401003, Explanation: Unit is failing bin 4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9PB483200344, Explanation: Unit is failing bin 4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9WC266701502, Explanation: There are multiple bin 1 results from the same testing condition with 5 bin 4622 out of 16 tests. should be connection issue, NO COOKIES for unit!
+visid: M99S9J4201084, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9WC266701748, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9EN577400978, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4821 out of 25 tests. should be connection issue, NO COOKIES for unit!
+visid: M9EN577401008, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 5422 out of 24 tests. should be connection issue, NO COOKIES for unit!
+visid: M99S9J4201117, Explanation: Unit is failing bin 5422 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9PB483200257, Explanation: Unit is failing bin 5422 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9KK695401135, Explanation: Unit is failing bin 5432 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9EN577401825, Explanation: Core 5 was unstable on previous runs. Historically the unit has been binned as 144 or 6016 , NO COOKIES for unit!
+visid: M9EN577400683, Explanation: Unit is failing bin 6203 only once throughout the history. Most likely a tester issue. Unit recovered as Bin 114 on a newer VPO, NO COOKIES for unit!
+visid: M9PB483200443, Explanation: Unit is failing bin 6203 only once throughout the history. Most likely a tester issue. Unit recovered as Bin 100 on a newer VPO, NO COOKIES for unit!
+visid: M9PB483200111, Explanation: Unit is failing bin 6203 only once throughout the history. Most likely a tester issue. Unit recovered as Bin 100 on a newer VPO, NO COOKIES for unit!
+visid: M9PB483200237, Explanation: Massive core failures on cache instance. Unit is failing bin 6203 only once throughout the history. Most likely a tester issue. Unit recovered as Bin 1 on a newer VPO, NO COOKIES for unit!
+visid: M9KK695401362, Explanation: Marginal unit. Switching between b68 to b1 on each run., NO COOKIES for unit!
+Blank Entry: M9WC266701269
+Blank Entry: M9PB483200712
+Blank Entry: M9WC266701512
+visid: M9PB483200432, Explanation: Historically unit was mostly bin 9420, NO COOKIES for unit!
+visid: M9EN577400575, Explanation: Unit's been bin9444 historically, NO COOKIES for unit!
+visid: M99S9J4201045, Explanation: Would need to check if core24 degraded or is a single time event, NO COOKIES for unit!
+visid: M9EN577401140, Explanation: Unit is failing bin 1502 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9KK695401366, Explanation: Unit is failing bin 9901 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!

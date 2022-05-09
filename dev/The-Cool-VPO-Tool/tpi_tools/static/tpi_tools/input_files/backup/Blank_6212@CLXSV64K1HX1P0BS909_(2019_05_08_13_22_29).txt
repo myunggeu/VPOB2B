@@ -1,0 +1,4 @@
+visid: M94R2R2100187, Explanation: core 27th is already disabled at hot and it is Bin 1 at new run. 
+visid: M8HC458500477, Explanation: flaky on the old run. the unit is Bin 1 in the history.
+visid: M94R2R2100177, Explanation: marginal core recovered
+visid: M94R2R2100154, Explanation: marginal core recovered

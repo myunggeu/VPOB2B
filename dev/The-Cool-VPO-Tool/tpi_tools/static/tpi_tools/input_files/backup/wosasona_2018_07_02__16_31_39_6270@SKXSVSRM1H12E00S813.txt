@@ -1,0 +1,7 @@
+visid: M7G050T400413, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4821 out of 14 tests
+visid: M7G050T400561, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4821 out of 6 tests
+visid: M7G050T400629, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4821 out of 6 tests
+visid: M7G050T400956, Explanation: Unit is recovered to bin1 after one fail at Bin5432 and Bin4821 each
+visid: M7G050T401190, Explanation: Unit is recovered to bin1 after one fail at Bin5432 and Bin4821 each
+visid: M7G050T401203, Explanation: Unit is recovered to Bin1 after failing Bin4821 only once
+visid: M7G050T401204, Explanation: Unit is recovered to Bin1 after failing Bin4821 only once

@@ -1,0 +1,6 @@
+visid: M7N7K70500160, Explanation: HW commanality. Trim maxed out before
+visid: M7N7K70500551, Explanation: HW commality, is a good unit
+visid: M7N7K70501146, Explanation: HW commanality. Trim maxed out before
+visid: M7SH412400391, Explanation: HW commanilty. Trim maxed out
+visid: M7L1Y26800277, Explanation: HW commanilty. Trim maxed out
+visid: M7SH412401350, Explanation: Bin 28 need to explain, fails before LTTC flow:: HW commanality. Trim maxed out before Bin2806 expl

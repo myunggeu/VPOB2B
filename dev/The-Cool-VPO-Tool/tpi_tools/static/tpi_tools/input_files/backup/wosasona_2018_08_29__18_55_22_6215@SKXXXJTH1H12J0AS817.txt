@@ -1,0 +1,1 @@
+visid: M8NE567700557, Explanation: Unit failed B4313 only once throughout the test history. Possibly a tester/HW issue.

@@ -1,0 +1,1 @@
+visid: M7SH412400872, Explanation: Core 3 Vload pin was not connected during initial test. There are no changes to FIVR module. With pin connected, this unit passes.

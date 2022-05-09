@@ -1,0 +1,1 @@
+visid: M88J7X3800765, Explanation: Failing for lower limit on upper diode. Might be real fail. Need to check the pin or rerun unit .

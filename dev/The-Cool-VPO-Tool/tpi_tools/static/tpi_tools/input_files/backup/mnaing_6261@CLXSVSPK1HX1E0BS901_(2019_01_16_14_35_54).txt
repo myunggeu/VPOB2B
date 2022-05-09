@@ -1,0 +1,3 @@
+visid: M8SA531000062, Explanation: New added pattern is failing at S901
+visid: M8SA531000005, Explanation: New added pattern is failing at S901
+visid: D8S77S0700021, Explanation: LTTC for MLC  is set to kill at S901

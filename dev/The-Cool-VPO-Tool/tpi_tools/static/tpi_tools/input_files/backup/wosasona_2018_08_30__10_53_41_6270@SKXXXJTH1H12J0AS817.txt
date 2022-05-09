@@ -1,0 +1,2 @@
+visid: M8NE567700365, Explanation: Fail seems to be valid. Unit failed B4821 twice, and the fails come from the same Pad "1|PE3_TX_DN[6]|1"
+visid: M8LM305300365, Explanation: The fail seems to be valid. Unit fails B4336 twice in this operation with no history of Bin1.

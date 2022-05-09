@@ -1,0 +1,12 @@
+visid: M7774QA300032, Explanation: FIVR_VTARGET_CORE fail, likely to be HW issue
+visid: M7774QA300753, Explanation: FIVR_VTARGET_CORE fail, likely to be HW issue
+visid: M7774QA300766, Explanation: FIVR_VTARGET_CORE fail, likely to be HW issue
+visid: M7PU387100317, Explanation: FIVR_VTARGET_CORE fail, likely to be HW issue
+visid: M7DR176200431, Explanation: CRES fail, HW issue
+visid: M7DR176200474, Explanation: CRES fail, HW issue
+visid: M7DR176200303, Explanation: recovered at retest
+visid: M7DR176200229, Explanation: CRES fail, HW issue
+visid: M7PU387100090, Explanation: CRES fail, HW issue
+visid: M7DR176200003, Explanation: CRES fail, HW issue
+visid: M7DR176200583, Explanation: HW issue causing bad contact
+visid: M7PU387100314, Explanation: FIVR_VTARGET_CORE fail, likely to be HW issue

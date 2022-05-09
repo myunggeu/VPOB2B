@@ -1,0 +1,1 @@
+visid: M7J13X7701190, Explanation: invalid. Testing/HW issue on S724TP, S803TP unit was bin1 which is matched to S808TP.

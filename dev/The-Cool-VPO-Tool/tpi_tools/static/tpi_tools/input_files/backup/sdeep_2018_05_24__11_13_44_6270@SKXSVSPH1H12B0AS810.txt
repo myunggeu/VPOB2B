@@ -1,0 +1,3 @@
+visid: M7N7K70501137, Explanation: has been a bin4430 in old tps
+visid: M73K2D8500870, Explanation: Degraded unit, passed flow1 in old run & now coming to flow4
+visid: M7SH412400356, Explanation: lttc shud be in monitor mode now, y failing??

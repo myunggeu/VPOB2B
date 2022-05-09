@@ -1,0 +1,1 @@
+visid: M9V06E8801174, Explanation: Unit fails at most of the time throughout historyb bin 4480. In actual TP the units did not pass any QDF by core configuration.

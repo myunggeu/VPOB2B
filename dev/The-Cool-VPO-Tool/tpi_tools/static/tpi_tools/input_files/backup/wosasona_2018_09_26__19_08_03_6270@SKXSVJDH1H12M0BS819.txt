@@ -1,0 +1,2 @@
+visid: M8LM305300088, Explanation: Unit fails B1332 only once in VPO history; most likely due to tester/HW issue
+visid: M8CQ906300449, Explanation: The unit fails B1330 in 'new bin' a total 3 times from 3 different TP runs.

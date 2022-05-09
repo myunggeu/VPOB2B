@@ -1,0 +1,19 @@
+visid: M8KR236200478, Explanation: B1306 is OPENs/Contact issue
+visid: M8HC458500312, Explanation: B1306 is OPENs/Contact issue
+visid: M8HC458500120, Explanation: B1306 is OPENs/Contact issue
+visid: M8HC458500513, Explanation: B1306 is OPENs/Contact issue
+visid: M8HC458500332, Explanation: B1306 is OPENs/Contact issue
+visid: M8HC458500186, Explanation: B1306 is OPENs/Contact issue
+visid: M8HC458500302, Explanation: B1306 is OPENs/Contact issue
+visid: M8HC458500129, Explanation: B1306 is OPENs/Contact issue
+visid: M8KR236200422, Explanation: B1306 is OPENs/Contact issue
+visid: M8KR236200437, Explanation: B1306 is OPENs/Contact issue
+visid: M93Y2R6200388, Explanation: B1306 is OPENs/Contact issue
+visid: M8X0G79900046, Explanation: B1306 is OPENs/Contact issue
+visid: M8KR236200458, Explanation: B1306 is OPENs/Contact issue
+visid: M94R2R2100051, Explanation: B1306 is OPENs/Contact issue
+visid: M8HC458500255, Explanation: B1306 is OPENs/Contact issue
+visid: M8HC458500449, Explanation: B1306 is OPENs/Contact issue
+visid: M94R2R2100337, Explanation: B1306 is OPENs/Contact issue
+visid: M94R2R2100138, Explanation: B1306 is OPENs/Contact issue
+visid: M94R2R2100343, Explanation: B1307 was due to SHORT on previous run.

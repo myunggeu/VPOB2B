@@ -1,0 +1,6 @@
+visid: M9XJ460200575, Explanation: failed at class hot, automatic b7299 at cold
+visid: M9XJ460201987, Explanation: failed at class hot, automatic b7299 at cold
+visid: M9F28E0200115, Explanation: new data: HW issue -- vcc contact
+visid: M9F28E0200292, Explanation: new data: HW related - SHOPS ALARM due to short
+visid: M9F28E0200364, Explanation: new data: TMM issue (known)
+visid: M9XJ460201277, Explanation: new data: TMM issue (known)

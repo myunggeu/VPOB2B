@@ -1,0 +1,1 @@
+visid: M8NE567700677, Explanation: unit failed in old TP on LR.TAPSTATUS.status_red_Unlock_Status check, unit was passing all Reset plists in previous modules, this can be due to a glitch in HW. Recovered in new TP where the glitch did not occurred.

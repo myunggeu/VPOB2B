@@ -1,0 +1,8 @@
+visid: M7PU387100108, Explanation: suspect HW issue
+visid: M7DR176200198, Explanation: CRES fail, HW issue
+visid: M7DR176200435, Explanation: CRES fail, HW issue
+visid: M7DR176200627, Explanation: CRES fail, HW issue
+visid: M7DR176200212, Explanation: CRES fail, HW issue
+visid: M7PU387100368, Explanation: CRES fail, HW issue
+visid: M7DR176200274, Explanation: HW issue on previous run
+visid: M7DR176200208, Explanation: CRES fail, HW issue

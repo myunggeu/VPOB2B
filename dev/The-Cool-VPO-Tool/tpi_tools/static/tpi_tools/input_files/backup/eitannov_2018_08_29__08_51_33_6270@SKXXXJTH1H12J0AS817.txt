@@ -1,0 +1,1 @@
+visid: M8LM305300492, Explanation: Core 04 had bad NLC screen value. Latest test program added this kill limit. 

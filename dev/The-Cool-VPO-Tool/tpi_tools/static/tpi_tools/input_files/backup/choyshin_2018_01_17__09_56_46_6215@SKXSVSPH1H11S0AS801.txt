@@ -1,0 +1,4 @@
+visid: M7N7K70500402, Explanation: HW related fail bin. Testing issue.
+visid: M7N7K70500898, Explanation: HW related fail bin. Testing issue.
+visid: M7SH412400609, Explanation: HW related fail bin. Testing issue.
+visid: M7L1Y26800103, Explanation: HW related fail bin. Testing issue.

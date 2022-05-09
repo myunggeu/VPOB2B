@@ -1,0 +1,3 @@
+visid: M7774QA300926, Explanation: Unit is failing bin1330 only once throughout the history. Most likely a tester issue
+visid: M7DR176200317, Explanation: Unit fails at bin1405 most of the time throughout history with only 2 out of 13 times bin1330
+visid: M7PU387100154, Explanation: Unit is failing bin1330 only once throughout the history. Most likely a tester issue

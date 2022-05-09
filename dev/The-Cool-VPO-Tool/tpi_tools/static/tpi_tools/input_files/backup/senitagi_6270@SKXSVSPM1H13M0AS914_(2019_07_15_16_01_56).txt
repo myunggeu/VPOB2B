@@ -1,0 +1,7 @@
+visid: M7HU061901042, Explanation: Failed due to hardware issue 
+visid: M7HU061900990, Explanation: Failed due to hardware issue 
+visid: M7HU061900915, Explanation: Failed due to hardware issue 
+visid: M7HU061901023, Explanation: Failed due to hardware issue 
+visid: M7HU061900590, Explanation: HW related issue
+visid: M7HU061901015, Explanation: HW related issue
+visid: M7HU061901026, Explanation: HW related issue

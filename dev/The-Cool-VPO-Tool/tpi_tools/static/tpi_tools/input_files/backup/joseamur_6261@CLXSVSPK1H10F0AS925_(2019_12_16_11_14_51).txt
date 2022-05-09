@@ -1,0 +1,2 @@
+visid: M9R48M5000337, Explanation: Unit was consistent bin 1 until the latest VPOs, it might have been damaged, would keep an eye on it for next VPO to see if it should be separated from correlation pool
+visid: M9KB375200431, Explanation: Second bin 9438 in last 16 runs. Would keep an eye on it, unit might have degraded after one of the latest VPOs

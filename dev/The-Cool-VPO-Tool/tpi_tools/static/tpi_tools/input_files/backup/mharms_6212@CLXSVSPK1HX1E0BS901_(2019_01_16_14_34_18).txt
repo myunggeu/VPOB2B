@@ -1,0 +1,10 @@
+visid: D8S77S0700075, Explanation: hardware  issue (DPS current clamp alarm on VCCD -- old vpo)
+visid: D8S77S0700364, Explanation: hardware issue (DPS current clamp alarm on VCCD VCONT test -- old vpo)
+visid: D8S77S0700010, Explanation: hardware issue (DPS current clamp alarm on VCCD VCONT test -- old vpo)
+visid: D8S77S0700105, Explanation: hardware issue (DPS current clamp alarm on VCCD VCONT test -- old vpo)
+visid: D8S77S0700242, Explanation: hardware issue (DPS current clamp alarm on VCCD VCONT test -- old vpo)
+visid: D8S77S0700280, Explanation: hardware issue (DPS current clamp alarm on VCCD VCONT test -- old vpo)
+visid: D8S77S0700387, Explanation: hardware issue (DPS current clamp alarm on VCCFUSE VCONT test -- old vpo)
+visid: D8S77S0700384, Explanation: hardware issue (DPS current clamp alarm on VCCD VCONT test -- old vpo)
+visid: D8S77S0700099, Explanation: hardware/contact issue -- old vpo
+visid: D8S77S0700090, Explanation: hardware/contact issue -- new vpo

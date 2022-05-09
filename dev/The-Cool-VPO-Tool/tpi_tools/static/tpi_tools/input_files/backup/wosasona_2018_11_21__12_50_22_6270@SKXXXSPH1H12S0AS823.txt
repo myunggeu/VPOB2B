@@ -1,0 +1,27 @@
+visid: M7L1Y26800287, Explanation: There are multiple bin1 results from the same testing condition with 3 bin4625 out of 57 tests.;usually due to connection issue
+visid: M7SH412400165, Explanation: Unit is failing bin1330 only once throughout the history.;due to hardware/tester issue
+visid: M7N7K70501125, Explanation: Unit is failing bin1332 only once throughout the history.;due to hardware/tester issue
+visid: M7SH412400934, Explanation: Unit is failing bin4621 only once throughout the history.;due to hardware/tester issue
+visid: M7SH412400373, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 26 tests
+visid: M7SH412400958, Explanation: Unit is failing bin4621 only once throughout the history.;due to hardware/tester issue
+visid: M7SH412401457, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 17 tests
+visid: M7SH412400069, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 34 tests.;usually due to connection issue
+visid: M7SH412401569, Explanation: Unit is failing bin4621 only once throughout the history.;due to hardware/tester issue
+visid: M7SH412401517, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 30 tests.;usually due to connection issue
+visid: M7N7K70501195, Explanation: There are multiple bin1 results from the same testing condition with 3 bin4621 out of 25 tests.;usually due to connection issue
+visid: M7N7K70500217, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 30 tests.;usually due to connection issue
+visid: M7L1Y26800240, Explanation: There are multiple bin1 results from the same testing condition with 3 bin4621 out of 33 tests.;usually due to connection issue
+visid: M7SH412400097, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 36 tests.;usually due to connection issue
+visid: M7SH412400099, Explanation: There are multiple bin1 results from the same testing condition with 3 bin4621 out of 39 tests.;usually due to connection issue
+visid: M7SH412400121, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 32 tests
+visid: M7SH412401070, Explanation: Unit is recovered to bin1 in the last VPO
+visid: M7N7K70501312, Explanation: Unit is failing bin4625 only once throughout the history.;due to hardware/tester issue
+visid: M7N7K70501308, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4625 out of 25 tests.;usually due to connection issue
+visid: M7N7K70501044, Explanation: Unit is failing bin4625 only once throughout the history.;due to hardware/tester issue
+visid: M7SH412401486, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4625 out of 33 tests.;usually due to connection issue
+visid: M7SH412400787, Explanation: Unit is failing bin4821 only once throughout the history.;due to hardware/tester issue
+visid: M7N7K70500290, Explanation: There are multiple bin1 results from the same testing condition with 3 bin4821 out of 35 tests.;usually due to connection issue
+visid: M7N7K70501130, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4821 out of 22 tests.;usually due to connection issue
+visid: M7N7K70501398, Explanation: Unit is failing bin4821 only once throughout the history.;due to hardware/tester issue
+visid: M7SH412401511, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4821 out of 30 tests
+visid: M7N7K70500012, Explanation: Unit is failing bin5432 only once throughout the history.;due to hardware/tester issue

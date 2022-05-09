@@ -1,0 +1,3 @@
+visid: M7SH412400923, Explanation: HW issue. Trim maxed out before. Now they passed as good units
+visid: M7SH412400269, Explanation: HW issue. Trim maxed out before. Now they passed as good units
+visid: M7N7K70500551, Explanation: Was a Bin 99 unit. never passed before. The Voltage regulator might have gone bad after packaging. This unit will continue to fail as 3 retest showed the same result. 

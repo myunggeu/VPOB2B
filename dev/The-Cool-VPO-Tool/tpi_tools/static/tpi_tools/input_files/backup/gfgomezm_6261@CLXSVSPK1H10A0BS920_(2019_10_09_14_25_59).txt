@@ -1,0 +1,7 @@
+visid: M95B8W9300139, Explanation: VIX fail due to HW condition.
+visid: M95B8W9300139, Explanation: (same Visual ID as before)
+visid: M95B8W9300083, Explanation: Due to OPENs, HW Related
+visid: M9Q50W3800088, Explanation: Due to OPENs, HW Related
+visid: M95B8W9300301, Explanation: Due to OPENs, HW Related
+visid: M9Q50W3800686, Explanation: Due to OPENs, HW Related
+visid: M9617MB801035, Explanation: Marginal fail. Likely due to HW condition.

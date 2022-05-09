@@ -1,0 +1,9 @@
+visid: M9V06E8801583, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit.
+visid: M9V06E8801443, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit.
+visid: M9V06E8802009, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit.
+visid: M9V06E8801314, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit.
+visid: M9V06E8801806, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit.
+visid: M9V06E8800733, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit.
+visid: M9V06E8800800, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit.
+visid: M9V06E8800913, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit.
+visid: M9V06E8802221, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit.

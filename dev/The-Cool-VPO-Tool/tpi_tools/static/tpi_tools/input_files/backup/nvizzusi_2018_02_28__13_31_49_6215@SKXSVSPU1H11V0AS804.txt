@@ -1,0 +1,3 @@
+visid: M73J2G6200741, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6201241, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6201541, Explanation: bin 4716 failing cold reset, not a real scan failure

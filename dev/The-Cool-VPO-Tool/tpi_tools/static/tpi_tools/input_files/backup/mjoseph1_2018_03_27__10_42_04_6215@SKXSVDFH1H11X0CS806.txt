@@ -1,0 +1,4 @@
+visid: M7DR176200198, Explanation: If the fail is coming from SIOBSCAN and it is hardware related. Following tester and load_board looks bad: CR03SHHX1785 and BB2TLH1P4273:SKXTFH11014 and BB2TLH1P4273:SKXTFH11486
+visid: M7DR176200345, Explanation: Hardware related related fail. Following tester and load_board looks bad: CR03SHHX1785 and BB2TLH1P4273:SKXTFH11014 and BB2TLH1P4273:SKXTFH11486
+visid: M7DR176200457, Explanation: Hardware related related fail. Following tester and load_board looks bad: CR03SHHX1785 and BB2TLH1P4273:SKXTFH11014 and BB2TLH1P4273:SKXTFH11486
+visid: M7PU387100098, Explanation: Hardware related related fail. Following tester and load_board looks bad: CR03SHHX1785 and BB2TLH1P4273:SKXTFH11014 and BB2TLH1P4273:SKXTFH11486

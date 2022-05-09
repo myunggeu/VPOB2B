@@ -1,0 +1,2 @@
+visid: M7SH412401406, Explanation: Reset module did not change between old and new TP. This failure to unlock TAP can be related to HW instability, recommendation is to run unit again to confirm
+visid: M7N7K70500540, Explanation: Reset module did not change between old and new TP. This failure to unlock TAP can be related to HW instability, recommendation is to run unit again to confirm

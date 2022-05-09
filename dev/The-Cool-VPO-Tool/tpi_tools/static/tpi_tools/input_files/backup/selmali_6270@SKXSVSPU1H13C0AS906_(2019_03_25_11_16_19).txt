@@ -1,0 +1,4 @@
+visid: M7NN267100789, Explanation: The die failed cache test c_llcdatksx_vclmminfreq3_CHKCLMF3_7941 because it wasnt tested at the test and every test in CHKCLMF3. it has failed all executions previously 6203 and passes for 6203 this execution. It fails for new scan 3tatpg content
+visid: M7NN267101320, Explanation: Core 3 failed at search F1 vmin for an invalid combination  invalid_combination_1111111111111111110010011010
+visid: M7NN267101146, Explanation: In the new run, all cores failed for llcdatksx_vclmminfreq3_CHKCLMF3 and c_lsfallksx_vclmminfreq3_CHKCLMF3_7941, while in the old run it failed for c_lsfallksx_vclmminfreq3_CHKCLMF3_7941. This is a bad a unit, and we had no changes in the cache module
+visid: M73J2G6201266, Explanation: Unit failed VCC in the new run, so it didnt get to go through cache content - need to retest to check b2b

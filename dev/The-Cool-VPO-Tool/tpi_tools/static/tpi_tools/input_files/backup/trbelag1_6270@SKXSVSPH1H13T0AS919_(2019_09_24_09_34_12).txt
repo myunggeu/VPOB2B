@@ -1,0 +1,2 @@
+visid: M9WC266701418, Explanation: Unit failing to Bin 1823 due to calculated value of Slope of one of the Core ADCs is outside limits. Looks like instability since the same unit has pass history. No Power content changes have been made.
+visid: M9WC266701517, Explanation: The unit is bin 94 throughout the history. It fails begin flow and bin out at bin 1823 in new run. PWR: Unit failing to Bin 1823 due to calculated value of Slope of one of the Core ADCs is outside limits. Looks like instability since the same unit has pass history. No Power content changes have been made. 

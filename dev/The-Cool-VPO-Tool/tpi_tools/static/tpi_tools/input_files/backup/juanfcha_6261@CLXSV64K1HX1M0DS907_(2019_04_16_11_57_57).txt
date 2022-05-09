@@ -1,0 +1,2 @@
+visid: M8X0G79900473, Explanation: Unit fails bin1498: IDSK disables IA12 for exceeding Vmin variability limits making it unable to match any valid core combination.
+visid: M8HC458500130, Explanation: Unit failed bin1498: IDSK disabled IA(s) for exceeding Vmin variability limits making it unable to match any valid core combination.

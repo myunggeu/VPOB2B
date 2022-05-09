@@ -1,0 +1,1 @@
+visid: M88J7X3800090, Explanation: Unit failed bin44 only once throughout the history. Recovered to bin 100

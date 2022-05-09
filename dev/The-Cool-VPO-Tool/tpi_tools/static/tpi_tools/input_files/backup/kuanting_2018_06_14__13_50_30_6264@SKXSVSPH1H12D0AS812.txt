@@ -1,0 +1,31 @@
+visid: M7N7K70500047, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500090, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501036, Explanation: recover to bin1
+visid: M7N7K70501115, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501182, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500093, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501170, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500068, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500070, Explanation: recover to bin1
+visid: M7N7K70500131, Explanation: recover to bin1
+visid: M7N7K70500857, Explanation: recover to bin1
+visid: M7N7K70501038, Explanation: recover to bin1
+visid: M7N7K70501132, Explanation: recover to bin1
+visid: M7N7K70501137, Explanation: recover to bin1
+visid: M7N7K70501317, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500193, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500988, Explanation: valid bin4621 failing at same pin at fidderent TIU
+visid: M7N7K70501069, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501138, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501371, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500802, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500779, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501322, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500194, Explanation: valid fallout at KTI DC as history shows multiple bin4621/4625
+visid: M7N7K70500055, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M73K2D8500874, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M73K2D8500968, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500709, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500743, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501304, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501351, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue

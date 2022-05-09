@@ -1,0 +1,4 @@
+visid: M9FE297101248, Explanation: Failed once during cleanx, seems like an isolated event
+visid: M9R48M5000739, Explanation: Failed once during cleanx, seems like an isolated event
+visid: M9FE297100898, Explanation: Need to RV unit, 2/4 runs have failed in the same pattern
+visid: M9R48M5000779, Explanation: seems like tester issue, unit's been bin4425 consistently

@@ -1,0 +1,1 @@
+visid: M9BR819701055, Explanation: Unit fails bin1407 on IAX2, GUARDBAND_FREQ_3.900_IS_OUT_OF_MEASUREMENT_BOUNDS:_['0.8','1.8','2.4','3','3.6','3.8']. Not passing any Bucket. 

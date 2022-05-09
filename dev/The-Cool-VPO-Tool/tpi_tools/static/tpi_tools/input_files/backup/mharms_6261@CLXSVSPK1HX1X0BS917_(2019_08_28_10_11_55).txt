@@ -1,0 +1,22 @@
+visid: M9FE297101297, Explanation: TPI_VCONT: very low current on one suply pin. Recovered
+visid: M9FE297100972, Explanation: TPI_SHOPS near-short (HW issue). Recoverd
+visid: M9R48M5000116, Explanation: TPI_VCONT: very low current on one suply pin. Recovered
+visid: M9FE297101288, Explanation: TPI_VCONT: very low current on one suply pin. Recovered
+visid: M9FE297100784, Explanation: TPI_VCONT: very low current on one suply pin. Recovered
+visid: M9R48M5000509, Explanation: TPI_VCONT: very low current on one suply pin. Recovered
+visid: M9R48M5000834, Explanation: TPI_VCONT: very low current on one suply pin. Recovered
+visid: M9KB375200401, Explanation: Unit recovered from a HW issue (open pin)
+visid: M9KB375200514, Explanation: TPI_VCONT: very low current on one suply pin. Recovered
+visid: M9FE297100939, Explanation: TPI_SHOPS: New data fails for open pin due to HW issue. Retest should recover.
+visid: M9R48M5000158, Explanation: TPI_SHOPS: New data fails for open pin due to HW issue. Retest should recover.
+visid: M9R48M5000830, Explanation: TPI_SHOPS: New data fails for open pin due to HW issue. Retest should recover.
+visid: M9KB375201276, Explanation: TPI_SHOPS: New data fails for near open pin, likely due to HW issue. Retest should recover.
+visid: M9R48M5000892, Explanation: This fail is due to a tester issue (open pin)
+visid: M9R48M5000933, Explanation: This fail is due to a tester issue (open pin)
+visid: M9KB375201036, Explanation: This fail is due to a tester issue (open pin)
+visid: M9R48M5000618, Explanation: This fail is due to a tester issue (open pin)
+visid: M9KB375201281, Explanation: Bad unit. TPI_SHOPS: unit has history of SHOPS fails for short on EDM0 pin. Later data got worse and failed EDM in DCFF
+visid: M9FE297100896, Explanation: New data: TPI_VCONT: very low current on one supply pin, likely HW issue. May recover if retested
+visid: M9R48M5001005, Explanation: New data: TPI_VCONT: very low current on one suply pin. Later VPO recovered
+visid: M9R48M5000570, Explanation: New data: TPI_VCONT: very low current on one supply pin, likely HW issue. May recover if retested
+visid: M9FE297101111, Explanation: Unit may be damaged. Started failing THRSOAK and HW alarming in DCFF VCONT in VPO prior to the new VPO 

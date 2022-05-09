@@ -1,0 +1,16 @@
+visid: M73J2G6200729, Explanation: sbft
+visid: M73J2G6200896, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6200002, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6200022, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6200072, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6200145, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6200213, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6200730, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6200741, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6201241, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6201448, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6201470, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6201541, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M7NN267100074, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M7NN267101121, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M7NN267101349, Explanation: bin 4716 failing cold reset, not a real scan failure

@@ -1,0 +1,1 @@
+visid: M9PB483200432, Explanation: for B2806; unit recovered to B100 on latest run. Tester instability issue

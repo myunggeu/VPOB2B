@@ -1,0 +1,4 @@
+visid: M7SH412400963, Explanation: failed b4 reaching sbft in new run
+visid: M73K2D8500682, Explanation: failed b4 reaching sbft in new run
+visid: M7SH412401013, Explanation: failed b4 reaching sbft in new run
+visid: M7N7K70500776, Explanation: Problematic FC patterns removed

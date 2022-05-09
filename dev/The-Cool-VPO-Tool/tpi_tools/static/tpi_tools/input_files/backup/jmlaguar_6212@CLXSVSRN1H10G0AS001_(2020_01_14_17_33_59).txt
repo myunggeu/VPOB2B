@@ -1,0 +1,7 @@
+visid: M9F05R5400792, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue on keeping unit cold. Recovered in new VPO
+visid: M9F05R5400970, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue on keeping unit cold. Recovered in new VPO
+visid: M9F05R5401106, Explanation: Bin1 in retest. Hardware issue.
+visid: M9F05R5400509, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue on keeping unit cold. Retesting should recover unit.
+visid: M9F05R5400815, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue on keeping unit cold. Retesting should recover unit.
+visid: M9F05R5400854, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue on keeping unit cold. Retesting should recover unit.
+visid: M9F05R5401037, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue on keeping unit cold. Retesting should recover unit.

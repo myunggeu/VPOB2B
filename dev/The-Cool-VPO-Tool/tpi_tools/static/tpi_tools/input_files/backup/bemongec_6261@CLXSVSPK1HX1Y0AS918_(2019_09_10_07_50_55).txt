@@ -1,0 +1,1 @@
+visid: M9R48M5000608, Explanation: In previous TP the unit failed bin 14 due to the core configuration was no valid, in actual the unit pass as bin 1 due to has more core enable.

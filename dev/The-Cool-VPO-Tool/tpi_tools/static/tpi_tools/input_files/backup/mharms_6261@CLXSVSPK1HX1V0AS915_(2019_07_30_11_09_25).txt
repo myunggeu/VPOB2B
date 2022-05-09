@@ -1,0 +1,2 @@
+visid: M8SA531000142, Explanation: Unit recovered from a HW issue
+visid: D8S77S0700223, Explanation: Unit recovered from a HW issue

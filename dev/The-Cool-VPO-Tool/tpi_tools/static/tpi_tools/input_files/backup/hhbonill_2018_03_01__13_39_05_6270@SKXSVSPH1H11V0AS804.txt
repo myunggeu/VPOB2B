@@ -1,0 +1,2 @@
+visid: M7N7K70501275, Explanation: It failed before due to issed, it means Hw communication issues.
+visid: M7SH412400862, Explanation: Retesting the unit should pass. this is a TIU issue we are seeing recently . the unit history is clean with good trim values. Not a valid PLL failure

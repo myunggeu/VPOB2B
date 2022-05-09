@@ -1,0 +1,2 @@
+visid: M7N7K70501118, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501228, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue

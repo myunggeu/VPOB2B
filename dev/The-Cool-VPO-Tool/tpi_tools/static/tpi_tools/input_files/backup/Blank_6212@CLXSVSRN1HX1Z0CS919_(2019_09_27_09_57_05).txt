@@ -1,0 +1,4 @@
+visid: M9F05R5400051, Explanation: Unit recovered to Bin1. Previous fail is due to HW issue
+visid: M9F05R5400736, Explanation: Unit has multiple B100 history. Single fail is due to tester HW issue
+visid: M9F05R5400053, Explanation: Unit has multiple B100 history. Single fail is due to tester HW issue
+visid: M9F05R5400984, Explanation: Unit has multiple B100 history. Single fail is due to tester HW issue

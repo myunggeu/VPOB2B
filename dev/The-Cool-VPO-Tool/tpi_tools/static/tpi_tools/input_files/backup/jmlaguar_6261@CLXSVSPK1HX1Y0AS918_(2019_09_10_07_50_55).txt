@@ -1,0 +1,4 @@
+visid: M9FE297101258, Explanation: 9764 bin was likely due to HW variation and AP instability. Recovered in new VPO
+visid: M9FE297101288, Explanation: Software failure. Failed to switch thermal control set.
+visid: M9FE297100782, Explanation: Software failure. Failed to switch thermal control set.
+visid: M9FE297100570, Explanation: Triggered alarm in TDAU template

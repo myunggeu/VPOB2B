@@ -1,0 +1,5 @@
+visid: M7W84N4000151, Explanation: VCCD supply clamped, can be HW related or unit damage. No module change needed
+visid: M7W84N4000157, Explanation: VCCD supply clamped, can be HW related or unit damage. No module change needed
+visid: M7W84N4000159, Explanation: VCCD supply clamped, can be HW related or unit damage. No module change needed
+visid: M7W84N4000156, Explanation: should be HW issue, no limit change
+visid: M7W84N4000902, Explanation: should be HW issue, no limit change

@@ -1,0 +1,1 @@
+visid: M7PU387100099, Explanation: Core 14 VDAC pin was not connected during "reference" run. Was connected during "new" run, and unit worked correctly. No FIVR module change here.

@@ -1,0 +1,2 @@
+visid: M7SH412400897, Explanation: Marginal scan failure
+visid: M7L1Y26800144, Explanation: one marginal CHA core

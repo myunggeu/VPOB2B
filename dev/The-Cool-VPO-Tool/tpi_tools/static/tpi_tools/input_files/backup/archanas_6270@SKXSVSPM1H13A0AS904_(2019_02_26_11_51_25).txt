@@ -1,0 +1,1 @@
+visid: M7HU061901511, Explanation: Unit failed due to incorrect ADC code capture ; valid and real failure

@@ -1,0 +1,4 @@
+visid: M9617MB800908, Explanation: Unit is failling due to a marginal open in pin: SVIDALERT_N1. Caused by HW issue.
+visid: M9FE297101321, Explanation: Unit is failling due to a short on VCCIN Power Supply on the failflow. Dameged Unit
+visid: M9R48M5000558, Explanation: Unit failed after restiting bin4625. SIO_KTI_DC1_DFXLEGCHK_X_CMEM_K_END_X_VCCIOVCCSA_VNOM_X_VIADELAMCMEM. This can be caused by HW Issue.
+visid: M9R48M5000825, Explanation: Unit is failling for a marginal open in Vload Core41. HW Issue.

@@ -1,0 +1,1 @@
+visid: M7774QA300774, Explanation: 2 DDR lines failing low, not marginal. poor socketing

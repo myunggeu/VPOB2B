@@ -1,0 +1,34 @@
+visid: M73K2D8500968, Explanation: HW issue on previous run
+visid: M7N7K70500578, Explanation: CRES fail on previous run, HW issue
+visid: M7N7K70500350, Explanation: CRES fail on previous run, HW issue
+visid: M7N7K70500418, Explanation: CRES fail on previous run, HW issue
+visid: M7SH412400581, Explanation: CRES fail on previous run, HW issue
+visid: M7SH412400907, Explanation: CRES fail on previous run, HW issue
+visid: M7N7K70500014, Explanation: CRES fail on previous run, HW issue
+visid: M7N7K70500193, Explanation: CRES fail on previous run, HW issue
+visid: M7N7K70500752, Explanation: CRES fail on previous run, HW issue
+visid: M7SH412400449, Explanation: HW issue on previous run
+visid: M7N7K70500194, Explanation: CRES fail, HW issue
+visid: M7N7K70500457, Explanation: CRES fail, HW issue
+visid: M7N7K70500476, Explanation: CRES fail, HW issue
+visid: M7N7K70501150, Explanation: CRES fail, HW issue
+visid: M7N7K70501374, Explanation: CRES fail, HW issue
+visid: M7SH412400927, Explanation: CRES fail, HW issue
+visid: M7N7K70500936, Explanation: CRES fail, HW issue
+visid: M7N7K70500479, Explanation: CRES fail, HW issue
+visid: M7N7K70501117, Explanation: CRES fail, HW issue
+visid: M7N7K70501207, Explanation: CRES fail, HW issue
+visid: M7N7K70501410, Explanation: CRES fail, HW issue
+visid: M7N7K70500328, Explanation: CRES fail, HW issue
+visid: M7N7K70500245, Explanation: CRES fail, HW issue
+visid: M7N7K70500701, Explanation: CRES fail, HW issue
+visid: M7N7K70500435, Explanation: CRES fail, HW issue
+visid: M7N7K70500522, Explanation: CRES fail, HW issue
+visid: M7SH412400011, Explanation: CRES fail, HW issue
+visid: M7N7K70500483, Explanation: CRES fail, HW issue
+visid: M7N7K70500555, Explanation: CRES fail, HW issue
+visid: M7N7K70501352, Explanation: CRES fail, HW issue
+visid: M7N7K70501429, Explanation: CRES fail, HW issue
+visid: M7SH412400348, Explanation: CRES fail, HW issue
+visid: M7SH412400455, Explanation: CRES fail, HW issue
+visid: M7SH412400956, Explanation: burnt unit

@@ -1,0 +1,37 @@
+visid: M73J2G6201275, Explanation: Unit recovered from HW issue
+visid: M73J2G6201219, Explanation: Unit recovered from HW issue
+visid: M73J2G6200212, Explanation: Unit recovered from HW issue
+visid: M7NN267100113, Explanation: Unit recovered from HW issue
+visid: M7NN267101290, Explanation: Unit recovered from HW issue
+visid: M7NN267100773, Explanation: Unit recovered from HW issue
+visid: M7NN267100839, Explanation: Unit recovered from HW issue
+visid: M73J2G6200744, Explanation: Unit failed due to HW issue
+visid: M73J2G6200748, Explanation: Unit failed due to HW issue
+visid: M73J2G6201323, Explanation: Unit failed due to HW issue
+visid: M73J2G6201134, Explanation: Unit failed due to HW issue
+visid: M73J2G6200890, Explanation: Unit failed due to HW issue
+visid: M73J2G6201305, Explanation: Unit failed due to HW issue
+visid: M73J2G6201281, Explanation: Unit failed due to HW issue
+visid: M73J2G6201260, Explanation: Unit failed due to HW issue
+visid: M73J2G6200781, Explanation: Unit failed due to HW issue
+visid: M73J2G6201117, Explanation: Unit failed due to HW issue
+visid: M73J2G6200768, Explanation: Unit failed due to HW issue
+visid: M73J2G6200317, Explanation: Unit failed due to HW issue
+visid: M73J2G6200361, Explanation: Unit failed du to HW issue
+visid: M73J2G6200364, Explanation: Unit failed due to HW issue
+visid: M7NN267101176, Explanation: Unit failed due to HW issue
+visid: M73J2G6200353, Explanation: Unit failed due to HW issue
+visid: M7NN267100865, Explanation: Unit failed due to HW issue
+visid: M7NN267100967, Explanation: Unit faile due to HW issue
+visid: M7NN267100618, Explanation: Unit failed due to HW issue
+visid: M7NN267100576, Explanation: Unit failed due to HW issue
+visid: M7NN267100779, Explanation: Unit failed due to HW issue
+visid: M7NN267100616, Explanation: Unit failed due to HW issue
+visid: M7NN267101232, Explanation: Unit failed due to HW issue
+visid: M7NN267101303, Explanation: Unit failed due to HWW issue
+visid: M73J2G6201196, Explanation: Unit failed due to HWW issue
+visid: M73J2G6201262, Explanation: Unit failed due to HWW issue
+visid: M73J2G6201204, Explanation: Unit failed due to HWW issue
+visid: M73J2G6201298, Explanation: Unit failed due to HWW issue
+visid: M73J2G6201184, Explanation: Unit failed due to HWW issue
+visid: M73J2G6200085, Explanation: Unit failed due to HWW issue

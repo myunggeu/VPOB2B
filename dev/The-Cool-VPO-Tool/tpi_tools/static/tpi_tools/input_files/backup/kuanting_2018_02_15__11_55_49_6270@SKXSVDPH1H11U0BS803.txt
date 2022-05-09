@@ -1,0 +1,7 @@
+visid: D7WF637100040, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: D7WF637100063, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: D73U27M900093, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: D7WF637100205, Explanation: Unit fails at bin4621 2 out of 5 tests in the history. Should be a valid failure
+visid: D7WF637100079, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: D72N5Q3400327, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4821 out of 7 tests
+visid: D73U27M900106, Explanation: Unit is failing bin4822 only once throughout the history. Most likely a tester issue

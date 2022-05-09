@@ -1,0 +1,46 @@
+visid: M7L1Y26800252, Explanation: bas contact, HW issue
+visid: M7L1Y26800033, Explanation: bas contact, HW issue
+visid: M7SH412400686, Explanation: recovered at rerun
+visid: M7SH412401422, Explanation: recovered at rerun
+visid: M73K2D8500968, Explanation: bas contact, HW issue
+visid: M7L1Y26800107, Explanation: bas contact, HW issue
+visid: M7L1Y26800114, Explanation: bas contact, HW issue
+visid: M7N7K70500237, Explanation: bas contact, HW issue
+visid: M7SH412400956, Explanation: bas contact, HW issue
+visid: M7N7K70500353, Explanation: CRES fail, HW issue
+visid: M7N7K70500578, Explanation: CRES fail, HW issue
+visid: M7SH412400014, Explanation: CRES fail, HW issue
+visid: M7SH412400108, Explanation: CRES fail, HW issue
+visid: M7SH412401439, Explanation: CRES fail, HW issue
+visid: M7L1Y26800223, Explanation: recovered at rerun
+visid: M7L1Y26800138, Explanation: suspect HW issue, need to rerun to confirm
+visid: M7L1Y26800029, Explanation: CRES fail, HW issue
+visid: M7N7K70500418, Explanation: CRES fail, HW issue
+visid: M7SH412400581, Explanation: CRES fail, HW issue
+visid: M7SH412401132, Explanation: CRES fail, HW issue
+visid: M7SH412401446, Explanation: CRES fail, HW issue
+visid: M7L1Y26800113, Explanation: CRES fail, HW issue
+visid: M7N7K70500014, Explanation: CRES fail, HW issue
+visid: M7N7K70500193, Explanation: CRES fail, HW issue
+visid: M7N7K70500752, Explanation: CRES fail, HW issue
+visid: M7N7K70501406, Explanation: CRES fail, HW issue
+visid: M7N7K70500177, Explanation: CRES fail, HW issue
+visid: M7SH412400449, Explanation: bas contact, HW issue
+visid: M7SH412401268, Explanation: CRES fail, HW issue
+visid: M7L1Y26800258, Explanation: HW issue at previous run
+visid: M7N7K70500152, Explanation: HW issue at previous run
+visid: M7SH412401516, Explanation: HW issue at previous run
+visid: M7L1Y26800104, Explanation: HW issue at previous run
+visid: M7SH412400907, Explanation: CRES fail, HW issue
+visid: M7SH412400148, Explanation: CRES fail, HW issue
+visid: M73K2D8500985, Explanation: HW issue at previous run
+visid: M7N7K70500246, Explanation: HW issue at previous run
+visid: M7N7K70500620, Explanation: HW issue at previous run
+visid: M7SH412401261, Explanation: HW issue at previous run
+visid: M7SH412401124, Explanation: HW issue at previous run
+visid: M7SH412401556, Explanation: HW issue at previous run
+visid: M7N7K70500657, Explanation: HW issue at previous run
+visid: M7L1Y26800086, Explanation: bas contact, HW issue
+visid: M7N7K70500350, Explanation: CRES fail, HW issue
+visid: M7SH412400006, Explanation: CRES fail, HW issue
+visid: M7SH412401531, Explanation: suspect HW issue, need to rerun to confirm

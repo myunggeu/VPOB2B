@@ -1,0 +1,4 @@
+visid: M9F05R5400039, Explanation: Unit recovered from HW issue in previous TP run
+visid: M9F05R5400062, Explanation: Unit recovered from HW issue in previous TP run
+visid: M9F05R5401027, Explanation: Unit recovered from HW issue in previous TP run
+visid: M9F05R5400043, Explanation: Unit failed due to HW issue

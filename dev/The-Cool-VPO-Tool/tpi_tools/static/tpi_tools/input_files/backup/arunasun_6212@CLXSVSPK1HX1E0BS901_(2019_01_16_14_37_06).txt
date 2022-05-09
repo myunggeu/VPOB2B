@@ -1,0 +1,16 @@
+visid: M8SA531000480, Explanation: Hot rejects
+visid: M8SA531000019, Explanation: Hot rejects
+visid: M8SA531000412, Explanation: Hot rejects
+visid: M8SA531000140, Explanation: Hot rejects
+visid: M8SA531000156, Explanation: Hot rejects
+visid: M8SA531000048, Explanation: Hot rejects
+visid: M8SA531000268, Explanation: Hot rejects
+visid: M8SA531000065, Explanation: Hot rejects
+visid: M8SA531000448, Explanation: Hot rejects
+visid: D8S77S0700021, Explanation: Hot rejects
+visid: M8SA531000083, Explanation: Hot rejects
+visid: M8SA531000127, Explanation: Hot rejects
+visid: M8SA531000455, Explanation: Hot rejects
+visid: M8SA531000096, Explanation: Hot rejects
+visid: M8SA531000442, Explanation: Hot rejects
+visid: M8SA531000217, Explanation: Hot rejects

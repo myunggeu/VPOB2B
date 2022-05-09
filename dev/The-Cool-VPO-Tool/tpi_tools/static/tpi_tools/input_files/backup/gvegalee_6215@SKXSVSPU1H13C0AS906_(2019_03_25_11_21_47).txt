@@ -1,0 +1,13 @@
+visid: M73J2G6201135, Explanation: Unit is recovery with New TP as is expected, HW issue old TP
+visid: M73J2G6200901, Explanation: Unit is recovery with New TP marginal histrorical units
+visid: M7NN267100915, Explanation: Unit is recovery with New TP as is expected, HW issue old TP
+visid: M7NN267100574, Explanation: Unit is recovery with New TP as is expected, HW issue old TP
+visid: M7NN267101123, Explanation: Unit is recovery with New TP as is expected, HW issue old TP
+visid: M7NN267101258, Explanation: Unit is recovery with New TP as is expected, HW issue old TP
+visid: M7NN267101206, Explanation: Unit is recovery with New TP as is expected, HW issue old TP
+visid: M73J2G6200654, Explanation: Unit is recovery with New TP marginal histrorical units
+visid: M73J2G6200167, Explanation: HW issue with new TP units shows good pass history
+visid: M7NN267100865, Explanation: HW issue unit is recovery with New TP, marginal histrorical units
+visid: M7NN267100859, Explanation: HW issue with new TP units shows good pass history
+visid: M7NN267100967, Explanation: HW issue with new TP units shows good pass history
+visid: M73J2G6200297, Explanation: HW issue with new TP units shows good pass history

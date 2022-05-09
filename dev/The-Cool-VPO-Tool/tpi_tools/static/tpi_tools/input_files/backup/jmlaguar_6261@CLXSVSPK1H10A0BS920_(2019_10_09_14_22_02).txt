@@ -1,0 +1,2 @@
+visid: M9R48M5000126, Explanation: Lower Slope limit reached due to low temperature (~50C) during DTS testing, indicating issue with AP hardware. Recovered in new VPO
+visid: M9R48M5000568, Explanation: Lower Slope limit reached due to low temperature (~50C) during DTS testing, indicating issue with AP hardware. Recovered in new VPO

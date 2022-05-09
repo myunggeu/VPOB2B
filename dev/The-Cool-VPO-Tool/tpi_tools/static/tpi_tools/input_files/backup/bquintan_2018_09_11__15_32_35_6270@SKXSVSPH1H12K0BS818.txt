@@ -1,0 +1,1 @@
+visid: M7N7K70501055, Explanation: please rerun the unit;the reset failed in segment 10 which mean we could nor verify tap aliveness; this is a basic  requirement; also the unit have 

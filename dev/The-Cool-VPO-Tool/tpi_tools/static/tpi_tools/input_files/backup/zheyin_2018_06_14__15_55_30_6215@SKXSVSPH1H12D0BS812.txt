@@ -1,0 +1,21 @@
+visid: M7N7K70500923, Explanation: CRES fail, HW issue
+visid: M7N7K70501143, Explanation: CRES fail, HW issue
+visid: M7N7K70500052, Explanation: suspect HW issue
+visid: M7N7K70500065, Explanation: suspect HW issue
+visid: M7N7K70500789, Explanation: recovered at rerun
+visid: M7N7K70500013, Explanation: CRES fail, HW issue
+visid: M7N7K70501306, Explanation: CRES fail, HW issue
+visid: M7A176X401188, Explanation: CRES fail, HW issue
+visid: M7N7K70501205, Explanation: recovered at rerun
+visid: M7N7K70500025, Explanation: HW issue on previous run
+visid: M7N7K70500072, Explanation: HW issue on previous run
+visid: M7N7K70501072, Explanation: HW issue on previous run
+visid: M7N7K70500787, Explanation: HW issue on previous run
+visid: M7N7K70501149, Explanation: HW issue on previous run
+visid: M7N7K70501310, Explanation: HW issue on previous run
+visid: M7N7K70500822, Explanation: HW issue on previous run
+visid: M7N7K70500855, Explanation: HW issue on previous run
+visid: M7N7K70501113, Explanation: HW issue on previous run
+visid: M7N7K70500764, Explanation: HW issue on previous run
+visid: M7N7K70500861, Explanation: HW issue on previous run
+visid: M7N7K70501225, Explanation: HW issue on previous run

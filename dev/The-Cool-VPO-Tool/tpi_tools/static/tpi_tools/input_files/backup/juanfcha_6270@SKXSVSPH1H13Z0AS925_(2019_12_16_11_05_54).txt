@@ -1,0 +1,2 @@
+visid: M9EN577401160, Explanation: Unit fails bin1498: IDSK disabled IA04 for exceeding Vmin variability limits, with this the unit exceeded the limit of core defeature.
+visid: M9WC266701282, Explanation: Unit failed bin1498: IDSK disabled IA25 for exceeding Vmin variability limits, with this the unit exceeded the limit of core defeature.

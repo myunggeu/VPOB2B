@@ -1,0 +1,1 @@
+visid: M83G18S200553, Explanation: The unit in actual TP passing less QDF than previous TP, So fail bin 1407 due to it did not find a passing combination in bucketer algorithm.

@@ -1,0 +1,2 @@
+visid: M8BD231400173, Explanation: Then was a sudden spike SFR trim so this failed, could be a HW issue as after that we continuosly see bin1
+visid: M8NE567700457, Explanation: OCP Core Recovery allowed core disable for core with bad OCP and unit recovery. But lock failed in PLL, could be HW issue

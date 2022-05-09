@@ -1,0 +1,3 @@
+visid: M9HC416300267, Explanation: These failed for analog measure voltage read. Working now. No Module change
+visid: M9XB559800559, Explanation: These failed for analog measure voltage read. Working now. No Module change
+visid: M9HC416301414, Explanation: Core 06 FIVR showed .855V when 0.8V requested at cold during reference run, now shows 8.63V, above limit. Reference run should have failed per test program

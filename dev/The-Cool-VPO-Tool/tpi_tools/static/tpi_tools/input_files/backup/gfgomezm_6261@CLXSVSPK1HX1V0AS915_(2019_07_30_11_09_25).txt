@@ -1,0 +1,66 @@
+visid: D8S77S0700193, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000299, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000051, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000311, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000469, Explanation: HW Related bin. Recovered in new run.
+visid: D8S77S0700273, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000363, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000089, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000444, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000169, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000265, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000696, Explanation: HW Related bin. Recovered in new run.
+visid: D8S77S0700145, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000258, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000328, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000333, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000154, Explanation: HW Related bin. Recovered in new run.
+visid: D8S77S0700230, Explanation: HW Related bin. Recovered in new run.
+visid: M81Y2E3800044, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000687, Explanation: HW Related bin. Recovered in new run.
+visid: M8SA531000694, Explanation: HW Related bin. Recovered in new run.
+visid: M9HC416301068, Explanation: HW Related bin. Recovered in new run.
+visid: M9HC416300811, Explanation: HW Related bin. Recovered in new run.
+visid: M9HC416300110, Explanation: HW Related bin. Recovered in new run.
+visid: D8S77S0700021, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000175, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000116, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000027, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000242, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000334, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000047, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000221, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000476, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000478, Explanation: HW Related bin, will recover on RV
+visid: D8S77S0700265, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000201, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000464, Explanation: HW Related bin, will recover on RV
+visid: D8S77S0700178, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000131, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000274, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000318, Explanation: HW Related bin, will recover on RV
+visid: D8S77S0700253, Explanation: HW Related bin, will recover on RV
+visid: D8S77S0700284, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000224, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000214, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000310, Explanation: HW Related bin, will recover on RV
+visid: D8S77S0700341, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000346, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000013, Explanation: HW Related bin, will recover on RV
+visid: D8S77S0700333, Explanation: Previous run failed for HW.
+visid: M8SA531000332, Explanation: Previous run failed for HW.
+visid: D8S77S0700083, Explanation: Previous run failed for HW.
+visid: M8SA531000106, Explanation: Previous run failed for HW.
+visid: D8S77S0700017, Explanation: Previous run failed for HW.
+visid: M8SA531000353, Explanation: Previous run failed for HW.
+visid: D8S77S0700205, Explanation: Previous run failed for HW.
+visid: D8S77S0700055, Explanation: Previous run failed for HW.
+visid: D8S77S0700194, Explanation: Previous run failed for HW.
+visid: M9HC416301357, Explanation: Previous run failed for HW.
+visid: M8SA531000197, Explanation: Previous run failed for HW.
+visid: M8SA531000161, Explanation: HW Related bin, will recover on RV
+visid: D8S77S0700293, Explanation: HW Related bin, will recover on RV
+visid: D8S77S0700251, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000436, Explanation: HW Related bin, will recover on RV
+visid: M8SA531000094, Explanation: Previous run failed for HW.
+visid: M8SA531000067, Explanation: HW Related bin, will recover on RV

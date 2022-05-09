@@ -1,0 +1,5 @@
+visid: M8NE567700199, Explanation: all cores failing, looks like hardware induced
+visid: M8LM305300382, Explanation: all cores failing, looks like hardware induced
+visid: M8BD231400502, Explanation: all ref cores failing, looks like hardware induced
+visid: M8NE567700100, Explanation: failing for no core left in a column for self sig
+visid: M8LM305300091, Explanation: all cores failing, looks hardware

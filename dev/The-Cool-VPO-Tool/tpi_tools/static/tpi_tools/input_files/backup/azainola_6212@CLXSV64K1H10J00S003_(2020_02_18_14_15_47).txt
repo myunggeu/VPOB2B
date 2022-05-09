@@ -1,0 +1,11 @@
+visid: M8HC458500358, Explanation: Unit failed after retesting bin4313. SIO_KTI_AC1_REUTANELB_X_FAST_K_END_X_VCCIOVCCSA. Induced by HW Issue.   
+visid: M8HC458500160, Explanation: Unit failed due to an open in the upper diode of pin PROCDIS_N 
+visid: M8HC458500337, Explanation: Unit failed due to an open in the upper diode of pin KTI2_DFX_DP 
+visid: M8HC458500168, Explanation: Unit failed after retesting bin1306. MIO_DDR_C_PYTHON_NONE_INIT_SETUPEDSRUN. Induced by HW Issue.   
+visid: M8HC458500501, Explanation: Unit failed due to an open in the lower diode of pin BCLK2_DN 
+visid: M8HC458500525, Explanation: Unit failed due to an open in the upper diode of pin MCI_LGSPARE6
+visid: M8HC458500057, Explanation: Unit failed due to an open in the upper diode of pin BCLK1_DP 
+visid: M8HC458500122, Explanation: Unit failed for an open in pin ERROR_N2. But recovered in DCFail Flow. Issue related to HW.  
+visid: M8HC458500265, Explanation: Unit failed due to an open in the upper diode of pin PRDY_N 
+visid: M8HC458500298, Explanation: Unit failed after retesting bin1306. MIO_DDR_C_PYTHON_NONE_INIT_SETUPEDSRUN. Induced by HW Issue.   
+visid: M8HC458500435, Explanation: Unit failed due to an outlier open in VCCSA 

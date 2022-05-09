@@ -1,0 +1,7 @@
+visid: M9F05R5400476, Explanation: Caused by HW contact
+visid: M9F05R5400873, Explanation: Caused by HW contact
+visid: M9F05R5400385, Explanation: Marginal Fail. Recovered 
+visid: M9F05R5401096, Explanation: multiple parametric fails in previous(post runs). contact problem
+visid: M9F05R5400859, Explanation: HW related.
+visid: M9F05R5400162, Explanation: Solid B68 in recent runs (IM)
+visid: M9F05R5400486, Explanation: HW issue, recovered in RV

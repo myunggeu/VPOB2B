@@ -1,0 +1,1 @@
+visid: M8N72D0500507, Explanation: B9763 in Ref VPO was hardware related. AP during this unit test was unable to maintain cold temperature. Recovered in retest.

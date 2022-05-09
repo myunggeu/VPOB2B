@@ -1,0 +1,2 @@
+visid: M8LM305300607, Explanation: Unit recovered in the last run
+visid: M8LM305300678, Explanation: Unit failed due to HW issue

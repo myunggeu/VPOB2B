@@ -1,0 +1,73 @@
+visid: M7L1Y26800128, Explanation: invalid. Testing issue happened to S805TP - HW bin switching observed.
+visid: M7L1Y26800264, Explanation: invalid. Testing issue happened to S805TP and S807TP - unit recovered as good bin at RT.
+visid: M7L1Y26800267, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500021, Explanation: invalid. HW issue. no TP content changes. B4621 failure is from random lane on S807TP test run units, and all units having HWRT bin swicth from other HW related bin.
+visid: M7N7K70500166, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500243, Explanation: invalid. HW issue. no TP content changes. B4621 failure is from random lane on S807TP test run units, and all units having HWRT bin swicth from other HW related bin.
+visid: M7N7K70500274, Explanation: invalid. HW issue. no TP content changes. B4821 failure is from random lane on S807TP test run units, and all units having HWRT bin swicth from other HW related bin.
+visid: M7N7K70500387, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500410, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500428, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500480, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500487, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500572, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500627, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500692, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500875, Explanation: invalid. HW issue. no TP content changes. B4621 failure is from random lane on S807TP test run units, and all units having HWRT bin swicth from other HW related bin.
+visid: M7N7K70500916, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70501126, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7SH412400001, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7SH412400067, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7SH412400104, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7SH412400626, Explanation: invalid. HW issue. no TP content changes. B4621 failure is from random lane on S807TP test run units, and all units having HWRT bin swicth from other HW related bin.
+visid: M7SH412400980, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7SH412401021, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7SH412401168, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7SH412401502, Explanation: invalid. Testing issue happened to S805TP and S807TP - unit recovered as good bin at RT.
+visid: M7A176X401258, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7L1Y26800117, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7L1Y26800224, Explanation: invalid. HW issue. no TP content changes. B4821 failure is from random lane on S807TP test run units, and all units having HWRT bin swicth from other HW related bin.
+visid: M7N7K70500171, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500214, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500340, Explanation: invalid. Testing issue happened to S807TP - unit recovered as good bin at RT.
+visid: M7N7K70500573, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500641, Explanation: invalid. HW issue. no TP content changes. B4821 failure is from random lane on S807TP test run units, and all units having HWRT bin swicth from other HW related bin.
+visid: M7N7K70500741, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500882, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500940, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7SH412400082, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7SH412400390, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7SH412400539, Explanation: invalid. Testing issue happened to S807TP - unit recovered as good bin at RT.
+visid: M7SH412401034, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7SH412401122, Explanation: invalid. Testing issue happened to S807TP - unit recovered as good bin at RT.
+visid: M7SH412401179, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7SH412401278, Explanation: invalid. Testing issue happened to S807TP - unit recovered as good bin at RT.
+visid: M7N7K70500136, Explanation: invalid. HW related failure.
+visid: M7N7K70500792, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7N7K70500011, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7SH412400964, Explanation: No TP content changes. Invalid mostly. Failed port1 ltssm(HW related).
+visid: M7N7K70500898, Explanation: invalid. Testing issue happened to S807TP - HW bin switching observed.
+visid: M7A176X401382, Explanation: invalid. Testing issue happened to S805TP and S807TP - unit recovered as good bin at RT.
+visid: M7L1Y26800034, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7L1Y26800247, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7L1Y26800250, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7L1Y26800306, Explanation: invalid. Testing issue happened to S805TP.  Other TP is correlated to S807TP.
+visid: M7N7K70500408, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7N7K70500431, Explanation: invalid. Testing issue happened to S805TP and S807TP - unit recovered as good bin at RT.
+visid: M7N7K70500501, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7N7K70500565, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7N7K70501116, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7N7K70501127, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7SH412400570, Explanation: invalid. Testing issue happened to S805TP and S807TP - unit recovered as good bin at RT.
+visid: M7SH412400753, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7SH412400954, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7SH412400987, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7SH412401048, Explanation: invalid. Testing issue happened to S805TP and S807TP - unit recovered as good bin at RT.
+visid: M7SH412401085, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7SH412401525, Explanation: invalid. Testing issue happened to S805TP and S807TP - unit recovered as good bin at RT.
+visid: M7SH412401543, Explanation: invalid. Testing issue happened to S805TP and S807TP - unit recovered as good bin at RT.
+visid: M7SH412401561, Explanation: invalid. Testing issue happened to S805TP and S807TP - unit recovered as good bin at RT.
+visid: M7L1Y26800144, Explanation: invalid. Testing issue happened to S805TP - HW bin switching observed.
+visid: M7N7K70500107, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7N7K70500449, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7SH412400858, Explanation: invalid. Testing issue happened to S805TP - HW bin switching observed.

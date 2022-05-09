@@ -1,0 +1,3 @@
+visid: M7SH412400694, Explanation: Part came in in socket with a very high delta compared to the handler setpoint. Rerunning on different HW should recover unit. 
+visid: M7SH412401295, Explanation: Bin 9792 is a die force/contact issue when the unit was socketed. Retesting on different cell should recover unit.
+visid: M7SH412401533, Explanation: Bin 9792 is a die force/contact issue when the unit was socketed. Retesting on different cell should recover unit.

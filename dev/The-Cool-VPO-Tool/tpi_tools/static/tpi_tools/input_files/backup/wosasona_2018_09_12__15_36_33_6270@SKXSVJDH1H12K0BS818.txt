@@ -1,0 +1,17 @@
+visid: M8BD231400030, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M8BD231400130, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M8BD231400315, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M8NE567700445, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M8NE567700134, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M8LM305300466, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M8LM305300239, Explanation:   Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M8BD231400158, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M8BD231400086, Explanation: There are multiple bin1 results from the same testing condition with 3 bin4821 out of 10 tests. should be connection issue
+visid: M8BD231400286, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M8BD231400018, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M8CQ906300075, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M8LM305300361, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M8LM305300238, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4821 out of 10 tests. should be connection issue
+visid: M8NE567700145, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M8BD231400344, Explanation: Unit is failing bin5422 only once throughout the history. Most likely a tester issue
+visid: M8LM305300339, Explanation: Unit is failing bin5422 only once throughout the history. Most likely a tester issue

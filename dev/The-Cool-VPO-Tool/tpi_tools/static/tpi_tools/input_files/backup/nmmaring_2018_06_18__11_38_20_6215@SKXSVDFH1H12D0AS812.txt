@@ -1,0 +1,15 @@
+visid: M7774QA300751, Explanation: Recovered due to content improvement
+visid: M7774QA300756, Explanation: Recovered due to a HW issue
+visid: M7774QA300895, Explanation: Recovered due to a HW issue
+visid: M7DR176200318, Explanation: Recovered due to content improvement
+visid: M7DR176200438, Explanation: Recovered due to a HW issue
+visid: M7DR176200479, Explanation: Recovered due to a HW issue
+visid: M7PU387100046, Explanation: Recovered due to a HW issue
+visid: M7PU387100070, Explanation: Recovered due to a HW issue
+visid: M7774QA300896, Explanation: HW related issue
+visid: M7774QA300920, Explanation: HW related issue
+visid: M7DR176200202, Explanation: HW related issue
+visid: M7DR176200333, Explanation: HW related issue
+visid: M7PU387100321, Explanation: HW related issue
+visid: M7774QA300736, Explanation: HW related issue
+visid: M7PU387100155, Explanation: HW related issue

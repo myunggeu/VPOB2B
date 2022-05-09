@@ -1,0 +1,11 @@
+visid: M9F05R5401096, Explanation: B68 caused by HW previous run., NO COOKIES for unit!
+visid: M9F05R5400486, Explanation: B68 caused by HW previous run. (recovered on later run with same previous TP), NO COOKIES for unit!
+visid: M9F05R5401081, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9F05R5400498, Explanation: B13 caused by HW on previous run. Recovered with no issues, NO COOKIES for unit!
+visid: M9F05R5400530, Explanation: B13 caused by HW on previous run. Recovered with no issues, NO COOKIES for unit!
+visid: M9F05R5400646, Explanation: B13 caused by HW on previous run. Recovered with no issues, NO COOKIES for unit!
+visid: M9F05R5400747, Explanation: Unit fails bin1498: IDSK disables IA15, IA14, IA16 for exceeding Vmin variability limits making it unable to match any valid core combination., NO COOKIES for unit!
+visid: M9F05R5400002, Explanation: HW Issue. Unit rerun in VPO: J007017EV in more recent run., NO COOKIES for unit!
+Blank Entry: M9F05R5400523
+visid: M9F05R5401021, Explanation: Previously failed due to anomalous current (9801), most likely bin is real, NO COOKIES for unit!
+visid: M9F05R5400669, Explanation: Unit failed after retesting bin1911. RESET_X_FAST_K_FF_X_NOM_MCI400_X_CACHE128, NO COOKIES for unit!

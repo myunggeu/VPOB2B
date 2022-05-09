@@ -1,0 +1,3 @@
+visid: M7SH412401375, Explanation: earlier unit failed was self sig as there were 3 bad cores in a column, now only 2 so it passed
+visid: M7N7K70501161, Explanation: recovered in 805 rerun
+visid: M7SH412401570, Explanation: Marginal core recovered in the new run

@@ -1,0 +1,36 @@
+
+<head>
+    {% block header %}
+    {% include "base.html"  %}
+    <title>VPO Tools</title>
+    	<meta charset="utf-8" />
+    {% endblock %}
+</head>
+<body>
+<div class="row">
+    <div id = "plan_bar" class="col-sm-2"></div>
+    <!--<form action="/" method="POST">-->
+    <!--{% csrf_token %}-->
+      <!--<div class="well bs-sidebar" id="sidebar" style="background-color:#fff">-->
+          <!--<ul class="nav nav-pills nav-stacked">-->
+            <!--<legend>Create a Validation Plan:</legend>-->
+            <!--Last 4 Characters in TP Name:<br>-->
+            <!--<input type="text" name="tp" placeholder="ex:S717"><br>-->
+            <!--Work Week:<br>-->
+            <!--<input type="integer" name="ww" placeholder="ex:35"><br><br>-->
+            <!--<input type="submit" value="Submit">-->
+          <!--</ul>-->
+      <!--</div> &lt;!&ndash;well bs-sidebar affix&ndash;&gt;-->
+    <!--</form>-->
+    <!--</div>-->
+    <div id= "plan_list" class="col-sm-8">
+        <h3>Validation Plans</h3>
+        {% for entry in entries %}
+            <div>
+                <a href="/valid_plan/{{entry.tp}}">{{entry.tp}}</a>
+            </div>
+        {%endfor%}
+    </div>
+    <div id= "white_space" class="col-sm-2"></div>
+</div>
+</body>

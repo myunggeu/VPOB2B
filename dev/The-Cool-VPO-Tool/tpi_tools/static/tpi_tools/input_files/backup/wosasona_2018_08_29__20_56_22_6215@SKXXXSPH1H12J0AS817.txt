@@ -1,0 +1,5 @@
+visid: M7A176X401355, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412401257, Explanation: Unit is failing bin4321 only once throughout the history. Most likely a tester/HW issue
+visid: M7N7K70500948, Explanation: Unit is failing bin4336 only once throughout the history. Most likely a tester/HW issue
+visid: M7A176X401358, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 18 tests
+visid: M7N7K70500821, Explanation: Unit is failing bin5435 only once throughout the history. Most likely a tester/HW issue

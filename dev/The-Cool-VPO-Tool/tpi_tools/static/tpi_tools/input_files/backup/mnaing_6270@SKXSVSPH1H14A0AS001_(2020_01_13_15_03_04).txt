@@ -1,0 +1,6 @@
+visid: M9KK695401136, Explanation: unit is Bin4427 in history
+visid: M9WC266701798, Explanation: a single core left on a column incoming to SBFT 
+visid: M9WC266700451, Explanation: a single core left on a column incoming to SBFT
+visid: M9EN577400537, Explanation: unit was bin 4406 in the history except on S925. Bin4406 is because of a single core left on a column 
+visid: M99S9J4200804, Explanation: unit was bin 4406 in the history except on S925.Bin4406 is because of a single core left on a column 
+visid: M9KN918500514, Explanation: a single core left on a column incoming to chkcore F3 test at old run. 

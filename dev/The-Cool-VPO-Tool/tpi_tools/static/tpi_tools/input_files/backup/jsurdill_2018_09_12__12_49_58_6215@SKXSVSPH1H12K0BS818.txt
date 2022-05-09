@@ -1,0 +1,3 @@
+visid: M73K2D8500721, Explanation: Unit recovered from HW issue in old run
+visid: M7SH412401078, Explanation: Unit is failing all cores for multiple modules, likely a HW issue
+visid: M7N7K70500146, Explanation: New run suspiciously fails all cores, likely a power induced failure or HW issue

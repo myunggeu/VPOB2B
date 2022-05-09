@@ -1,0 +1,5 @@
+visid: M7SH412400559, Explanation: Hardware failure. Multiple tests failing
+visid: M7N7K70500731, Explanation: Hardware failure. Multiple tests failing
+visid: M7SH412401045, Explanation: Hardware failure. Multiple tests failing
+visid: M7N7K70500477, Explanation: Hardware failure. Multiple tests failing
+visid: M7N7K70500655, Explanation: Multiple failures. Posibble hw failure

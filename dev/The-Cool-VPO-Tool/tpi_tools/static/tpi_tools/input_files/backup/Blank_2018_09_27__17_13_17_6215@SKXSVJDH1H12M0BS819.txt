@@ -1,0 +1,14 @@
+visid: M8LM305300698, Explanation: Due to HW issue with previeus TP now is passing with new TP
+visid: M8NE567700556, Explanation: Due to HW issue with previeus TP now is passing with new TP
+visid: M8BD231400285, Explanation: Due to HW issue with previeus TP now is passing with new TP
+visid: M8BD231400566, Explanation: Due to HW issue with previeus TP now is passing with new TP
+visid: M8CQ906300205, Explanation: Due to HW issue with previeus TP now is passing with new TP
+visid: M8LM305300597, Explanation: Marginal unit failing
+visid: M8NE567700689, Explanation: Marginal unit failing
+visid: M8CQ906300107, Explanation: HW issue units histrical Good Bin Pass
+visid: M8BD231400048, Explanation: HW issue units histrical Good Bin Pass
+visid: M8LM305300529, Explanation: HW issue units histrical Good Bin Pass
+visid: M8BD231400274, Explanation: HW issue units histrical Good Bin Pass
+visid: M8CQ906300126, Explanation: HW issue units histrical Good Bin Pass
+visid: M8CQ906300401, Explanation: HW issue units histrical Good Bin Pass
+visid: M8LM305300418, Explanation: HW issue units histrical Good Bin Pass

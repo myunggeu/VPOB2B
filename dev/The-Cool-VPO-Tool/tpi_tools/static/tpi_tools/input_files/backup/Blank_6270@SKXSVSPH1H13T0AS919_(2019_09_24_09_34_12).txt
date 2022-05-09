@@ -1,0 +1,6 @@
+visid: M9WC266701807, Explanation: Marginal fail due to outlier value in upper limit (short)  
+visid: M9KK695401345, Explanation: HW Issue - retested, and failed the second time in parametric.
+visid: M9KK695401393, Explanation: HW Issue - retested, and failed the second time in parametric.
+visid: M9EN577401830, Explanation: Marginal fail due to outlier value in lower limit (open) 
+visid: M9EN577401797, Explanation: Unit recovered from HW issue
+visid: M9WC266700503, Explanation: Unit recovered from HW issue

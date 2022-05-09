@@ -1,0 +1,2 @@
+visid: M9LJ518200256, Explanation: Marginal voltage exceeding Vrelmax on previous TP.
+visid: M9PB483200333, Explanation: Unit never passed catch-all SKU.

@@ -1,0 +1,4 @@
+visid: M88J7X3800500, Explanation: Unit failed in previous TP due to didn't pass any QDF. In actual TP the unit pass 7 QDF and bucketer algorithm did find a passing combination
+visid: M88J7X3800157, Explanation: The unit fail in actual TP due to didn't pass any QDF. In actual TP IDSKP3 disabled core IA02 and change the core vector configuration
+visid: M88J7X3800656, Explanation: unit is marginal for scan test, it barely based scan test by one tick for when it passed. // The unit fail bin 14 by core configuration. The has a short history, is the first time that fail bin 14.
+visid: M7J13X7700820, Explanation: Unit fails at most of the time throughout history. In actual TP fail due to core vector configuration.

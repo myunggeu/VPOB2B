@@ -1,0 +1,2 @@
+visid: M8CQ906300470, Explanation: Unit fails Shops before Cache in New run, grossly failing everywhere.  Possible HW issue
+visid: M8BD231400368, Explanation: Unit fails Shops before Cache in New run, grossly failing everywhere.  Possible HW issue

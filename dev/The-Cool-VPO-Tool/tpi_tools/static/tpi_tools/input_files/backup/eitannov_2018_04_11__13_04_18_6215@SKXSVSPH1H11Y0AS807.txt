@@ -1,0 +1,1 @@
+visid: M7N7K70500993, Explanation: Core 27 is returning 0 for NLC retrim. In previous runs this passed. There were no changes to FIVR module.

@@ -1,0 +1,1 @@
+visid: M7G050T400144, Explanation: no b2b on b19 with new TP as unit failed on Vcc continuity with new TP and this happens before running Reset. Vcc continuity failures may be HW related on new TP

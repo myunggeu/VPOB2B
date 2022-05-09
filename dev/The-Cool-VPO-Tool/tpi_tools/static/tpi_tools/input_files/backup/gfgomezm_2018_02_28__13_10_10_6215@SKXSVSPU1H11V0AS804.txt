@@ -1,0 +1,6 @@
+visid: M73J2G6201209, Explanation: b1306 Caused by HW (opens)
+visid: M73J2G6201111, Explanation: b1306 Caused by HW (opens)
+visid: M73J2G6201476, Explanation: b1306 Caused by HW (opens)
+visid: M73J2G6201557, Explanation: b1306 Caused by HW (opens)
+visid: M7NN267101166, Explanation: Bin1307 Caused by HW before. Recovered following runs
+visid: M73J2G6201232, Explanation: HW Related VIX fail. Test still needs some tuning, it's more susceptible to HW fails at the moment.

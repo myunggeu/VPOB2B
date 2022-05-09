@@ -1,0 +1,2 @@
+visid: M73J2G6200796, Explanation: This is a bad unit. After the BI, the unit started failing ADCALIB consistently and sometimes before that causing Bin 2738 failures. This is an expected failure.
+visid: M7NN267101308, Explanation: We are seeing this behavior after testing with the new TIU. This is not a PLL related failure. As the unit history indicates that the unit is good and has trim close to median. I request to re-run to see these failures go away.

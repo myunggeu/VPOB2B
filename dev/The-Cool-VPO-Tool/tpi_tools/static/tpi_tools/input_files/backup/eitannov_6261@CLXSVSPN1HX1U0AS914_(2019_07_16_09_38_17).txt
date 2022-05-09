@@ -1,0 +1,1 @@
+visid: M8S78N4500099, Explanation: During "old bin", Core 02 (FIVR_VLOAD_CORE21 pin) was not connected. Unit has been tested before and after showing bin 1. There is no FIVR issue, failure was TIU connection issue

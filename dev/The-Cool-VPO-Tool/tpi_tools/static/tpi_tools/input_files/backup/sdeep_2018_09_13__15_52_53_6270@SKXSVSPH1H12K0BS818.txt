@@ -1,0 +1,3 @@
+visid: M7N7K70500656, Explanation: Marginal unit
+visid: M7SH412401013, Explanation: dint test sbft in the old run
+visid: M7N7K70500776, Explanation: Degraded unit

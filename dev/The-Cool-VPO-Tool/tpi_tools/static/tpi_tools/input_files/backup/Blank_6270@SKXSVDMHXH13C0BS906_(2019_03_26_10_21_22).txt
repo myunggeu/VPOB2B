@@ -1,0 +1,2 @@
+visid: D905541K00523, Explanation: Unit failed due to HW issue 
+visid: D970U5V201047, Explanation: Unit failed due to HW issue

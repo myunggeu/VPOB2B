@@ -1,0 +1,1 @@
+visid: M9WC266701456, Explanation: Previously failed due to upper prochot limit being reached from low temperature (~84C) during DTS testing, indicating issue with AP hardware. Recovered on new hardware.

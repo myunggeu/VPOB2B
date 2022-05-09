@@ -1,0 +1,4 @@
+visid: M7N7K70500382, Explanation: Marginal units historiy  SBFT
+visid: M7SH412400759, Explanation: This is a basic tap test; most likely tap induce error; probably will pass on rerun
+visid: M7L1Y26800237, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7N7K70500289, Explanation: Historically B1 unit. It failed due to HW issue

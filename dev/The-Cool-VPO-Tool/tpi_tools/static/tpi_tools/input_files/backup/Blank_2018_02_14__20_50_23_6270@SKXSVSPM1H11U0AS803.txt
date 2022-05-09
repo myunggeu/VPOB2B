@@ -1,0 +1,1 @@
+visid: M7J13X7701990, Explanation: No changes in reset module to explain failure recovery.  Possible unit marginality since B1911 fails for seg10 (basic TAP functionality) but ISEED TAP test passing and unlocking.  Not much unit history to evaluate for a repetitive behaviour like this regarding TAP.

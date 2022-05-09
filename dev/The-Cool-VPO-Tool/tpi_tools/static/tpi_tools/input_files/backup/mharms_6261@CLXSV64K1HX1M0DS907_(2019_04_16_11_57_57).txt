@@ -1,0 +1,24 @@
+visid: M8KR236200462, Explanation: old data: HW issue
+visid: M8KR236200457, Explanation: old data: HW issue
+visid: M94R2R2100131, Explanation: old data: HW issue
+visid: M8KR236200213, Explanation: old data: HW issue
+visid: M94R2R2100062, Explanation: old data: HW issue
+visid: M94R2R2100050, Explanation: old data: HW issue
+visid: M8HC458500375, Explanation: new data: HW issue (CRES Open)
+visid: M8HC458500073, Explanation: new data: HW issue (CRES Open)
+visid: M8HC458500063, Explanation: new data: HW issue (CRES Open)
+visid: M8HC458500525, Explanation: new data: HW issue (CRES Open)
+visid: M8KR236200017, Explanation: new data: HW issue (CRES Open)
+visid: M8KR236200353, Explanation: new data: HW issue (CRES Open)
+visid: M94R2R2100343, Explanation: B1307 was due to SHORT on previous run. new data: HW issue (CRES Open)
+visid: M8HC458500488, Explanation: new data: HW related
+visid: M8HC458500337, Explanation: new data: HW related
+visid: M8HC458500506, Explanation: new data: HW related
+visid: M94R2R2100218, Explanation: new data: HW related
+visid: M94R2R2100214, Explanation: new data: HW related
+visid: M94R2R2100174, Explanation: new data: HW related
+visid: M8KR236200459, Explanation: new data: HW related
+visid: M93Y2R6200079, Explanation: new data: HW related
+visid: M8KR236200298, Explanation: new data: HW related
+visid: M8HC458500413, Explanation: new data: HW related Alarm - DPS Clamp
+visid: M8HC458500142, Explanation: new data: HW related Alarm - DPS Clamp

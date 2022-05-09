@@ -1,0 +1,9 @@
+visid: M7SH412400626, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 21 tests
+visid: M7L1Y26800248, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 46 tests
+visid: M7L1Y26800300, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 37 tests
+visid: M7N7K70500086, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 38 tests
+visid: M7L1Y26800296, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 42 tests. should be connection issue
+visid: M7N7K70501143, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501184, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412401388, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400483, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue

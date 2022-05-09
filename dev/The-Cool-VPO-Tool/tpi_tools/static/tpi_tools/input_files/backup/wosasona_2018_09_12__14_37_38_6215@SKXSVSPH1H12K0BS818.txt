@@ -1,0 +1,15 @@
+visid: M7SH412401469, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4821 out of 21 tests. should be connection issue
+visid: M7N7K70500026, Explanation: Unit is failing bin4321 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500298, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4335 out of 31 tests. should be connection issue
+visid: M7N7K70500073, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 31 tests. should be connection issue
+visid: M7N7K70500218, Explanation: There are multiple bin1 results from the same testing condition with 3 bin4621 out of 31 tests. should be connection issue
+visid: M7SH412400068, Explanation: There are multiple bin1 results from the same testing condition with 3 bin4621 out of 37 tests. should be connection issue
+visid: M7N7K70500581, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500472, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500566, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400247, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400946, Explanation: There are multiple bin1 results from the same testing condition with 3 bin4621 out of 21 tests. should be connection issue
+visid: M7SH412401426, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500466, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501335, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7L1Y26800255, Explanation: There are multiple bin1 results from the same testing condition with 2 bin5433 out of 21 tests. should be connection issue

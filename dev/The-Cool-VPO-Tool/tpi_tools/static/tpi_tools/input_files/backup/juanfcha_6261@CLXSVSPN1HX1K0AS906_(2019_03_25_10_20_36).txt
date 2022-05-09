@@ -1,0 +1,20 @@
+visid: M8S78N4500342, Explanation: "Unit failed bin1409 because F5 data was not found (NA:IDSKP3:NO_FREQUENCY_FOUND_FOR_POINT:'5'.): This is caused by having both F4 & F5 with same value (32) in flow 4 of previous Flow BM. ", NO COOKIES for unit!
+Blank Entry: M8S78N4500418
+Blank Entry: M8S78N4500269
+Blank Entry: M8S78N4500351
+Blank Entry: M8S78N4500496
+Blank Entry: M8S78N4500259
+Blank Entry: M8S78N4500264
+Blank Entry: M8601RW600460
+Blank Entry: M8S78N4500498
+Blank Entry: M8S78N4500099
+Blank Entry: M8S78N4500035
+Blank Entry: M8S78N4500019
+Blank Entry: M8601RW600554
+Blank Entry: M8S78N4500432
+Blank Entry: M8S78N4500350
+Blank Entry: M8S78N4500316
+Blank Entry: M8601RW600695
+Blank Entry: M8S78N4500309
+Blank Entry: M8S78N4500510
+Blank Entry: M8S78N4500050

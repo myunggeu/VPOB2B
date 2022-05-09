@@ -1,0 +1,4 @@
+visid: M7HU061900823, Explanation: 9497 bins was likely due to HW variation and AP instability. Recovered in new VPO
+visid: M7HU061900827, Explanation: 9497 bins was likely due to HW variation and AP instability. Recovered in new VPO
+visid: M7J13X7701118, Explanation: 9497 bins was likely due to HW variation and AP instability. Recovered in new VPO
+visid: M7J13X7702000, Explanation: Bin 9792 is a die force/contact issue when the unit was socketed. Previously failed due to loose contact with tester. Recovered in new VPO.

@@ -1,0 +1,2 @@
+visid: M7N7K70501152, Explanation: DDRA012 read 0.71V when 0.8V was requested. There was no change to FIVR module.
+visid: M7SH412401200, Explanation: Test fail due to marginality for 2710 failure. This unit has failed 2806 on multiple prior 6215 runs

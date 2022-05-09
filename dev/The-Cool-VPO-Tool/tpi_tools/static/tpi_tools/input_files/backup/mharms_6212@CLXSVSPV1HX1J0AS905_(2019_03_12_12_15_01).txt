@@ -1,0 +1,2 @@
+visid: M9FD363600170, Explanation: Cannot find old data. Likely a HW+DCFF limit issue. Old TP likely had VCONT or SHOPS fail, then ran DCFF, which failed due to too tight UKL for serial-mode G roup pins. New TP run had good contact, never had to run DCFF.
+visid: M9FD363600178, Explanation: Cannot find new data. Likely a HW+DCFF limit issue. New TP likely had VCONT or SHOPS fail, then ran DCFF, which failed due to too tight UKL for serial-mode G roup pins. Old TP run had good contact, never had to run DCFF.

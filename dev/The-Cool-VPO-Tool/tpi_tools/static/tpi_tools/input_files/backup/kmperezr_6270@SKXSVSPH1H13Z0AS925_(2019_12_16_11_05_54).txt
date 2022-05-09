@@ -1,0 +1,2 @@
+visid: M9EN577401160, Explanation: Unit fails bin1498: IDSK disables IA04 for exceeding Vmin variability limits making it unable to match any valid core combination.
+visid: M9WC266701282, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 9901 out of 45 tests. Should be connection issue. Unit fails bin1498: IDSK disables IA25 for exceeding Vmin variability limits making it unable to match any valid core combination.

@@ -1,0 +1,2 @@
+visid: M73J2G6200876, Explanation: cache: invalid. Testing issue happened to S805TP - unit recovered as good bin when reran S805TP
+visid: M73J2G6201309, Explanation: cache: invalid. Testing issue happened to S805TP - unit recovered as good bin when reran S805TP

@@ -1,0 +1,81 @@
+visid: M7A176X401354, Explanation: Recovered due to a HW issue
+visid: M7N7K70500006, Explanation: Recovered due to a HW issue
+visid: M7N7K70500021, Explanation: Recovered due to a HW issue
+visid: M7N7K70500244, Explanation: Recovered due to a HW issue
+visid: M7N7K70500251, Explanation: Recovered due to a HW issue
+visid: M7N7K70500337, Explanation: Recovered due to a HW issue
+visid: M7N7K70500341, Explanation: Recovered due to a HW issue
+visid: M7N7K70500349, Explanation: Recovered due to a HW issue
+visid: M7N7K70500350, Explanation: Recovered due to a HW issue
+visid: M7N7K70500363, Explanation: Recovered due to a HW issue
+visid: M7N7K70500375, Explanation: Recovered due to a HW issue
+visid: M7N7K70500384, Explanation: Recovered due to a HW issue
+visid: M7N7K70500419, Explanation: Recovered due to a HW issue
+visid: M7N7K70500426, Explanation: Recovered due to a HW issue
+visid: M7N7K70500429, Explanation: Recovered due to a HW issue
+visid: M7N7K70500447, Explanation: Recovered due to a HW issue
+visid: M7N7K70500454, Explanation: Recovered due to a HW issue
+visid: M7N7K70500477, Explanation: Recovered due to a HW issue
+visid: M7N7K70500511, Explanation: Recovered due to a HW issue
+visid: M7N7K70500535, Explanation: Recovered due to a HW issue
+visid: M7N7K70500549, Explanation: Recovered due to a HW issue
+visid: M7N7K70500556, Explanation: Recovered due to a HW issue
+visid: M7N7K70500624, Explanation: Recovered due to a HW issue
+visid: M7N7K70500625, Explanation: Recovered due to a HW issue
+visid: M7N7K70500650, Explanation: Recovered due to a HW issue
+visid: M7N7K70500679, Explanation: Recovered due to a HW issue
+visid: M7N7K70500724, Explanation: Recovered due to a HW issue
+visid: M7N7K70500736, Explanation: Recovered due to a HW issue
+visid: M7N7K70500758, Explanation: Recovered due to a HW issue
+visid: M7N7K70500787, Explanation: Recovered due to a HW issue
+visid: M7N7K70501014, Explanation: Recovered due to a HW issue
+visid: M7N7K70501022, Explanation: Recovered due to a HW issue
+visid: M7N7K70501065, Explanation: Recovered due to a HW issue
+visid: M7N7K70501169, Explanation: Recovered due to a HW issue
+visid: M7N7K70501228, Explanation: Recovered due to a HW issue
+visid: M7N7K70501230, Explanation: Recovered due to a HW issue
+visid: M7N7K70501333, Explanation: Recovered due to a HW issue
+visid: M7N7K70501337, Explanation: Recovered due to a HW issue
+visid: M7N7K70501392, Explanation: Recovered due to a HW issue
+visid: M7N7K70501395, Explanation: Recovered due to a HW issue
+visid: M7N7K70501408, Explanation: Recovered due to a HW issue
+visid: M7N7K70501422, Explanation: Recovered due to a HW issue
+visid: M7SH412400271, Explanation: Recovered due to a HW issue
+visid: M7SH412400436, Explanation: Recovered due to a HW issue
+visid: M7SH412400481, Explanation: Recovered due to a HW issue
+visid: M7SH412400826, Explanation: Recovered due to a HW issue
+visid: M7SH412400848, Explanation: Recovered due to a HW issue
+visid: M7SH412400902, Explanation: Recovered due to a HW issue
+visid: M7SH412400928, Explanation: Recovered due to a HW issue
+visid: M7N7K70500690, Explanation: Recovered due to a HW issue
+visid: M7N7K70500765, Explanation: Recovered due to a HW issue
+visid: M7N7K70501246, Explanation: Recovered due to a HW issue
+visid: M7N7K70500096, Explanation: HW related issue
+visid: M7N7K70500001, Explanation: HW related issue
+visid: M7N7K70500011, Explanation: HW related issue
+visid: M7N7K70500069, Explanation: HW related issue
+visid: M7N7K70500093, Explanation: HW related issue
+visid: M7N7K70500107, Explanation: HW related issue
+visid: M7N7K70500148, Explanation: HW related issue
+visid: M7N7K70500331, Explanation: HW related issue
+visid: M7N7K70500444, Explanation: HW related issue
+visid: M7N7K70500467, Explanation: HW related issue
+visid: M7N7K70500618, Explanation: HW related issue
+visid: M7N7K70500859, Explanation: HW related issue
+visid: M7N7K70501019, Explanation: HW related issue
+visid: M7N7K70501031, Explanation: HW related issue
+visid: M7N7K70501089, Explanation: HW related issue
+visid: M7N7K70501117, Explanation: HW related issue
+visid: M7N7K70501195, Explanation: HW related issue
+visid: M7N7K70501259, Explanation: HW related issue
+visid: M7N7K70501404, Explanation: HW related issue
+visid: M7SH412400266, Explanation: HW related issue
+visid: M7SH412400327, Explanation: HW related issue
+visid: M7SH412400382, Explanation: HW related issue
+visid: M7SH412400448, Explanation: HW related issue
+visid: M7SH412400457, Explanation: HW related issue
+visid: M7SH412400474, Explanation: HW related issue
+visid: M7SH412400580, Explanation: HW related issue
+visid: M7SH412400827, Explanation: HW related issue
+visid: M7SH412400924, Explanation: HW related issue
+visid: M7N7K70501205, Explanation: HW related issue

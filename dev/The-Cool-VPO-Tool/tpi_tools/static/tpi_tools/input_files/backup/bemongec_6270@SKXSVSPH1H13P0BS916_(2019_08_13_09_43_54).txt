@@ -1,0 +1,1 @@
+visid: M99S9J4201059, Explanation: unit failed the previous TP due to  IDSK disabled cores.

@@ -1,0 +1,5 @@
+visid: M9KB375200701, Explanation: Unit is failing bin 9968 only once throughout the history. Most likely a tester issue
+visid: M95B8W9300194, Explanation: Unit is failing bin 9968 only once throughout the history. Most likely a tester issue
+visid: M9R48M5000564, Explanation: Unit is failing bin 9968 only once throughout the history. Most likely a tester issue
+visid: M9R48M5000337, Explanation: Unit is failing bin 9801 only once throughout the history. Most likely a tester issue
+visid: M9R48M5000560, Explanation: Unit is failing bin 9901 only once throughout the history. Most likely a tester issue

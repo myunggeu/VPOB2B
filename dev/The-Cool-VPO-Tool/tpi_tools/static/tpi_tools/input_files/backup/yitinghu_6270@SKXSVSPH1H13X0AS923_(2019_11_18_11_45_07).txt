@@ -1,0 +1,1 @@
+visid: M9PB483200249, Explanation: First bin 100 in unit history. Usual bin is 9460. The failing core 13 in ref lot was masked in new run, and caused invalid combination

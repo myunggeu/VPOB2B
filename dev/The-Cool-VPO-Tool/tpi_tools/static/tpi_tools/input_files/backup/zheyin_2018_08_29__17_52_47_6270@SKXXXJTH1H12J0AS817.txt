@@ -1,0 +1,15 @@
+visid: M8NE567700268, Explanation: tester contact issue, HW related
+visid: M8NE567700414, Explanation: tester contact issue, HW related
+visid: M8NE567700325, Explanation: tester contact issue, HW related
+visid: M8BD231400394, Explanation: tester contact issue, HW related
+visid: M8BD231400266, Explanation: HW related issue
+visid: M8NE567700036, Explanation: HW related issue
+visid: M8NE567700528, Explanation: HW related issue on previous run
+visid: M8LM305300474, Explanation: HW related issue on previous run
+visid: M8CQ906300135, Explanation: HW related issue on previous run
+visid: M8CQ906300449, Explanation: HW related issue
+visid: M8BD231400540, Explanation: HW related issue on previous run
+visid: M8LM305300340, Explanation: HW related issue on previous run
+visid: M8LM305300311, Explanation: HW related issue
+visid: M8NE567700250, Explanation: tester contact issue, HW related
+visid: M8BD231400387, Explanation: tester contact issue, HW related

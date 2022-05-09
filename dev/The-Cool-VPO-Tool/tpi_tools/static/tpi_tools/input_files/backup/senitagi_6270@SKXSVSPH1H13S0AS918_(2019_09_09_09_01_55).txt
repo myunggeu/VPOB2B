@@ -1,0 +1,44 @@
+visid: M99S9J4201132, Explanation: Unit recovered from a socketing issue now passing
+visid: M9WC266700495, Explanation: Unit recovered from a socketing issue now passing
+visid: M9KK695401330, Explanation: Unit recovered from a tester issue 
+visid: M9KK695401367, Explanation: Unit recovered from a socketing issue now passing
+visid: M9LJ518200078, Explanation: Unit recovered from a tester issue 
+visid: M9KK695401391, Explanation: Unit recovered from a tester issue 
+visid: M9MU857200005, Explanation: Unit recovered from a socketing issue now passing
+visid: M9KK695401348, Explanation: Unit recovered from a tester issue 
+visid: M9LJ518200263, Explanation: Unit recovered from a tester issue 
+visid: M9KK695401353, Explanation: Unit recovered from a tester issue 
+visid: M9KK695401294, Explanation: Unit recovered from a tester issue 
+visid: M9LJ518200150, Explanation: Unit recovered from a tester issue 
+visid: M9KK695401377, Explanation: Unit recovered from a tester issue 
+visid: M9LJ518200246, Explanation: Unit recovered from a tester issue 
+visid: M9LJ518200153, Explanation: Unit recovered from a tester issue 
+visid: M99S9J4201047, Explanation: Unit recovered from a tester issue 
+visid: M9PB483200677, Explanation: Unit recovered from a tester issue 
+visid: M9EN577400606, Explanation: Unit recovered from a tester issue 
+visid: M9EN577401821, Explanation: A  HW issue
+visid: M9EN577400658, Explanation: Hardware/Socketing issue
+visid: M9EN577401810, Explanation: Hardware/Socketing issue
+visid: M9EN577400895, Explanation: Hardware/Socketing issue
+visid: M9EN577400559, Explanation: Hardware/Socketing issue
+visid: M9EN577400566, Explanation: Hardware/Socketing issue
+visid: M9EN577401141, Explanation: Hardware/Socketing issue
+visid: M9EN577400687, Explanation: Hardware/Socketing issue
+visid: M9EN577401145, Explanation: Hardware/Socketing issue
+visid: M99S9J4201126, Explanation: Hardware/Socketing issue
+visid: M99S9J4201076, Explanation: Hardware/Socketing issue
+visid: M9KK695401360, Explanation: Hardware/Socketing issue
+visid: M9LJ518200176, Explanation: Hardware/Socketing issue
+visid: M9LJ518200089, Explanation: Hardware/Socketing issue
+visid: M9KK695401192, Explanation: Hardware/Socketing issue
+visid: M9KK695401335, Explanation: Hardware/Socketing issue
+visid: M9KK695401349, Explanation: Hardware/Socketing issue
+visid: M9KK695401135, Explanation: Hardware/Socketing issue
+visid: M9LJ518200081, Explanation: Hardware/Socketing issue
+visid: M9PB483200302, Explanation: Hardware/Socketing issue
+visid: M9EN577401151, Explanation: Hardware/Socketing issue
+visid: M9PB483200421, Explanation: Hardware/Socketing issue
+visid: M9PB483200647, Explanation: Hardware/Socketing issue
+visid: M9KK695400576, Explanation: Hardware/Socketing issue
+visid: M9EN577401736, Explanation: Hardware/Socketing issue
+visid: M9EN577401144, Explanation: Hardware/Socketing issue

@@ -1,0 +1,60 @@
+visid: M73K2D8500873, Explanation: Recovered due to a HW issue
+visid: M7N7K70500016, Explanation: Recovered due to a HW issue
+visid: M7N7K70500045, Explanation: Recovered due to a HW issue
+visid: M7N7K70500054, Explanation: Recovered due to a HW issue
+visid: M7N7K70500066, Explanation: Recovered due to a HW issue
+visid: M7N7K70500088, Explanation: Recovered due to a HW issue
+visid: M7N7K70500497, Explanation: Recovered due to a HW issue
+visid: M7N7K70500501, Explanation: Recovered due to a HW issue
+visid: M7N7K70500550, Explanation: Recovered due to a HW issue
+visid: M7N7K70500606, Explanation: Recovered due to a HW issue
+visid: M7N7K70500608, Explanation: Recovered due to a HW issue
+visid: M7N7K70500619, Explanation: Recovered due to a HW issue
+visid: M7N7K70501068, Explanation: Recovered due to a HW issue
+visid: M7N7K70501115, Explanation: Recovered due to a HW issue
+visid: M7N7K70501123, Explanation: Recovered due to a HW issue
+visid: M7N7K70501132, Explanation: Recovered due to a HW issue
+visid: M7N7K70501147, Explanation: Recovered due to a HW issue
+visid: M7N7K70501187, Explanation: Recovered due to a HW issue
+visid: M7N7K70501231, Explanation: Recovered due to a HW issue
+visid: M7N7K70501321, Explanation: Recovered due to a HW issue
+visid: M7N7K70501385, Explanation: Recovered due to a HW issue
+visid: M7N7K70501403, Explanation: Recovered due to a HW issue
+visid: M7SH412400288, Explanation: Recovered due to a HW issue
+visid: M7SH412400308, Explanation: Recovered due to a HW issue
+visid: M7SH412400471, Explanation: Recovered due to a HW issue
+visid: M7SH412400652, Explanation: Recovered due to a HW issue
+visid: M7SH412400845, Explanation: Recovered due to a HW issue
+visid: M7N7K70501210, Explanation: Recovered due to a HW issue
+visid: M7SH412400964, Explanation: Recovered due to a HW issue
+visid: M7N7K70500385, Explanation: HW related issue
+visid: M7N7K70501424, Explanation: HW related issue
+visid: M73K2D8500958, Explanation: HW related issue
+visid: M7N7K70500014, Explanation: HW related issue
+visid: M7N7K70500035, Explanation: HW related issue
+visid: M7N7K70500134, Explanation: HW related issue
+visid: M7N7K70500309, Explanation: HW related issue
+visid: M7N7K70500330, Explanation: HW related issue
+visid: M7N7K70500353, Explanation: HW related issue
+visid: M7N7K70500393, Explanation: HW related issue
+visid: M7N7K70500563, Explanation: HW related issue
+visid: M7N7K70500627, Explanation: HW related issue
+visid: M7N7K70501021, Explanation: HW related issue
+visid: M7N7K70501119, Explanation: HW related issue
+visid: M7N7K70501215, Explanation: HW related issue
+visid: M7N7K70501389, Explanation: HW related issue
+visid: M7N7K70501416, Explanation: HW related issue
+visid: M7SH412400013, Explanation: HW related issue
+visid: M7SH412400018, Explanation: Parametrics fails historical (B8/15/13), recovered in retest 
+visid: M7SH412400417, Explanation: HW related issue
+visid: M7SH412400575, Explanation: HW related, unit has historical fails.
+visid: M73K2D8500691, Explanation: HW related issue
+visid: M7N7K70500435, Explanation: HW related issue
+visid: M7N7K70501377, Explanation: HW related issue
+visid: M7N7K70500450, Explanation: HW related issue
+visid: M7N7K70501160, Explanation: HW related issue
+visid: M7SH412400012, Explanation: HW related issue
+visid: M7SH412400017, Explanation: Every MIO fail (twice B1306 and once B51) had happened due to OPENs readings, each time it happened on different DDR Lines. Unit might be physically damaged or dirty to cause this.
+visid: M7N7K70500314, Explanation: HW related issue
+visid: M7N7K70500315, Explanation: HW related issue
+visid: M7N7K70501419, Explanation: HW related issue

@@ -1,0 +1,3 @@
+visid: M7SH412401200, Explanation: There are multiple bin1 results from the same testing condition with 3 bin4621 out of 24 tests; possible connection issue
+visid: M7N7K70500818, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 23 tests
+visid: M7N7K70501237, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester/HW issue

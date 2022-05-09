@@ -1,0 +1,144 @@
+visid: M7N7K70500021, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7N7K70501014, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7N7K70501022, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7N7K70501169, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7N7K70501230, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7N7K70501333, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7N7K70501337, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7SH412400810, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7SH412400854, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7SH412400886, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7SH412400995, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7SH412401056, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7SH412401083, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7SH412401084, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7SH412401092, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7SH412401098, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7SH412401101, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7SH412401054, Explanation: HW related issue, NO COOKIES for unit!
+Blank Entry: M7SH412400542
+visid: M7N7K70501086, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7N7K70501219, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7SH412401057, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7N7K70500042, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7SH412400759, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7SH412400855, Explanation: cache: invalid. Testing issue happened to S810TP - unit recovered as good bin when reran S810TP and S811TP, NO COOKIES for unit!
+visid: M7SH412401195, Explanation: cache: invalid. Testing issue happened to S810TP - unit recovered as good bin when reran S810TP and S811TP, NO COOKIES for unit!
+visid: M7SH412400561, Explanation: Core 03 VDAC pin was not connecting for voltage read on old test. The TIU was connected correctly on new bin and unit recovered., NO COOKIES for unit!
+visid: M7N7K70500135, Explanation: recovered at RT, NO COOKIES for unit!
+visid: M7SH412400754, Explanation: recovered at RT, NO COOKIES for unit!
+visid: M7N7K70500022, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70500052, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70500088, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501074, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501112, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501142, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501175, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501178, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7SH412400589, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7SH412400739, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7SH412401063, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70500150, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501122, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501124, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501144, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501151, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501164, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501204, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7SH412400868, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7SH412401070, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501148, Explanation: We have a kill limit update for 5432 hence recovered to bin 1 in new TP, NO COOKIES for unit!
+visid: M7SH412400897, Explanation: We have a kill limit update for 5433 hence recovered to bin 1 in new TP, NO COOKIES for unit!
+visid: M7SH412401058, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7SH412401176, Explanation: Recovered due to a HW issue, NO COOKIES for unit!
+visid: M7SH412400744, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M7SH412400547, Explanation: recovered at retest, NO COOKIES for unit!
+visid: M7SH412400741, Explanation: recovered at retest, NO COOKIES for unit!
+visid: M7SH412400743, Explanation: recovered at retest, NO COOKIES for unit!
+visid: M7SH412401201, Explanation: recovered at retest, NO COOKIES for unit!
+visid: M7SH412400532, Explanation: recovered at retest, NO COOKIES for unit!
+visid: M7N7K70501192, Explanation: suspect HW issue, NO COOKIES for unit!
+visid: M7N7K70500031, Explanation: HW related issue, NO COOKIES for unit!
+visid: M7N7K70500045, Explanation: HW related issue, NO COOKIES for unit!
+visid: M7N7K70500096, Explanation: HW related issue, NO COOKIES for unit!
+visid: M7N7K70500111, Explanation: HW related issue, NO COOKIES for unit!
+visid: M7N7K70500146, Explanation: HW related issue, NO COOKIES for unit!
+visid: M7N7K70501026, Explanation: HW related issue, NO COOKIES for unit!
+visid: M7N7K70501069, Explanation: HW related issue, NO COOKIES for unit!
+visid: M7N7K70501133, Explanation: HW related issue, NO COOKIES for unit!
+visid: M7SH412400533, Explanation: HW related issue, NO COOKIES for unit!
+visid: M7SH412400545, Explanation: HW related issue, unit recovered in retest, NO COOKIES for unit!
+visid: M7SH412400857, Explanation: HW related issue, NO COOKIES for unit!
+visid: M7SH412400876, Explanation: HW related issue, unit recovered in retest, NO COOKIES for unit!
+visid: M7SH412401006, Explanation: HW related issue, unit recovered in retest, NO COOKIES for unit!
+visid: M7SH412401017, Explanation: HW related issue, unit recovered in retest, NO COOKIES for unit!
+visid: M7SH412401025, Explanation: HW related issue, unit recovered in retest, NO COOKIES for unit!
+visid: M7SH412401065, Explanation: HW related issue, unit recovered in retest, NO COOKIES for unit!
+visid: M7SH412401079, Explanation: HW related issue, unit recovered in retest, NO COOKIES for unit!
+Blank Entry: M7N7K70501234
+visid: M7N7K70500053, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7SH412400758, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7SH412400853, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7SH412400898, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7SH412400859, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7N7K70500005, Explanation: suspect HW issue, NO COOKIES for unit!
+visid: M7SH412400882, Explanation: suspect HW issue, NO COOKIES for unit!
+visid: M7SH412401031, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7SH412401034, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7N7K70501085, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7SH412400781, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7SH412401190, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7N7K70501216, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7SH412400594, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7SH412400755, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7N7K70501054, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7N7K70501231, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7N7K70501328, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7SH412400983, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7N7K70501351, Explanation: Core 17 VDAC pin did not sit correctly on TIU. This is run to run issue, there is no FIVR module change., NO COOKIES for unit!
+visid: M7SH412400585, Explanation: Core 09 VDAC pin did not sit correctly on TIU. This is run to run issue, there is no FIVR module change., NO COOKIES for unit!
+visid: M7N7K70501152, Explanation: DDRA012 read 0.71V when 0.8V was requested. DDRA012 dac calibration voltages all read 100mV lower than hot or previous cold runs. There were no changes to DACCAL tests., NO COOKIES for unit!
+visid: M7SH412401200, Explanation: Test fail due to marginality for 2710 failure. This unit has failed 2806 on multiple prior 6215 runs, NO COOKIES for unit!
+visid: M7SH412400539, Explanation: Core 9 locktime failure, PLL not locking.Testing issue. Doesnot have any B28 signature in the unit history, NO COOKIES for unit!
+visid: M7N7K70500041, Explanation: invalid, HW related, NO COOKIES for unit!
+visid: M7SH412400557, Explanation: recovered at RT, NO COOKIES for unit!
+visid: M7N7K70500033, Explanation: failed as other bin at RT, NO COOKIES for unit!
+visid: M7N7K70500873, Explanation: failed as other bin at RT, NO COOKIES for unit!
+visid: M7SH412400536, Explanation: failed as other bin at RT, NO COOKIES for unit!
+visid: M7SH412400591, Explanation: failed as other bin at RT, NO COOKIES for unit!
+visid: M7SH412400610, Explanation: failed as other bin at RT, NO COOKIES for unit!
+visid: M7SH412400811, Explanation: recovered at RT, NO COOKIES for unit!
+visid: M7SH412400998, Explanation: recovered at RT, NO COOKIES for unit!
+visid: M7SH412401000, Explanation: recovered at RT, NO COOKIES for unit!
+visid: M7SH412401102, Explanation: failed as other bin at RT, NO COOKIES for unit!
+visid: M7SH412400526, Explanation: HW related. Multiple HW related bin switching on S811TP testing., NO COOKIES for unit!
+visid: M7SH412400808, Explanation: Additional incoming bad core, no cores left for self sig, NO COOKIES for unit!
+visid: M7N7K70500087, Explanation: Multiple b4621 across TPs and locations. Looks like a real fallout, NO COOKIES for unit!
+visid: M7N7K70501025, Explanation: Only 1 time bin4621 in the history. Looks like TIU connectivity issue, NO COOKIES for unit!
+visid: M7N7K70501214, Explanation: Only 1 time bin4621 in the history. Looks like TIU connectivity issue, NO COOKIES for unit!
+visid: M7N7K70501306, Explanation: Bin moves to b9703, NO COOKIES for unit!
+visid: M7SH412401096, Explanation: Only 1 time bin4621 in the history. Looks like TIU connectivity issue, NO COOKIES for unit!
+visid: M7SH412401110, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501168, Explanation: Only 1 time bin4621 in the history. Looks like TIU connectivity issue, NO COOKIES for unit!
+visid: M7SH412400537, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70500128, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501066, Explanation: No bin4821 in the history. No content change, NO COOKIES for unit!
+visid: M7SH412400749, Explanation: No bin4821 in the history. No content change, NO COOKIES for unit!
+visid: M7SH412401052, Explanation: Recover to bin1 or bin1306, NO COOKIES for unit!
+visid: M7SH412400608, Explanation: Recover to bin1, NO COOKIES for unit!
+visid: M7SH412401192, Explanation: Recover to bin1, NO COOKIES for unit!
+Blank Entry: M7SH412400874
+Blank Entry: M7SH412400546
+Blank Entry: M7SH412400563
+Blank Entry: M7SH412400611
+Blank Entry: M7SH412400813
+Blank Entry: M7SH412400890
+Blank Entry: M7SH412401008
+Blank Entry: M7SH412401177
+Blank Entry: M7SH412401207
+Blank Entry: M7SH412401019
+visid: M7SH412401023, Explanation: recovered at RT, NO COOKIES for unit!
+visid: M7SH412400568, Explanation: Bin moves to b9763, NO COOKIES for unit!
+Blank Entry: M7N7K70500055
+Blank Entry: M7N7K70501096
+Blank Entry: M7SH412401198

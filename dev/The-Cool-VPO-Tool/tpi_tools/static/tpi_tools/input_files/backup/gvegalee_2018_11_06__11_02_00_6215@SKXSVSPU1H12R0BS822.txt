@@ -1,0 +1,6 @@
+visid: M73J2G6201099, Explanation: Unit is passing with new TP, failed with old TP was due to HW issues
+visid: M73J2G6200120, Explanation: Unit is passing with new TP, failed with old TP was due to HW issues
+visid: M7NN267101258, Explanation: Unit history has a good unit pass, fail was due HW issues
+visid: M73J2G6200850, Explanation: Unit failed due to HW issue unita pass after ran RV
+visid: M7NN267100875, Explanation: Unit failed due to HW issue unita pass after ran RV
+visid: M73J2G6200786, Explanation: Unit history has a good unit pass, fail was due HW issues

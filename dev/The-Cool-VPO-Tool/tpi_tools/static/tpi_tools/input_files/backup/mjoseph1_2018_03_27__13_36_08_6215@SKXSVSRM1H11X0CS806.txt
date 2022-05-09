@@ -1,0 +1,7 @@
+visid: M7G050T400964, Explanation: No conten change. If it is SIOBSCAN bin then it harware related fail. this loadboard is showing the fail: BB2TLH1P4260:SKRTLP1P122
+visid: M7G050T401143, Explanation: No content change. If it is SIOBSCAN bin then it harware related fail. this loadboard is showing the fail: BB2TLH1P4260:SKRTLP1P122
+visid: M7G050T400006, Explanation: No content change. Hardware related fail. bad load board id: BB2TLH1P4260:SKRTLP1P122
+visid: M7G050T400594, Explanation: No content change. Hardware related fail. bad load board id: BB2TLH1P4260:SKRTLP1P238
+visid: M7G050T400632, Explanation: No content change. Hardware related fail. Socketing issues.
+visid: M7G050T400800, Explanation: No content change. Hardware related fail. Socketing issues.
+visid: M7G050T400604, Explanation: No content change. Hardware related fail. Socketing issues.

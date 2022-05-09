@@ -1,0 +1,2 @@
+visid: M8BD231400572, Explanation: Unit has history of 6083 as a flow 3 unit.  In ref run, the unit downflowed to flow 4 by SBFT CHK512BF6 and passed Cache END flow in flow 4.
+visid: M8CQ906300135, Explanation: Marginal unit.  Unit history shows switch from Bin 4821/1407/868/100/2806/9421

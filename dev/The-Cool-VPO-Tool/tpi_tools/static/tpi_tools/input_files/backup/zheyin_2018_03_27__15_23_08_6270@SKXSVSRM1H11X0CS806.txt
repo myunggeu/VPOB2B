@@ -1,0 +1,4 @@
+visid: M7G050T400100, Explanation: solid fail on previous TPs
+visid: M7G050T401359, Explanation: CRES fail, HW issue
+visid: M7G050T400822, Explanation: CRES fail on previous run, HW issue
+visid: M7G050T400824, Explanation: HW issue on previous run

@@ -1,0 +1,2 @@
+visid: M8GL547600096, Explanation: Contact with EUI on cell A202 was not adequate when the unit was socketed. Recovered on different hardware.
+visid: M8N72D0500089, Explanation: Contact with EUI on cell A202 was not adequate when the unit was socketed. Recovered on different hardware.

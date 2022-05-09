@@ -1,0 +1,3 @@
+visid: M9KK695401136, Explanation: Failed after retesting bin4427. SKX_SBFT_H_C_fcburstoff_vclmminfreq3_CHKCLMF3_1stpass
+visid: M9WC266701810, Explanation: Unit is measuring a short in pin VCCIN. For an outlier measurement.
+visid: M9WC266701269, Explanation: nit is measuring a short in pin VCCIN. For an outlier measurement.

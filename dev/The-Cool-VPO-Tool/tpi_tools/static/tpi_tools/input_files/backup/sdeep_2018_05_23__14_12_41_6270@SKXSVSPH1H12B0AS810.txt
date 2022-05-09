@@ -1,0 +1,2 @@
+visid: M7N7K70501336, Explanation: has always been bin 4421, failed in begin in the new run
+visid: M7N7K70501349, Explanation: Marginal fail

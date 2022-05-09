@@ -1,0 +1,2 @@
+visid: M7SH412401196, Explanation: Core 22 failed for c_mlcdatksx_vcoreminfreq6_LTTC_7911 in the old run, while it was an incoming de-featured core in the new run
+visid: M7SH412400865, Explanation: no Module changes in both runs. Unit failed in BCK domain for BCK:g0504329S2003271_CFq_xx14a_P at c_urfcrqksx_vclmmaxfreq1_VMAXCLMF1_7911 test and it is passing in the new run. looks like a marginal failure

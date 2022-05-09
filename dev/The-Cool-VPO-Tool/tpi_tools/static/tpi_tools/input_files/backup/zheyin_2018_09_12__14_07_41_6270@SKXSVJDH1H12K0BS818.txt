@@ -1,0 +1,17 @@
+visid: M8NE567700055, Explanation: Bad contact due to HW issue
+visid: M8LM305300155, Explanation: Bad contact due to HW issue
+visid: M8LM305300277, Explanation: Bad contact due to HW issue
+visid: M8NE567700107, Explanation: Bad contact due to HW issue
+visid: M8LM305300229, Explanation: Bad contact due to HW issue
+visid: M8NE567700638, Explanation: Bad contact due to HW issue
+visid: M8LM305300435, Explanation: Bad contact due to HW issue
+visid: M8NE567700114, Explanation: Bad contact due to HW issue
+visid: M8BD231400462, Explanation: Bad contact due to HW issue
+visid: M8CQ906300443, Explanation: Bad contact due to HW issue
+visid: M8NE567700172, Explanation: Bad contact due to HW issue
+visid: M8LM305300589, Explanation: Bad contact due to HW issue
+visid: M8LM305300408, Explanation: Bad contact due to HW issue
+visid: M8NE567700268, Explanation: HW issue on previous run
+visid: M8NE567700325, Explanation: HW issue on previous run
+visid: M8BD231400387, Explanation: HW issue on previous run
+visid: M8LM305300083, Explanation: Bad contact due to HW issue

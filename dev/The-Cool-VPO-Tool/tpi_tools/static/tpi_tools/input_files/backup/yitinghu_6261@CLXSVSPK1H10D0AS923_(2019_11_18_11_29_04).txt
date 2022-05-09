@@ -1,0 +1,1 @@
+visid: M9R48M5000929, Explanation: Bin 114 is the usual bin for this unit. Second time throughout its history that is bin 9438. Two cores changed passing status (one from Pass to Fail, the other from Fail to Pass), this caused an invalid combination

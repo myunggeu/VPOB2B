@@ -1,0 +1,2 @@
+visid: M7HU061901556, Explanation: PLL Trim froze to 20. Looks like a HW issue
+visid: M7J13X7700852, Explanation: This unit has history of Bin2811. Bad unit

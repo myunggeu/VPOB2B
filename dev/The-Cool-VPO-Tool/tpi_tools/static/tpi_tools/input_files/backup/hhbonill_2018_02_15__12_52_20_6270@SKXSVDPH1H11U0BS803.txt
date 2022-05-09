@@ -1,0 +1,3 @@
+visid: D72N5Q3400024, Explanation: Unit recovered at RV
+visid: D72N5Q3400032, Explanation: Recvered at RV, BTW it seems like marginal unit based on story.
+visid: D72N5Q3400054, Explanation: That is a real failure, unit has faiiled solid over old TPs.

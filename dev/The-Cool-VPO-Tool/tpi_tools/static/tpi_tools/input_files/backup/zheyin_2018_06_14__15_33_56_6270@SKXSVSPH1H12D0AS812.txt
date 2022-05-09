@@ -1,0 +1,45 @@
+visid: M7N7K70500498, Explanation: marginal unit
+visid: M7SH412400842, Explanation: recovered at retest
+visid: M7SH412400959, Explanation: recovered at retest
+visid: M7N7K70500440, Explanation: bad contact, HW issue
+visid: M7N7K70500646, Explanation: bad contact, HW issue
+visid: M7N7K70500345, Explanation: CRES fail, HW issue
+visid: M7N7K70500414, Explanation: suspect HW issue
+visid: M7N7K70500308, Explanation: marginal unit
+visid: M7N7K70500247, Explanation: CRES fail, HW issue
+visid: M7N7K70500645, Explanation: CRES fail, HW issue
+visid: M7N7K70500670, Explanation: CRES fail, HW issue
+visid: M7N7K70500313, Explanation: CRES fail, HW issue
+visid: M7N7K70500533, Explanation: CRES fail, HW issue
+visid: M7N7K70500600, Explanation: CRES fail, HW issue
+visid: M7N7K70500639, Explanation: CRES fail, HW issue
+visid: M7N7K70501025, Explanation: CRES fail, HW issue
+visid: M7SH412400475, Explanation: CRES fail, HW issue
+visid: M7SH412400790, Explanation: recovered at retest
+visid: M7N7K70500595, Explanation: HW issue on previous run
+visid: M7SH412400147, Explanation: HW issue on previous run
+visid: M7N7K70500070, Explanation: HW issue on previous run
+visid: M7N7K70500383, Explanation: HW issue on previous run
+visid: M7N7K70500486, Explanation: HW issue on previous run
+visid: M7N7K70500400, Explanation: CRES fail, HW issue
+visid: M7N7K70500457, Explanation: HW issue on previous run
+visid: M7N7K70500476, Explanation: HW issue on previous run
+visid: M7N7K70500479, Explanation: HW issue on previous run
+visid: M7N7K70501150, Explanation: HW issue on previous run
+visid: M7SH412400927, Explanation: HW issue on previous run
+visid: M7N7K70501117, Explanation: HW issue on previous run
+visid: M7N7K70500531, Explanation: HW issue on previous run
+visid: M7N7K70500449, Explanation: HW issue on previous run
+visid: M7N7K70500381, Explanation: HW issue on previous run
+visid: M7N7K70500328, Explanation: HW issue on previous run
+visid: M7N7K70500701, Explanation: HW issue on previous run
+visid: M7N7K70501207, Explanation: HW issue on previous run
+visid: M7N7K70501410, Explanation: HW issue on previous run
+visid: M7N7K70500245, Explanation: VCCIO hard fail, can be HW issue or damage unit
+visid: M7SH412400148, Explanation: recovered at retest
+visid: M7N7K70500522, Explanation: HW issue on previous run
+visid: M7N7K70500555, Explanation: HW issue on previous run
+visid: M7N7K70501352, Explanation: HW issue on previous run
+visid: M7N7K70501429, Explanation: HW issue on previous run
+visid: M7SH412400348, Explanation: HW issue on previous run
+visid: M7SH412400455, Explanation: HW issue on previous run

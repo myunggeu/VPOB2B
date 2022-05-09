@@ -1,0 +1,6 @@
+visid: M99S9J4201111, Explanation: unti was recovered priviious old TP was due Hardware/Socketing issue
+visid: M9EN577400901, Explanation: unti was recovered priviious old TP was due Hardware/Socketing issue
+visid: M9PB483200134, Explanation: unti was recovered priviious old TP was due Hardware/Socketing issue
+visid: M9KK695401343, Explanation: unti was recovered priviious old TP was due Hardware/Socketing issue
+visid: M9PB483200672, Explanation: Hardware/Socketing issue
+visid: M9LJ518200257, Explanation: Hardware/Socketing issue

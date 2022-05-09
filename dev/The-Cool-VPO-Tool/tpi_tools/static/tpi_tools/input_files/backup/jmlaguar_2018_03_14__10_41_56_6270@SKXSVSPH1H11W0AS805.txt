@@ -1,0 +1,4 @@
+visid: M7L1Y26800098, Explanation: Most B-9497 coming from same tester "A301" in CRVC.  LTTC temp ramp down is showing issues when 35C temperature can't be achieved  within LTTC time-out period.
+visid: M7N7K70500165, Explanation: Most B-9497 coming from same tester "A301" in CRVC.  LTTC temp ramp down is showing issues when 35C temperature can't be achieved  within LTTC time-out period.
+visid: M7N7K70500243, Explanation: Most B-9497 coming from same tester "A301" in CRVC.  LTTC temp ramp down is showing issues when 35C temperature can't be achieved  within LTTC time-out period.
+visid: M7N7K70501247, Explanation: 9497 bins was likely due to HW variation and AP instability. LTTC temp ramp down is showing issues when 35C temperature can't be achieved  within LTTC time-out period.

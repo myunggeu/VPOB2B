@@ -1,0 +1,22 @@
+visid: M7G050T400147, Explanation: Unit recovered from HW issue in old TP
+visid: M7G050T400292, Explanation: Unit recovered due to a content improvement.
+visid: M7G050T400393, Explanation: Unit recovered due to a content improvement.
+visid: M7G050T400443, Explanation: Unit recovered due to a content improvement.
+visid: M7G050T400608, Explanation: Unit recovered due to a content improvement.
+visid: M7G050T400625, Explanation: Unit recovered due to a content improvement.
+visid: M7G050T400637, Explanation: Unit recovered from HW issue in old TP
+visid: M7G050T400699, Explanation: Unit recovered from HW issue in old TP
+visid: M7G050T400776, Explanation: Unit recovered due to a content improvement.
+visid: M7G050T400934, Explanation: Unit recovered due to a content improvement.
+visid: M7G050T401009, Explanation: Unit recovered due to a content improvement.
+visid: M7G050T401184, Explanation: Unit recovered due to a content improvement.
+visid: M7G050T401231, Explanation: Unit recovered due to a content improvement.
+visid: M7G050T401248, Explanation: Unit recovered due to a content improvement.
+visid: M7G050T401374, Explanation: Unit recovered due to a content improvement.
+visid: M7G050T400063, Explanation: Unit failed due to HW issue. 
+visid: M7G050T400080, Explanation: Unit failed due to HW issue 
+visid: M7G050T400091, Explanation: Unit failed due to HW issue 
+visid: M7G050T400352, Explanation: Unit failed due to HW issue 
+visid: M7G050T400795, Explanation: Unit failed due to HW issue 
+visid: M7G050T400927, Explanation: Unit failed due to HW issue 
+visid: M7G050T400972, Explanation: Unit failed due to HW issue 

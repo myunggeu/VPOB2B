@@ -1,0 +1,2 @@
+visid: M7G050T400729, Explanation: 9/11/2018 - Submitted B2B again to ensure tool works
+visid: M7G050T400042, Explanation: 9/11/2018 - It does seem to work. 

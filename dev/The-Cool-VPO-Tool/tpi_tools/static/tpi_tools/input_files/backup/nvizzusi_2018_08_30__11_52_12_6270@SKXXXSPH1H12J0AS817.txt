@@ -1,0 +1,2 @@
+visid: M7N7K70500988, Explanation: Marginaly high vmin unit, bin 4725 fails with out being tested due to search stop higher than search stop
+visid: M7SH412401350, Explanation: LTTC marginally screen a unit that will eventulay become cold reject

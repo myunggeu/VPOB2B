@@ -1,0 +1,10 @@
+visid: M7L1Y26800273, Explanation: This unit had B1 in S815, S817. Then failing retention test on S818, and got recover again back in S819TP
+visid: M7N7K70500464, Explanation: Marginal failure. This unit failed B6004 in S815 and 817 before and got recover in S818.
+visid: M7SH412401305, Explanation: Tested at higher vmin, failed llcdat f3
+visid: M7SH412401278, Explanation: Tested at higher vmin, failed llcdat f3
+visid: M7SH412401258, Explanation: Tested at higher vmin, failed llcdat f3
+visid: M7N7K70500211, Explanation: Tested at higher vmin, failed llcdat f3
+visid: M7N7K70500422, Explanation: Tested at higher vmin, failed llcdat f3
+visid: M7N7K70500485, Explanation: Tested at higher vmin, failed llcdat f3
+visid: M7SH412400327, Explanation: Didn't get run the DDR MIO in the new run, B62 failing llcdat f3
+visid: M7N7K70500988, Explanation: Failing UPS in the old run, the UPS test didn't get run in the new TP, B62 failing llcdat f3

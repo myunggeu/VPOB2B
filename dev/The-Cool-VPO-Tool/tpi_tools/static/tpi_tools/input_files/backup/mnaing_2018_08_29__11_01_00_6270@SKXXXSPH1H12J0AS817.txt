@@ -1,0 +1,6 @@
+visid: M7L1Y26800137, Explanation: failing pattern g0685498S2348121  got yanked out on S817. 
+visid: M7N7K70500095, Explanation: failing pattern g0685498S2348121  got yanked out on S817. 
+visid: M7N7K70500152, Explanation: S817 is failing continuity. .it did not reach to SBFT.
+visid: M7N7K70500262, Explanation: it failed early at begin flow  shops.it did not reach to SBFT.
+visid: M7N7K70500631, Explanation: it failed early at begin flow shops.it did not reach to SBFT.
+visid: M7N7K70500336, Explanation:  it is flaky. Mostly fall into b4430 

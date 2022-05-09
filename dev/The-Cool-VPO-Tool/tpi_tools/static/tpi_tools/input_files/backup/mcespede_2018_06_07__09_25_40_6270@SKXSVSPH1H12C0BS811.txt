@@ -1,0 +1,21 @@
+visid: M7N7K70500016, Explanation: Unit recovered from HW failure in previous TP
+visid: M7N7K70500045, Explanation: Unit recovered from HW failure in previous TP
+visid: M7N7K70500088, Explanation: Unit recovered from HW failure in previous TP
+visid: M7N7K70501187, Explanation: Unit recovered from HW failure in previous TP
+visid: M7N7K70501231, Explanation: Unit recovered from HW failure in previous TP
+visid: M7N7K70501321, Explanation: Unit recovered from HW failure in previous TP
+visid: M7SH412400562, Explanation: Unit recovered from HW failure in previous TP
+visid: M7SH412400597, Explanation: Unit recovered from HW failure in previous TP
+visid: M7SH412400865, Explanation: Unit recovered from HW failure in previous TP
+visid: M7SH412400979, Explanation: Unit recovered from HW failure in previous TP
+visid: M7SH412400980, Explanation: Unit recovered from HW failure in previous TP
+visid: M7SH412400984, Explanation: Unit recovered from HW failure in previous TP
+visid: M7SH412401012, Explanation: Unit recovered from HW failure in previous TP
+visid: M7SH412401015, Explanation: Unit recovered from HW failure in previous TP
+visid: M7SH412400595, Explanation: Failure due to HW issue. 
+visid: M7SH412400596, Explanation: Failure due to HW issue. 
+visid: M7SH412401014, Explanation: Failure due to HW issue. 
+visid: M7SH412401016, Explanation: Failure due to HW issue. 
+visid: M7SH412401091, Explanation: Failure due to HW issue. 
+visid: M7SH412400892, Explanation: Failure due to HW issue. 
+visid: M7SH412401103, Explanation: Failure due to HW issue. 

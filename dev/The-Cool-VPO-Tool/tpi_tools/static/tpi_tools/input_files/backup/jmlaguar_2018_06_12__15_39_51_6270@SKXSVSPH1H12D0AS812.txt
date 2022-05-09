@@ -1,0 +1,1 @@
+visid: M7SH412400164, Explanation: Bin 9792 is a die force/contact issue when the unit was socketed. This unit is showing a default value for dieforce at TD0. Retesting on different cell should recover unit.

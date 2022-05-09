@@ -1,0 +1,4 @@
+visid: M7HU061900963, Explanation: CRES fail, HW issue
+visid: M7J13X7700698, Explanation: CRES fail, HW issue
+visid: M7HU061900002, Explanation: CRES fail, HW issue
+visid: M7J13X7701362, Explanation: CRES fail, HW issue

@@ -1,0 +1,2 @@
+visid: M7N7K70500623, Explanation: Bin 9792 is a die force/contact issue when the unit was socketed. Previously failed due to loose contact with cell A501 tester (bad cell during first VPO run). Recovered in new VPO.
+visid: M7A176X401224, Explanation: 9787 bins was a HW/AP instability issue that caused the units to come in with a high delta compared to the handler setpoint. Will recover from retesting.

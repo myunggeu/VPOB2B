@@ -1,0 +1,5 @@
+visid: M7SH412401007, Explanation: HW issue before
+visid: M7SH412400520, Explanation: HW issue. Trim maxed out
+visid: M7N7K70500567, Explanation: HW issue. Trim maxed out
+visid: M7N7K70500118, Explanation: HW issue.  Tap failed 
+visid: M7N7K70500415, Explanation: HW issue. Tap failed 

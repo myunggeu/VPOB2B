@@ -1,0 +1,44 @@
+visid: D72N5Q3400102, Explanation: 1st test it failed due to HW, so recovery was expected.
+visid: D72N5Q3400173, Explanation: Failure due to a known HW issue due to TIU design
+visid: D7WF637100067, Explanation: Failure due to a known HW issue due to TIU design
+visid: D73U27M900048, Explanation: recovered at RV
+visid: D7WF637100049, Explanation: recovered at RV
+visid: D7WF637100141, Explanation: recovered at RV
+visid: D72N5Q3400206, Explanation: Failure due to a known HW issue due to TIU design
+visid: D72N5Q3400286, Explanation: Failure due to a known HW issue due to TIU design
+visid: D73U27M900041, Explanation: Failure due to a known HW issue due to TIU design
+visid: D73U27M900042, Explanation: Failure due to a known HW issue due to TIU design
+visid: D73U27M900049, Explanation: Failure due to a known HW issue due to TIU design
+visid: D72N5Q3400108, Explanation: recovered at RV
+visid: D72N5Q3400127, Explanation: recovered at RV
+visid: D72N5Q3400304, Explanation: recovered at RV
+visid: D73U27M900027, Explanation: recovered at RV
+visid: D7WF637100005, Explanation: recovered at RV
+visid: D73U27M900007, Explanation: invalid bin2737, core23 FIVR vload reading all 0s, likely socketing issue at cold
+visid: D73U27M900097, Explanation: invalid bin2737, core15 FIVR vload reading all 0s, likely socketing issue at cold
+visid: D72N5Q3400085, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 8 tests
+visid: D72N5Q3400220, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: D72N5Q3400256, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: D72N5Q3400323, Explanation: Unit is recovered to bin1 in the last VPO 
+visid: D73U27M900008, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: D7WF637100149, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: D7WF637100187, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: D72N5Q3400140, Explanation: Marginal unit, it has switched from b96 and b47 several times.
+visid: D7WF637100036, Explanation: Recovered at RV, so it was testing issue.
+visid: D72N5Q3400246, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: D72N5Q3400295, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: D72N5Q3400296, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: D73U27M900035, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: D72N5Q3400024, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400036, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400148, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400183, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400197, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400211, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400215, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400223, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400239, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400284, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400285, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400327, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D7WF637100203, Explanation: Marginal/flaky fail. Likely AP/tester related. We read didoe values of [-10.3 and -10.1] with out kill limits are [0,-10C]. barely failnig lower kill limit. Invalida hw related fail. 

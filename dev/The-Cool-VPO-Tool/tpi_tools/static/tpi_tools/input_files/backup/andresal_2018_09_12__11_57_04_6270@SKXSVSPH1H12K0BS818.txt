@@ -1,0 +1,2 @@
+visid: M7N7K70500988, Explanation: Bucketer algorithm did not find a passing combination VOLTAGE_:_0.913_EXCEEDS_VRELMAX:_0.900
+visid: M7N7K70501258, Explanation: Unit fails due to IDSK disabling IA25 for exceeding voltage limit

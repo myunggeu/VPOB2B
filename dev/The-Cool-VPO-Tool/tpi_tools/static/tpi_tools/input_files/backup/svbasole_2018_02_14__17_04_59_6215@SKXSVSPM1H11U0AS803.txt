@@ -1,0 +1,106 @@
+visid: M7HU061900664, Explanation: Equivalent to OPENS, failed in socketing.
+visid: M7HU061900795, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7HU061901360, Explanation: Equivalent to OPENS, failed in socketing.
+visid: M7J13X7700707, Explanation: Tester issue
+visid: M7J13X7700776, Explanation: alarm on vcccont
+visid: M7J13X7700779, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7700804, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7701011, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7701190, Explanation: Testing issue in previous TP. No change in content
+visid: M7J13X7701219, Explanation: looks like HW related
+visid: M7T131S100169, Explanation: New TIU fix B68 bouncing bin.
+visid: M7T131S100257, Explanation: Cache: Cache: In the old run additional core 11 was getting disabled by SKX_CACHE_H::U_MLCDATKSX_VCOREMINFREQ1_CHKCOREF1. In the new run, core 11 is already incoming disabled so its passing now and getting bin 1.
+visid: M7T131S100535, Explanation: Marginal core8
+visid: M7HU061900196, Explanation: Equivalent to OPENS, failed in socketing.
+visid: M7HU061900902, Explanation: Equivalent to OPENS, failed in socketing.
+visid: M7HU061900913, Explanation: Equivalent to OPENS, failed in socketing.
+visid: M7HU061901552, Explanation: Equivalent to OPENS, failed in socketing.
+visid: M7HX231100124, Explanation: Equivalent to OPENS, failed in socketing.
+visid: M7J13X7700728, Explanation: Equivalent to OPENS, failed in socketing. Recovered in RV
+visid: M7T131S100769, Explanation: Cache: No change in content; Marginal retention failure at h_urfiiopsx_vsaretfreq1_END 
+visid: M7J13X7700948, Explanation: Hardware issue
+visid: M7J13X7700972, Explanation: Hardware issue
+visid: M7J13X7701051, Explanation: Hardware issue
+visid: M7J13X7701071, Explanation: Hardware issue
+visid: M7J13X7701084, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7J13X7701261, Explanation: Hardware issue
+visid: M7J13X7701277, Explanation: Hardware issue
+visid: M7J13X7701325, Explanation: Hardware issue
+visid: M7J13X7701326, Explanation: Hardware issue
+visid: M7J13X7701336, Explanation: Hardware issue
+visid: M7J13X7701337, Explanation: Hardware issue
+visid: M7J13X7701954, Explanation: Hardware issue
+visid: M7J13X7701994, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7702158, Explanation: Hardware issue
+visid: M7J13X7702172, Explanation: Hardware issue
+visid: M7J13X7702226, Explanation: Hardware issue
+visid: M7T131S100578, Explanation: Hardware issue
+visid: M7HU061900744, Explanation: earlier defeatured core, now killed more cores on the same test
+visid: M7HU061900035, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7HU061901470, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7J13X7701109, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7J13X7701963, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7T131S100719, Explanation: There is no bin4621 in the unit history
+visid: M7HU061900706, Explanation: There is no bin4822 in the unit history
+visid: M7HU061900312, Explanation: HW Related. All 3 B51 failing same lines on same boards.
+visid: M7HU061900956, Explanation: HW Related. All 3 B51 failing same lines on same boards.
+visid: M7J13X7701327, Explanation: HW Related. All 3 B51 failing same lines on same boards.
+visid: M7HU061900599, Explanation: Hardware issue
+visid: M7HU061900717, Explanation: Hardware issue
+visid: M7HU061900758, Explanation: Hardware issue
+visid: M7HU061900774, Explanation: Hardware issue
+visid: M7HU061900787, Explanation: Hardware issue
+visid: M7HU061900788, Explanation: Hardware issue
+visid: M7HU061900881, Explanation: Hardware issue
+visid: M7HU061900884, Explanation: Hardware issue
+visid: M7HU061901057, Explanation: Hardware issue
+visid: M7HU061901070, Explanation: Hardware issue
+visid: M7HU061901072, Explanation: Hardware issue
+visid: M7HU061901120, Explanation: Hardware issue
+visid: M7HU061901244, Explanation: Hardware issue
+visid: M7HU061901362, Explanation: Hardware issue
+visid: M7HU061901465, Explanation: Hardware issue
+visid: M7HX231100098, Explanation: Hardware issue
+visid: M7HX231100102, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7700517, Explanation: Hardware issue
+visid: M7J13X7700544, Explanation: Hardware issue
+visid: M7J13X7700644, Explanation: Hardware issue
+visid: M7J13X7700682, Explanation: Hardware issue
+visid: M7J13X7700713, Explanation: Hardware issue
+visid: M7J13X7700724, Explanation: Hardware issue
+visid: M7J13X7700840, Explanation: Hardware issue
+visid: M7J13X7700861, Explanation: Hardware issue
+visid: M7J13X7700970, Explanation: Hardware issue
+visid: M7J13X7701041, Explanation: Hardware issue
+visid: M7J13X7701047, Explanation: Hardware issue
+visid: M7J13X7701080, Explanation: Hardware issue
+visid: M7J13X7701129, Explanation: Hardware issue
+visid: M7J13X7701141, Explanation: Hardware issue
+visid: M7J13X7701273, Explanation: Hardware issue
+visid: M7J13X7701282, Explanation: Hardware issue
+visid: M7J13X7701303, Explanation: Hardware issue
+visid: M7J13X7701340, Explanation: Hardware issue
+visid: M7J13X7701491, Explanation: Hardware issue
+visid: M7J13X7701761, Explanation: Hardware issue
+visid: M7J13X7701783, Explanation: Hardware issue
+visid: M7J13X7702077, Explanation: Hardware issue
+visid: M7J13X7702079, Explanation: Hardware issue
+visid: M7J13X7702111, Explanation: Hardware issue
+visid: M7J13X7702166, Explanation: Hardware issue
+visid: M7J13X7702169, Explanation: Hardware issue
+visid: M7J13X7702171, Explanation: Hardware issue
+visid: M7J13X7702206, Explanation: Hardware issue
+visid: M7J13X7702207, Explanation: Hardware issue
+visid: M7J13X7702233, Explanation: Hardware issue
+visid: M7J13X7702239, Explanation: Hardware issue
+visid: M7T131S100158, Explanation: Hardware issue
+visid: M7T131S100238, Explanation: Hardware issue
+visid: M7T131S100391, Explanation: Hardware issue
+visid: M7T131S100404, Explanation: Hardware issue
+visid: M7T131S100782, Explanation: Hardware issue
+visid: M7T131S100056, Explanation: Hardware issue
+visid: M7T131S100177, Explanation: Fix provided
+visid: M7T131S100689, Explanation: Cache: All cores failing for u_lsfallksx_vclmminfreq2_CHKCLMF2. This failure does not look real. Please re-test.
+visid: M7HU061900660, Explanation: Marginal scan CHA CLMF3 failure
+visid: M7J13X7700583, Explanation: cache
+visid: M7J13X7702054, Explanation: sbft

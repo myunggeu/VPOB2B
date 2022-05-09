@@ -1,0 +1,1 @@
+visid: M7W84N4000925, Explanation: Bad unit. This unit has never been binned as good bin since s724TP and has been switching between bins 94, 13 and 72 since s724TP.

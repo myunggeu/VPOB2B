@@ -1,0 +1,2 @@
+visid: M7N7K70500373, Explanation: Unit is failing bin1330 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500424, Explanation: Unit is failing bin1330 only once throughout the history. Most likely a tester issue

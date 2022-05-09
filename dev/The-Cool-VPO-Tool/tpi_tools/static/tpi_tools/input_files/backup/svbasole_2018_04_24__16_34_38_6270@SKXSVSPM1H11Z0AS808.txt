@@ -1,0 +1,2 @@
+visid: M7J13X7702108, Explanation: Marginal fail, Unit is measuring 0.05 , limits is set to 0.07 . If rerun might pass. 
+visid: M7HU061900906, Explanation: Marginal fail, might be the contact issue.  Unit is measuring: 0.0016489 and limits is 0.02. Might pass if rerun.

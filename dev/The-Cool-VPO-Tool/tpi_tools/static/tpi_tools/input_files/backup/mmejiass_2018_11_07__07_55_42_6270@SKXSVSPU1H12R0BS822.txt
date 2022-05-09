@@ -1,0 +1,2 @@
+visid: M7NN267101319, Explanation: unit failed at pciedc_vionom_end_rxdetect in old TP, in new TP it is failing in FIVRTrim and then on failF;pw it fails reset both modules failing where the pcie pll's are locked which can be related to the pcie problem captured in oldTP
+visid: M7NN267100978, Explanation: historic data shows unit failed at SRHCOREF1 in both TPs, both only on new TP it went to FailFlow where it failed reset which can be due to unclean status of fuses left by SBFT module

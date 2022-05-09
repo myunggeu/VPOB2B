@@ -1,0 +1,2 @@
+visid: M9F05R5400002, Explanation: HW Issue. Unit rerun in VPO: J007017EV in more recent run.
+visid: M9F05R5400669, Explanation: Unit failed after retesting bin1911. RESET_X_FAST_K_FF_X_NOM_MCI400_X_CACHE128

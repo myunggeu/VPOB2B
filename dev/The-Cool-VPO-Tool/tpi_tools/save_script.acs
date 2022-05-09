@@ -1,0 +1,40 @@
+<!--
+ User: rshibano
+ Date: Tue Jul 18 13:49:31 2017
+ CB: CrystalBall_Proto
+-->
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%% Collection %%%%%%%%%%%%%%%%%%%%%%% #TAG -->
+
+<collection type=material >
+  <group >
+    J722070EV SITE=SVC DOMAIN=CLASS 
+    J730177CR SITE=SVC DOMAIN=CLASS 
+  </group >
+</collection >
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%% Parameters %%%%%%%%%%%%%%%%%%%%%%% #TAG -->
+
+<parameters  >
+  <param DATATYPE=DIEBIN DOMAIN=CLASS OPERATION=6262 SITE=SVC TESTNAME=FB />
+  <param DATATYPE=DIEBIN DOMAIN=CLASS OPERATION=6262 SITE=SVC TESTNAME=IB />
+  <param DATATYPE=DI_INFO DOMAIN=CLASS OPERATION=6262 SITE=SVC TESTNAME=VIS_ID />
+  <param DATATYPE=DIEBIN DOMAIN=CLASS OPERATION=6215 SITE=SVC TESTNAME=FB />
+  <param DATATYPE=DIEBIN DOMAIN=CLASS OPERATION=6215 SITE=SVC TESTNAME=IB />
+  <param DATATYPE=DI_INFO DOMAIN=CLASS OPERATION=6215 SITE=SVC TESTNAME=VIS_ID />
+</parameters>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%% Analysis %%%%%%%%%%%%%%%%%%%%%%% #TAG -->
+
+<analysis app=cb  >
+  TOOL=GIVEMEDATA
+  /HASCLASS=T
+  /IGNORE_VHL
+  /AUTOAKA
+  /AUTOCONTEXT
+  /NOMERGESCPROG
+
+ /ASMERLIN
+
+</analysis>
+

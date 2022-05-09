@@ -1,0 +1,1 @@
+visid: M7N7K70500321, Explanation: Core 14 FIVR vload pin was not connected to TIU during new test. Not a FIVR issue.

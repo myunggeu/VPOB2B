@@ -1,0 +1,40 @@
+visid: M7N7K70500647, Explanation: CRES fail, HW issue
+visid: M7N7K70500870, Explanation: CRES fail, HW issue
+visid: M7N7K70500923, Explanation: CRES fail, HW issue
+visid: M7N7K70500498, Explanation: suspect HW issue
+visid: M7A176X401179, Explanation: suspect HW issue
+visid: M7N7K70500734, Explanation: suspect HW issue
+visid: M7N7K70500128, Explanation: CRES fail, HW issue
+visid: M7N7K70501042, Explanation: CRES fail, HW issue
+visid: M7SH412400621, Explanation: CRES fail, HW issue
+visid: M7N7K70500140, Explanation: CRES fail, HW issue
+visid: M7N7K70500488, Explanation: CRES fail, HW issue
+visid: M7N7K70500578, Explanation: CRES fail, HW issue
+visid: M7N7K70500663, Explanation: CRES fail, HW issue
+visid: M7SH412400268, Explanation: CRES fail, HW issue
+visid: M7SH412400460, Explanation: CRES fail, HW issue
+visid: M7N7K70500072, Explanation: CRES fail, HW issue
+visid: M7N7K70500829, Explanation: CRES fail, HW issue
+visid: M7N7K70501372, Explanation: CRES fail, HW issue
+visid: M7N7K70500367, Explanation: HW issue at previous run
+visid: M7N7K70500390, Explanation: HW issue at previous run
+visid: M7N7K70500410, Explanation: HW issue at previous run
+visid: M7N7K70500433, Explanation: HW issue at previous run
+visid: M7N7K70500567, Explanation: HW issue at previous run
+visid: M7N7K70500572, Explanation: HW issue at previous run
+visid: M7N7K70501086, Explanation: HW issue at previous run
+visid: M7N7K70501219, Explanation: HW issue at previous run
+visid: M7SH412400785, Explanation: HW issue at previous run
+visid: M7N7K70500584, Explanation: HW issue at previous run
+visid: M7N7K70500643, Explanation: HW issue at previous run
+visid: M7N7K70501431, Explanation: HW issue at previous run
+visid: M7N7K70500042, Explanation: HW issue at previous run
+visid: M7N7K70500610, Explanation: HW issue at previous run
+visid: M7N7K70500397, Explanation: HW issue at previous run
+visid: M7N7K70500576, Explanation: HW issue at previous run
+visid: M7N7K70500592, Explanation: HW issue at previous run
+visid: M7N7K70500861, Explanation: HW issue at previous run
+visid: M7N7K70501380, Explanation: HW issue at previous run
+visid: M7SH412400366, Explanation: HW issue at previous run
+visid: M7SH412400823, Explanation: HW issue at previous run
+visid: M7SH412400643, Explanation: HW issue at previous run

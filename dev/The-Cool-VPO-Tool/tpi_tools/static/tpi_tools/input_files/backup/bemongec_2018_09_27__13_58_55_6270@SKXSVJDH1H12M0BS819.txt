@@ -1,0 +1,1 @@
+visid: M8CQ906300444, Explanation: Unit failed due to HW issue// The unit have never been bin 1. In previous TP the fail bin 14 due to Bucketer algorithm did not find a passing combination.

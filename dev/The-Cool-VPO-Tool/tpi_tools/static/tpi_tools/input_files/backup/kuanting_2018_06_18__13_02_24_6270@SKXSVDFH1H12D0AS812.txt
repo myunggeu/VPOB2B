@@ -1,0 +1,15 @@
+visid: M7774QA300890, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7774QA300779, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7774QA300871, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7774QA300907, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7DR176200462, Explanation: Unit is recovered to bin1 in the last VPO with 5 bin5423 out of 10 tests
+visid: M7PU387100270, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7DR176200195, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4625 out of 19 tests. should be connection issue
+visid: M7774QA300732, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7DR176200230, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7DR176200388, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7DR176200402, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7PU387100166, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7PU387100109, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7PU387100290, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7PU387100331, Explanation: Unit fails at bin4822 4 out of 6 tests in the history. Should be a valid failure

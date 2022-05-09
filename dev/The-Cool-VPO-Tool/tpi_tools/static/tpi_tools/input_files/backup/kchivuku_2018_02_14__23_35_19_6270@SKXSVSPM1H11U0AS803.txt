@@ -1,0 +1,3 @@
+visid: M7HU061901117, Explanation: Trim coudnot be found/maxed out. hardware induced as there are no content changes
+visid: M7HU061901502, Explanation: Trim coudnot be found/maxed out. hardware induced as there are no content changes
+visid: M7HU061901135, Explanation: Appears to be a hardware induced one. As when the unit passes, the SDSFR value is 900mv as when it fails it is 701mv whcih explains that the unit is not marginal and hardware induced one

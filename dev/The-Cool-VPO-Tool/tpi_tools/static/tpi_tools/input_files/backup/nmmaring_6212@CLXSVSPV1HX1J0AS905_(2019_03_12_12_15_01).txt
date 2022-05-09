@@ -1,0 +1,4 @@
+visid: M9FD363600827, Explanation: Historically unit have been bin 1, no MIO issue
+visid: M9FD363600690, Explanation: Recovered from HW issue
+visid: M9FD363600678, Explanation: HW related issue
+visid: M9FD363600807, Explanation: Historically bin1, unit failed with bin 5423 in VPO data, no MIO issue

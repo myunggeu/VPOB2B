@@ -1,0 +1,64 @@
+visid: M7SH412401150, Explanation: CRES fail at previous run, HW issue
+visid: M7L1Y26800087, Explanation: CRES fail, HW issue
+visid: M7N7K70501146, Explanation: Bad core 05 incoming.
+visid: M7N7K70501430, Explanation: Bad core 01 incoming.
+visid: M7N7K70500993, Explanation: Core 27 is returning 0 for NLC retrim. In previous runs this passed. There were no changes to FIVR module.
+visid: M7SH412400964, Explanation: No TP content changes. Invalid mostly. Failed port1 ltssm(HW related).
+visid: M73K2D8500697, Explanation: Recovered due to a HW issue with the TIU design
+visid: M73K2D8500874, Explanation: Recovered due to a HW issue with the TIU design
+visid: M7A176X401382, Explanation: invalid. Testing issue happened to S805TP and S807TP - unit recovered as good bin at RT.
+visid: M7L1Y26800034, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7L1Y26800102, Explanation: Recovered due to a HW issue with the TIU design
+visid: M7L1Y26800144, Explanation: invalid. Testing issue happened to S805TP - HW bin switching observed.
+visid: M7L1Y26800221, Explanation: invalid. Testing issue on S805 TP. Other TP is correlated to S807TP.
+visid: M7L1Y26800239, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7L1Y26800247, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7L1Y26800250, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7L1Y26800306, Explanation: invalid. Testing issue happened to S805TP.  Other TP is correlated to S807TP.
+visid: M7N7K70500107, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7N7K70500151, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500239, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500242, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500255, Explanation: CRES fail at previous run, HW issue
+visid: M7N7K70500314, Explanation: CRES fail at previous run, HW issue
+visid: M7N7K70500355, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500360, Explanation: CRES fail at previous run, HW issue
+visid: M7N7K70500402, Explanation: marginally failing unit - unit switching between good/bin43 on old/new TPs.
+visid: M7N7K70500408, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7N7K70500431, Explanation: invalid. Testing issue happened to S805TP and S807TP - unit recovered as good bin at RT.
+visid: M7N7K70500443, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500449, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7N7K70500450, Explanation: invalid. Testing issue on S805 TP. Other TP is correlated to S807TP.
+visid: M7N7K70500501, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7N7K70500511, Explanation: The SFR trim is 63 on every walk code and 63 is thr max trim value.Looks like the tap froze and unit history suggests that it was always Bin 1. This is a testing issue. As the retest passed the unit to Bin1.
+visid: M7N7K70500523, Explanation: CRES fail at previous run, HW issue
+visid: M7N7K70500552, Explanation: Recovered due to content improvement
+visid: M7N7K70500565, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7N7K70500575, Explanation: CRES fail at previous run, HW issue
+visid: M7N7K70500588, Explanation: invalid. Testing issue on S807 TP with HW bin switching observed.
+visid: M7N7K70500589, Explanation: invalid. Testing issue on S807 TP with HW bin switching observed.
+visid: M7N7K70500650, Explanation: HW issue at previous run
+visid: M7N7K70500721, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500731, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500840, Explanation: HW issue at previous run
+visid: M7N7K70500911, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500959, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500997, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501014, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501085, Explanation: Marginal scan core, historically switches between these bins
+visid: M7N7K70501087, Explanation: CRES fail at previous run, HW issue
+visid: M7N7K70501106, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501116, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7N7K70501127, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.
+visid: M7N7K70501131, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501144, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501166, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501172, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501203, Explanation: Recovered due to content improvement
+visid: M7N7K70501224, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501252, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501259, Explanation: Recovered due to content improvement
+visid: M7N7K70501369, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7SH412400004, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7SH412400435, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7SH412400488, Explanation: Recovered due to content improvement

@@ -1,0 +1,4 @@
+visid: M8NE567700294, Explanation: Unit is also failing for b1306, likely a tester/HW issue
+visid: M8CQ906300471, Explanation: Unit switches from b1, b97, b15, b13, and b21 at cold.  Likely a marginal unit
+visid: M8CQ906300189, Explanation: Unit switches from b1, b48  b15, and b21 at cold.  Likely a marginal unit
+visid: M8CQ906300076, Explanation: Unit switches from b1, b46  b15, b21 at cold.  Likely a marginal unit

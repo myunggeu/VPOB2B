@@ -1,0 +1,10 @@
+visid: M73J2G6200790, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M73J2G6200514, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7NN267101365, Explanation: Unit is failing bin5422 only once throughout the history. Most likely a tester issue
+visid: M73J2G6200109, Explanation: Unit is failing bin5432 only once throughout the history. Most likely a tester issue
+visid: M73J2G6201380, Explanation: Unit is failing bin5432 only once throughout the history. Most likely a tester issue
+visid: M73J2G6200211, Explanation: Unit is failing bin5435 only once throughout the history. Most likely a tester issue
+visid: M73J2G6201178, Explanation: Unit fails at bin4621 2 out of 4 tests in the history. Should be a valid failure
+visid: M7NN267100859, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7NN267101348, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M73J2G6200653, Explanation: Unit is failing bin5423 only once throughout the history. Most likely a tester issue

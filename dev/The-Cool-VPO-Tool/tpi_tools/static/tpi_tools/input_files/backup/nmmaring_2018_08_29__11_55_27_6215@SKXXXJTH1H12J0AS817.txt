@@ -1,0 +1,5 @@
+visid: M8NE567700530, Explanation: Recovered from a HW issue. Historically B1. TIU communality found.
+visid: M8NE567700370, Explanation: Recovered from a HW issue. Historically B1. TIU communality found.
+visid: M8LM305300514, Explanation: Recovered from a HW issue. Historically B1. TIU communality found.
+visid: M8BD231400217, Explanation: Recovered from a HW issue. Historically B1. TIU communality found.
+visid: M8BD231400415, Explanation: HW related issue. Historically B1.

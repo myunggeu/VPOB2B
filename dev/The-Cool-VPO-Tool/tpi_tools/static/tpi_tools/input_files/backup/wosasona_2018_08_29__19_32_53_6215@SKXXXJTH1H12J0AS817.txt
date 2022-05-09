@@ -1,0 +1,2 @@
+visid: M8BD231400156, Explanation: Fail seems Valid. Unit fails Bin4621 2 out of 4 tests in the test history. "1|KTI1_TX_DN[6]|1" is the common failing Pad.
+visid: M8BD231400585, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester/HW issue

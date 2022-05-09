@@ -1,0 +1,1 @@
+visid: M8R42V9100121, Explanation: Additional core 1 failing for c_crfallksx_vcoreminfreq1_CHKCOREF1. This is a real failure and a bad unit. It has failed for core 1 at 6212 location multiple times: 824TP, 825TP, 901-rerun TP

@@ -1,0 +1,3 @@
+visid: M9F05R5400829, Explanation: a single core left in a column at F1 on new run. same failure on old run but in F6.
+visid: M9F05R5400519, Explanation: it was a HW issue on previous run as many cores are failing
+visid: M9F05R5400523, Explanation: same failure on SRHCLMF1 is failing .because of Bin hierarchy, its bin out as 1911 on new run.

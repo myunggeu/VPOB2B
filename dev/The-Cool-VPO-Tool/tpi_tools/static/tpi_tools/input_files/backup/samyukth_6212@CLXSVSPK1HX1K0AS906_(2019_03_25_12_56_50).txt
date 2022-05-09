@@ -1,0 +1,224 @@
+visid: M8SA531000310, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M8R42V9100068, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M8R42V9100104, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100149, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M8R42V9100050, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M8R42V9100072, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M83G18S200713, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M83G18S200692, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M83G18S200392, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M8R42V9100093, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: D85V64V200133, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M83G18S200702, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: D8S77S0700047, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9XB559800647, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9XB559800642, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9XB559800385, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9XB559800481, Explanation: Hot failures, NO COOKIES for unit!
+visid: D8S77S0700327, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: D8S77S0700082, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M8SA531000201, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M8R42V9100293, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M8R42V9100092, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M8SA531000675, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M83G18S200374, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000502, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M8R42V9100107, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8SA531000393, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M8SA531000648, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M8R42V9100199, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M8R42V9100102, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+Blank Entry: M83G18S200667
+visid: M9HC416300262, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: D8S77S0700211, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9XB559800630, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9XB559800704, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9XB559800641, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416300267, Explanation: These failed for analog measure voltage read. Working now. No Module change, NO COOKIES for unit!
+visid: M9XB559800059, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9XB559800701, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9XB559800384, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9XB559800525, Explanation: Marginal fail on ref run.  Unit history also show b114 on ref TP, NO COOKIES for unit!
+visid: M9HC416300279, Explanation: HW related issue, NO COOKIES for unit!
+visid: M9XB559800629, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9XB559800559, Explanation: These failed for analog measure voltage read. Working now. No Module change, NO COOKIES for unit!
+visid: M9XB559800686, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9XB559800628, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416300027, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9XB559800419, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9XB559800070, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9HC416300040, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9HC416300275, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9HC416300058, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9HC416300280, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9HC416300052, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9XB559800581, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9HC416300022, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: D8S77S0700090, Explanation: HW related issue, NO COOKIES for unit!
+visid: M9HC416300736, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9HC416301415, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9HC416300980, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9HC416301052, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9HC416300975, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9HC416301372, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9HC416300089, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M9HC416300982, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M8SA531000421, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200536, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100156, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100077, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000569, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100115, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200666, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100013, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100065, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200449, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100211, Explanation: HW related issue for bin820, NO COOKIES for unit!
+visid: M8R42V9100070, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: D85V64V200002, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200443, Explanation: HW related issue, NO COOKIES for unit!
+visid: M9XB559800407, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100183, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8SA531000403, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200659, Explanation: HW related issue, NO COOKIES for unit!
+visid: D85V64V200209, Explanation: HW related issue, NO COOKIES for unit!
+visid: D8S77S0700076, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100208, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100164, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100200, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200532, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000717, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9XB559800106, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000209, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200685, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200431, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200605, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200710, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416301414, Explanation: Core 06 FIVR showed .855V when 0.8V requested at cold during reference run, now shows 8.63V, above limit. Reference run should have failed per test program, NO COOKIES for unit!
+Blank Entry: M83G18S200413
+visid: M83G18S200428, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200549, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: D85V64V200012, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100058, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100023, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416300003, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200444, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: D85V64V200082, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000598, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100196, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200421, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200615, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200391, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416300281, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416301076, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416301068, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold, NO COOKIES for unit!
+visid: M8SA531000345, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000472, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200664, Explanation: Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200608, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100015, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100195, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200691, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000620, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: D85V64V200107, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100121, Explanation: HW related issue, NO COOKIES for unit!
+visid: D8S77S0700050, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416301359, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000486, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100165, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100056, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200689, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9XB559800415, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000079, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8SA531000179, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: D8S77S0700370, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: D8S77S0700374, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8SA531000083, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8SA531000298, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100217, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100184, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100081, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200535, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200446, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200411, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100128, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100159, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100063, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200601, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100292, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200662, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200447, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100038, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200468, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100074, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200668, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200686, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100219, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100216, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200695, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100020, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200714, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8SA531000389, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100082, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200671, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8SA531000406, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100294, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100122, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8SA531000602, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8SA531000589, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100161, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200426, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200541, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200562, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100051, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200405, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200376, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200390, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200002, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200003, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100299, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: D85V64V200011, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: D85V64V200081, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200613, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100076, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200534, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8SA531000398, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200407, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200454, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100194, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200538, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100132, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100033, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M8R42V9100103, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200379, Explanation: Bad unit.  Unit fails B4621 in hot class new run, NO COOKIES for unit!
+visid: M83G18S200378, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200439, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M83G18S200423, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M9XB559800117, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: D8S77S0700301, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M9HC416300053, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M9XB559800113, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: D8S77S0700030, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: D8S77S0700260, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M9XB559800690, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: D8S77S0700097, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M9XB559800627, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M9XB559800632, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M9HC416301343, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M9HC416301017, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M9HC416300797, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M9HC416300941, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M9HC416301392, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: D85V64V200149, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+visid: M9HC416300733, Explanation: New TP failed class hot, so class cold is automatic b7299, NO COOKIES for unit!
+Blank Entry: M83G18S200458
+visid: D8S77S0700214, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and now fails b96 (bad unit), NO COOKIES for unit!
+visid: M9XB559800582, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and now fails b96 (bad unit), NO COOKIES for unit!
+Blank Entry: M9XB559800512
+Blank Entry: M9HC416300997
+Blank Entry: M9HC416301411
+visid: M9HC416300266, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit., NO COOKIES for unit!
+Blank Entry: M83G18S200429
+Blank Entry: M8R42V9100101
+visid: M9HC416300010, Explanation: Hot failures, NO COOKIES for unit!
+visid: M9HC416300138, Explanation: HW related issue, NO COOKIES for unit!

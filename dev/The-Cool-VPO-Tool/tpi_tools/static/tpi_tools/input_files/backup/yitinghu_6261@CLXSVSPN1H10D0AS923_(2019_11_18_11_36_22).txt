@@ -1,0 +1,1 @@
+visid: M9349FY300060, Explanation: One additional core failing, creating an invalid combination It has switched betweed 2 bins in 6261, bin 100 & 9423.  The pattern that causes this additional core to fail is a scanfail (RAT_IRT), but the only change seen in the plist is related with an additional movipar pattern (DCU_DL1P)

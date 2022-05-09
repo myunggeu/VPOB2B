@@ -1,0 +1,9 @@
+visid: M7G050T400168, Explanation: No content change. Hardware related fail. bad load-board: BB2TXH1P6164:SKRTLP1P2158
+visid: M7G050T400413, Explanation: No content change. Hardware related fail. bad load-board: BB2TXH1P6164:SKRTLP1P2158
+visid: M7G050T400561, Explanation: No content change. Hardware related fail. bad load-board: BB2TXH1P6164:SKRTLP1P2158
+visid: M7G050T400629, Explanation: No content change. Hardware related fail. bad load-board: BB2TXH1P6164:SKRTLP1P2158
+visid: M7G050T401190, Explanation: No content change. Hardware related fail. bad load-board: BB2TXH1P6164:SKRTLP1P2158
+visid: M7G050T401203, Explanation: No content change. Hardware related fail. bad load-board: BB2TXH1P6164:SKRTLP1P2158
+visid: M7G050T401204, Explanation: No content change. Hardware related fail. bad load-board: BB2TXH1P6164:SKRTLP1P2158
+visid: M7G050T400477, Explanation: No content change. Hardware related fail. bad load-board: BB2TXH1P6164:SKRTLP1P2158
+visid: M7G050T400956, Explanation: No content change. Hardware related fail. bad load-board: BB2TXH1P6164:SKRTLP1P2158

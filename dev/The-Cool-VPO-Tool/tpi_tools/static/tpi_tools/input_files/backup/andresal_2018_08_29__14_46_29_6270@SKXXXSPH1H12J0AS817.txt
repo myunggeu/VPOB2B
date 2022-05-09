@@ -1,0 +1,2 @@
+visid: M7N7K70500074, Explanation: VNOM (0.915) exceeds VRELMAX (0.910) Bucketer algorithm didnt find a passing combination
+visid: M7SH412400919, Explanation: Unit failed bin1498 due to IDSK disabling IA19 for exceeding voltage limit.

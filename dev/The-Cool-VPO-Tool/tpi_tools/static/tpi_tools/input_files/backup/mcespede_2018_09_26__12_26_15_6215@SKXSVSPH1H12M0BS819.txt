@@ -1,0 +1,77 @@
+visid: M7SH412400603, Explanation: Unit recovered from HW issue in previous TP
+visid: M7SH412400066, Explanation: Unit recovered from HW issue in previous TP
+visid: M7SH412401460, Explanation: Unit recovered from HW issue in previous TP
+visid: M7SH412400948, Explanation: Unit recovered from HW issue in previous TP
+visid: M7SH412401385, Explanation: Unit recovered from HW issue in previous TP
+visid: M7SH412401391, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70500624, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70500427, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70500340, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70500591, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70500374, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70501434, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70500351, Explanation: Unit recovered from HW issue in previous TP
+visid: M7L1Y26800248, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70500341, Explanation: Unit recovered from HW issue in previous TP
+visid: M7SH412401513, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70500375, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70500240, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70500645, Explanation: Unit recovered from HW issue in previous TP
+visid: M7SH412400075, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70501381, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70500441, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70500256, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70501186, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70501221, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70500264, Explanation: Unit recovered from HW issue in previous TP
+visid: M7SH412401569, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70501085, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70501207, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70501212, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70501087, Explanation: Unit recovered from HW issue in previous TP
+visid: M7L1Y26800302, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70500342, Explanation: Unit recovered from HW issue in previous TP
+visid: M7N7K70501064, Explanation: Unit recovered from HW issue in previous TP
+visid: M7SH412401040, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7SH412401364, Explanation: Unit failed due to HW issue
+visid: M7SH412400366, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7SH412400745, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7SH412400319, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7SH412400615, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7SH412400901, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7SH412400247, Explanation: Unit recovered in the last run
+visid: M7SH412400160, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7SH412401015, Explanation: Unit failed due to HW issue
+visid: M7SH412400645, Explanation: Unit recovered in last run
+visid: M7SH412400783, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7N7K70500250, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7N7K70500585, Explanation: Unit failed due to HW issue
+visid: M7N7K70500167, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7N7K70500436, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7N7K70500491, Explanation: Unit failed due to HW issue
+visid: M7SH412401486, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7N7K70500546, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7N7K70500356, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7N7K70500586, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7N7K70500476, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7N7K70500389, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7N7K70500621, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7N7K70500412, Explanation: Unit failed due to HW issue
+visid: M7N7K70500124, Explanation: Unit recovered in the last run
+visid: M7L1Y26800266, Explanation: Unit recovered in the last run
+visid: M7SH412400088, Explanation: Unit failed due to HW issue
+visid: M7N7K70500020, Explanation: Unit recovered in the last run
+visid: M7N7K70501086, Explanation: Unit recovered in the last run
+visid: M7N7K70501097, Explanation: Unit failed due to HW issue
+visid: M7N7K70500286, Explanation: Unit recovered in the last run
+visid: M7SH412400097, Explanation: Unit recovered in the last run
+visid: M7N7K70501354, Explanation: Unit recovered in the last run
+visid: M7N7K70501185, Explanation: Unit failed due to HW issue
+visid: M7N7K70500092, Explanation: Unit recovered in the last run
+visid: M7N7K70501143, Explanation: Unit recovered in the last run
+visid: M7N7K70501365, Explanation: Unit recovered in the last run
+visid: M7N7K70500277, Explanation: Unit recovered in the last run
+visid: M7N7K70501333, Explanation: Unit recovered in the last run
+visid: M7SH412400078, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7N7K70500971, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M7N7K70500104, Explanation: Historically B1 unit. It failed due to HW issue

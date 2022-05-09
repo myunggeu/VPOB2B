@@ -1,0 +1,1 @@
+visid: M9F05R5400747, Explanation: in previous TP the unit failed due to IDSK disabled 3 cores and the final core configuration was invalid. In new TP IDSK did not disabled any core and the unit passing as bin 1

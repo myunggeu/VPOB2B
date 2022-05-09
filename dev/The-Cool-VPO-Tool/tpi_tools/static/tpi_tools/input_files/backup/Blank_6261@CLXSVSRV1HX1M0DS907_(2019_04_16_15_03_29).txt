@@ -1,0 +1,3 @@
+visid: M9F28E0200352, Explanation: In TP S906 failed by Cache recovery (BIN1404) because unit did not meet any valid recovery configuration. With the TP s907 that configuration is valid and the unit turn BIN1
+visid: M9F28E0200530, Explanation: In TP S906 failed by Cache recovery (BIN1404) because unit did not meet any valid recovery configuration. With the TP s907 that configuration is valid and the unit turn BIN1
+visid: M9F28E0200250, Explanation: With the TP change  from S905 to S906 a BIN 5423 comes to 1404, Cache recovery. Unit fails bin1404 because unit does not meets any valid recovery configuration. Unit didn't met any valid Recovery Configuration

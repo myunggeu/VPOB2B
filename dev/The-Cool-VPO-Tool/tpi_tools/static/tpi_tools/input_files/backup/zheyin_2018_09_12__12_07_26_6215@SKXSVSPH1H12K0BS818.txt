@@ -1,0 +1,31 @@
+visid: M7N7K70500852, Explanation: VCCD fail due to HW issue or unit degradation. No module change
+visid: M7N7K70500321, Explanation: VCCD fail due to HW issue or unit degradation. No module change
+visid: M7N7K70500640, Explanation: FIVR_VLOAD_CORE03 hard fail because of unit defect.
+visid: M7SH412400538, Explanation: FIVR_VLOAD_DDRA012 hard fail because of unit defect.
+visid: M7SH412400977, Explanation: Bad contact due to HW issue
+visid: M7SH412401080, Explanation: Bad contact due to HW issue
+visid: M7SH412400088, Explanation: Bad contact due to HW issue
+visid: M7N7K70500023, Explanation: Bad contact due to HW issue
+visid: M7N7K70501185, Explanation: Bad contact due to HW issue
+visid: M7SH412400091, Explanation: Bad contact due to HW issue
+visid: M7N7K70501396, Explanation: Bad contact due to HW issue
+visid: M7SH412400901, Explanation: Bad contact due to HW issue
+visid: M7SH412401021, Explanation: Bad contact due to HW issue
+visid: M7N7K70500300, Explanation: Bad contact due to HW issue
+visid: M7N7K70501311, Explanation: Bad contact due to HW issue
+visid: M7N7K70501088, Explanation: Bad contact due to HW issue
+visid: M7N7K70500316, Explanation: Bad contact due to HW issue
+visid: M7L1Y26800133, Explanation: Bad contact due to HW issue
+visid: M7N7K70500328, Explanation: Bad contact due to HW issue
+visid: M7SH412400166, Explanation: Bad contact due to HW issue
+visid: M7N7K70501261, Explanation: Bad contact due to HW issue
+visid: M7SH412401124, Explanation: Bad contact due to HW issue
+visid: M7N7K70500124, Explanation: Bad contact due to HW issue
+visid: M7L1Y26800277, Explanation: Bad contact due to HW issue
+visid: M7N7K70500401, Explanation: Bad contact due to HW issue
+visid: M7SH412400114, Explanation: Bad contact due to HW issue
+visid: M7N7K70500378, Explanation: Bad contact due to HW issue
+visid: M7SH412400916, Explanation: Bad contact due to HW issue
+visid: M7SH412400670, Explanation: Bad contact due to HW issue
+visid: M7A176X401373, Explanation: Bad contact due to HW issue
+visid: M7SH412401074, Explanation: Bad contact due to HW issue

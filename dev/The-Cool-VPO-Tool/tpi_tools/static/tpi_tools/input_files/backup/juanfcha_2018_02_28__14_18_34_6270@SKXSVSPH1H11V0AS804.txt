@@ -1,0 +1,4 @@
+visid: M7N7K70500082, Explanation: Unit failed bin1498 due to IDSK disabling IA15 for exceeding voltage limit.
+visid: M7N7K70500022, Explanation: Unit fails bin1407 for exceeding Vrel max (VOLTAGE_:_0.984_EXCEEDS_VRELMAX:_0.980) in component CLM0 in scenario 128BP02 of SKU R3AT. Passing R3M1 but not passing any Bucket.
+visid: M7L1Y26800086, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 29 tests. should be connection issue. / There are multiple bin1 results from the same testing condition with 2 bin4621 out of 29 tests. should be connection issue/Unit fails bin1498 due to IDSK disabling IA11;IA12;IA09 for exceeding voltage limit.
+visid: M7N7K70500464, Explanation: Unit fails bin1498 due to IDSK disabling IA09 for exceeding voltage limit.

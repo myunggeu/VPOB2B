@@ -1,0 +1,7 @@
+visid: M7N7K70500439, Explanation: Bin 9792 is a die force/contact issue when the unit was socketed. Previously failed due to loose contact with cell A501 tester (bad cell during first VPO run). Recovered in new VPO.
+visid: M7N7K70500100, Explanation: Unit originally reached temperature limit of 20C during CHKCOREF6 subflow due to hardware/AP issue. Recovered in new VPO.
+visid: M7N7K70500137, Explanation: 9787 bins was a HW/AP instability issue that caused the units to come in with a high delta compared to the handler setpoint. Recovered in new VPO
+visid: M7N7K70501198, Explanation: Unit originally reached temperature limit of 20C during CHKCOREF6 subflow due to hardware/AP issue. Recovered in new VPO.
+visid: M7SH412400068, Explanation: Unit originally reached temperature limit of 20C during CHKCOREF6 subflow due to hardware/AP issue. Recovered in new VPO.
+visid: M7SH412401556, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit.
+visid: M7N7K70500024, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit.

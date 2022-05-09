@@ -1,0 +1,3 @@
+visid: M9MH566301446, Explanation: Unit failed due to HW Issue - Unit retestet and got bin1 in VPO: J942039CR
+visid: M9R48M5000128, Explanation: Open due to contact issues
+visid: M9R48M5000115, Explanation: Contact issues, 1A.1 bin = 1306

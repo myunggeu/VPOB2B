@@ -1,0 +1,11 @@
+visid: M7N7K70500199, Explanation: Fuseread data glitch on last test. Historically passing
+visid: M7N7K70500775, Explanation: Testing issue on last TP, historically passing
+visid: M7SH412400754, Explanation: DFF data glitch on old TP testing
+visid: M7N7K70500445, Explanation: HW Issue . Trim mased out before and now passed. good unit
+visid: M7N7K70500314, Explanation: ISEED data glitch on old TP testing
+visid: M7L1Y26800252, Explanation: ISEED Data glitch on old test
+visid: M7N7K70501434, Explanation: HW issue rebinned in failflow
+visid: M7N7K70500184, Explanation: ISEED data glitch, HW related
+visid: M7SH412400958, Explanation: ISEED data glitch, HW related
+visid: M7N7K70500209, Explanation: Historically passing unit. No changes in SBFT, marginal
+visid: M7L1Y26800245, Explanation: Recovered in RV

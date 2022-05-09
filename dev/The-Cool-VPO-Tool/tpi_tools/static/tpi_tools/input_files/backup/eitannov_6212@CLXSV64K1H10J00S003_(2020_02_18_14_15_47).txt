@@ -1,0 +1,3 @@
+visid: M8HC458500286, Explanation: FIVR_VLOAD_CORE34 pin wasn't connected during run. TIU insertion issue. No FIVR issue.
+visid: M8HC458500103, Explanation: FIVR_VLOAD_CORE53 pin issue. Not connected, then bad connection. No FIVR issue
+visid: M8HC458500197, Explanation: FIVR_VLOAD_CORE15 pin not connected from TIU during reference run. No FIVR issue

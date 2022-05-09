@@ -1,0 +1,5 @@
+visid: M7SH412401117, Explanation: one marginal core got killed in new run
+visid: M7N7K70500221, Explanation: has consistently failed for bin4430
+visid: M7N7K70501349, Explanation: degraded & downflowed 
+visid: M7SH412401158, Explanation: fail caught by new pattern
+visid: M7SH412400682, Explanation: 3 incoming bad cores caused faliure on selfsig

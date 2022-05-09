@@ -1,0 +1,2 @@
+visid: M73J2G6200754, Explanation: Unit typically fails for OCP. Not sure why we see SHOPS now. No FIVRFUNC change
+visid: M73J2G6200796, Explanation: Pattern failure during VDACOFFSET measurement. No FIVRFUNC change, not repeatable.

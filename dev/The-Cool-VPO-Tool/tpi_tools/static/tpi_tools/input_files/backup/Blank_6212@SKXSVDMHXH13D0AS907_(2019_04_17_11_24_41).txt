@@ -1,0 +1,30 @@
+visid: D997E7C700105, Explanation: Recovered from HW issue, TIU commonality
+visid: D997E7C700001, Explanation: Recovered from HW issue, TIU commonality
+visid: D9432ME900061, Explanation: Recovered from HW issue, TIU commonality
+visid: D9432ME900081, Explanation: Recovered from HW issue, TIU commonality
+visid: D9195AN200100, Explanation: Recovered from HW issue, TIU commonality
+visid: D997E7C700036, Explanation: Recovered from HW issue, TIU commonality
+visid: D9481LV800544, Explanation: Recovered from HW issue, TIU commonality
+visid: D9195AN200082, Explanation: Recovered from HW issue, TIU commonality
+visid: D9432ME900017, Explanation: Recovered from HW issue, TIU commonality
+visid: D9195AN200106, Explanation: Recovered from HW issue, TIU commonality
+visid: D997E7C700056, Explanation: Recovered from HW issue, TIU commonality
+visid: D9195AN200001, Explanation: Recovered from HW issue, TIU commonality
+visid: D9195AN200042, Explanation: Recovered from HW issue, TIU commonality
+visid: D9481LV800586, Explanation: Recovered from HW issue, TIU commonality
+visid: D997E7C700080, Explanation: Recovered from HW issue, TIU commonality
+visid: D9481LV800507, Explanation: Recovered from HW issue, TIU commonality
+visid: D9617FV304570, Explanation: Recovered from HW issue, TIU commonality
+visid: D9481LV800549, Explanation: Recovered from HW issue, TIU commonality
+visid: D9195AN200087, Explanation: Recovered from HW issue, TIU commonality
+visid: D9195AN200055, Explanation: Recovered from HW issue, TIU commonality
+visid: D9195AN200037, Explanation: Recovered from HW issue, TIU commonality
+visid: D997E7C700066, Explanation: HW related issue, TIU commonality
+visid: D997E7C700110, Explanation: HW related issue, TIU commonality
+visid: D9481LV800562, Explanation: HW related issue, TIU commonality
+visid: D9195AN200103, Explanation: HW related issue, TIU commonality
+visid: D997E7C700107, Explanation: HW related issue, TIU commonality
+visid: D9617FV304501, Explanation: HW related issue, TIU commonality
+visid: D997E7C700051, Explanation: HW related issue, TIU commonality
+visid: D997E7C700087, Explanation: HW related issue, TIU commonality
+visid: D997E7C700031, Explanation: HW related issue, TIU commonality

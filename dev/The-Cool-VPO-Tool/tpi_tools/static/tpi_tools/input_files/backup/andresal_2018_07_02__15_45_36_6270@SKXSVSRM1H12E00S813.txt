@@ -1,0 +1,2 @@
+visid: M7G050T400572, Explanation: Old TP the unit pass 5 QDFs, on new TP the unit only pass 1 QDF, they fail because of Voltage Exceed Limit. Bucketer algorithm didn't find a passing combination (catch all failing)
+visid: M7G050T400939, Explanation: Unit fails at most of the time throughout history. Unit failed 1498 in actual TP due to IDSK Disabled blocks, IDSKP3  disabled core IA14

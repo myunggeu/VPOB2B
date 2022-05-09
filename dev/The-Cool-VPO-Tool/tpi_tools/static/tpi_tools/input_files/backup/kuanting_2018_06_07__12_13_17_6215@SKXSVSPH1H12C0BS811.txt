@@ -1,0 +1,36 @@
+visid: M7N7K70500022, Explanation: Recover to bin1
+visid: M7N7K70500052, Explanation: Recover to bin1
+visid: M7N7K70500088, Explanation: Recover to bin1
+visid: M7N7K70501074, Explanation: Recover to bin1
+visid: M7N7K70501112, Explanation: Recover to bin1
+visid: M7N7K70501142, Explanation: Recover to bin1
+visid: M7N7K70501175, Explanation: Recover to bin1
+visid: M7N7K70501178, Explanation: Recover to bin1
+visid: M7SH412400589, Explanation: Recover to bin1
+visid: M7SH412400739, Explanation: Recover to bin1
+visid: M7SH412401063, Explanation: Recover to bin1
+visid: M7N7K70500150, Explanation: Recover to bin1
+visid: M7N7K70501122, Explanation: Recover to bin1
+visid: M7N7K70501124, Explanation: Recover to bin1
+visid: M7N7K70501144, Explanation: Recover to bin1
+visid: M7N7K70501151, Explanation: Recover to bin1
+visid: M7N7K70501164, Explanation: Recover to bin1
+visid: M7N7K70501204, Explanation: Recover to bin1
+visid: M7SH412400868, Explanation: Recover to bin1
+visid: M7SH412401070, Explanation: Recover to bin1
+visid: M7SH412400859, Explanation: Bin moves to b1500
+visid: M7N7K70500087, Explanation: Multiple b4621 across TPs and locations. Looks like a real fallout
+visid: M7N7K70501025, Explanation: Only 1 time bin4621 in the history. Looks like TIU connectivity issue
+visid: M7N7K70501214, Explanation: Only 1 time bin4621 in the history. Looks like TIU connectivity issue
+visid: M7N7K70501306, Explanation: Bin moves to b9703
+visid: M7SH412401096, Explanation: Only 1 time bin4621 in the history. Looks like TIU connectivity issue
+visid: M7SH412401110, Explanation: Recover to bin1
+visid: M7N7K70501168, Explanation: Only 1 time bin4621 in the history. Looks like TIU connectivity issue
+visid: M7SH412400537, Explanation: Recover to bin1
+visid: M7N7K70500128, Explanation: Recover to bin1
+visid: M7N7K70501066, Explanation: No bin4821 in the history. No content change
+visid: M7SH412400749, Explanation: No bin4821 in the history. No content change
+visid: M7SH412401052, Explanation: Recover to bin1 or bin1306
+visid: M7SH412400608, Explanation: Recover to bin1
+visid: M7SH412401192, Explanation: Recover to bin1
+visid: M7SH412400568, Explanation: Bin moves to b9763

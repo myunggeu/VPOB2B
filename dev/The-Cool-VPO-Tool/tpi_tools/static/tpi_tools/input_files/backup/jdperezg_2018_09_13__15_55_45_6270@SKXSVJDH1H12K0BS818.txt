@@ -1,0 +1,2 @@
+visid: M8NE567700197, Explanation: Consisteng B4416, failed as parametric on last run
+visid: M8LM305300311, Explanation: Consisteng B4427, failed as Bin 15 due to testing issue on last run

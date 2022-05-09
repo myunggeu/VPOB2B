@@ -1,0 +1,1 @@
+visid: M8SA531000127, Explanation: Unit failed bin1407 because it passed RF93^RF8T but that's no enough to pass any of the defined buckets.

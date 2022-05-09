@@ -1,0 +1,1 @@
+visid: M7N7K70500615, Explanation: Unit has had a history of hardware-related failures (IB15) for the past 4 TPs, this will cause the unit to be unable to reset correctly

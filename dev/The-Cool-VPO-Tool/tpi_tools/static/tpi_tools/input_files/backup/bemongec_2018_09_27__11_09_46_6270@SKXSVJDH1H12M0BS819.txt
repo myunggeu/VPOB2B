@@ -1,0 +1,245 @@
+visid: M8CQ906300267, Explanation: Unit failed in previous TP due to IDSK disable core IA21, NO COOKIES for unit!
+visid: M8NE567700458, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M8NE567700670, Explanation: Unit failed in actual TP due to IDSK disable core , NO COOKIES for unit!
+visid: M8CQ906300071, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8LM305300435, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M8CQ906300461, Explanation: Marginal unit, NO COOKIES for unit!
+visid: M8CQ906300075, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8CQ906300307, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300219, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8CQ906300405, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300453, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 10 tests. should be connection issue, NO COOKIES for unit!
+visid: M8CQ906300186, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300589, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M8LM305300303, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300406, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300340, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8CQ906300277, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8CQ906300398, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300184, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300229, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M8LM305300466, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8LM305300339, Explanation: Unit is failing bin5422 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8LM305300361, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8LM305300408, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M8LM305300357, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4821 out of 9 tests, NO COOKIES for unit!
+visid: M8LM305300601, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700414, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M8LM305300155, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M8BD231400008, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400634, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400610, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400017, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400002, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700263, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700128, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300235, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400492, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700046, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700172, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M8LM305300116, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300115, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300239, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400477, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700165, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4335 out of 7 tests, NO COOKIES for unit!
+visid: M8NE567700194, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300204, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400056, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700193, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8CQ906300193, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400018, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400652, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400035, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400053, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300238, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4821 out of 11 tests, NO COOKIES for unit!
+visid: M8NE567700145, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8LM305300173, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700185, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700179, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400392, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400695, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300464, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700152, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300404, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300363, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300460, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700214, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400391, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300647, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700367, Explanation: Unit is failing bin4336 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700437, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4625 out of 9 tests, NO COOKIES for unit!
+visid: M8NE567700106, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700004, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700363, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700429, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700516, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700072, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700444, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300509, Explanation: Unit is failing bin5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700445, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400158, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400253, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400177, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400154, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400217, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400404, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400286, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8LM305300056, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700638, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M8NE567700529, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700507, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700701, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700054, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700669, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700322, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700303, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700719, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700055, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M8NE567700715, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700617, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700074, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700674, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700530, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700512, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700356, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700002, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4625 out of 8 tests, NO COOKIES for unit!
+visid: M8NE567700652, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700483, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700422, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700442, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400464, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700568, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+Blank Entry: M8BD231400544
+visid: M8BD231400085, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400344, Explanation: Unit is failing bin5422 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400574, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400462, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M8BD231400431, Explanation: Unit is failing bin5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400086, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4821 out of 12 tests, NO COOKIES for unit!
+visid: M8BD231400469, Explanation: Unit is failing bin5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400315, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4625 out of 11 tests, NO COOKIES for unit!
+visid: M8BD231400166, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8LM305300068, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400582, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400339, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300496, Explanation: Unit is failing bin4313 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400273, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700523, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700076, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300008, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8NE567700117, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8LM305300365, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400030, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700380, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M8BD231400572, Explanation: This unit is unstable, in the same S819TP, we saw it's failing B6083. We are seeing B1, in the flow, it ran the down flow that passing (714 flow) instead of running the failing (713 flow), NO COOKIES for unit!
+visid: M8NE567700100, Explanation: failed for self sig, no core left in column, NO COOKIES for unit!
+visid: M8NE567700227, Explanation: recovered at retest, NO COOKIES for unit!
+visid: M8LM305300131, Explanation: recovered at retest, NO COOKIES for unit!
+visid: M8BD231400367, Explanation: recovered at retest, NO COOKIES for unit!
+visid: M8LM305300149, Explanation: recovered at retest, NO COOKIES for unit!
+visid: M8CQ906300070, Explanation: same FB recovered at retest, NO COOKIES for unit!
+visid: M8LM305300451, Explanation: same FB recovered at retest, NO COOKIES for unit!
+visid: M8BD231400227, Explanation: recovered at retest, NO COOKIES for unit!
+visid: M8BD231400113, Explanation: VCCIN hard fail, no module change, NO COOKIES for unit!
+visid: M8CQ906300444, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M8LM305300605, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8LM305300426, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8BD231400379, Explanation: Unit recovered in latest run, NO COOKIES for unit!
+visid: M8BD231400720, Explanation: Unit recovered in latest run, NO COOKIES for unit!
+visid: M8NE567700150, Explanation: Unit recovered in latest run, NO COOKIES for unit!
+visid: M8LM305300675, Explanation: Unit recovered in last run, NO COOKIES for unit!
+visid: M8NE567700114, Explanation: Historically B1 unit, It failed due to a HW issue, NO COOKIES for unit!
+visid: M8LM305300054, Explanation: Unit recovered in latest run, NO COOKIES for unit!
+visid: M8NE567700052, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M8BD231400106, Explanation: Unit recovered in latest run, NO COOKIES for unit!
+visid: M8NE567700431, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M8BD231400553, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M8CQ906300449, Explanation: The unit fails B1330 in 'new bin' a total 3 times from 3 different TP runs., NO COOKIES for unit!
+visid: M8LM305300088, Explanation: Unit fails B1332 only once in VPO history; most likely due to tester/HW issue, NO COOKIES for unit!
+visid: M8NE567700109, Explanation: The unit did pass some QDF but did not find a valid combination in bucketing configuration., NO COOKIES for unit!
+visid: M8NE567700244, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M8NE567700186, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M8BD231400153, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M8NE567700456, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M8LM305300114, Explanation: recovered at retest, NO COOKIES for unit!
+visid: M8BD231400365, Explanation: recovered at retest, NO COOKIES for unit!
+visid: M8LM305300640, Explanation: recovered at retest, NO COOKIES for unit!
+visid: M8BD231400413, Explanation: recovered at retest, NO COOKIES for unit!
+visid: M8LM305300442, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M8BD231400029, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M8LM305300716, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M8BD231400589, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M8BD231400130, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M8LM305300594, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M8BD231400497, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M8BD231400184, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M8LM305300507, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M8NE567700677, Explanation: tap is not alive;This is a basic tap test; most likely tap induce error; please rerun, NO COOKIES for unit!
+Blank Entry: M8LM305300495
+visid: M8NE567700124, Explanation: This is unit is historically a marginal failure on scan m2pcie atpg, NO COOKIES for unit!
+visid: M8BD231400164, Explanation: Unit is failing bin995 and 4313 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400595, Explanation: Unit is failing bin4313 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8CQ906300304, Explanation: Unit is failing bin995 only once throughout the history. Most likely a tester issue. However the B4321 fails seems valid, it failed 5 out of 6 tests in history., NO COOKIES for unit!
+visid: M8CQ906300361, Explanation: has been a consistent Bin4416, NO COOKIES for unit!
+visid: M8LM305300270, Explanation: failed for the new FC dragon content, reverted, NO COOKIES for unit!
+visid: M8NE567700077, Explanation: failed for the new FC dragon content, reverted, NO COOKIES for unit!
+visid: M8LM305300651, Explanation: failed for the new FC dragon content, reverted, NO COOKIES for unit!
+visid: M8CQ906300167, Explanation: failed for the new FC dragon content, reverted, NO COOKIES for unit!
+visid: M8NE567700110, Explanation: failed for the new FC dragon content, reverted, NO COOKIES for unit!
+visid: M8CQ906300165, Explanation: failed for the new FC dragon content, reverted, NO COOKIES for unit!
+visid: M8NE567700490, Explanation: looks hardware as almost all cores killed, NO COOKIES for unit!
+visid: M8NE567700129, Explanation: dint get to sbft in old run, NO COOKIES for unit!
+visid: M8CQ906300443, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M8CQ906300463, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8LM305300254, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700015, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8LM305300277, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8LM305300151, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400417, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700697, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700503, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400162, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400275, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400442, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400270, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700498, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8CQ906300387, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700196, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8LM305300459, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700515, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400289, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4625 out of 11 tests. should be connection issue, NO COOKIES for unit!
+visid: M8NE567700364, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700070, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8LM305300051, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4625 out of 11 tests, NO COOKIES for unit!
+visid: M8BD231400347, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8LM305300241, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8CQ906300433, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8CQ906300309, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400388, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700014, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700487, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700061, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700535, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400277, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8LM305300562, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8BD231400111, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8BD231400547, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8LM305300083, Explanation: Unit is failing bin5421 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8CQ906300143, Explanation: unit failed B4625 and B5422 once in each of the TP runs. Most likely due to tester/HW issue, NO COOKIES for unit!
+visid: M8BD231400704, Explanation: Unit is failing bin5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8LM305300674, Explanation: Unit is failing bin5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8NE567700134, Explanation: Unit is failing bin4625 and 5432 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8CQ906300140, Explanation: Unit is failing bin5433 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M8CQ906300114, Explanation: Marginal Failure for llcdatksx_vclmminfreq3 , NO COOKIES for unit!
+visid: M8LM305300441, Explanation: New run was tested at higher vmin, that causing the failure llcdat f3, NO COOKIES for unit!
+visid: M8LM305300424, Explanation: New run was tested at higher vmin, that causing the failure llcdat f3, NO COOKIES for unit!
+visid: M8BD231400630, Explanation: New run was tested at higher vmin, that causing the failure llcdat f3, NO COOKIES for unit!
+visid: M8BD231400398, Explanation: New run was tested at higher vmin, that causing the failure llcdat f3, NO COOKIES for unit!
+visid: M8NE567700714, Explanation: New run was tested at higher vmin, that causing the failure llcdat f3, NO COOKIES for unit!
+visid: M8LM305300481, Explanation: New run was tested at higher vmin, that causing the failure llcdat f3, NO COOKIES for unit!
+visid: M8NE567700318, Explanation: New run was tested at higher vmin, that causing the failure llcdat f3, NO COOKIES for unit!
+visid: M8NE567700592, Explanation: New run was tested at higher vmin, that causing the failure llcdat f3, NO COOKIES for unit!
+visid: M8LM305300607, Explanation: The unit fails b9443 once due to Hardware issue. There is also history of b1, NO COOKIES for unit!
+visid: M8NE567700543, Explanation: Outlier core getting killed, NO COOKIES for unit!
+visid: M8NE567700003, Explanation: Marginal fail, NO COOKIES for unit!
+Blank Entry: M8NE567700432

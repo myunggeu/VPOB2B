@@ -1,0 +1,1 @@
+visid: M7SH412400599, Explanation: Tap froze in the previous run, HW issue. Re-run made it pass with good SFR value.Unit recovered

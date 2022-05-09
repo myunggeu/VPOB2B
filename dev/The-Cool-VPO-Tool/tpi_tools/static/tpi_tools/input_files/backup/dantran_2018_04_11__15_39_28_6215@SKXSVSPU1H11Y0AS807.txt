@@ -1,0 +1,10 @@
+visid: M7NN267100842, Explanation: bin 41 is a false failure, possible tester issue
+visid: M7NN267100917, Explanation: bin 41 is a false failure, possible tester issue
+visid: M7NN267101064, Explanation: 9787 bins was a HW/AP instability on site A202 that caused the units to come in with a high delta compared to the handler setpoint. Recovered in new VPO
+visid: M7NN267101108, Explanation: 9787 bins was a HW/AP instability on site A202 that caused the units to come in with a high delta compared to the handler setpoint. Recovered in new VPO
+visid: M7NN267101318, Explanation: 9787 bins was a HW/AP instability on site A202 that caused the units to come in with a high delta compared to the handler setpoint. Recovered in new VPO
+visid: M7NN267101370, Explanation: bin 41 is a false failure, possible tester issue
+visid: M73J2G6200729, Explanation: sbft
+visid: M73J2G6200393, Explanation: invalid. Testing issue on S807 TP with HW bin switching observed.
+visid: M73J2G6201533, Explanation: Cache: invalid failure, it's failing all COREF1, F3, and F6 testsl for SCAN, SBFT, and CACHE.
+visid: M7NN267101074, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit.

@@ -1,0 +1,2 @@
+visid: M9V06E8801479, Explanation: ran out of cores for self sig comparison
+visid: M9V06E8801824, Explanation: Marginal core recovered

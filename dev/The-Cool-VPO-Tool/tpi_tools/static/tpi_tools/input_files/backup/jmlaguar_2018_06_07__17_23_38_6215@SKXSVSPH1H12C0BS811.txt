@@ -1,0 +1,1 @@
+visid: M7SH412401019, Explanation: All B9763 came from sites A201 and A402. APs on these cells were too weak to chill unit to -5C. Retesting on a different cell should recover unit.

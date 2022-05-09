@@ -1,0 +1,1 @@
+visid: M7SH412400676, Explanation: Unit fails at bin5314 (FUSE)most of the time throughout history with only 2 out of 26 times bin4621 (SIO). The SIO fails are invalid

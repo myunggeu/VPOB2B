@@ -1,0 +1,2 @@
+visid: M8S78N4500401, Explanation: Old run downflowed to flow 4 by c_SBFMLCFG_vcorefreq6raw_SRHCOREF6_vminsearch.  Unit has a history of b100, so this may be a HW or setup issue
+visid: M8601RW600695, Explanation: HW issue.  All cores failed in ARR_CACHE::C_CRFRMRSCR_VCOREMINFREQ6_LTTC_7932 on old run

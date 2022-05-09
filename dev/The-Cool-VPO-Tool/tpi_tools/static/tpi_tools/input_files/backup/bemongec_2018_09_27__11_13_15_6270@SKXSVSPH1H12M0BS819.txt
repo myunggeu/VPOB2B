@@ -1,0 +1,1 @@
+visid: M7N7K70500700, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue//Unit fail bin 1407 due to it did pass some QDF but did not find any valid Bucketing configuration(did not pass QDF catchall)

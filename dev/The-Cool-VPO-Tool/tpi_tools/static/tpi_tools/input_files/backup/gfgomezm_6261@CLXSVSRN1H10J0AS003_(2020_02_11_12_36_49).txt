@@ -1,0 +1,5 @@
+visid: M9F05R5401096, Explanation: B68 caused by HW previous run.
+visid: M9F05R5400486, Explanation: B68 caused by HW previous run.
+visid: M9F05R5400498, Explanation: B13 caused by HW on previous run. Recovered with no issues
+visid: M9F05R5400530, Explanation: B13 caused by HW on previous run. Recovered with no issues
+visid: M9F05R5400646, Explanation: B13 caused by HW on previous run. Recovered with no issues

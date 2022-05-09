@@ -1,0 +1,1 @@
+visid: M7SH412400528, Explanation: The unit fails due to voltage exceed limit in component CLM0 in scenario 128BP02 of SKU R37S. Voltage limit is 0.900. String token: VOLTAGE_:_0.923_EXCEEDS_VRELMAX:_0.900

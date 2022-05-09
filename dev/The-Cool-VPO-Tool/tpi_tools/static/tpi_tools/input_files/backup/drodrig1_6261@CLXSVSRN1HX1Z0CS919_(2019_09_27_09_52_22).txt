@@ -1,0 +1,1 @@
+visid: M9F05R5400018, Explanation: Unit had 2 cores disabled by IDSK on previous run, causing it to fail for bin1498. Now it failed prior to UPS. Unit has failed in several runs with S915 and S919 TPs

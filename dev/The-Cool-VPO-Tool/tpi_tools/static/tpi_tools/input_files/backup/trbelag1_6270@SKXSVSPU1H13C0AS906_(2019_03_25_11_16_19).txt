@@ -1,0 +1,2 @@
+visid: M7NN267100117, Explanation: Run to run variation. Marginal unit. Core SICC measurement on failing test was 1.50634A and on passing test was 1.48463A (Fail limit is 1.5A).
+visid: M7NN267101230, Explanation: Legitimate fail. Unit would likely fail to bin 1824 on old TP also if it got past Continuity test. 

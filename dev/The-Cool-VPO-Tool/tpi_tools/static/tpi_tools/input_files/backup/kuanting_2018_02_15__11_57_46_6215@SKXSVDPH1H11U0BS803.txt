@@ -1,0 +1,11 @@
+visid: D72N5Q3400085, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 8 tests
+visid: D72N5Q3400220, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: D72N5Q3400323, Explanation: Unit is recovered to bin1 in the last VPO 
+visid: D73U27M900008, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: D7WF637100149, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: D7WF637100187, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: D72N5Q3400256, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: D72N5Q3400246, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: D72N5Q3400295, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: D73U27M900035, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: D72N5Q3400296, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue

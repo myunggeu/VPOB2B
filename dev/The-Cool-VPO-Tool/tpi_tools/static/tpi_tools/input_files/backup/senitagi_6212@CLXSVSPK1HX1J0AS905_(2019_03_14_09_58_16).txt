@@ -1,0 +1,7 @@
+visid: M83G18S200700, Explanation: HW issue, passing now
+visid: M8R42V9100086, Explanation: Failure due to HW issue
+visid: M83G18S200398, Explanation: Failure due to HW issue
+visid: M83G18S200668, Explanation: Failure due to HW issue
+visid: M83G18S200392, Explanation: Failure due to HW issue
+visid: M8R42V9100104, Explanation: Failure due to HW issue
+visid: M83G18S200553, Explanation: Failure due to HW issue

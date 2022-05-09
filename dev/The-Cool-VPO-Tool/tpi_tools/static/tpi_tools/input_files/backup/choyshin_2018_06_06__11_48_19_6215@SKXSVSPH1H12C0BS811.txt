@@ -1,0 +1,12 @@
+visid: M7N7K70500041, Explanation: invalid, HW related
+visid: M7N7K70500873, Explanation: failed as other bin at RT
+visid: M7SH412400536, Explanation: failed as other bin at RT
+visid: M7SH412400591, Explanation: failed as other bin at RT
+visid: M7SH412400610, Explanation: failed as other bin at RT
+visid: M7SH412400811, Explanation: recovered at RT
+visid: M7SH412400998, Explanation: recovered at RT
+visid: M7SH412401000, Explanation: recovered at RT
+visid: M7SH412400557, Explanation: recovered at RT
+visid: M7N7K70500135, Explanation: recovered at RT
+visid: M7SH412401023, Explanation: recovered at RT
+visid: M7SH412400754, Explanation: recovered at RT

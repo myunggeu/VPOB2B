@@ -1,0 +1,1 @@
+visid: M73J2G6200797, Explanation: TAP froze to 63 which is the max trim value. HW instability. Previousl a good unit. no history of Bin 28s

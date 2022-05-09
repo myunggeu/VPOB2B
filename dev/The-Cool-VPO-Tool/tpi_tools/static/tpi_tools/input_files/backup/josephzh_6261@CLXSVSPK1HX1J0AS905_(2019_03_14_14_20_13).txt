@@ -1,0 +1,13 @@
+visid: M8SA531000268, Explanation: Unit recovered. could be HW issue or marginal unit
+visid: D8S77S0700131, Explanation: This is the viadelam test fail switched to bin1. Test instability or HW issue
+visid: M8SA531000048, Explanation: This is the viadelam test fail switched to bin1. Test instability or HW issue
+visid: M8SA531000455, Explanation: Unit recovered due to either HW or marginality issue
+visid: M8SA531000448, Explanation: Recovered from HW issue
+visid: M8SA531000096, Explanation: Recovered from HW issue
+visid: M8SA531000217, Explanation: This is the viadelam test fail switched to bin1. Test instability or HW issue
+visid: M8SA531000162, Explanation: HW issue related
+visid: M8SA531000006, Explanation: This is the viadelam test fail switched to bin1. Test instability or HW issue
+visid: D8S77S0700227, Explanation: HW related
+visid: D8S77S0700293, Explanation: HW related
+visid: M8SA531000662, Explanation: HW related
+visid: D8S77S0700306, Explanation: HW related

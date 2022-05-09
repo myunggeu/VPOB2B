@@ -1,0 +1,2 @@
+visid: M7N7K70500418, Explanation: Tester clamp, Hw issue
+visid: M7N7K70500468, Explanation: Tester clamp, Hw issue

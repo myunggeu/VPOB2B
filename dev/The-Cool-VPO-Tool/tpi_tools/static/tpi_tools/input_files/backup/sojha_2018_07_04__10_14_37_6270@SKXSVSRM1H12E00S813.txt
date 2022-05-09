@@ -1,0 +1,2 @@
+visid: M7G050T401015, Explanation: Additional core 12 is failing in the new run fro vcorefreq1raw_SRHCOREF1_vminsearch. Vmin for both new and old run is 470mV but in the new run it failing. The unit has degraded.
+visid: M7G050T400709, Explanation: This is a known power induced failure in CLM domain. In the new run it is failing for llcdatksx_vclmminfreq3_CHKCLMF3. After it fails it is going to multipass insatance and passing. However, the multipass instances are in EDC mode so it binning out as bin 62.

@@ -1,0 +1,5 @@
+visid: M73J2G6200050, Explanation: suspected HW issue. S812TP - failing same bin on same tester.
+visid: M73J2G6200753, Explanation: suspected HW issue. S812TP - failing same bin on same tester.
+visid: M73J2G6200763, Explanation: suspected HW issue. S812TP - failing same bin on same tester.
+visid: M73J2G6201253, Explanation: suspected HW issue. S812TP - failing same bin on same tester.
+visid: M73J2G6201469, Explanation: suspected HW issue. S812TP - failing same bin on same tester.

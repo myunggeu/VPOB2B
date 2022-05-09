@@ -1,0 +1,4 @@
+visid: M73J2G6200051, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M7NN267101069, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M7NN267101239, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M7NN267100125, Explanation: New TIU. Needed TP re-tuning for Squelch Test.

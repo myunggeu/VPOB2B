@@ -1,0 +1,6 @@
+visid: M8NE567700076, Explanation: marginal failure. recovered on rerun and passing now as well
+visid: M8LM305300201, Explanation: removed flaky iio pattern. now recovering as expected
+visid: M8LM305300331, Explanation: removed flaky mesh content. Recovering now
+visid: M8BD231400298, Explanation: fallout due to mesh DPM content instability
+visid: M8NE567700720, Explanation: fallout due to mesh DPM content instability
+visid: M8BD231400404, Explanation: marginal vmin related failure

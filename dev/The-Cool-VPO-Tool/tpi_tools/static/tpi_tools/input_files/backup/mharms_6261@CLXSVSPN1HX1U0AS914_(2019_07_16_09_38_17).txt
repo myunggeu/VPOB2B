@@ -1,0 +1,3 @@
+visid: M8S78N4500341, Explanation: Recovered from SHOPS contact/HW issue (high resistance) on MCI_NOA_AVRB4 pin
+visid: M8601RW600945, Explanation: New run had contact/HW issue (high resistance pin DDR345_SPDSDA1)
+visid: M8S78N4500198, Explanation: Ref run failed due to HW or setup issue (high resistance on pin PE3_DFX_DN)

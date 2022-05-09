@@ -1,0 +1,50 @@
+Blank Entry: M9FD363600296
+visid: M9FD363600787, Explanation: Unit is failing bin 5433 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+Blank Entry: M9DE105401415
+Blank Entry: M9DE105401428
+Blank Entry: M9FD363600383
+visid: M9FD363600129, Explanation: There are multiple bin 1 results from the same testing condition with 6 bin 4821 out of 25 tests. should be connection issue, NO COOKIES for unit!
+Blank Entry: M9DE105401293
+Blank Entry: M9DE105400844
+visid: M9DE105401375, Explanation: Unit is failing bin 4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+Blank Entry: M9DE105400787
+Blank Entry: M9DE105401437
+visid: M9DE105400744, Explanation: Unit is failing bin 1551 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9DE105401150, Explanation: Unit is failing bin 4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9DE105401421, Explanation: Unit is failing bin 4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+Blank Entry: M9DE105401436
+Blank Entry: M9FD363600710
+Blank Entry: M9DE105401245
+Blank Entry: M9FD363600132
+Blank Entry: M9DE105400424
+Blank Entry: M9DE105401255
+Blank Entry: M9FD363600186
+Blank Entry: M9FD363600134
+Blank Entry: M9DE105401431
+visid: M9FD363600069, Explanation: There are multiple bin 1 results from the same testing condition with 3 bin1500 out of 23 tests. should be connection issue, NO COOKIES for unit!
+visid: M9DE105400461, Explanation: Unit is failing bin 1500 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9FD363600254, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 1521 out of 18 tests. should be connection issue, NO COOKIES for unit!
+visid: M9DE105401273, Explanation: Unit is failing bin 1551 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9DE105401372, Explanation: Unit is failing bin 4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9DE105401147, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4621 out of 9 tests. should be connection issue, NO COOKIES for unit!
+visid: M9DE105401393, Explanation: Unit is failing bin 4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9DE105401119, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9DE105400764, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9DE105400252, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4625 out of 12 tests. should be connection issue, NO COOKIES for unit!
+visid: M9DE105401149, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9DE105400854, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9FD363600554, Explanation: Unit fails at bin 4821 for 9 out of 20 tests in the history. Should be a valid failure, NO COOKIES for unit!
+visid: M9DE105400478, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4821 out of 8 tests. should be connection issue, NO COOKIES for unit!
+visid: M9FD363600678, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4821 out of 22 tests. should be connection issue, NO COOKIES for unit!
+Blank Entry: M9DE105400857
+Blank Entry: M9DE105400814
+Blank Entry: M9DE105400732
+Blank Entry: M9DE105401154
+visid: M9DE105400166, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9DE105400770, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9DE105400849, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9DE105400819, Explanation: Unit is failing bin 5432 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9DE105400473, Explanation: Unit is failing bin 5433 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M9DE105401402, Explanation: Unit is failing bin 5433 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+Blank Entry: M9DE105400419
+visid: M9FD363600211, Explanation: Unit is failing bin 9901 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!

@@ -1,0 +1,7 @@
+visid: M8KR236200263, Explanation:  Unit recovered from HW Issue 
+visid: M8KR236200047, Explanation:  Unit recovered from HW Issue 
+visid: M8KR236200483, Explanation: Unit failed after retesting bin1306. MIO_DDR_C_PYTHON_NONE_INIT_SETUPEDSRUN. Induced by HW Issue.   
+visid: M8KR236200043, Explanation: Unit failed due to a marginal short in FIVR_CLKREF pin and in Vload_LCDPS17 and ctrl word 40. 
+visid: M8HC458500455, Explanation: Unit failed after retesting bin4625. SIO_KTI_DC1_DFXLEGCHK_X_CMEM_K_END_X_VCCIOVCCSA_VNOM_X_VIADELAMCMEM. Induced by HW Issue.  
+visid: M8KR236200435, Explanation: Unit failed after retesting bin4625. SIO_KTI_DC1_DFXLEGCHK_X_CMEM_K_END_X_VCCIOVCCSA_VNOM_X_VIADELAMCMEM. Induced by HW Issue
+visid: M8KR236200025, Explanation: Unit failed after retesting bin1306. MIO_DDR_C_PYTHON_NONE_INIT_SETUPEDSRUN. Induced by HW Issue.   

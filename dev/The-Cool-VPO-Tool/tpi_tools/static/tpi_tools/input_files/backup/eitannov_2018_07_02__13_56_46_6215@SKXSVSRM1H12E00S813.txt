@@ -1,0 +1,1 @@
+visid: M7G050T401447, Explanation: Old TP had CLM 1 VDAC pin not connected to TIU when socketed. There is no fivr module issue that causes this.

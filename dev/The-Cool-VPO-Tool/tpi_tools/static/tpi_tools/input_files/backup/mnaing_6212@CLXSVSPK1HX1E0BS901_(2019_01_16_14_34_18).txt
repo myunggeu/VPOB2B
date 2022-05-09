@@ -1,0 +1,1 @@
+visid: D8S77S0700214, Explanation: core26th is incoming bad in S824. That's why B193. S901 its defeatured at MLCF1.

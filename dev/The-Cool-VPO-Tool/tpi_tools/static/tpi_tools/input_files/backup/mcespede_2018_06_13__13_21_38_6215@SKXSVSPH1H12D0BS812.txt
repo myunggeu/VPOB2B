@@ -1,0 +1,29 @@
+visid: M7N7K70500049, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70500137, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70500146, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70501024, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70501100, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70501109, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70501135, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70501159, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70501333, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70501343, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70501347, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70501349, Explanation: Unit recovered from HW issue in old TP.
+visid: M7N7K70501246, Explanation: Unit recovered from HW issue in old TP.
+visid: M73K2D8500700, Explanation: HW related issue. Unit recovered in retest.
+visid: M73K2D8500721, Explanation: HW related issue. Unit recovered in retest.
+visid: M73K2D8501005, Explanation: HW related issue. Unit recovered in retest.
+visid: M7A176X401262, Explanation: HW related issue. Unit recovered in retest.
+visid: M7A176X401365, Explanation: HW related issue. Unit recovered in retest.
+visid: M7N7K70500071, Explanation: HW related issue. Unit recovered in retest.
+visid: M7N7K70500092, Explanation: HW related issue. Unit recovered in retest.
+visid: M7N7K70501022, Explanation: HW related issue. Unit recovered in retest.
+visid: M7N7K70501060, Explanation: HW related issue. Unit recovered in retest.
+visid: M7N7K70501097, Explanation: HW related issue. Unit recovered in retest.
+visid: M7N7K70501108, Explanation: HW related issue. Unit recovered in retest.
+visid: M7N7K70501117, Explanation: HW related issue. Unit recovered in retest.
+visid: M7N7K70501169, Explanation: HW related issue. Unit recovered in retest.
+visid: M7N7K70501174, Explanation: HW related issue. Unit recovered in retest.
+visid: M7N7K70501259, Explanation: HW related issue.
+visid: M7N7K70501105, Explanation: Unit recovered in retest.

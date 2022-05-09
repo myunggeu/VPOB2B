@@ -1,0 +1,7 @@
+visid: M7SH412400303, Explanation: Unit recovered from HW issue
+visid: M7SH412400646, Explanation: Tap failure, HW related
+visid: M7SH412400282, Explanation: Testing issue on old TP, consistenly failing unit verified through history
+visid: M7SH412400786, Explanation: Tapping issue, HW related. Recovered in RV
+visid: M7SH412400421, Explanation: Tapping issue, HW related. Recovered in RV
+visid: M7SH412400076, Explanation: Recovered in RV
+visid: M7N7K70500656, Explanation: Recovered in RV

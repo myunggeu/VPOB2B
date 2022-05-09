@@ -1,0 +1,1 @@
+visid: M83G18S200413, Explanation: bad hardware contact caused wrong fuse read string

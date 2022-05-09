@@ -1,0 +1,3 @@
+visid: M7NN267101064, Explanation: 9787 bins was a HW/AP instability on site A202 that caused the units to come in with a high delta compared to the handler setpoint. Recovered in new VPO
+visid: M7NN267101108, Explanation: 9787 bins was a HW/AP instability on site A202 that caused the units to come in with a high delta compared to the handler setpoint. Recovered in new VPO
+visid: M7NN267101318, Explanation: 9787 bins was a HW/AP instability on site A202 that caused the units to come in with a high delta compared to the handler setpoint. Recovered in new VPO

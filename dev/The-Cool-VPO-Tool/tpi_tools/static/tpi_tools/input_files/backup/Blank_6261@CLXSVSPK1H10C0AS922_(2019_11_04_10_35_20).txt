@@ -1,0 +1,8 @@
+visid: M9R48M5000115, Explanation: Recovered from HW issue
+visid: M9R48M5000128, Explanation: Recovered from HW issue
+visid: M9FE297101339, Explanation: Recovered from HW issue
+visid: M9MH566301446, Explanation: Recovered from HW issue
+visid: M9FE297100727, Explanation: Recovered from HW issue
+visid: M9FE297100986, Explanation: Failed due to HW issue, after retest of b5432 - SIO_PCIE_AC1_REUTSQLCH_X_FAST_K_END_X_VCCIOVCCSA_VMIN
+visid: M9FE297101272, Explanation: Failed due to HW issue, after retest of b4821 - SIO_PCIE_DC1_DFXLEGCHK_RX_CMEM_K_END_X_VCCIOVCCSA_VNOM_X_DET
+visid: M9R48M5000680, Explanation: Failed due to HW issue, after retest of b4263 - SCN_SCAN_c_ssrcha5mc0_vclmnomf1600_atpg_IO

@@ -1,0 +1,20 @@
+visid: D9195AN200007, Explanation: Reject from HOT
+visid: D9481LV800518, Explanation: Reject from HOT
+visid: D997E7C700053, Explanation: Reject from HOT
+visid: D9481LV800527, Explanation: Reject from HOT
+visid: D997E7C700065, Explanation: Reject from HOT
+visid: D9432ME900012, Explanation: Reject from HOT
+visid: D9195AN200020, Explanation: Reject from HOT
+visid: D9195AN200010, Explanation: Unit recovered after run RV
+visid: D9432ME900055, Explanation: Unit recovered after run RV
+visid: D9481LV800513, Explanation: Unit recovered after run RV
+visid: D9481LV800538, Explanation: Unit recovered after run RV
+visid: D9481LV800529, Explanation: Unit recovered after run RV
+visid: D9481LV801098, Explanation: Unit recovered after run RV
+visid: D997E7C700048, Explanation: Unit recovered after run RV
+visid: D997E7C700050, Explanation: Unit recovered after run RV
+visid: D9195AN200032, Explanation: Unit recovered after run RV
+visid: D9481LV800519, Explanation: Unit recovered after run RV
+visid: D9195AN200022, Explanation: Unit recovered after run RV
+visid: D9481LV800525, Explanation: Unit recovered after run RV
+visid: D9481LV801107, Explanation: Unit recovered after run RV

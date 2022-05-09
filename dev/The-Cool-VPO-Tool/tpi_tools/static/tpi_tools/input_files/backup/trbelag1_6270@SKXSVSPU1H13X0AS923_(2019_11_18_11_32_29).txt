@@ -1,0 +1,1 @@
+visid: M7NN267101230, Explanation: Bad unit. Direct SICC measurement on Core 4 (grpC) exceeds upper limit of 1.5A. Same unit previously failed for a violation on the same measurement. Seeing a bin switch since this unit failed continuity in the 'Old' TP.

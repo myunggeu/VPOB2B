@@ -1,0 +1,1 @@
+visid: D970U5V201059, Explanation: POD failure disappeared on retest. No FIVR module change. This unit typically alternates between bin 98 ,bin 15 and bin 27 (2710). This unit has stability issues.

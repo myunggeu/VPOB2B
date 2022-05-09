@@ -1,0 +1,1 @@
+visid: M7HU061901499, Explanation: Contact with EUI was not adequate when the unit was socketed. Recovered on different hardware.

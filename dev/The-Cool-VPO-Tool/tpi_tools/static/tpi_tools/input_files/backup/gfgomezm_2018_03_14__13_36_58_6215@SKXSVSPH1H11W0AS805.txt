@@ -1,0 +1,4 @@
+visid: M7N7K70500051, Explanation: HW Related. Opens/Shorts on CMD lines. Recovered with no changes
+visid: M7N7K70501310, Explanation: HW Related. Opens/Shorts on CMD lines. Recovered with no changes
+visid: M7N7K70500443, Explanation: HW Related. Opens/Shorts on CMD lines. Recovered with no changes
+visid: M7N7K70500462, Explanation: HW Related. Opens/Shorts on CMD lines. Recovered with no changes

@@ -1,0 +1,7 @@
+visid: M73J2G6200535, Explanation: no more cores left in a column for self sig comparison
+visid: M73J2G6200317, Explanation: no more cores left in a column for self sig comparison
+visid: M73J2G6200026, Explanation: Marginal fail
+visid: M73J2G6200011, Explanation: never reached sbft in the old run
+visid: M7NN267100978, Explanation: looks like a marginal unit
+visid: M73J2G6201420, Explanation: Marginal core recovered
+visid: M73J2G6200588, Explanation: same failure in both runs

@@ -1,0 +1,21 @@
+visid: M9FE297100985, Explanation: Bin caused by HW/contact  issues. Recovered
+visid: M9R48M5000899, Explanation: Bin caused by HW/contact  issues. Recovered
+visid: M9R48M5000774, Explanation: Bin caused by HW/contact  issues. Recovered
+visid: M9R48M5000119, Explanation: Bin caused by HW/contact  issues. Recovered
+visid: M9R48M5000798, Explanation: Bin caused by HW/contact  issues. Recovered
+visid: M9KB375201201, Explanation: Bin caused by HW/contact  issues. Recovered
+visid: M9KB375201252, Explanation: Bin caused by HW/contact  issues. Recovered
+visid: M9MH566301453, Explanation: Bin caused by HW/contact  issues. Recovered
+visid: M9KB375200454, Explanation: Bin caused by HW/contact  issues. Recovered
+visid: M95B8W9300193, Explanation: Bin caused by HW/contact  issues. Recovered
+visid: M9Q50W3800715, Explanation: Bin caused by HW/contact  issues. Recovered
+visid: M9Q50W3800699, Explanation: Bin caused by HW/contact  issues. Recovered
+visid: M9FE297100721, Explanation: Bin caused by HW/contact  issues. Recovered
+visid: M9KB375201040, Explanation: Bin Caused by OPEN contacts
+visid: M9KB375201391, Explanation: Bin Caused by OPEN contacts
+visid: M9KB375201394, Explanation: Bin Caused by OPEN contacts
+visid: M9FE297100785, Explanation: Bin Caused by OPEN contacts
+visid: M9R48M5000562, Explanation: Bin Caused by OPEN contacts (CMD lines)
+visid: M9FE297100549, Explanation: Bin13 caused by HW/contact  issues. 
+visid: M9BR819701162, Explanation: Bin Caused by poor contacts
+visid: M9FE297101310, Explanation: Bin Caused by poor contacts

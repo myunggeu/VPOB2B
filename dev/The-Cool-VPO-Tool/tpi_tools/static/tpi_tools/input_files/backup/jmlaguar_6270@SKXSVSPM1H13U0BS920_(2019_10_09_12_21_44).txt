@@ -1,0 +1,1 @@
+visid: M88J7X3800181, Explanation: Upper prochot limit reached due to low temperature (~50C) during DTS testing, indicating issue with AP hardware. Retesting should recover unit.

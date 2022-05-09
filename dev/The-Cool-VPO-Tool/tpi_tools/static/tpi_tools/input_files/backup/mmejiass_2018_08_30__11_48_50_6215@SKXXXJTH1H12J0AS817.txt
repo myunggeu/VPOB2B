@@ -1,0 +1,1 @@
+visid: M8NE567700228, Explanation: unit failing in SKX_ADCALIB_H in begin flow causing skip on SKX_REPAIR_H then it fails reset in fail flow due to cores not locking pll which is expected when ADCalib fails or repair is not done

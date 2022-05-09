@@ -1,0 +1,7 @@
+visid: M8LM305300429, Explanation: Voltage Exceeded VRelMax (Voltage 0.988, VRELMAX 0.980)
+visid: M8LM305300608, Explanation: Unit passed throughout most of its history. It failed because IDSK disabled IA17 for exceeding voltage limit
+visid: M8NE567700670, Explanation: Unit failed because IDSK disabled IA25 for exceeding voltage limit
+visid: M8LM305300131, Explanation: Voltage Exceeds VRelMax (VNOM: 0.901 > VRELMAX: 0.900) so the bucketer algorithm didn't find a passing combination
+visid: M8CQ906300444, Explanation: Voltage Exceeds VRelMax (0.900), VNOM (0902), so the bucketer algorithm didn't find a passing combination
+visid: M8CQ906300359, Explanation: Unit fails due to IDSK disabling IA13 for exceeding voltage limit
+visid: M8NE567700197, Explanation: Unit fails due to IDSK disabling IA24 for exceeding voltage limit

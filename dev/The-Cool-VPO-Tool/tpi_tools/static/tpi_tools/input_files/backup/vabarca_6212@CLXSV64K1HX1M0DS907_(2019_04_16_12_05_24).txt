@@ -1,0 +1,13 @@
+visid: M94R2R2100187, Explanation: no core left for self sig comparison
+visid: M8HC458500477, Explanation: no core left for self sig comparison
+visid: M8X0G79900178, Explanation: no core left for self sig comparison
+visid: M8HC458500077, Explanation: no core left for self sig comparison
+visid: M8HC458500331, Explanation: no core left for self sig comparison
+visid: M8KR236200083, Explanation: no core left for self sig comparison
+visid: M8KR236200159, Explanation: no core left for self sig comparison
+visid: M8HC458500471, Explanation: no core left for self sig comparison
+visid: M94R2R2100177, Explanation: no core left for self sig comparison
+visid: M94R2R2100181, Explanation: no core left for self sig comparison
+visid: M8KR236200338, Explanation: no core left for self sig comparison
+visid: M8KR236200180, Explanation: no core left for self sig comparison
+visid: M94R2R2100154, Explanation: no core left for self sig comparison

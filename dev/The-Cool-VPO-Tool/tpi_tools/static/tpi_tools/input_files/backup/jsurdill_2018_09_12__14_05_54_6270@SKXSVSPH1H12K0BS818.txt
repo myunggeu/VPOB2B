@@ -1,0 +1,1 @@
+visid: M7SH412400356, Explanation: Unit marginally fails MLC DAT F1 speckle screen.  Speckle screen window shifted due to 10mV Vmin difference of one core

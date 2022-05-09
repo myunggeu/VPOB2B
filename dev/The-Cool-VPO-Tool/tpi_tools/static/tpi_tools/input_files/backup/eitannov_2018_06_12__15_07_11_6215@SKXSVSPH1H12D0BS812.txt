@@ -1,0 +1,1 @@
+visid: M7N7K70500840, Explanation: Core 25 FIVR VLOAD pin was not seated/connected for reference run. No FIVR issue

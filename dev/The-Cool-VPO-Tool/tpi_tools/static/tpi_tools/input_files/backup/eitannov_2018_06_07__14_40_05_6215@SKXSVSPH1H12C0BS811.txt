@@ -1,0 +1,1 @@
+visid: M7SH412400561, Explanation: Core 03 VDAC pin was not connecting for voltage read on old test. The TIU was connected correctly on new bin and unit recovered.

@@ -1,0 +1,2 @@
+visid: M8N72D0500541, Explanation: DDR SDSFR and SFRTRIM value went up drstically when compared to previous runs. Couls be HW issue 
+visid: M8GL547600841, Explanation: The ADC value for the SFR is a very low value for the SFRTRIM value. The other runs seems to be ok. Looks like a HW issue.

@@ -1,0 +1,1 @@
+visid: M9R48M5000900, Explanation: This unit has 2 more cores failing (cores 1 and 3) that were previously passing. This causes the unit to fail most QDFs due to Recovery, one QDF fails for IA frequency (too low for the QDF) and 1 QDF (RF93) passes, but due to bucketing (no bucket contains the RF93 without other QDFs) the unit is binned as 1407. 

@@ -1,0 +1,1 @@
+visid: M73J2G6200456, Explanation: Unit failed during testing at SBFT area, but no showed any related to SBFT module.  Unit was re-run as RV same new TP passing as good units preview fail was something HW issue 

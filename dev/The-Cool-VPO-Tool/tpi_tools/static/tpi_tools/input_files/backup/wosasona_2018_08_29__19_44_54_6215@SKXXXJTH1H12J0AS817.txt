@@ -1,0 +1,1 @@
+visid: M8NE567700167, Explanation: Unit is failing Bin4621 and Bin970 only once throughout the history. Most likely a tester/HW issue

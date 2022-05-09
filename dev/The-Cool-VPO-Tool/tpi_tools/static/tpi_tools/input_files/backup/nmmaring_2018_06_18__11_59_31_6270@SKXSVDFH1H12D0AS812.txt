@@ -1,0 +1,29 @@
+visid: M7774QA300012, Explanation: Recovered due to content improvement
+visid: M7774QA300069, Explanation: Recovered due to content improvement
+visid: M7774QA300802, Explanation: Recovered due to content improvement
+visid: M7774QA300941, Explanation: Recovered due to content improvement
+visid: M7DR176200264, Explanation: Recovered due to content improvement
+visid: M7DR176200276, Explanation: Recovered due to a HW issue
+visid: M7DR176200288, Explanation: Recovered due to a HW issue
+visid: M7DR176200313, Explanation: Recovered due to content improvement
+visid: M7DR176200334, Explanation: Recovered due to content improvement
+visid: M7DR176200412, Explanation: Recovered due to content improvement
+visid: M7DR176200477, Explanation: Recovered due to content improvement
+visid: M7PU387100292, Explanation: Recovered due to content improvement
+visid: M7DR176200243, Explanation: Recovered due to content improvement
+visid: M7DR176200248, Explanation: Recovered due to content improvement
+visid: M7DR176200297, Explanation: Recovered due to content improvement
+visid: M7774QA300031, Explanation: HW related issue, TIU commonality 
+visid: M7774QA300693, Explanation: HW related issue, TIU commonality 
+visid: M7774QA300774, Explanation: HW related issue
+visid: M7774QA300804, Explanation: HW related issue, TIU commonality 
+visid: M7774QA300978, Explanation: HW related issue, TIU commonality 
+visid: M7774QA301037, Explanation: HW related issue, TIU commonality 
+visid: M7DR176200305, Explanation: HW related issue
+visid: M7774QA300986, Explanation: HW related issue
+visid: M7774QA301005, Explanation: HW related issue
+visid: M7DR176200208, Explanation: HW related issue
+visid: M7DR176200387, Explanation: HW related issue
+visid: M7DR176200413, Explanation: HW related issue
+visid: M7PU387100255, Explanation: HW related issue
+visid: M7PU387100191, Explanation: HW related issue

@@ -1,0 +1,5 @@
+visid: M9F28E0200276, Explanation: Cells A301 and A402 have TD1 values with >2C delta compared to TD0 and setpoint. Thus indicating problem with thermal head connection. Retesting will recover unit.
+visid: M9F28E0200397, Explanation: Cells A301 and A402 have TD1 values with >2C delta compared to TD0 and setpoint. Thus indicating problem with thermal head connection. Retesting will recover unit.
+visid: M9XJ460202400, Explanation: Cells A301 and A402 have TD1 values with >2C delta compared to TD0 and setpoint. Thus indicating problem with thermal head connection. Retesting will recover unit.
+visid: M9F28E0200291, Explanation: Cells A301 and A402 have TD1 values with >2C delta compared to TD0 and setpoint. Thus indicating problem with thermal head connection. Retesting will recover unit.
+visid: M9F28E0200096, Explanation: Cells A301 and A402 have TD1 values with >2C delta compared to TD0 and setpoint. Thus indicating problem with thermal head connection. Retesting will recover unit.

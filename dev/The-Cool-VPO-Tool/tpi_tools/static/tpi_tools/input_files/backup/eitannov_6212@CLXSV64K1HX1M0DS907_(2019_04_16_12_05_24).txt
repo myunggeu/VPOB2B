@@ -1,0 +1,178 @@
+visid: M93Y2R6200087, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M84S2F9100482, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+Blank Entry: M8HC458500309
+visid: M8HC458500406, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M8KR236200457, Explanation: Looks like a marginal failure in the old run, and now it is passing, NO COOKIES for unit!
+visid: M8KR236200478, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M84S2F9100377, Explanation: Recovered from HW issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+Blank Entry: M8KR236200569
+visid: M94R2R2100095, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M94R2R2100273, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M8X0G79900090, Explanation: HW related issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8X0G79900310, Explanation: HW related issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8X0G79900316, Explanation: HW related issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8X0G79900039, Explanation: HW related issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8HC458500059, Explanation: HW related issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8HC458500086, Explanation: HW related issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8HC458500502, Explanation: HW related issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8HC458500204, Explanation: HW related issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8KR236200206, Explanation: HW related issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8KR236200202, Explanation: HW related issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8KR236200447, Explanation: HW related issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8KR236200192, Explanation: HW related issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8KR236200213, Explanation: HW related issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8KR236200554, Explanation: HW related issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M94R2R2100312, Explanation: HW related issue, TIU commonality found, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M94R2R2100304, Explanation: HW related issue, TIU commonality found, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M94R2R2100246, Explanation: HW related issue, TIU commonality found, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M94R2R2100146, Explanation: HW related issue, TIU commonality found, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M93Y2R6200509, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8X0G79900473, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500496, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500117, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500041, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+Blank Entry: M8HC458500313
+visid: M8HC458500358, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500497, Explanation: Recovered from HW issue, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8HC458500409, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500166, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8KR236200461, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200025, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200264, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200240, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200513, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200156, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8KR236200458, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200551, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200190, Explanation: HW related issue, NO COOKIES for unit!
+visid: M84S2F9100418, Explanation: HW related issue, NO COOKIES for unit!
+visid: M94R2R2100207, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M94R2R2100088, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M94R2R2100051, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M94R2R2100140, Explanation: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M94R2R2100214, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8X0G79900350, Explanation: new data: HW issue (CRES Open), NO COOKIES for unit!
+visid: M8X0G79900074, Explanation: new data: HW issue (CRES Open), NO COOKIES for unit!
+visid: M8HC458500044, Explanation: new data: HW issue (CRES Open), NO COOKIES for unit!
+visid: M8HC458500110, Explanation: new data: HW issue (CRES Open), NO COOKIES for unit!
+visid: M8HC458500006, Explanation: new data: HW issue (CRES Open), NO COOKIES for unit!
+visid: M8KR236200452, Explanation: new data: HW issue, NO COOKIES for unit!
+visid: M8KR236200425, Explanation: new data: HW issue, NO COOKIES for unit!
+visid: M94R2R2100275, Explanation: new data: HW issue, NO COOKIES for unit!
+visid: M8KR236200544, Explanation: new data: HW issue (CRES Open), NO COOKIES for unit!
+visid: M94R2R2100143, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8HC458500115, Explanation: failed at class hot, automatic b7299 at coldHW related issue, NO COOKIES for unit!
+visid: M8KR236200160, Explanation: HW related issue, NO COOKIES for unit!
+visid: M94R2R2100176, Explanation: HW related issue, NO COOKIES for unit!
+visid: M93Y2R6200136, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8KR236200041, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8HC458500437, Explanation: HW related issue, NO COOKIES for unit!
+Blank Entry: M8HC458500076
+visid: M8HC458500256, Explanation: Core 0 failed in the new run for pattern  MCI:g0738165S2038137_CQB_xx14a_PB00076xxxxxxxuE0_xjxxxxxxxx0xxxxx_1FPGETCSx950rrC_cBPU_TGE_movipar_cx_2F0xx0xm in crfallksx_vcoreminfreq1_CHKCOREF1 for  invalid_combination_0000000000000010000000001101. The core passed in the old run at a 690mv vmin, while it failed for 680mv min in the new run, NO COOKIES for unit!
+visid: M94R2R2100132, Explanation: For both runs, the same core failed and for the same pattern; however, in the new run the test additionally failed for invalid_combination_0000000001100000000000000000, NO COOKIES for unit!
+visid: M8X0G79900440, Explanation: TIU issue. Core 20 (FIVR_VLOAD_CORE44 pin) was not connected during test, NO COOKIES for unit!
+visid: M8X0G79900111, Explanation: TIU issue. Core 20 (FIVR_VLOAD_CORE44 pin) was not connected during test, NO COOKIES for unit!
+visid: M8HC458500289, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8KR236200198, Explanation: HW related issue, NO COOKIES for unit!
+visid: M94R2R2100048, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8X0G79900329, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8X0G79900057, Explanation: HW related issue, NO COOKIES for unit!
+visid: M93Y2R6200076, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8HC458500398, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8HC458500473, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8HC458500188, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8HC458500187, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8HC458500382, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8KR236200209, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8KR236200221, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8KR236200460, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8KR236200423, Explanation: HW related issue, NO COOKIES for unit!
+visid: M94R2R2100277, Explanation: HW related issue, NO COOKIES for unit!
+visid: M94R2R2100220, Explanation: HW related issue, NO COOKIES for unit!
+visid: M94R2R2100187, Explanation: no core left for self sig comparison, NO COOKIES for unit!
+visid: M8HC458500477, Explanation: no core left for self sig comparison, NO COOKIES for unit!
+visid: M8X0G79900178, Explanation: no core left for self sig comparison, NO COOKIES for unit!
+visid: M8HC458500077, Explanation: no core left for self sig comparison, NO COOKIES for unit!
+visid: M8HC458500331, Explanation: no core left for self sig comparison, NO COOKIES for unit!
+visid: M8KR236200083, Explanation: no core left for self sig comparison, NO COOKIES for unit!
+visid: M8KR236200159, Explanation: no core left for self sig comparison, NO COOKIES for unit!
+visid: M8HC458500471, Explanation: no core left for self sig comparison, NO COOKIES for unit!
+visid: M94R2R2100177, Explanation: no core left for self sig comparison, NO COOKIES for unit!
+visid: M94R2R2100181, Explanation: no core left for self sig comparison, NO COOKIES for unit!
+visid: M8KR236200338, Explanation: no core left for self sig comparison, NO COOKIES for unit!
+visid: M8KR236200180, Explanation: no core left for self sig comparison, NO COOKIES for unit!
+visid: M94R2R2100154, Explanation: no core left for self sig comparison, NO COOKIES for unit!
+Blank Entry: M8HC458500450
+visid: M8X0G79900180, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8HC458500093, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8HC458500375, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8HC458500520, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8KR236200205, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8KR236200265, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8KR236200465, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8X0G79900321, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8KR236200214, Explanation: HW related issue, NO COOKIES for unit!
+visid: M84S2F9100122, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8HC458500488, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8X0G79900205, Explanation: HW related issue, historically the unit has been bin1, B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8X0G79900262, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M93Y2R6200102, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8X0G79900344, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8X0G79900342, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8X0G79900118, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8X0G79900311, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M93Y2R6200388, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M93Y2R6200511, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M93Y2R6200071, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M93Y2R6200024, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M93Y2R6200031, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8X0G79900123, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8X0G79900343, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8X0G79900046, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8X0G79900448, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8X0G79900052, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8X0G79900122, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8X0G79900109, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8X0G79900100, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8X0G79900274, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8X0G79900326, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500525, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500404, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500278, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500071, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500399, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500305, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500199, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500312, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500203, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500072, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M84S2F9100428, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500120, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500130, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500513, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500280, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500078, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500074, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8HC458500270, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8HC458500214, Explanation: B1306 is OPENs/Contact issue, NO COOKIES for unit!
+visid: M8KR236200234, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200158, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200546, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200351, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200334, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200484, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200215, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200241, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200437, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200216, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200435, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200195, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200179, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200422, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M8KR236200163, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M94R2R2100062, Explanation: new data: failed at class hot, automatic b7299 at cold, NO COOKIES for unit!
+visid: M84S2F9100413, Explanation: HW issue, NO COOKIES for unit!
+visid: M8KR236200432, Explanation: HW issue, NO COOKIES for unit!
+visid: M8KR236200358, Explanation: HW issue, NO COOKIES for unit!
+visid: M8KR236200217, Explanation: B9792 is a dieforce issue. TD1 is showing a default value of 255.9, indicating die was not socketed correctly. No hardware commonality. Retesting will recover unit, NO COOKIES for unit!
+visid: M93Y2R6200298, Explanation: Alarm activated during check die force at thermal soak. Issue with hardware. Retesting will recover unit., NO COOKIES for unit!

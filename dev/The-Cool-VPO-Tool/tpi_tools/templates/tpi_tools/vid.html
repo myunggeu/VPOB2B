@@ -1,0 +1,144 @@
+{% extends "tpi_tools/home.html" %}
+{% block content %}
+<br><br><br>
+<h3>{{unit}}</h3>
+<h4>{{new_tp}}</h4>
+<br>
+<b>Tester Info:</b>
+<br>
+{%for info in tester_info%}
+    &nbsp&nbsp{{info}}<br>
+{%endfor%}
+<br>
+<b>Sort IDV:</b>
+<br>
+
+<br>
+<b>Tests that disabled a core:</b>
+<br>
+{% for dis_instance in core_disable_instances %}
+<font size="1">&nbsp&nbsp{{dis_instance}}<br></font>
+{% endfor%}
+<br><br>
+<b>Vmin Values (click category to expand/collapse):</b>
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          SBFT Vmins
+        </a>
+      </h4>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+          {% for instance, value in sbft_vmins.items %}
+          {%if value|length > 1 %}
+            <font size="1">&nbsp&nbsp{{instance}}: <br></font>
+            <table class="table table-bordered">
+                {% if "VCORE" in instance%}
+                <tr>
+                    <td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td>
+                    <td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td>
+                    <td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td>
+                </tr>
+                {%endif%}
+                <tr>
+                    {%for vmin in value%}
+                        {%if vmin != ""%}
+                            {% if vmin == "-999" %}
+                                 <td style="background-color:yellow"><font size="1">{{vmin}}<br>mV</font></td></td>
+                            {% else %}
+                                <td><font size="1">{{vmin}}<br>mV</font></td>
+                            {% endif %}
+                        {%endif%}
+                    {%endfor%}
+                </tr>
+            </table>
+{%endif%}
+{%endfor%}
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwo">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Cache Vmins
+        </a>
+      </h4>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
+          {% for instance, value in cache_vmins.items %}
+                {%if value|first != ""%}
+
+<font size="1">&nbsp&nbsp{{instance}}: <br></font>
+            <table class="table table-bordered">
+                {% if "VCORE" in instance%}
+                <tr>
+                    <td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td>
+                    <td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td>
+                    <td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td>
+                </tr>
+                {%endif%}
+                <tr>
+                    {%for vmin in value%}
+                        {%if vmin != ""%}
+                            {% if vmin == "-999" %}
+                                 <td style="background-color:yellow"><font size="1">{{vmin}}<br>mV</font></td></td>
+                            {% else %}
+                                <td><font size="1">{{vmin}}<br>mV</font></td>
+                            {% endif %}
+                        {%endif%}
+                    {%endfor%}
+                </tr>
+            </table>
+{%endif%}
+{%endfor%}
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Scan Vmins
+        </a>
+      </h4>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+{% for instance, value in scan_vmins.items %}
+{%if value|first != ""%}
+
+<font size="1">&nbsp&nbsp{{instance}}: <br></font>
+            <table class="table table-bordered">
+
+                {% if "VCORE" in instance%}
+                <tr>
+                    <td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td>
+                    <td>10</td><td>11</td><td>12</td><td>13</td><td>11</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td>
+                    <td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td>
+                </tr>
+                {%endif%}
+                <tr>
+                    {%for vmin in value%}
+                        {%if vmin != ""%}
+                            {% if vmin == "-999" %}
+                                 <td style="background-color:yellow"><font size="1">{{vmin}}<br>mV</font></td></td>
+                            {% else %}
+                                <td><font size="1">{{vmin}}<br>mV</font></td>
+                            {% endif %}
+                        {%endif%}
+                    {%endfor%}
+                </tr>
+            </table>
+    {%endif%}
+    {%endfor%}
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

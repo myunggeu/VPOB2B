@@ -1,0 +1,1 @@
+visid: M9PB483200667, Explanation: Bin 9792 is a die force/contact issue when the unit was socketed. Failed due to loose contact (on TD1) with tester. Default value of 255.9 seen when connection is open. Recovered in new VPO.

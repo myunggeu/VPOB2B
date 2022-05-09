@@ -1,0 +1,2 @@
+visid: M7N7K70501200, Explanation: Vdacoffset Negative (0.8 Voltage measurement failed). There is no FIVR Module change here, and it is not clear why the analog measure function failed to complete.
+visid: M7N7K70500250, Explanation: FFC VCO frequency measure never finished on this run. Not clear why. No pattern of this on this unit, and there are no test program changes that would have caused this.

@@ -1,0 +1,89 @@
+visid: M8NE567700378, Explanation: Unit recoverd from HW issue
+visid: M8LM305300709, Explanation: Unit recoverd from HW issue
+visid: M8NE567700181, Explanation: Unit recoverd from HW issue
+visid: M8BD231400627, Explanation: Unit recoverd from HW issue
+visid: M8NE567700190, Explanation: Unit recoverd from HW issue
+visid: M8NE567700444, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700076, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700715, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8LM305300365, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700363, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700530, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700054, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700074, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8BD231400217, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700674, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700516, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8BD231400253, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700568, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8BD231400154, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8BD231400582, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8BD231400164, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8LM305300056, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700380, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8BD231400695, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700179, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8BD231400053, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8BD231400477, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8LM305300173, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8CQ906300405, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8CQ906300307, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8BD231400056, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700128, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8CQ906300114, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8BD231400652, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8LM305300303, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8LM305300464, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8LM305300460, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8BD231400017, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700152, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8CQ906300304, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8CQ906300277, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700193, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8LM305300647, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8LM305300116, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8LM305300115, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8LM305300204, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8LM305300235, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700263, Explanation: Unit failed due to HW issues. Most of B9 come from 1 TIU
+visid: M8NE567700429, Explanation: Unit failed due to HW issue
+visid: M8BD231400417, Explanation: Unit failed due to HW issue
+visid: M8NE567700442, Explanation: Unit failed due to HW issue
+visid: M8LM305300495, Explanation: Unit failed due to HW issue
+visid: M8BD231400464, Explanation: Unit failed due to HW issue
+visid: M8BD231400574, Explanation: Unit failed due to HW issue
+visid: M8CQ906300398, Explanation: Unit failed due to HW issue
+visid: M8LM305300340, Explanation: Unit failed due to HW issue
+visid: M8LM305300184, Explanation: Unit failed due to HW issue
+visid: M8NE567700617, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8NE567700117, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8NE567700512, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8NE567700523, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8NE567700719, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8LM305300008, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8BD231400273, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8BD231400339, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8NE567700498, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8LM305300068, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8BD231400391, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8BD231400392, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8LM305300404, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8LM305300363, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8BD231400610, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8NE567700185, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8LM305300219, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8NE567700194, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8NE567700124, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8NE567700214, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8BD231400634, Explanation: Historically b1 unit. It failed due to HW issue
+visid: M8NE567700106, Explanation: Historically b1 unit. It failed due to HW issue.
+visid: M8NE567700004, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU
+visid: M8NE567700652, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU
+visid: M8NE567700072, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU
+visid: M8CQ906300186, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU
+visid: M8LM305300406, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU
+visid: M8LM305300601, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU
+visid: M8NE567700244, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU
+visid: M8BD231400008, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU
+visid: M8NE567700046, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU
+visid: M8CQ906300193, Explanation: Unit failed due to HW issue. Most of the b51 come from the same TIU

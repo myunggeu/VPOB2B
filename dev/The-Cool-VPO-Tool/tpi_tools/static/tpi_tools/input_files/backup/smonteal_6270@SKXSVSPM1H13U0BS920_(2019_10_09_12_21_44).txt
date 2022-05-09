@@ -1,0 +1,4 @@
+visid: M88J7X3800516, Explanation: SKX_FIVRTRIM_H triggers FAIL FLOW, tap unlock failure maybe due to HW issue
+visid: M7HU061900714, Explanation: SKX_FIVRTRIM_H triggers FAIL FLOW, tap unlock failure maybe due to HW issue
+visid: M7HU061900696, Explanation: SKX_FIVRTRIM_H triggers FAIL FLOW, tap unlock failure maybe due to HW issue
+visid: M88J7X3800514, Explanation: SKX_FIVRTRIM_H triggers FAIL FLOW, tap unlock failure maybe due to HW issue

@@ -1,0 +1,3 @@
+visid: M7SH412400483, Explanation: VALID FAILURE. Majority Bin1556 for SIO_BCAN. B878 also failed. So this unit is failing for an OPEN in the circuit. BAD UNIT
+visid: M7SH412401337, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7SH412400313, Explanation: Unit is Recovered to Bin100

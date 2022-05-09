@@ -1,0 +1,27 @@
+visid: M9DE105401422, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9DE105400722, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9DE105401306, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9DE105400805, Explanation: Unit recovered from previous issue
+visid: M9DE105400543, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9DE105400764, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600182, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600689, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600439, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600191, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600308, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600307, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600527, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600070, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600730, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600395, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600798, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9DE105400840, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9DE105400251, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9DE105401238, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9DE105400735, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600545, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600383, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600864, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600125, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600212, Explanation: Missing data from Hot Runs, not TP nor COLD related.
+visid: M9FD363600778, Explanation: Unit recovered under the same TP

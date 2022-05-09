@@ -1,0 +1,295 @@
+
+<head>
+    <style>
+        table{
+           border: 1px solid grey;
+           padding: 3px;
+        }
+    </style>
+    <meta charset="UTF-8">
+
+    {% block header %}
+    {% include "base.html"  %}
+    {% endblock %}
+    <title>Test Time Statistics</title>
+    <br>
+    <script type="text/javascript">
+  google.charts.load("current", {packages:["timeline", "corechart"]});
+  google.charts.setOnLoadCallback(drawChart);
+  google.charts.setOnLoadCallback(drawChart2);
+  function drawChart() {
+
+    var container = document.getElementById('example3.1');
+    var chart = new google.visualization.Timeline(container);
+    var dataTable = new google.visualization.DataTable();
+    dataTable.addColumn({ type: 'string', id: 'Tester' });
+    dataTable.addColumn({ type: 'string', id: 'Status' });
+    dataTable.addColumn({ type: 'date', id: 'Start' });
+    dataTable.addColumn({ type: 'date', id: 'End' });
+    dataTable.addRows([
+      [ 'CR 1455: A101', 'UP', new Date(2018, 2, 14, 09,0,0), new Date(2018, 2, 14,10,0,0) ],
+      [ 'CR 1455: A101', 'DOWN, Handler', new Date(2018, 2, 14, 10,0,0), new Date(2018, 2, 14, 13,0,0) ],
+      [ 'CR 1701: A201', 'DOWN, AP Issue', new Date(2018, 2, 14,09,0,0), new Date(2018, 2, 14,11,0,0) ],
+      [ 'CR 1701: A201', 'UP', new Date(2018, 2, 14,11,0,0), new Date(2018, 2, 14,13,0,0) ],
+    ]);
+    var options = {
+      colors: ['green', 'red', 'red', 'green'],
+      width: 600
+    };
+    chart.draw(dataTable, options);
+  }
+  function drawChart2() {
+        var data = google.visualization.arrayToDataTable([
+          ['Day', 'Down', 'Up', 'Reserved Time'],
+          ['ww11.1',4,5,9],
+          ['ww11.2',6,4,9],
+          ['ww11.3',2,7,9],
+          ['ww11.4',1,8,9]
+        ]);
+
+        var options = {
+          title: 'WW11 Utilization (hours)',
+          curveType: 'function',
+          legend: { position: 'bottom' },
+          width :600
+        };
+
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+        chart.draw(data, options);
+  }
+</script>
+</head>
+<body>
+ placeholder, dummy data shown
+    To do<br>
+ 	- Add dropdown for DOWN reason <br>
+	- Pie chart for down time<br>
+    - Chart with Utilization vs allocation<br>
+ <table>
+     <tr>
+         <td><div id="example3.1"></div></td>
+         <td><div id="curve_chart"></div></td>
+     </tr>
+ </table>
+<br>
+
+     <div class="modal fade" tabindex="-1" id="myModa" role="dialog">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Reason</h4>
+              </div>
+              <div class="modal-body">
+                Explanation(<10 letters): <input type="text" name="usrname" maxlength="10">
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+              </div>
+            </div><!-- /.modal-content -->
+          </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+    <table>
+        <tr>
+            <td>
+            <table>
+                <tr><th colspan="3">CR 1455</th></tr>
+                <tr>
+                    <td>A101</td>
+                    <td> <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                            <font size="1">Down</font>
+                        </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A102</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>
+                    </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A201</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A202</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A301</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A302</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A401</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A402</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A501</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A502</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+            </table>
+            </td>
+            <td>
+            <table>
+                <tr><th colspan="3">CR 1701</th></tr>
+                <tr>
+                    <td>A101</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A102</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A201</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A202</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A301</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A302</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A401</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A402</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A501</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A502</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+            </table>
+            </td>
+            <td>
+            <table>
+                <tr><th colspan="3">CR 1785</th></tr>
+                <tr>
+                    <td>A101</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A102</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A201</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A202</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A301</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A302</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A401</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A402</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A501</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+                <tr>
+                    <td>A502</td>
+                    <td><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModa">
+                        <font size="1">Down</font>                         </button></td>
+                    <td><button type="button" class="btn btn-success"><font size="1">Up</font></button></td>
+                </tr>
+            </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

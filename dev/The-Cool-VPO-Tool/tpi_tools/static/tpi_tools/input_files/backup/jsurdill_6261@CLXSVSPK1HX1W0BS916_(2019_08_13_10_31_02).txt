@@ -1,0 +1,2 @@
+visid: M9KB375201225, Explanation: Both runs fail Cache CHKCLMF3.  Old run failed ARR_CACHE::c_urfcrqksx_vclmminfreq3_CHKCLMF3.  New run marginally passed ARR_CACHE::c_urfcrqksx_vclmminfreq3_CHKCLMF3 but failed ARR_CACHE::c_urfcbrksx_vclmminfreq3_CHKCLMF3
+visid: M9R48M5000809, Explanation: Old run failed MIO_DDR in END flow before Cache LTTC

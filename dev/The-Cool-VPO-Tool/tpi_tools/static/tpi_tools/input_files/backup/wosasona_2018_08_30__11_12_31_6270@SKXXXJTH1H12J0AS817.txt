@@ -1,0 +1,2 @@
+visid: M8NE567700048, Explanation: This fail appears to be valid. Unit failed B4821 twice and the fail is coming from pad "1|PE1_TX_DP[9]|1"
+visid: M8LM305300198, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue

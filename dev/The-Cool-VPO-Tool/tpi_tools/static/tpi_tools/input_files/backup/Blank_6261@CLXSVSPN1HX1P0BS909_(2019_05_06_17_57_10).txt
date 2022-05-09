@@ -1,0 +1,12 @@
+visid: M8S78N4500292, Explanation: Marginal fail or fail due to test hardware recovered in the new run
+visid: M8S78N4500505, Explanation: Marginal fail or fail due to test hardware recovered in the new run
+visid: M8NP526700127, Explanation: same port/lane failed KTI RX detect in re-test flow. Likely due to test hardware or unit degradation
+visid: M8S78N4500255, Explanation: marginal fail. Hardware signature, both fails happened in cell A102
+visid: M8S78N4500312, Explanation: marginal fail. Hardware signature, both fails happened in cell A102
+visid: M8S78N4500091, Explanation: same PCIE port/lane failed RX detect in re-test. Likely due to hardware issue or unit degradation
+visid: M8S78N4500327, Explanation: Like hardware issue or unit degradation
+visid: M8S78N4500408, Explanation: random pattern fail on 3 units, all came from cells A102 and A201. Likely hardware related.
+visid: M8S78N4500266, Explanation: random pattern fail on 3 units, all came from cells A102 and A201. Likely hardware related.
+visid: M8S78N4500412, Explanation: random pattern fail on 3 units, all came from cells A102 and A201. Likely hardware related.
+visid: M8WS509600112, Explanation: PCIE voltage injection margin fail. Hard pattern fail. likely due to hardware stability or unit degradation
+visid: M8S78N4500109, Explanation: marginal fail on 1 pin. likely due to test hardware or unit degradation

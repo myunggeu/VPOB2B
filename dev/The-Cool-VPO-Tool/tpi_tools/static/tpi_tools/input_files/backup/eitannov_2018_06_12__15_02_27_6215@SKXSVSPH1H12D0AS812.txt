@@ -1,0 +1,2 @@
+visid: M7SH412400905, Explanation: Core 01 FIVR vload pin was not connected on reference run. Unit has no history of bin 15 errors.
+visid: M7N7K70500052, Explanation: Core 10 FIVR vload pin was not connected to TIU during new test. Not a FIVR issue.

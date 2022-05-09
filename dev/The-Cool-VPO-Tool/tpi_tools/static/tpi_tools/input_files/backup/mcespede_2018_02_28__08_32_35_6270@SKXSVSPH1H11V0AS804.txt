@@ -1,0 +1,29 @@
+visid: M7L1Y26800104, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7L1Y26800135, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500053, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7N7K70500410, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500416, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500450, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500687, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500714, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70501068, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70501073, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70501128, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70501333, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7SH412400376, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412400506, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412400508, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412400736, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412400784, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7SH412401060, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412401070, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412401530, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412401531, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7L1Y26800139, Explanation: Historically B1 unit, Most likely HW issue
+visid: M7N7K70500454, Explanation: Historically B1 unit, Most likely HW issue
+visid: M7N7K70500635, Explanation: Historically B1 unit, Most likely HW issue
+visid: M7N7K70500639, Explanation: Historically B1 unit, Most likely HW issue
+visid: M7SH412400874, Explanation: Historically B1 unit, Most likely HW issue
+visid: M7SH412401520, Explanation: Historically B1 unit, Most likely HW issue
+visid: M7N7K70500435, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7N7K70501210, Explanation: HW issue

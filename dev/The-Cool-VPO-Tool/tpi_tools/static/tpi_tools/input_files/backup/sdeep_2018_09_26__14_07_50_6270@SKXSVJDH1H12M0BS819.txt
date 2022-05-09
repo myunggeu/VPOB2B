@@ -1,0 +1,8 @@
+visid: M8NE567700100, Explanation: failed for self sig, no core left in column
+visid: M8CQ906300361, Explanation: has been a consistent Bin4416
+visid: M8LM305300270, Explanation: failed for the new FC dragon content, reverted
+visid: M8NE567700077, Explanation: failed for the new FC dragon content, reverted
+visid: M8LM305300651, Explanation: failed for the new FC dragon content, reverted
+visid: M8NE567700110, Explanation: failed for the new FC dragon content, reverted
+visid: M8CQ906300167, Explanation: failed for the new FC dragon content, reverted
+visid: M8CQ906300165, Explanation: failed for the new FC dragon content, reverted

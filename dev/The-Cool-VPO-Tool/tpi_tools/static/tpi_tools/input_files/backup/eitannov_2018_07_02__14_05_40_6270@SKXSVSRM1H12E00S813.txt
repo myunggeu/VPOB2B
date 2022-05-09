@@ -1,0 +1,2 @@
+visid: M7G050T400275, Explanation: CLM0 FIVR is not linear. Fails for Dac cal. Unit alternates between bin 15 and this error
+visid: M7G050T400461, Explanation: CLM0 FIVR is non-linear, and fails for VDAC linear fit. Unit has never been a passing unit

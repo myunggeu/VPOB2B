@@ -1,0 +1,1 @@
+visid: M9Q50W3800040, Explanation: Unit fails Bin 1823 due to ADC slope/offset limit fail on Core 7. Recovery from this type of fail has been seen before. Please retest. 

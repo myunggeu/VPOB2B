@@ -1,0 +1,1 @@
+visid: M7N7K70500082, Explanation: In previous TP unit failed bin1498 due to IDSK disabling IA15 for exceeding voltage limit. In actual TP the core don't exceed voltage limit. 

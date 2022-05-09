@@ -1,0 +1,5 @@
+visid: M9WC266700411, Explanation: Unit recovered in VPO: J010188CR
+visid: M9WC266700452, Explanation: Unit recovered in VPO: J010188CR
+visid: M9PB483200402, Explanation: Unit failed after retesting b4821. SKX_PCIEDC_H_c_pciedc_vionom_end_rxdetect. HW Issue
+visid: M9PB483200715, Explanation: Unit failed after retesting b9801 in another testing instance. HW Issue
+visid: M9MU857200014, Explanation: Unit failed after retesting b5422. SKX_PCIEREUT_H_c_pciereutprbs_viominf5000_end. HW Issue

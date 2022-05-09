@@ -1,0 +1,1 @@
+visid: M7G050T401015, Explanation: Additional core 12 failing for vcorefreq1raw_SRHCOREF1_vminsearch. Old and new testing point is the same (470mV) but in the new run core 12 is failing. Looks like the core 12 has degraded.

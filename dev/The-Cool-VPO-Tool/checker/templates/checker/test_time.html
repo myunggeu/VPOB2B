@@ -1,0 +1,332 @@
+<html>
+    <head>
+        <style type=text/css">
+            #chart_wrapper {
+              overflow-x: scroll;
+              overflow-y: hidden;
+              width: 800px;
+            }
+        </style>
+        <meta charset="UTF-8">
+        {% block header %}
+        {% include "base.html"  %}
+        {% endblock %}
+        <title>Test Time Statistics</title>
+        <br>
+        <script type="text/javascript">
+            google.charts.load("current", {packages:['corechart', 'controls']});
+            google.charts.setOnLoadCallback(drawChart2);
+            function drawChart2() {
+                //initialize lists
+                var tt_list = {{tp_level_tt|safe}};
+                var func_list = {{func_tt|safe}};
+                var tpi_list = {{tpi_tt|safe}};
+                var cache_list = {{cache_tt|safe}};
+                var scan_list = {{scan_tt|safe}};
+                var binning_list = {{binning_tt|safe}};
+                var thermal_list = {{thermal_tt|safe}};
+                var lttc_list = {{lttc_tt|safe}};
+                var chvqk_list = {{chvqk_tt|safe}};
+                var my_module = document.getElementById("thedropdown").value;
+                var func_data = google.visualization.arrayToDataTable(func_list);
+                var tpi_data = google.visualization.arrayToDataTable(tpi_list);
+                var cache_data = google.visualization.arrayToDataTable(cache_list);
+                var scan_data = google.visualization.arrayToDataTable(scan_list);
+                var binning_data = google.visualization.arrayToDataTable(binning_list);
+                var thermal_data = google.visualization.arrayToDataTable(thermal_list);
+                var chvqk_data = google.visualization.arrayToDataTable(chvqk_list);
+                var lttc_data = google.visualization.arrayToDataTable(lttc_list);
+
+
+                var options = {
+                    title: my_module + ' Instance Test Time (Seconds) (note: only TT > 0.2 seconds are shown)',
+                    width: '75%',
+                    height: 750,
+                    bar: {groupWidth: '81.5%'},
+                    animation:{
+                        duration: 2500,
+                        easing: 'out',
+                        startup: true,
+                    },
+                    legend: { position: 'top', maxLines: 6},
+                    hAxis: {slantedText: true,
+                           slantedTextAngle: 75,
+                           textStyle: {fontSize: 8},
+
+                    },
+                    explorer: {
+                        axis: 'vertical',
+                        actions: ['dragToZoom', 'rightClickToReset'],
+                        keepInBounds: true,
+                        maxZoomIn: 4.0
+                    },
+                };
+                var new_data = func_data;
+                if(my_module == "FUNC"){
+                   new_data = func_data;
+                }
+                if(my_module == "TPI"){
+                   new_data = tpi_data;
+                }
+                if(my_module == "CACHE"){
+                   new_data = cache_data;
+                }
+                if(my_module == "SCAN"){
+                   new_data = scan_data;
+                }
+                if(my_module == "BINNING"){
+                   new_data = binning_data;
+                }
+                if(my_module == "THERMAL"){
+                   new_data = thermal_data;
+                }
+                if(my_module == "LTTC"){
+                   new_data = lttc_data;
+                }
+                if(my_module == "CHVQK"){
+                   new_data = chvqk_data;
+                }
+                var columnsTable = new google.visualization.DataTable();
+                columnsTable.addColumn('number', 'colIndex');
+                columnsTable.addColumn('string', 'colLabel');
+                var initState = {selectedValues: []};
+                var initStateAll = [];
+                // put the columns into this data table (skip column 0)
+                for (var i = 1; i < new_data.getNumberOfColumns(); i++) {
+                    columnsTable.addRow([i, new_data.getColumnLabel(i)]);
+                    // you can comment out this next line if you want to have a default selection other than the whole list
+                    if (new_data.getColumnLabel(i).includes("6262") && new_data.getColumnLabel(i).includes("CLX")){
+                        initStateAll.push(new_data.getColumnLabel(i));
+
+                    }
+                }
+                initState.selectedValues =  initStateAll.sort().reverse().slice(0,3);;
+
+                var chart = new google.visualization.ChartWrapper({
+                    chartType: 'ColumnChart',
+                    containerId: 'chart_div2',
+                    dataTable: new_data,
+                    options: {
+                        title: my_module + ' Instance Test Time (Seconds) (note: only TT > 0.2 seconds are shown)',
+                        width: '75%',
+                        height: 750,
+                        bar: {groupWidth: '81.5%'},
+                        animation:{
+                            duration: 800,
+                            easing: 'out',
+                        },
+                        legend: { position: 'top', maxLines: 6},
+                        hAxis: {slantedText: true,
+                               slantedTextAngle: 75,
+                               textStyle: {fontSize: 8},
+
+                        },
+                        explorer: {
+                            axis: 'vertical',
+                            actions: ['dragToZoom', 'rightClickToReset'],
+                            keepInBounds: true,
+                            maxZoomIn: 4.0
+                        },
+                    }
+                });
+                var columnFilter = new google.visualization.ControlWrapper({
+                    controlType: 'CategoryFilter',
+                    containerId: 'colFilter_div',
+                    dataTable: columnsTable,
+                    options: {
+                        filterColumnLabel: 'colLabel',
+                        ui: {
+                            label: 'Columns',
+                            allowTyping: false,
+                            allowMultiple: true,
+                            allowNone: false,
+                            selectedValuesLayout: 'aside'
+                        }
+                    },
+                    state: initState
+                });
+
+                function setChartView () {
+                    var state = columnFilter.getState();
+                    var row;
+                    var view = {
+                        columns: [0]
+                    };
+                    for (var i = 0; i < state.selectedValues.length; i++) {
+                        row = columnsTable.getFilteredRows([{column: 1, value: state.selectedValues[i]}])[0];
+                        view.columns.push(columnsTable.getValue(row, 0));
+                    }
+                    // sort the indices into their original order
+                    view.columns.sort(function (a, b) {
+                        return (a - b);
+                    });
+                    chart.setView(view);
+                    chart.draw();
+                }
+                google.visualization.events.addListener(columnFilter, 'statechange', setChartView);
+
+                setChartView();
+                columnFilter.draw();
+                //var chart = new google.visualization.ColumnChart(document.getElementById("columnchart_values2"));
+                //chart.draw(new_data,options);
+            }
+        </script>
+
+
+         <script type="text/javascript">
+         //Dashboard chart
+            google.charts.load("current", {packages:['corechart', 'controls']});
+            google.charts.setOnLoadCallback(drawDashboard);
+            var view_list = []
+            function drawDashboard() {
+                var tt_list = {{tp_level_tt|safe}};
+                var data = google.visualization.arrayToDataTable(tt_list);
+                //dashboard
+                var dashboard = new google.visualization.Dashboard(
+                    document.getElementById('dashboard_div'));
+
+                //create filter
+                var tp_filter = new google.visualization.ControlWrapper({
+                    controlType: 'CategoryFilter',
+                    containerId: 'filter_div',
+                    options:{
+                        filterColumnLabel: 'PRODUCT',
+                        ui: {labelStacking: 'vertical',
+                             allowMultiple: false},
+                    },
+                    state: {selectedValues: ['CLX']},
+                  });
+                var loc_filter = new google.visualization.ControlWrapper({
+                    controlType: 'CategoryFilter',
+                    containerId: 'filter_div2',
+                    options:{
+                        filterColumnLabel: 'LOCATION',
+                        ui: {labelStacking: 'vertical',
+                             allowMultiple: false},
+                    },
+                    state: {selectedValues: ['6262']},
+                });
+                var bom_filter = new google.visualization.ControlWrapper({
+                    controlType: 'CategoryFilter',
+                    containerId: 'filter_div3',
+                    options:{
+                        filterColumnLabel: 'BOM',
+                        ui: {labelStacking: 'vertical',
+                             allowMultiple: false},
+                    },
+                    state: {selectedValues: ['XCCSP']},
+                });
+                  // create chart
+                for (i=0; i < tt_list[0].length; i++){
+                    if (i != 3 && i != 4 && i !=5){
+                        view_list.push(i)
+                    }
+                }
+
+                console.log(view_list);
+                var columnChart = new google.visualization.ChartWrapper({
+                    chartType: 'ColumnChart',
+                    containerId: 'chart_div',
+                    view: {columns: view_list},
+                    options:{
+                        title: 'Test Time  (seconds)',
+                        isStacked: 'true',
+                        width: '75%',
+                        height: 600,
+                        legend: { position: 'right', maxLines: 3,
+                                   textStyle: {fontSize: 12}},
+                        seriesType: 'bars',
+                        series: {0: {type: 'steppedArea'}, 1: {type: 'line', lineWidth: 6, lineDashStyle: [14, 2, 7, 2],pointShape: 'star'}},
+                        hAxis: {slantedText: true,
+                               slantedTextAngle: 45,
+                               textStyle: {fontSize: 11},
+
+                        },
+                        animation:{
+                            duration: 500,
+                            easing: 'out',
+                        },
+                        explorer: {
+                            axis: 'vertical',
+                            actions: ['dragToZoom', 'rightClickToReset'],
+                            keepInBounds: true,
+                            maxZoomIn: 4.0
+                        },
+
+                    },
+                });
+                //put in the column that contains the Product, location, bom columns
+                dashboard.bind(loc_filter, columnChart);
+                dashboard.bind(tp_filter, columnChart);
+                dashboard.bind(bom_filter, columnChart);
+                dashboard.draw(data)
+            }
+        </script>
+    </head>
+    <body>
+    Highlight a section to Zoom, right click to zoom out.
+
+    <div id="dashboard_div">
+      <!--Divs that will hold each control and chart-->
+      <div class="row">
+          <div class="col-sm-1"></div>
+          <div class="col-sm-3" id="filter_div"></div>
+          <div class="col-sm-3"class="col-sm-1" id="filter_div2"></div>
+          <div class="col-sm-3" id="filter_div3"></div>
+      </div>
+      <div class="row">
+        <div id="chart_div"></div>
+      </div>
+    </div>
+
+    <br>
+    <br>
+    <br>
+
+    <div class="row">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-1">Filter by Module:</div>
+        <div class="form-group">
+            <form  action="#" id="form1" name="form1" onchange="drawChart2()" >
+                <select id="thedropdown">
+                    <option value="TPI">TPI</option>
+                    <option value="FUNC">FUNC</option>
+                    <option value="CACHE">CACHE</option>
+                    <option value="SCAN">SCAN</option>
+                    <option value="BINNING">BINNING</option>
+                    <option value="THERMAL">THERMAL</option>
+                    <option value="CHVQK">CHVQK</option>
+                    <option value="LTTC">LTTC</option>
+                </select>
+            </form>
+        </div>
+
+    </div>
+    <div class="row">
+        <div id="columnchart_values2"></div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-sm-1"></div>
+        <div id="colFilter_div"></div>
+        <div id="chart_div2"></div>
+    </div>
+    <br>
+    <br>
+     <div class="row">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-11">
+            <form action="/update_test_time/" class="form-horizontal" method="post">
+                {% csrf_token %}
+                <div class="form-group">
+                    <input type="text" id="tp" name="tp" placeholder="TP ex: S721">
+                    <input type="text" id="loc" name="loc" placeholder="LOC ex: 6262">
+                    <input type="text" id="bomstep" name="bomstep" placeholder="BOM ex: XCCSPJ0">
+                    <input type="text" id="vpo" name=vpo placeholder="VPO ex:I809002CR">
+                    <button type="submit_vpo-tt" class="btn btn-default">Submit VPO for TT</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    </body>
+</html>

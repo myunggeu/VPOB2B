@@ -1,0 +1,2 @@
+visid: M73J2G6201127, Explanation: unit had NLC trim of zero. Kill limit was implemented, and this unit should be killed for this as the NLC the parameter is not valid
+visid: M73J2G6201408, Explanation: This unit failed for OCP on CLM. CLM 0 OCP did not trigger on new program. This unit used to mostly fail early or for OCP on core, but with recovery, we're getting one layer deeper and only seeing CLM failure.

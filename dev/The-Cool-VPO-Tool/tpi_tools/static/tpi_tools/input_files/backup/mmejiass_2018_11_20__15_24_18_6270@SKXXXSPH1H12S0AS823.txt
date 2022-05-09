@@ -1,0 +1,2 @@
+visid: M7A176X401207, Explanation: unit failed to unlock TAP with old TP on SBFT inside LTTC subflow, SBFT failure recovered with new TP and not going to failflow where it failed Reset in the past
+visid: M7SH412401153, Explanation: unit has failed almost 90% of the times it has been tested due to kti or pcie content. With old TP it failed for kti content again, with new TP it failed for Reset when it checks the kti/pcie ports which matches the failures from the past. Unit is marginal.

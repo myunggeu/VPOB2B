@@ -1,0 +1,2 @@
+visid: M7SH412401461, Explanation: PIROM check has a known instability that should be improved in new TP.
+visid: M7SH412400979, Explanation: PIROM check has a known instability. In old TP bin 13 was due to bad socketing.

@@ -1,0 +1,2 @@
+visid: M8S78N4500401, Explanation: In new run, unit is downflowed by SBFT SRHCOREF6,   New run failed lower test points at flow 4 IA38
+visid: M8601RW600695, Explanation: Bad unit.  History show many bin switches.  In new run, all cores fail ARR_CACHE::C_CRFRMRSCR_VCOREMINFREQ6_LTTC, but in ref run, all cores pass

@@ -1,0 +1,1 @@
+visid: M9F05R5400615, Explanation: In old run, unit clamped at c_SBFLLC128b_vcorefreq7raw_SRHCOREF7_vminsearch_7932 and did reach the  u_mlcdatksx_vcoreminfreq3_CHKCOREF3 test that cased the B6002 in the new run

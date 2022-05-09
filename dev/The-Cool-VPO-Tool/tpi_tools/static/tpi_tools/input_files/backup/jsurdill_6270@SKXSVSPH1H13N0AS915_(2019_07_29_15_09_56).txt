@@ -1,0 +1,2 @@
+visid: M9NT136600550, Explanation: Marginal unit.  Unit has a history of switching between bin 100 and 9420
+visid: M9NT136600461, Explanation: Bin 6203 failed untested due to invalid incoming Vmin

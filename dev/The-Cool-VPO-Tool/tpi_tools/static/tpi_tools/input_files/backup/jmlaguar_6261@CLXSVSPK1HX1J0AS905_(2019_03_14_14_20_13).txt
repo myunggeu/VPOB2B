@@ -1,0 +1,34 @@
+visid: M8SA531000156, Explanation: DTS failed at min slope limit due to low temperature (50C) during DTS testing. Recovered in new VPO, NO COOKIES for unit!
+visid: M8SA531000121, Explanation: No content changes for cache. The unit failed in start flow in the old run and didnt get to reach cache test. looking at unit history, this unit has been failing bin2018 since S904, and failed twice for the same Bin using S905 TP. this looks like a valid failure, and a bad unit, NO COOKIES for unit!
+visid: M8SA531000442, Explanation: Recovered from HW issue, NO COOKIES for unit!
+Blank Entry: M8SA531000268
+visid: D8S77S0700145, Explanation: Recovered from HW issue, NO COOKIES for unit!
+Blank Entry: D8S77S0700131
+visid: D8S77S0700021, Explanation: looks like a marginal fail, NO COOKIES for unit!
+visid: M8SA531000083, Explanation: Recovered from HW issue, NO COOKIES for unit!
+Blank Entry: M8SA531000048
+visid: M8SA531000065, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M8SA531000412, Explanation: Historically the unit have been Bin 114, recovered in retest, NO COOKIES for unit!
+Blank Entry: M8SA531000225
+Blank Entry: M8SA531000455
+Blank Entry: M8SA531000109
+Blank Entry: M8SA531000448
+Blank Entry: M8SA531000096
+Blank Entry: M8SA531000217
+visid: M8SA531000125, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8SA531000353, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8SA531000189, Explanation: No content changes for cache. The unit failed in start flow in the old run and didnt get to reach cache test. looking at unit history, this unit has been failing bin2018 since S904, and failed twice for the same Bin using S905 TP. this looks like a valid failure, and a bad unit, NO COOKIES for unit!
+Blank Entry: M8SA531000162
+Blank Entry: M8SA531000006
+Blank Entry: D8S77S0700227
+Blank Entry: D8S77S0700293
+visid: M8SA531000127, Explanation: Unit failed bin1407 because it passed RF93^RF8T but that's no enough to pass any of the defined buckets., NO COOKIES for unit!
+Blank Entry: M8SA531000662
+Blank Entry: D8S77S0700306
+visid: M8SA531000352, Explanation: HW+DCFF limit issue. New TP had shops fail (open) on chan 10109, then executed DCFF where a group G VCONT test with too tight limit failed. Limit will be addressed in next TP release., NO COOKIES for unit!
+visid: M8SA531000476, Explanation: HW+DCFF limit issue. New TP had shops fail (open) on chan 10109, then executed DCFF where a group G VCONT test with too tight limit failed. Limit will be addressed in next TP release., NO COOKIES for unit!
+visid: M8SA531000046, Explanation: HW+DCFF limit issue. New TP had shops fail (open) on chan 3016, then executed DCFF where a group H VCONT test with too tight limit failed. Limit will be addressed in next TP release., NO COOKIES for unit!
+Blank Entry: D8S77S0700010
+Blank Entry: M8SA531000443
+Blank Entry: M8SA531000129
+Blank Entry: D8S77S0700325

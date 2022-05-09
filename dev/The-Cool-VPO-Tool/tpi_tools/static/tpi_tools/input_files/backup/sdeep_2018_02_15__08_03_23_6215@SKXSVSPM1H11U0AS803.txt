@@ -1,0 +1,2 @@
+visid: M7J13X7700583, Explanation: Marginal core failure
+visid: M7J13X7702054, Explanation: core1 came as incoming bad in old run

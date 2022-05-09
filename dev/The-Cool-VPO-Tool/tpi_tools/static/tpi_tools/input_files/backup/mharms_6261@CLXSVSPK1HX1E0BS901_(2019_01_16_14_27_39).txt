@@ -1,0 +1,2 @@
+visid: M8R42V9100098, Explanation: SHOPS connection issue on chan 8095 -- old vpo, SHOPS connection issue on chan 8052 -- new vpo
+visid: M8R42V9100291, Explanation: Connection issue VCONT -- new VPO

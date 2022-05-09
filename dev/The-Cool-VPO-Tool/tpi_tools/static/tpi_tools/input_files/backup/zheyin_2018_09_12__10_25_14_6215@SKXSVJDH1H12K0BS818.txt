@@ -1,0 +1,14 @@
+visid: M8NE567700347, Explanation: bad contact due to HW issue
+visid: M8BD231400337, Explanation: bad contact due to HW issue
+visid: M8LM305300599, Explanation: bad contact due to HW issue
+visid: M8CQ906300097, Explanation: bad contact due to HW issue
+visid: M8BD231400538, Explanation: bad contact due to HW issue
+visid: M8CQ906300105, Explanation: Tester Issue in last run
+visid: M8LM305300171, Explanation: Tester Issue in last run
+visid: M8LM305300583, Explanation: Tester Issue in last run
+visid: M8LM305300642, Explanation: Tester Issue in last run
+visid: M8NE567700275, Explanation: Tester Issue in last run
+visid: M8BD231400657, Explanation: Tester Issue in last run
+visid: M8NE567700215, Explanation: Tester Issue in last run
+visid: M8NE567700667, Explanation: Tester Issue in last run
+visid: M8NE567700392, Explanation: Tester Issue in last run

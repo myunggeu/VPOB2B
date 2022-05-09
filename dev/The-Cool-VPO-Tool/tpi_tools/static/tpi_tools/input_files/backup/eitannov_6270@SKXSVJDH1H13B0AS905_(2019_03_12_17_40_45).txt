@@ -1,0 +1,3 @@
+visid: M8NE567700057, Explanation: Unit failed for power on detect. 0.9V input resulted in in pwrgood value of 1. There is no module change or content change that could cause this.
+visid: M8BD231400462, Explanation: BG Retrim results are all elevated highly. Reference voltage must have been off or something else with TIU/setup. There is no content or module change.
+visid: M8NE567700456, Explanation: This unit has too many OCP failures and has no recovery pattern. One test this unit failed for SHOPS, but rest of time this unit is typically 2742. No issue with this.

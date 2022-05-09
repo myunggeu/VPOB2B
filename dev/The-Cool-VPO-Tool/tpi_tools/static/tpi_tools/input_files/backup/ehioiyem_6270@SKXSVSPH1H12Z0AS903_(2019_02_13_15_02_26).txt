@@ -1,0 +1,12 @@
+visid: M7N7K70500607, Explanation: False Fail
+visid: M7N7K70500446, Explanation: Marginal Unit
+visid: M7N7K70500212, Explanation: False Fail
+visid: M7N7K70500561, Explanation: False Fail
+visid: M7N7K70500401, Explanation: False Fail
+visid: M7N7K70500675, Explanation: False Fail
+visid: M7N7K70501420, Explanation: False Fail
+visid: M7N7K70500398, Explanation: False Fail
+visid: M73K2D8500870, Explanation: False Fail
+visid: M7N7K70500224, Explanation: Scan test wasn't ran using the old TP
+visid: M7SH412400089, Explanation: Scan test wasn't ran using the new TP
+visid: M7SH412400920, Explanation: False Fail

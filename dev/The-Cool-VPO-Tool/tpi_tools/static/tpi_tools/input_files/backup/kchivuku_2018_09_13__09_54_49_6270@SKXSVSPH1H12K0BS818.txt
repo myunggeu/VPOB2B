@@ -1,0 +1,3 @@
+visid: M7N7K70500160, Explanation: HW issue. SFR trim maxed out 
+visid: M7N7K70501146, Explanation: HW issue. SFR trim maxed out 
+visid: M7SH412401350, Explanation: HW issue. SFR trim maxed out 

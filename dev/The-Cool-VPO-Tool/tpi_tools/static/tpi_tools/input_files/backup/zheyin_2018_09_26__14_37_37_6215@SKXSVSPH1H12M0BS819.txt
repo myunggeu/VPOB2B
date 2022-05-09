@@ -1,0 +1,63 @@
+visid: M7N7K70500409, Explanation: HW related issue or unit damage, no module change
+visid: M7SH412400958, Explanation: CRES fail due to bad contact, HW issue
+visid: M7SH412400250, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70500344, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70500233, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70500103, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70500578, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70500501, Explanation: CRES fail due to bad contact, HW issue
+visid: M7L1Y26800308, Explanation: CRES fail due to bad contact, HW issue
+visid: M7SH412400111, Explanation: should be HW related issue
+visid: M7SH412400165, Explanation: should be HW related issue
+visid: M7N7K70500171, Explanation: should be HW related issue
+visid: M7N7K70500629, Explanation: should be HW related issue
+visid: M7N7K70500268, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70500219, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70501339, Explanation: CRES fail due to bad contact, HW issue
+visid: M7SH412400793, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70501128, Explanation: CRES fail due to bad contact, HW issue
+visid: M7SH412400468, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70500872, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70500968, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70500012, Explanation: CRES fail due to bad contact, HW issue
+visid: M7SH412400730, Explanation: SIO
+visid: M7N7K70500416, Explanation: CRES fail due to bad contact, HW issue
+visid: M7SH412400259, Explanation: should be HW related issue
+visid: M7N7K70501105, Explanation: should be HW related issue
+visid: M7L1Y26800293, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70500572, Explanation: CRES fail due to bad contact, HW issue
+visid: M7SH412401487, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70500231, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70500207, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70500151, Explanation: CRES fail due to bad contact, HW issue
+visid: M7SH412400266, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70500372, Explanation: HW issue on previous run
+visid: M7N7K70501396, Explanation: HW issue on previous run
+visid: M7N7K70500023, Explanation: HW issue on previous run
+visid: M7N7K70500013, Explanation: HW issue on previous run
+visid: M7N7K70500213, Explanation: HW issue on previous run
+visid: M7N7K70501421, Explanation: HW issue on previous run
+visid: M7SH412401480, Explanation: HW issue on previous run
+visid: M7N7K70501305, Explanation: HW issue on previous run
+visid: M7N7K70501411, Explanation: HW issue on previous run
+visid: M7SH412400239, Explanation: HW issue on previous run
+visid: M7N7K70500407, Explanation: HW issue on previous run
+visid: M7N7K70500445, Explanation: HW issue on previous run
+visid: M7SH412400166, Explanation: HW issue on previous run
+visid: M7L1Y26800133, Explanation: HW issue on previous run
+visid: M7N7K70500328, Explanation: HW issue on previous run
+visid: M7N7K70500316, Explanation: HW issue on previous run
+visid: M7N7K70500300, Explanation: HW issue on previous run
+visid: M7N7K70501311, Explanation: HW issue on previous run
+visid: M7N7K70501088, Explanation: HW issue on previous run
+visid: M7SH412400916, Explanation: HW issue on previous run
+visid: M7SH412400670, Explanation: HW issue on previous run
+visid: M7SH412400114, Explanation: HW issue on previous run
+visid: M7N7K70500401, Explanation: HW issue on previous run
+visid: M7N7K70500632, Explanation: HW issue on previous run
+visid: M7N7K70500378, Explanation: HW issue on previous run
+visid: M7N7K70500118, Explanation: Marginal unit on VCCFUSEPGM1, no module change
+visid: M7N7K70500395, Explanation: CRES fail due to bad contact, HW issue
+visid: M7SH412400068, Explanation: CRES fail due to bad contact, HW issue
+visid: M7N7K70501335, Explanation: CRES fail due to bad contact, HW issue
+visid: M7L1Y26800121, Explanation: CRES fail due to bad contact, HW issue

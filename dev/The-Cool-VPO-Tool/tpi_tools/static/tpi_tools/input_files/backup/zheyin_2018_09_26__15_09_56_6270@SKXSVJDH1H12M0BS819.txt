@@ -1,0 +1,36 @@
+visid: M8NE567700227, Explanation: recovered at retest
+visid: M8BD231400367, Explanation: recovered at retest
+visid: M8LM305300149, Explanation: recovered at retest
+visid: M8CQ906300070, Explanation: same FB recovered at retest
+visid: M8LM305300451, Explanation: same FB recovered at retest
+visid: M8BD231400227, Explanation: recovered at retest
+visid: M8NE567700186, Explanation: CRES fail, HW issue
+visid: M8BD231400153, Explanation: CRES fail, HW issue
+visid: M8LM305300114, Explanation: recovered at retest
+visid: M8LM305300640, Explanation: recovered at retest
+visid: M8BD231400413, Explanation: recovered at retest
+visid: M8LM305300442, Explanation: CRES fail, HW issue
+visid: M8LM305300716, Explanation: CRES fail, HW issue
+visid: M8BD231400589, Explanation: CRES fail, HW issue
+visid: M8LM305300594, Explanation: CRES fail, HW issue
+visid: M8BD231400497, Explanation: CRES fail, HW issue
+visid: M8BD231400184, Explanation: CRES fail, HW issue
+visid: M8LM305300507, Explanation: CRES fail, HW issue
+visid: M8NE567700414, Explanation: HW issue on previous run
+visid: M8LM305300155, Explanation: HW issue on previous run
+visid: M8NE567700055, Explanation: HW issue on previous run
+visid: M8BD231400365, Explanation: recovered at retest
+visid: M8BD231400029, Explanation: CRES fail, HW issue
+visid: M8LM305300131, Explanation: recovered at retest
+visid: M8LM305300229, Explanation: HW issue on previous run
+visid: M8NE567700638, Explanation: HW issue on previous run
+visid: M8LM305300435, Explanation: HW issue on previous run
+visid: M8BD231400462, Explanation: HW issue on previous run
+visid: M8CQ906300443, Explanation: HW issue on previous run
+visid: M8LM305300589, Explanation: HW issue on previous run
+visid: M8LM305300408, Explanation: HW issue on previous run
+visid: M8NE567700172, Explanation: HW issue on previous run
+visid: M8NE567700456, Explanation: CRES fail, HW issue
+visid: M8BD231400130, Explanation: CRES fail, HW issue
+visid: M8NE567700244, Explanation: CRES fail, HW issue
+visid: M8BD231400113, Explanation: VCCIN hard fail, no module change

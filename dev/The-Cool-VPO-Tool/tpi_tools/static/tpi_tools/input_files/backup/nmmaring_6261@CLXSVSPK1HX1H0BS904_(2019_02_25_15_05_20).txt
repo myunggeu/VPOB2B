@@ -1,0 +1,3 @@
+visid: M8SA531000412, Explanation: Historically, the unit has been BIN114
+visid: M8SA531000126, Explanation: Historically, the unit has been Bin1, HW related issue
+visid: M8R42V9100070, Explanation: Historically, the unit has been Bin1, HW related issue

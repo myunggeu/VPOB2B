@@ -1,0 +1,2 @@
+visid: M7N7K70500382, Explanation: Mesh related failure
+visid: M7N7K70500412, Explanation: Marginal core 27 in a column

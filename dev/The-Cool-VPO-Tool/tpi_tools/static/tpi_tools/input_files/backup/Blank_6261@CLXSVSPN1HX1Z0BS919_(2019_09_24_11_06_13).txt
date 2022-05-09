@@ -1,0 +1,2 @@
+visid: M8S78N4500507, Explanation: HW Issue - Marginal fail due to outlier value in lower limit (open)
+visid: M8601RW600945, Explanation: HW Issue - Marginal fail due to outlier value in lower limit (open)

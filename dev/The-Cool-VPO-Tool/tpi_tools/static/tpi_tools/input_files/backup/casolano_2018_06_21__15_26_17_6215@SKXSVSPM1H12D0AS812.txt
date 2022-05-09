@@ -1,0 +1,1 @@
+visid: M7HU061900959, Explanation: HW issue.s812TP - failing same bin on same tester

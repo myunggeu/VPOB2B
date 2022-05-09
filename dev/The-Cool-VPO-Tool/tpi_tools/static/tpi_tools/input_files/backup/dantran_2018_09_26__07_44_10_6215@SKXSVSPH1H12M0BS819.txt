@@ -1,0 +1,1 @@
+visid: M7N7K70500146, Explanation: Failing CACHE MLC DAT in S818 B6002, this failure was marginal, it passed for S815TP, S817TP,and S819TP.

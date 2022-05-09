@@ -1,0 +1,131 @@
+visid: M7L1Y26800098, Explanation: 9497 bins was likely due to HW variation and AP instability. Recovered in new VPO
+visid: M7L1Y26800104, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7L1Y26800135, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7L1Y26800222, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4821 out of 22 tests
+visid: M7L1Y26800224, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7L1Y26800244, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7L1Y26800252, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4821 out of 18 tests
+visid: M7N7K70500053, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7N7K70500066, Explanation: core 10 is getting killed in old run (AI:1000000000000000001000000000) 
+visid: M7N7K70500082, Explanation: Unit failed bin1498 due to IDSK disabling IA15 for exceeding voltage limit.
+visid: M7N7K70500165, Explanation: 9497 bins was likely due to HW variation and AP instability. Recovered in new VPO
+visid: M7N7K70500243, Explanation: 9497 bins was likely due to HW variation and AP instability. Recovered in new VPO
+visid: M7N7K70500244, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500312, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500410, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500412, Explanation: core 27 getting killed because of high vmin 1181v in old run. 
+visid: M7N7K70500416, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500450, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500453, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500687, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500714, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70501068, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70501073, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70501128, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70501247, Explanation: 9497 bins was likely due to HW variation and AP instability. Recovered in new VPO
+visid: M7N7K70501290, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501333, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7N7K70501408, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400356, Explanation: 
+visid: M7SH412400376, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412400467, Explanation: core 14 didn't get a passing vmin in the old vpo making a invalid_combination_0000000000001100000000000000 . no change in content
+visid: M7SH412400506, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412400508, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412400575, Explanation: core 5 didn't get a passing vmin in the old run making a invalid_combination_0000000000000000000000100000. no change in content.
+visid: M7SH412400591, Explanation: recover at retest
+visid: M7SH412400594, Explanation: recover at retest
+visid: M7SH412400736, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412400755, Explanation: 
+visid: M7SH412400784, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7SH412400904, Explanation: 
+visid: M7SH412400984, Explanation: HW issue at previous run
+visid: M7SH412400985, Explanation: Unit is failing bin4822 only once throughout the history. Most likely a tester issue
+visid: M7SH412401009, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7SH412401060, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412401070, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412401530, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412401531, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7SH412401570, Explanation: invalid_combination_0000001000010000000000000000 in the old run. no change in content.
+visid: M7N7K70500733, Explanation: its failing SHRCORE, b144 in both old and new vpo /Content updated for ACIOLB B68 reduction
+visid: M7N7K70500753, Explanation: its failing SHRCORE, b144 in both old and new vpo /Content updated for ACIOLB B68 reduction
+visid: M7N7K70500765, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7N7K70500791, Explanation: its failing SHRCORE, b144 in both old and new vpo
+visid: M7SH412400371, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7SH412400438, Explanation: Incoming bad core is different btn 2 runs, causing self sig to fail in old run
+visid: M7SH412400449, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412400513, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7SH412400532, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412400617, Explanation: Incoming bad core is different btn 2 runs, causing self sig to fail in old run
+visid: M7SH412401058, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7SH412400282, Explanation: marginal fail, should recover with retest
+visid: M7N7K70500608, Explanation: bad contact, HW issue
+visid: M7SH412400119, Explanation: bad contact, HW issue
+visid: M7N7K70501222, Explanation: bad contact, HW issue
+visid: M7N7K70501229, Explanation: bad contact, HW issue
+visid: M7SH412400863, Explanation: bad contact, HW issue
+visid: M7SH412401015, Explanation: bad contact, HW issue
+visid: M7N7K70500326, Explanation: HW Related VIX fail.
+visid: M7L1Y26800139, Explanation: Historically B1 unit, Most likely HW issue (Open)
+visid: M7N7K70500454, Explanation: Historically B1 unit, Most likely HW issue (Open)
+visid: M7N7K70500635, Explanation: Historically B1 unit, Most likely HW issue (Open)
+visid: M7N7K70500639, Explanation: Historically B1 unit, Most likely HW issue (Open)
+visid: M7SH412400874, Explanation: Historically B1 unit, Most likely HW issue (Open)
+visid: M7SH412401520, Explanation: Historically B1 unit, Most likely HW issue (Open)
+visid: M7N7K70500435, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7N7K70501210, Explanation: HW issue
+visid: M7N7K70500022, Explanation: Unit fails bin1407 for exceeding Vrel max (VOLTAGE_:_0.984_EXCEEDS_VRELMAX:_0.980) in component CLM0 in scenario 128BP02 of SKU R3AT. Passing R3M1 but not passing any Bucket.
+visid: M7L1Y26800086, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 29 tests. should be connection issue. / There are multiple bin1 results from the same testing condition with 2 bin4621 out of 29 tests. should be connection issue/Unit fails bin1498 due to IDSK disabling IA11;IA12;IA09 for exceeding voltage limit.
+visid: M7N7K70500464, Explanation: Unit fails bin1498 due to IDSK disabling IA09 for exceeding voltage limit.
+visid: M7N7K70500170, Explanation: CRES fail, HW issue
+visid: M7N7K70501228, Explanation: marginal fail, suspect HW issue, need to rerun
+visid: M7SH412400015, Explanation: recover at retest
+visid: M7N7K70500352, Explanation: suspect HW issue, need to rerun
+visid: M7SH412400012, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400624, Explanation: CRES fail, HW issue
+visid: M7N7K70500073, Explanation: Reset failing for segment 10 (basic TAP functionality), no sense since other modules using TAP on BEGIN flow are passing.  Could be HW related since NEW run uses different site and TIU.  No changes in Reset module.
+visid: M7SH412400477, Explanation: Unit history shows HW alarms for previos runs on 6270 location.  There could be something wrong with the unit since FIVRTRIM also failing.  SOme of this failures eventually recover after manually adjusting DDR voltage.  No changes in Reset module.
+visid: M7N7K70500361, Explanation: Cache: No change in TP. Marginal failure at h_urfiiopsx_vsaretfreq1_END.
+visid: M7SH412400601, Explanation: failed bin1551 (SHOPS) on only one run, otherwise 2742 consistently.
+visid: M7SH412401024, Explanation: Invalid. Unit was recovered on S804 retest.
+visid: M7L1Y26800088, Explanation: New TIU. TP re-tuning needed.
+visid: M7N7K70500245, Explanation: New TIU. TP re-tuning needed.
+visid: M7SH412400956, Explanation: New TIU. TP re-tuning needed.
+visid: M7SH412401202, Explanation: New TIU. TP re-tuning needed.
+visid: M7N7K70500247, Explanation: New TIU. TP re-tuning needed.
+visid: M7N7K70500677, Explanation: New TIU. TP re-tuning needed.
+visid: M7SH412401521, Explanation: New TIU. TP re-tuning needed.
+visid: M7SH412400963, Explanation: Incoming bad core is different btn 2 runs, causing self-sig to fail  
+visid: M7SH412400429, Explanation: Incoming bad core is different btn 2 runs, causing self sig to fail
+visid: M7SH412400919, Explanation: unit is failing b4406 in new run because it didn't get a passing vmin making an invalid_combination_1111100000000000000000000000
+visid: M7N7K70501307, Explanation: Testing issue. No change in content
+visid: M7N7K70500552, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500634, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 7 tests. should be connection issue
+visid: M7SH412400530, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 24 tests. should be connection issue
+visid: M7SH412400595, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400651, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412401480, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7L1Y26800033, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7SH412400417, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500568, Explanation: 
+visid: M7SH412401163, Explanation: this unit is failing b4424 in new VPO too.
+visid: M7N7K70501037, Explanation: this unit is failing b4424 in new VPO too.
+visid: M7N7K70500455, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500574, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501311, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7SH412400384, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7L1Y26800146, Explanation: 
+visid: M7N7K70501159, Explanation: 
+visid: M7N7K70500330, Explanation: Testing issu in previous TP.  No change in content
+visid: M7SH412400148, Explanation: Invalid. Recovered to Bin 1. No bin switch
+visid: M7L1Y26800112, Explanation: Validating to see if we need to adjust limits because of new TIU. Testing issue. Shifting between different bins. No change in content
+visid: M7N7K70500350, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500487, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500611, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500625, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500797, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500799, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500809, Explanation: 
+visid: M7SH412400641, Explanation: Validating to see if we need to adjust limits because of new TIU. Recovered to Bin 1 in latest run. No change in content
+visid: M7N7K70501215, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7SH412401494, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7SH412400964, Explanation: Cache: In new run core 5 is getting disabled by C_llcfg_vcoreminfreq1_CHKCOREF1 and core 26,27 is getting disabled by c_SBFLLC128b_vcorefreq5raw_SRHCOREF5_vminsearch_7912. However, CHKCOREF3 is the first instance where p1 and p2 slice tracking gets combined, so it gets binned at u_mlcdatksx_vcoreminfreq3_CHKCOREF3 but cache instance did not fail/disable any core. Need help from sbft to explain why cores 5, 26 and 27 got disabled.

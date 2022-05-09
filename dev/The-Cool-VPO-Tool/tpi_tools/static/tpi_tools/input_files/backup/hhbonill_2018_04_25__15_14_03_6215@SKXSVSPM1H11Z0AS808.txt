@@ -1,0 +1,4 @@
+visid: M7J13X7700707, Explanation: Testing issue due to HW alarm on last TP, recovery was expected.
+visid: M7J13X7700776, Explanation: Testing issue due to HW alarm on last TP, recovery was expected.
+visid: M7J13X7701219, Explanation: Testing issue due to HW alarm on last TP, recovery was expected.
+visid: M7J13X7702153, Explanation: Testing issue due to HW alarm on last TP, recovery was expected.

@@ -1,0 +1,21 @@
+visid: M7N7K70500802, Explanation: Valid failure for B973 (Leakage). Unit fails Bin973 20 out of 28 tests in the history
+visid: M7N7K70501131, Explanation: Unit is failing bin1332 only once throughout the history. Most likely a tester issue
+visid: M7SH412400093, Explanation: Unit is failing bin1332 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501178, Explanation: Unit is failing bin1332 only once throughout the history. Most likely a tester issue
+visid: M7SH412401046, Explanation: There are multiple bin1 results from the same testing condition with 3 bin4621 out of 42 tests. should be connection issue
+visid: M7N7K70501173, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500290, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501127, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 26 tests. should be connection issue
+visid: M7N7K70500296, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 33 tests. should be connection issue
+visid: M7L1Y26800257, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501222, Explanation: Unit is failing bin4622 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501371, Explanation: There are multiple bin1 results from the same testing condition with 5 bin4625 out of 25 tests. should be connection issue
+visid: M7N7K70501111, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501319, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7SH412401381, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7SH412400843, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500086, Explanation: There are multiple bin1 results from the same testing condition with 5 bin4821 out of 40 tests. should be connection issue
+visid: M7N7K70500043, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500111, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4821 out of 28 tests. should be connection issue
+visid: M7N7K70501125, Explanation: There are multiple bin1 results from the same testing condition with 4 bin4821 out of 30 tests. should be connection issue
+visid: M7SH412400789, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4821 out of 20 tests. should be connection issue

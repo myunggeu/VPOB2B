@@ -1,0 +1,16 @@
+visid: M7A176X401358, Explanation: removed LCCSB patterns that were causing fallout. Recovers as expected
+visid: M7SH412401297, Explanation: removed LCCSB patterns that were causing fallout. Recovers as expected
+visid: M7SH412400868, Explanation: removed LCCSB patterns that were causing fallout. Recovers as expected
+visid: M7SH412401294, Explanation: invalid failure for LTTC previously due to tester issues, recovers for other S819 runs.
+visid: M7SH412400284, Explanation: removed LCCSB patterns that were causing fallout. Recovers as expected
+visid: M7SH412400658, Explanation: removed LCCSB patterns that were causing fallout. Recovers as expected
+visid: M7SH412400887, Explanation: removed LCCSB patterns that were causing fallout. Recovers as expected
+visid: M7SH412401372, Explanation: removed LCCSB patterns that were causing fallout. Recovers as expected
+visid: M7N7K70500870, Explanation: removed LCCSB patterns that were causing fallout. Recovers as expected
+visid: M7N7K70501432, Explanation: removed LCCSB patterns that were causing fallout. Recovers as expected
+visid: M7SH412400002, Explanation: removed LCCSB patterns that were causing fallout. Recovers as expected
+visid: M7N7K70500352, Explanation: first pattern gross failure due to tester issues.
+visid: M73K2D8500682, Explanation: didn't get tested in old run, otherwise consistent failure for SBFT.
+visid: M7SH412401013, Explanation: didn't get tested in old run, otherwise consistent failure for SBFT.
+visid: M7N7K70500911, Explanation: looks like an invalid failure (gross failure on all cores). should recover on rerun
+visid: M7L1Y26800277, Explanation: was not tested at LTTC previously

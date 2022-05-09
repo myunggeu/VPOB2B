@@ -1,0 +1,5 @@
+visid: M7N7K70500703, Explanation: In previous TP  IDSK disable core 10 and this caused that the unit just pass 2 QDF and THE bucketer algorithm did not find a passing combination combination. In actual TP the unit has a different core configuration and managed to pass 21 QDF and also bucketer algorithm did find a passing combination.
+visid: M7N7K70500988, Explanation: In previous TP the unit did not pass any QDF. In actual TP the unit pass 40 QDFs and also bucketer algorithm did find a passing combination.
+visid: M7N7K70500700, Explanation: The unit have never been a good unit.
+visid: M7N7K70501367, Explanation: The bucketing was change for TP S810 and also the catchall change. The unit in previous TP just did pass the catchall. In actual TP with the new bucketing fail all QDFs and also the catchall(the unit did not pass new catchall due to exceed voltage. string token:VNOM:_0.914_>_VRELMAX:_0.910 )
+visid: M7N7K70500082, Explanation: Fail by IDSK disabled.

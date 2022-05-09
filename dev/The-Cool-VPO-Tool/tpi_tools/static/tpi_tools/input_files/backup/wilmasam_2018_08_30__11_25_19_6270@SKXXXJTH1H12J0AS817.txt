@@ -1,0 +1,8 @@
+visid: M8NE567700020, Explanation: removed iio pattern that is flaky and core config dependent. Recovering as expected
+visid: M8LM305300088, Explanation: core is a marginal failure
+visid: M8LM305300030, Explanation: flaky iio pattern which is core config dependent has been removed. Recovering as expected
+visid: M8BD231400130, Explanation: bad reference core is killed so self-sig passes and recovers
+visid: M8CQ906300361, Explanation: Unit is historically bad. Failed F6 for SBFT previously as well
+visid: M8NE567700627, Explanation: unit previously failed at cold, now getting caught at class hot for same DDRIO pattern indicating degradation. consistently b4430 for all previous runs
+visid: M8LM305300096, Explanation: Hardware/socketing issue, failing first pattern for all cores. Recovers on reruns.
+visid: M8CQ906300167, Explanation: flaky content was removed from mesh and failure is now moving ahead and failing at SCAN

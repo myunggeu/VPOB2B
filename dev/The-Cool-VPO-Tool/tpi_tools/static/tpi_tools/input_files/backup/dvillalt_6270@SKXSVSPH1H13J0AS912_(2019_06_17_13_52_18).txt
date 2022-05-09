@@ -1,0 +1,2 @@
+visid: M7SH412401190, Explanation: HW related issue
+visid: M7SH412400532, Explanation: Unit was reject on previous run, DFF issue.

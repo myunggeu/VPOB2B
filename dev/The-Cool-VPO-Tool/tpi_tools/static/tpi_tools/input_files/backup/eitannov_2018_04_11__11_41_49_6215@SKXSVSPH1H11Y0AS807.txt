@@ -1,0 +1,1 @@
+visid: M7N7K70500594, Explanation: Core 06 Vload pin was not connected during FIVR test for original test program. With pin connected, FIVR module completes, and unit fails for 1306. There are no FIVR changes

@@ -1,0 +1,12 @@
+visid: M7774QA300058, Explanation: Recovered during RV, HW issues.
+visid: M7774QA301024, Explanation: Recovered during RV, HW issues.
+visid: M7DR176200005, Explanation: Recovered during RV, HW issues.
+visid: M7DR176200259, Explanation: Recovered during RV, HW issues.
+visid: M7DR176200331, Explanation: Recovered during RV, HW issues.
+visid: M7PU387100060, Explanation: Recovered during RV, HW issues.
+visid: M7PU387100082, Explanation: Recovered during RV, HW issues.
+visid: M7PU387100084, Explanation: Recovered during RV, HW issues.
+visid: M7PU387100221, Explanation: Recovered during RV, HW issues.
+visid: M7PU387100293, Explanation: Recovered during RV, HW issues.
+visid: M7PU387100314, Explanation: Recovered during RV, HW issues.
+visid: M7PU387100315, Explanation: Recovered during RV, HW issues.

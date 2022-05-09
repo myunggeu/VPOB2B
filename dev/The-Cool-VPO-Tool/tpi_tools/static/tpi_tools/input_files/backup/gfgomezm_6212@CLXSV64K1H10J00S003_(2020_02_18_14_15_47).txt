@@ -1,0 +1,20 @@
+visid: M8HC458500378, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500077, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500421, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500133, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500305, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500493, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500478, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500171, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500375, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500380, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500183, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500232, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500205, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500317, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500167, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500487, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500132, Explanation: Poor contact with board/OPEN-SHORTs
+visid: M8HC458500403, Explanation: B13 Poor contact with board/OPEN-SHORTs
+visid: M8HC458500051, Explanation: b13 Poor contact with board/OPEN-SHORTs
+visid: M8HC458500186, Explanation: B13 Poor contact with board/OPEN-SHORTs

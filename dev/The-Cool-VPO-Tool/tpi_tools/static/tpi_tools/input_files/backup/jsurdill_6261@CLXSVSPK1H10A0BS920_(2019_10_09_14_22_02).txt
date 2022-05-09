@@ -1,0 +1,4 @@
+visid: M9KB375201221, Explanation: No changes to Cache module.  Possible HW or setup issue
+visid: M9KB375201243, Explanation: No changes to Cache module.  Possible HW or setup issue
+visid: M9R48M5000900, Explanation: Bad unit.  Unit shows history of bin switches.  Please remove from correlation pool.
+visid: M9KB375201249, Explanation: Marginally passed in old run.  Unit has history of B9438

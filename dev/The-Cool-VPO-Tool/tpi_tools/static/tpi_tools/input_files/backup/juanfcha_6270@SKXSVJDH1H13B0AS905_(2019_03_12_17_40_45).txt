@@ -1,0 +1,3 @@
+visid: M8CQ906300359, Explanation: Hw issue during Testing units with old TP Histroy units shows good units pass with new TP/ Unit failed bin1498: IDSK disabled IA13 for exceeding Vmin variability limits, with this the unit exceeded the limit of core defeature.
+visid: M8NE567700670, Explanation: Unit failed bin1498: IDSK disabled IA25 for exceeding Vmin variability limits, with this the unit exceeded the limit of core defeature.
+visid: M8NE567700458, Explanation: Unit failed bin1498: IDSK disabled IA15 for exceeding Vmin variability limits, with this the unit exceeded the limit of core defeature.

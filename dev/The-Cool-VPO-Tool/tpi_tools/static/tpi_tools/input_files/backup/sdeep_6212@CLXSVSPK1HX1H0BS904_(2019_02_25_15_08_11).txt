@@ -1,0 +1,4 @@
+visid: M8R42V9100121, Explanation: cache
+visid: M8SA531000486, Explanation: failed shops and never got to sbft testing in the new run
+visid: M8R42V9100051, Explanation: has been a consistent bin96
+visid: M8R42V9100220, Explanation: has been a consistent bin96

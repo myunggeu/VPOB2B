@@ -1,0 +1,3 @@
+visid: M7774QA300752, Explanation: Same unit has multiple bin14 as well. This is related to hardware issue. 
+visid: M7774QA300923, Explanation: Hardware issue. Looks flaky as bins are switching from 1 to 54 and back multiple times. 
+visid: M7DR176200217, Explanation: Hardware issue. See lots of bin switches from 13,14 48 and 1

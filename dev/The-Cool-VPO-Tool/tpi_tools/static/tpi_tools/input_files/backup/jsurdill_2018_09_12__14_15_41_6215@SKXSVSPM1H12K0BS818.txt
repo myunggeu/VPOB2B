@@ -1,0 +1,1 @@
+visid: M7HU061900928, Explanation: Fails all cores for reset pattern d0619566S9333915, likely a power induced failure or HW issue

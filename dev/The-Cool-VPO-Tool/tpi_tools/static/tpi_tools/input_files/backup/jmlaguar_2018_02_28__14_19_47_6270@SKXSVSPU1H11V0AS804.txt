@@ -1,0 +1,2 @@
+visid: M7NN267100628, Explanation: Bin 9792 is a die force/contact issue when the unit was socketed. B9792s on VPO J808070CR is all coming from cell A102 and showing a 0 dieforce value for TD0. Retesting on different cell should recover unit.
+visid: M7NN267101354, Explanation: Bin 9792 is a die force/contact issue when the unit was socketed. Failed due to loose contact (on TD0) with tester. Retesting on different cell should recover unit.

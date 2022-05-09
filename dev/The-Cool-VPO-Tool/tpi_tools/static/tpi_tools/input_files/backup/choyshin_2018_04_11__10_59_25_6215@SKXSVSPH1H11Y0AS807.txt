@@ -1,0 +1,15 @@
+visid: M7N7K70500393, Explanation: invalid. Testing issue on S807 TP with HW bin switching observed.
+visid: M7SH412400303, Explanation: invalid. Testing issue on S807 TP with HW bin switching observed.
+visid: M7N7K70501251, Explanation: invalid. Testing issue on S807 TP with HW bin switching observed.
+visid: M7L1Y26800097, Explanation: invalid. Testing issue on S807 TP with HW bin switching observed.
+visid: M7N7K70500555, Explanation: invalid. Testing issue on S807 TP with HW bin switching observed.
+visid: M7N7K70500672, Explanation: invalid. Testing issue on S807 TP with HW bin switching observed.
+visid: M7N7K70500936, Explanation: invalid. Testing issue on S807 TP with HW bin switching observed.
+visid: M7SH412401015, Explanation: invalid. Testing issue on S807 TP with HW bin switching observed.
+visid: M7L1Y26800221, Explanation: invalid. Testing issue on S805 TP. Other TP is correlated to S807TP.
+visid: M7N7K70500450, Explanation: invalid. Testing issue on S805 TP. Other TP is correlated to S807TP.
+visid: M7N7K70500402, Explanation: marginally failing unit - unit switching between good/bin43 on old/new TPs.
+visid: M7N7K70500588, Explanation: invalid. Testing issue on S807 TP with HW bin switching observed.
+visid: M7SH412401511, Explanation: invalid. Testing issue on S805 TP. Other TP is correlated to S807TP.
+visid: M7N7K70500589, Explanation: invalid. Testing issue on S807 TP with HW bin switching observed.
+visid: M7SH412401016, Explanation: invalid. Testing issue on S805 TP. Other TP is correlated to S807TP.

@@ -1,0 +1,7 @@
+visid: M7SH412400282, Explanation: marginal fail, should recover with retest
+visid: M7N7K70500608, Explanation: bad contact, HW issue
+visid: M7SH412400119, Explanation: bad contact, HW issue
+visid: M7N7K70501222, Explanation: bad contact, HW issue
+visid: M7N7K70501229, Explanation: bad contact, HW issue
+visid: M7SH412400863, Explanation: bad contact, HW issue
+visid: M7SH412401015, Explanation: bad contact, HW issue

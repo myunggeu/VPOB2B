@@ -1,0 +1,69 @@
+visid: M8KR236200216, Explanation: marginal unit or test hardware issues
+visid: M8KR236200435, Explanation: marginal unit or test hardware issues
+visid: M8KR236200221, Explanation: THIS IS A SHOPS FAIL
+visid: M8KR236200080, Explanation: marginal unit or test hardware/methodology instability 
+visid: M93Y2R6200024, Explanation: the fail was marginal on the PCEI pin in the old bin. recovered in the new bin. Likely a test hardware issue
+visid: M8X0G79900448, Explanation: marginal unit or test hardware/methodology instability 
+visid: M8X0G79900052, Explanation: Random pattern fail. likely test hardware related
+visid: M8X0G79900122, Explanation: marginal unit or test hardware/methodology instability 
+visid: M93Y2R6200511, Explanation: marginal unit or test hardware/methodology instability 
+visid: M8HC458500115, Explanation: SHOPS fail
+visid: M8HC458500270, Explanation: Random pattern fail. likely test hardware related
+visid: M8HC458500203, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8HC458500399, Explanation: marginal unit or test hardware/methodology instability 
+visid: M84S2F9100127, Explanation: random pattern fail. likely test hardware issue or unit degradation
+visid: M94R2R2100206, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M94R2R2100336, Explanation: THIS IS A SHOPS FAIL
+visid: M84S2F9100112, Explanation: marginal unit or test hardware/methodology instability 
+visid: M94R2R2100215, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8KR236200215, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8KR236200195, Explanation: marginal unit or test hardware/methodology instability 
+visid: M8KR236200234, Explanation: marginal unit or test hardware issues
+visid: M8KR236200241, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8KR236200535, Explanation: marginal unit or test hardware/methodology instability 
+visid: M8X0G79900262, Explanation: marginal unit or test hardware/methodology instability 
+visid: M93Y2R6200478, Explanation: marginal unit or test hardware issues
+visid: M93Y2R6200071, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8X0G79900100, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8HC458500158, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M94R2R2100333, Explanation: Random pattern fail. likely test hardware related
+visid: M94R2R2100248, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M94R2R2100352, Explanation: marginal unit or test hardware/methodology instability 
+visid: M94R2R2100071, Explanation: marginal unit or test hardware/methodology instability 
+visid: M8KR236200068, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8KR236200261, Explanation: SHOPS FAIL
+visid: M8KR236200550, Explanation: SHOPS FAIL
+visid: M8HC458500521, Explanation: SHOPS FAIL
+visid: M8HC458500132, Explanation: SHOPS FAIL
+visid: M8HC458500255, Explanation: test was not executed in old run. could be bad unit
+visid: M8KR236200219, Explanation: marginal unit or test hardware/methodology instability 
+visid: M8KR236200160, Explanation: marginal unit or test hardware/methodology instability 
+visid: M8KR236200495, Explanation: marginal unit or test hardware/methodology instability 
+visid: M8KR236200567, Explanation: marginal unit or test hardware/methodology instability 
+visid: M8KR236200042, Explanation: marginal unit or test hardware/methodology instability 
+visid: M8KR236200528, Explanation: marginal unit or test hardware/methodology instability 
+visid: M8X0G79900475, Explanation: marginal unit or test hardware/methodology instability 
+visid: M93Y2R6200031, Explanation: marginal unit or test hardware/methodology instability 
+visid: M8HC458500187, Explanation: marginal unit or test hardware/methodology instability 
+visid: M8HC458500344, Explanation: marginal unit or test hardware/methodology instability 
+visid: M8HC458500473, Explanation: marginal unit or test hardware/methodology instability 
+visid: M8KR236200507, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8KR236200520, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8KR236200021, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8HC458500011, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8HC458500457, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8HC458500181, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8HC458500292, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8HC458500474, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8HC458500538, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8HC458500046, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8HC458500062, Explanation: same port/lanes failing RXDET in re-test flow. Likely test hardware issue
+visid: M8KR236200217, Explanation: test was not executed in old run. could be a bad unit
+visid: M8HC458500361, Explanation: random pattern fail. likely due to test hardware issues
+visid: M8HC458500478, Explanation: random pattern fail. likely due to test hardware issues
+visid: M8HC458500170, Explanation: random pattern fail. likely due to test hardware issues
+visid: M94R2R2100197, Explanation: random pattern fail. likely due to test hardware issues
+visid: M94R2R2100142, Explanation: random pattern fail. likely due to test hardware issues
+visid: M8KR236200222, Explanation: random pattern fail. likely due to test hardware issues
+visid: M8KR236200180, Explanation: random pattern fail. likely due to test hardware issues
+visid: M8KR236200152, Explanation: random pattern fail. likely due to test hardware issues

@@ -1,0 +1,1 @@
+visid: M8S78N4500547, Explanation: This unit in previous run had 4 cores failing (cores 0-1-2-3) and now they are passing, thus the difference. Tose cores were failing previously for these tests: FUN_SBFT::C_SBFLLC128B_VCOREFREQ6RAW_SRHCOREF6_VMINSEARCH_(Cores 1,2,3) and FUN_SBFT::C_SBFMLCFG_VCOREFREQ6RAW_SRHCOREF6_VMINSEARCH (Core0). Need to check with SBFT team

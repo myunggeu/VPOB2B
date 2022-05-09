@@ -1,0 +1,3 @@
+visid: M9R48M5000597, Explanation: marginal vmin, bin 1 barely passes one tick below search stop
+visid: M9KB375201400, Explanation: bin 4218 was a false failure
+visid: M9R48M5000178, Explanation: new m2pcie tatpg quake fix patterns catches this failure, where old pattern set didn't

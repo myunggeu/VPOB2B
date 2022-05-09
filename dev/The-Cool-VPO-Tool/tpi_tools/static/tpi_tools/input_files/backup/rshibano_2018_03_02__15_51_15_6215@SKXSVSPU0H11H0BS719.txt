@@ -1,0 +1,89 @@
+visid: D709781Y00038, Explanation: B1306 is opens problem (poor connectivity with TIU)
+visid: D709781Y00116, Explanation: Bin 100 on RV lot in old tp
+visid: D709781Y00189, Explanation: Bin 100 on RV lot in old tp
+visid: D709781Y00227, Explanation: Bin 100 on RV lot in old tp
+visid: D709781Y00229, Explanation: B1306 is opens problem (poor connectivity with TIU)
+visid: D709781Y00298, Explanation: recovered in old tp RV
+visid: D7343VH500085, Explanation: B1306 is opens problem (poor connectivity with TIU)
+visid: D779J7W200070, Explanation: recovered in old tp RV
+visid: D7906K8W00586, Explanation: TCK pin failed on old TP, HW issue
+visid: D7906K8W00639, Explanation: d
+visid: D7906K8W00685, Explanation: CRES fail, HW issue
+visid: D7906K8W00705, Explanation: B1306 is opens problem (poor connectivity with TIU)
+visid: D7BF881100010, Explanation: d
+visid: D7HU378500242, Explanation: Is opens problem (poor connectivity with TIU) (same as 1306 but on DDR CMD lines)
+visid: D7HU378500277, Explanation: Is opens problem (poor connectivity with TIU) (same as 1306 but on DDR CMD lines)
+visid: D7HU378500344, Explanation: B1306 is opens problem (poor connectivity with TIU)
+visid: D7HU378500354, Explanation: B1306 is opens problem (poor connectivity with TIU)
+visid: D7HU378500373, Explanation: B1306 is opens problem (poor connectivity with TIU)
+visid: D7HU378500439, Explanation: B1306 is opens problem (poor connectivity with TIU)
+visid: D7SF530800005, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800020, Explanation: CRES fail, HW issue
+visid: D7SF530800022, Explanation: PIROM
+visid: D7SF530800024, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800031, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800049, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800051, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800056, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800060, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800068, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800072, Explanation: 9787 bins was likely due to HW variation and AP instability. Recovered in new VPO
+visid: D7SF530800077, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800081, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800087, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800117, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800126, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800138, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800146, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800182, Explanation: Is opens problem (poor connectivity with TIU) (same as 1306 but on DDR CMD lines)
+visid: D7SF530800183, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800186, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800187, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800188, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800204, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800236, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800241, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800267, Explanation: 9787 bins was likely due to HW variation and AP instability. Recovered in new VPO
+visid: D7SF530800269, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800271, Explanation: Error, Midas showing bin 7299, trace showing bin 
+visid: D7SF530800277, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800282, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800299, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800319, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800321, Explanation: CRES fail, HW issue
+visid: D7SF530800323, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800361, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800362, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800365, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800369, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800384, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800387, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800399, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800401, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800403, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800432, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D7SF530800433, Explanation: Error, Midas showing bin 7299, trace showing bin 100
+visid: D709781Y00262, Explanation: VCCD probably clamp and failed bin8. Unit failed both hot and cold. Unit should have some damage or degradation
+visid: D709781Y00204, Explanation: switch to bin1306 at RV
+visid: D7017VH700295, Explanation: B1306 is opens problem (poor connectivity with TIU)
+visid: D709781Y00280, Explanation: B1306 is opens problem (poor connectivity with TIU)
+visid: D7SF530800380, Explanation: s
+visid: D709781Y00026, Explanation: Is opens problem (poor connectivity with TIU) (same as 1306 but on DDR CMD lines)
+visid: D7SF530800213, Explanation: recovered at RV
+visid: D7BF881100176, Explanation: PIROM
+visid: D7HU378500366, Explanation: PIROM
+visid: D709781Y00133, Explanation: CRES fail, HW issue
+visid: D709781Y00201, Explanation: CRES fail, HW issue
+visid: D7SF530800088, Explanation: CRES fail, HW issue
+visid: D709781Y00312, Explanation: B1306 is opens problem (poor connectivity with TIU)
+visid: D7SF530800002, Explanation: There was no test changes done for this "h
+visid: D7017VH700072, Explanation: Damaged unit or bad socketing issue. The pmax detector read outs were unexpected for all reading at all five voltage points.
+visid: D7SF530800092, Explanation: core6 FIVR Vload pin read all 0s during DAC calibration. LIkely invalid setup issue
+visid: D7343VH500100, Explanation: 4203 is a false failure becaue mulitple scan partitions were failing if you re run this unit , it will pass bin 1.
+visid: D7HU378500196, Explanation: hardware commonality A401
+visid: D7HU378500199, Explanation: hardware commonality A401
+visid: D7HU378500281, Explanation: hardware commonality A401
+visid: D7343VH500062, Explanation: CRES fail, HW issue
+visid: D7HU378500181, Explanation: This unit historically switches between good bin and scan failure. This looks like a marginal unit.
+visid: D7HU378500279, Explanation: B1306 is opens problem (poor connectivity with TIU)
+visid: D709781Y00051, Explanation: Contact/Dieforce was not adequate when the unit was socketed

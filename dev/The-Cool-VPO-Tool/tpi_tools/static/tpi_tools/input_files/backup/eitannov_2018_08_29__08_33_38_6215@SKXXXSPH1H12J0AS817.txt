@@ -1,0 +1,1 @@
+visid: M7SH412400777, Explanation: BG Retrim results were all out of range very high for one run. (reference run). This has never been seen before on this unit, and has not repeated since.

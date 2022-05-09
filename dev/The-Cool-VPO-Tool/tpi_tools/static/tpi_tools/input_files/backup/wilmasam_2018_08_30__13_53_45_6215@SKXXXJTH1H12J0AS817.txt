@@ -1,0 +1,1 @@
+visid: M8LM305300228, Explanation: previously core7 was ref, passes. now core8 is reference so fails due to vmin marginality.

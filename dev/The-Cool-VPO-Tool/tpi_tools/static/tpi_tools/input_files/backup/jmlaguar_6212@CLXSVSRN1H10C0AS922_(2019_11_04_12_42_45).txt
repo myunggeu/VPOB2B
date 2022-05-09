@@ -1,0 +1,1 @@
+visid: M9F05R5400792, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow. Potentially a hardware issue. Retesting should recover unit.

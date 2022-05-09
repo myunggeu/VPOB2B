@@ -1,0 +1,37 @@
+visid: M8BD231400216, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8BD231400436, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8BD231400200, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8BD231400265, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8BD231400558, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8BD231400556, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8BD231400451, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8BD231400171, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8BD231400537, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8BD231400084, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8BD231400207, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8LM305300499, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8LM305300705, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8LM305300091, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8LM305300505, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8BD231400139, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8LM305300661, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8LM305300592, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8LM305300347, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8BD231400058, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8BD231400033, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8LM305300447, Explanation: Unit recovered from HW issue in the previous TP
+visid: M8NE567700311, Explanation: Unit recovered in the last run
+visid: M8BD231400252, Explanation: Unit recovered in the last run
+visid: M8BD231400440, Explanation: Unit recovered in the last run
+visid: M8NE567700120, Explanation: Unit recovered in the last run
+visid: M8LM305300026, Explanation: Unit recovered in the last run
+visid: M8NE567700354, Explanation: Unit recovered in the last run
+visid: M8CQ906300400, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M8LM305300301, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M8BD231400034, Explanation: Unit recovered in tha last run
+visid: M8LM305300201, Explanation: Unit failed due to HW issue
+visid: M8BD231400381, Explanation: Unit recovered in the last run
+visid: M8BD231400487, Explanation: Unit recovered in the last run
+visid: M8BD231400036, Explanation: Unit recovered in the last run
+visid: M8BD231400049, Explanation: Unit recovered in the last run
+visid: M8BD231400625, Explanation: Unit recovered in the last run

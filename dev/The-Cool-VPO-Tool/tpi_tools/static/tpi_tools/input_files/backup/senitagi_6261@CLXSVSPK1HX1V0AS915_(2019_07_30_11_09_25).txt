@@ -1,0 +1,45 @@
+visid: D8S77S0700282, Explanation: HW related fail
+visid: M8SA531000424, Explanation: HW related fail
+visid: M8SA531000668, Explanation: Fail due to a tester issue
+visid: M8SA531000017, Explanation: Fail due to a tester issue
+visid: M8SA531000340, Explanation: Fail due to a tester issue
+visid: M8SA531000226, Explanation: Fail due to a tester issue
+visid: M8SA531000335, Explanation: Fail due to a tester issue
+visid: M8SA531000271, Explanation: Fail due to a tester issue
+visid: M8SA531000291, Explanation: Fail due to a tester issue
+visid: M8SA531000225, Explanation: Fail due to a tester issue
+visid: M81Y2E3800011, Explanation: Fail due to a tester issue
+visid: M9HC416301020, Explanation: Fail due to a tester issue
+visid: M8SA531000664, Explanation: Fail due to a tester issue
+visid: M8SA531000654, Explanation: Fail due to a tester issue
+visid: M8SA531000653, Explanation: Fail due to a tester issue
+visid: M8SA531000008, Explanation: Fail due to a tester issue
+visid: M8SA531000459, Explanation: Fail due to a tester issue
+visid: M8SA531000082, Explanation: Fail due to a tester issue
+visid: M8SA531000693, Explanation: Fail due to a tester issue
+visid: M81Y2E3800101, Explanation: Fail due to a tester issue
+visid: M8SA531000237, Explanation: Fail due to a tester issue
+visid: D8S77S0700224, Explanation: Fail due to a tester issue
+visid: M8SA531000273, Explanation: HW related fail
+visid: M8SA531000150, Explanation: HW related fail
+visid: M8SA531000262, Explanation: HW related fail
+visid: M8SA531000195, Explanation: HW related fail
+visid: M8SA531000114, Explanation: HW related fail
+visid: M8SA531000656, Explanation: HW related fail
+visid: M8SA531000465, Explanation: HW related fail
+visid: M8SA531000147, Explanation: HW related fail
+visid: M8SA531000024, Explanation: HW related fail
+visid: M8SA531000442, Explanation: HW related fail
+visid: D85V64V200257, Explanation: HW related fail
+visid: M9HC416301109, Explanation: HW related fail
+visid: M8SA531000461, Explanation: HW related fail
+visid: D8S77S0700317, Explanation: HW related fail
+visid: M8SA531000475, Explanation: HW related fail
+visid: M81Y2E3800048, Explanation: HW related fail
+visid: M8SA531000134, Explanation: HW related fail
+visid: M81Y2E3800046, Explanation: HW related fail
+visid: M9HC416300002, Explanation: HW related fail
+visid: M8SA531000102, Explanation: HW related fail
+visid: M8SA531000164, Explanation: HW related fail
+visid: M8SA531000331, Explanation: Previous fail is HW related fail
+visid: M9HC416300909, Explanation: Previous fail is HW related fail

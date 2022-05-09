@@ -1,0 +1,1 @@
+visid: M7N7K70500557, Explanation: Bin 9792 is a die force/contact issue when the unit was socketed. Originally failed due to loose contact (on TD1) with tester.  Recovered when retested.

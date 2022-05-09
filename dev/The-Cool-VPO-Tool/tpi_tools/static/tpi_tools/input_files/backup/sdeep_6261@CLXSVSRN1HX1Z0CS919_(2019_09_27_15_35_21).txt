@@ -1,0 +1,2 @@
+visid: M9V06E8801586, Explanation: no core left for self sig comparison
+visid: M9V06E8802045, Explanation: marginal core recovered

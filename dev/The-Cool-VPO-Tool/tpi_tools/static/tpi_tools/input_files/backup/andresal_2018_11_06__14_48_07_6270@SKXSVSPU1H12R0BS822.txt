@@ -1,0 +1,2 @@
+visid: M73J2G6201437, Explanation: Unit failed because didnt met any recovery configuration 1111111111111111110000001100_DOESNT_FIT_COREDEFEATURINGVECTOR/8C_VALUES
+visid: M7NN267100887, Explanation: Unit failed because didnt met any recovery configuration 1111111111111111111011010000_DOESNT_FIT_COREDEFEATURINGVECTOR/8C_VALUES

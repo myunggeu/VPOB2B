@@ -1,0 +1,11 @@
+visid: M7SH412401094, Explanation: Unit is failing bin4621 only once throughout the history; due to tester issue
+visid: M7SH412401296, Explanation: Unit is failing bin4313 only once throughout the history; due to tester issue
+visid: M73K2D8500877, Explanation: There are multiple bin1 results from the same testing condition with 4 bin4621 out of 24 tests; usually due to connection issue
+visid: M73K2D8500968, Explanation: Unit is failing bin4621 only once throughout the history; due to tester issue
+visid: M7SH412401217, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4621 out of 23 tests; usually due to connection issue
+visid: M7N7K70500749, Explanation: Unit is failing bin4625 only once throughout the history; due to tester issue
+visid: M7N7K70500708, Explanation: There are multiple bin1 results from the same testing condition with 4 bin4625 out of 27 tests; usually due to connection issue
+visid: M7SH412401317, Explanation: Unit is failing bin4625 only once throughout the history; due to tester issue
+visid: M7SH412401011, Explanation: Unit is failing bin4625 only once throughout the history; due to tester issue
+visid: M7SH412400767, Explanation: Unit is failing bin4625 only once throughout the history; due to tester issue
+visid: M7N7K70500985, Explanation: Unit is failing bin4821 only once throughout the history; due to tester issue

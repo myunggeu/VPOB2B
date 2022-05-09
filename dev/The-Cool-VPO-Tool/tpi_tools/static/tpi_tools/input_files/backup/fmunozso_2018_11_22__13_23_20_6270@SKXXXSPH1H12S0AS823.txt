@@ -1,0 +1,2 @@
+visid: M7SH412401455, Explanation: Unit is failing bin9454 only once throughout the history due to tester issue
+visid: M7N7K70500911, Explanation: Unit is failing B9444 for the first time, probably HW related

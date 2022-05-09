@@ -1,0 +1,1 @@
+visid: M7SH412400808, Explanation: Additional incoming bad core, no cores left for self sig

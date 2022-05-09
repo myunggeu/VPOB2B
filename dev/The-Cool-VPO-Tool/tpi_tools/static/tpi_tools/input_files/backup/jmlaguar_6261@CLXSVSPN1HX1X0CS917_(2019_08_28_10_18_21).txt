@@ -1,0 +1,1 @@
+visid: M8S78N4500627, Explanation: 9787 bin is a HW/AP instability issue that caused the units to stop heating up and thus timed out during soak

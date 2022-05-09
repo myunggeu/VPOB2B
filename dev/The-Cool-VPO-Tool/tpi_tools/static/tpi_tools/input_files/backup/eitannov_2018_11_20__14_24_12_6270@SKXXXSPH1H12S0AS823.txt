@@ -1,0 +1,2 @@
+visid: M7SH412401290, Explanation: DDRD012 VDAC pin was not seated correctly on TIU. No voltage read. This is TIU / Interface issue, no FIVR issue
+visid: M7SH412400160, Explanation: DDRA345 VDAC pin was not seated correctly on TIU. No voltage read. This is TIU / Interface issue, no FIVR issue

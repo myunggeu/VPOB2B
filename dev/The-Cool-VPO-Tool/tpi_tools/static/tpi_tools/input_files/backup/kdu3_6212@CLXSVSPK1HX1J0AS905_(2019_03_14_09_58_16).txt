@@ -1,0 +1,5 @@
+visid: M8R42V9100198, Explanation: HW issue related
+visid: M8R42V9100076, Explanation: HW issue failed SHOPS + DCFF limits issue. Old TP B819 due to serial-mode DCFF being executed and failing too tight UKL for G group pins
+visid: M8SA531000717, Explanation: HW issue failed SHOPS + DCFF limits issue. Old TP B819 due to serial-mode DCFF being executed and failing too tight UKL for G group pins
+visid: M8R42V9100121, Explanation: HW issue related
+visid: M8R42V9100034, Explanation: HW issue related - SHOPS failed open

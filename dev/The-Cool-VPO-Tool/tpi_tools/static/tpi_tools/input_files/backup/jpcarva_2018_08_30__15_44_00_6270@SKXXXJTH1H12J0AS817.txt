@@ -1,0 +1,3 @@
+visid: M8BD231400611, Explanation: Wrong data from old TP, unit was recovered with the new TP (Issue with the B2B tool).
+visid: M8NE567700223, Explanation: Wrong data from old TP, unit was recovered with the new TP (Issue with the B2B tool).
+visid: M8CQ906300203, Explanation: Wrong data from old TP, history unit is a solid failure for last TP (Issue with the B2B tool).

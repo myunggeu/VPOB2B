@@ -1,0 +1,4 @@
+visid: M7HU061901049, Explanation: CRES fail, bad contact due to HW issue
+visid: M7J13X7700717, Explanation: CRES fail, bad contact due to HW issue
+visid: M7J13X7700908, Explanation: bad contact, HW issue
+visid: M7HU061900604, Explanation: bad contact, HW issue

@@ -1,0 +1,45 @@
+visid: M7N7K70501322, Explanation: VCCIO consistent fail across hot/cold. Real unit issue
+visid: M7SH412400520, Explanation: Bad contact due to HW issue
+visid: M7L1Y26800106, Explanation: Bad contact due to HW issue
+visid: M7A176X401270, Explanation: HW issue on tester
+visid: M7N7K70500951, Explanation: HW issue on tester
+visid: M7A176X401239, Explanation: Bad contact due to HW issue
+visid: M7N7K70500765, Explanation: HW issue on tester
+visid: M7N7K70500729, Explanation: HW issue on tester
+visid: M7SH412401158, Explanation: HW issue on tester
+visid: M7SH412401203, Explanation: Bad contact due to HW issue
+visid: M7N7K70500640, Explanation: Bad contact due to HW issue
+visid: M7SH412400538, Explanation: Real fail on FIVR_VLOAD_DDRA012 across hot/cold
+visid: M7SH412400530, Explanation: Real fail on FIVR_VLOAD_DDRA012 across hot/cold
+visid: M7N7K70500153, Explanation: Bad contact due to HW issue
+visid: M7N7K70500039, Explanation: Bad contact due to HW issue
+visid: M7SH412401198, Explanation: HW issue on tester
+visid: M7SH412401094, Explanation: HW issue on tester
+visid: M7SH412400121, Explanation: Bad contact due to HW issue
+visid: M7SH412400471, Explanation: Bad contact due to HW issue
+visid: M7SH412400567, Explanation: fivr_vtarget_vccddrd hard fail across hot/cold
+visid: M7N7K70500254, Explanation: VCCD clamp. Can be unit damage or HW issue. No module change
+visid: M7L1Y26800130, Explanation: bad contact due to HW issue
+visid: M7SH412401517, Explanation: bad contact due to HW issue
+visid: M7L1Y26800245, Explanation: bad contact due to HW issue
+visid: M7SH412401394, Explanation: bad contact due to HW issue
+visid: M7SH412401190, Explanation: bad contact due to HW issue
+visid: M7N7K70500347, Explanation: bad contact due to HW issue
+visid: M7N7K70501433, Explanation: bad contact due to HW issue
+visid: M7N7K70500385, Explanation: bad contact due to HW issue
+visid: M7N7K70501328, Explanation: bad contact due to HW issue
+visid: M7L1Y26800283, Explanation: bad contact due to HW issue
+visid: M7N7K70501149, Explanation: bad contact due to HW issue
+visid: M7SH412401367, Explanation: bad contact due to HW issue
+visid: M7SH412400636, Explanation: bad contact due to HW issue
+visid: M7N7K70500913, Explanation: bad contact due to HW issue
+visid: M7SH412400700, Explanation: bad contact due to HW issue
+visid: M7SH412400800, Explanation: bad contact due to HW issue
+visid: M7SH412400064, Explanation: bad contact due to HW issue
+visid: M7N7K70500934, Explanation: bad contact due to HW issue
+visid: M7SH412401174, Explanation: bad contact due to HW issue
+visid: M7N7K70500117, Explanation: bad contact due to HW issue
+visid: M7L1Y26800240, Explanation: bad contact due to HW issue
+visid: M7N7K70500042, Explanation: bad contact due to HW issue
+visid: M7SH412401440, Explanation: bad contact due to HW issue
+visid: M7SH412400269, Explanation: bad contact due to HW issue

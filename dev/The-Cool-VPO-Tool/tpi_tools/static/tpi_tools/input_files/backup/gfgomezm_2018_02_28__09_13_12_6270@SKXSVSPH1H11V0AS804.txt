@@ -1,0 +1,9 @@
+visid: M7N7K70500326, Explanation: HW Related VIX fail.
+visid: M7SH412400449, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412400532, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7L1Y26800139, Explanation: Historically B1 unit, Most likely HW issue (Open)
+visid: M7N7K70500454, Explanation: Historically B1 unit, Most likely HW issue (Open)
+visid: M7N7K70500635, Explanation: Historically B1 unit, Most likely HW issue (Open)
+visid: M7N7K70500639, Explanation: Historically B1 unit, Most likely HW issue (Open)
+visid: M7SH412400874, Explanation: Historically B1 unit, Most likely HW issue (Open)
+visid: M7SH412401520, Explanation: Historically B1 unit, Most likely HW issue (Open)

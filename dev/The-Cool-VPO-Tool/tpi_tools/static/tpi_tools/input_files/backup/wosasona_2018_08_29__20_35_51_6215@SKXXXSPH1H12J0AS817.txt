@@ -1,0 +1,10 @@
+visid: M7SH412400553, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester/HW issue
+visid: M7SH412401427, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 18 tests
+visid: M7SH412400728, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 21 tests
+visid: M7SH412400468, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4621 out of 24 tests
+visid: M7SH412400460, Explanation: Unit is recovered to bin1 in the last VPO with 4 bin4621 out of 22 tests
+visid: M7SH412400298, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 22 tests
+visid: M7SH412400376, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 19 tests
+visid: M7N7K70501146, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 33 tests
+visid: M7L1Y26800240, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4621 out of 27 tests
+visid: M7SH412400284, Explanation: Unit recovered to Bin1

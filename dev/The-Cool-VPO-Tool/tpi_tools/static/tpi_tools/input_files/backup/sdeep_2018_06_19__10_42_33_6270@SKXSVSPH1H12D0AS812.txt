@@ -1,0 +1,4 @@
+visid: M7N7K70500614, Explanation: core came as an incoming bad & hence passed in old run
+visid: M7SH412400963, Explanation: 1 column kill, degradation
+visid: M7SH412400429, Explanation: only 1 core left in a column died
+visid: M7SH412400356, Explanation: got higher vmin in the new run & passed, marginal

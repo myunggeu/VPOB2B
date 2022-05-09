@@ -1,0 +1,4 @@
+visid: M9HC416301392, Explanation: New run passes LTTC due to die recovery change.  Core 6 is de-featured in new run, but unit is killed in ref run.
+visid: M9HC416301343, Explanation: New run passes LTTC due to die recovery change.  Core 2 is de-featured in new run, but unit is killed in ref run.
+visid: M9HC416300797, Explanation: Marginal unit.  Failed CRF ROM Read LTTC screen in ref run but passed in new run at a test point 20 mV higher
+visid: M8SA531000121, Explanation: Cache untested in old run.  Possible HW issue

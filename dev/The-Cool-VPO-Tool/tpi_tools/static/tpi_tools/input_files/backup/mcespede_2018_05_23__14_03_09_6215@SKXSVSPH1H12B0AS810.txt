@@ -1,0 +1,67 @@
+visid: M7N7K70500001, Explanation: Unit recovered from HW issue
+visid: M7N7K70500379, Explanation: Unit recovered from HW issue
+visid: M7N7K70500504, Explanation: Unit recovered from HW issue
+visid: M7N7K70500542, Explanation: Unit recovered from HW issue
+visid: M7N7K70500900, Explanation: Unit recovered from HW issue
+visid: M7N7K70500909, Explanation: Unit recovered from HW issue
+visid: M7N7K70501038, Explanation: Unit recovered from HW issue
+visid: M7N7K70500852, Explanation: ODT kill limits adjusted
+visid: M7A176X401354, Explanation: Unit recovered in retest
+visid: M7N7K70500006, Explanation: HW related issue. Bad contact
+visid: M7N7K70500021, Explanation: Unit recovered in retest
+visid: M7N7K70500244, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500308, Explanation: HW related issue. Bad contact
+visid: M7N7K70500341, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500349, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500363, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500375, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500384, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500386, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500402, Explanation: HW related issue. Bad contact
+visid: M7N7K70500419, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500426, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500429, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500447, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500454, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500477, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500511, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500535, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500556, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500624, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500625, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500650, Explanation: HW related issue. Bad contact
+visid: M7N7K70500679, Explanation: Unit recovered in retest
+visid: M7N7K70500690, Explanation: Unit recovered in retest
+visid: M7N7K70500736, Explanation: Unit recovered in retest
+visid: M7N7K70500787, Explanation: HW related failure. Bad contact.
+visid: M7N7K70500895, Explanation: Unit recovered in retest.
+visid: M7N7K70501014, Explanation: Unit recovered in retest
+visid: M7N7K70501022, Explanation: Unit recovered in retest
+visid: M7N7K70501065, Explanation: Unit recovered in retest
+visid: M7N7K70501119, Explanation: Unit recovered in retest
+visid: M7N7K70501168, Explanation: Unit recovered in retest
+visid: M7N7K70501169, Explanation: Unit recovered in retest
+visid: M7N7K70501228, Explanation: Unit recovered in retest
+visid: M7N7K70501230, Explanation: Unit recovered in retest
+visid: M7N7K70501247, Explanation: Unit recovered in retest
+visid: M7N7K70501337, Explanation: Unit recovered in retest
+visid: M7N7K70501392, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70501422, Explanation: Historically B1 unit. HW related issue
+visid: M7SH412400153, Explanation: Historically B1 unit. HW related issue.
+visid: M7SH412400161, Explanation: Historically B1 unit. HW related issue
+visid: M7SH412400271, Explanation: Historically B1 unit. HW related issue
+visid: M7SH412400431, Explanation: Historically B1 unit. HW related issue
+visid: M7SH412400436, Explanation: Historically B1 unit. HW related issue
+visid: M7SH412400481, Explanation: Historically B1 unit. HW related issue
+visid: M7SH412400817, Explanation: Historically B1 unit. HW related issue
+visid: M7SH412400826, Explanation: Historically B1 unit. HW related issue
+visid: M7SH412400848, Explanation: Historically B1 unit. HW related issue
+visid: M7SH412400902, Explanation: Historically B1 unit. HW related issue
+visid: M7SH412400928, Explanation: Historically B1 unit. HW related issue
+visid: M7A176X401241, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500251, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500337, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500549, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500918, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70501408, Explanation: Historically B1 unit. HW related issue
+visid: M7N7K70500765, Explanation: ODT kill limits adjusted

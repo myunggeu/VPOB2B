@@ -1,0 +1,14 @@
+visid: M7N7K70500732, Explanation: Unit is Recovered to Bin100
+visid: M7N7K70501200, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7SH412400994, Explanation: Unit is recovered to Bin100
+visid: M7SH412401339, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4625 out of 25 tests; usually due to connection issue
+visid: M7SH412401120, Explanation: Unit is recovered to Bin100
+visid: M7SH412400476, Explanation: Unit is failing bin4625 only once throughout the history; due to tester issue
+visid: M7SH412400843, Explanation: Unit is recovered to Bin100
+visid: M7SH412400300, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4625 out of 27 tests; usually due to connection issue
+visid: M7N7K70500214, Explanation: Unit is recovered to Bin100
+visid: M7N7K70500149, Explanation: Unit is recovered to Bin100
+visid: M7N7K70500227, Explanation: Unit is Recovered to Bin100
+visid: M7N7K70500298, Explanation: Unit is failing bin4625 only once throughout the history;due to tester issue
+visid: M7SH412401285, Explanation: There are multiple bin1 results from the same testing condition with 6 bin4821 out of 26 tests; usually due to connection issue
+visid: M7N7K70501319, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4625 out of 22 tests; usually due to connection issue

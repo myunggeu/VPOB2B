@@ -1,0 +1,6 @@
+visid: M7J13X7700779, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7700804, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7701011, Explanation: New TIU fix B68 bouncing bin.
+visid: M7T131S100169, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7701994, Explanation: New TIU fix B68 bouncing bin.
+visid: M7HX231100102, Explanation: New TIU fix B68 bouncing bin.

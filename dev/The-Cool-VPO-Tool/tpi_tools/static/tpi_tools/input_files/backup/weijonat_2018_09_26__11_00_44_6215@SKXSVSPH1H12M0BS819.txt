@@ -1,0 +1,7 @@
+visid: M7SH412401441, Explanation: core01 measured ~0V in the earlier VPO, likely due to socketing issue at cold
+visid: M7N7K70500144, Explanation: core10 measured all 0V in original VPO, likely due to socketing issue at cold
+visid: M7N7K70500250, Explanation: FFC domain had all 0 from CMEM in frequency measurement test in the original TP. No module update, this might be related to tap chain stability at cold
+visid: M7N7K70500272, Explanation: BG trim code marginally failed in the second run. No update from the module
+visid: M7N7K70501405, Explanation: core18 FIVR all read ~0.4V in DAC calibration. No update from module. likely due to cold socketing issue
+visid: M7SH412400113, Explanation: core17 FIVR all read ~0V in DAC calibration. no update from module. Likely due to cold socketing issue
+visid: M7N7K70501368, Explanation: DDRD345 FIVR all read ~0V in Dac calibration. No update from module, likely due to socketing issue at cold

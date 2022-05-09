@@ -1,0 +1,11 @@
+visid: M7HU061900879, Explanation: suspected HW - hard failure or HW related - no commonality on port/lane
+visid: M7HU061900026, Explanation: suspected HW - hard failure or HW related - no commonality on port/lane
+visid: M7J13X7701084, Explanation: marginal unit - marginally failed on older and new TP
+visid: M88J7X3800286, Explanation: recovered on RV - original failed on port0/lane5
+visid: M88J7X3800288, Explanation: recovered on RV - original failed on port0/lane5
+visid: M88J7X3800289, Explanation: recovered on RV - original failed on port0/lane5
+visid: M88J7X3800325, Explanation: recovered on RV - original failed on port0/lane5
+visid: M88J7X3800437, Explanation: recovered on RV - original failed on port0/lane5
+visid: M88J7X3800460, Explanation: recovered on RV - original failed on port0/lane5
+visid: M88J7X3800533, Explanation: recovered on RV - original failed on port0/lane5
+visid: M7HU061900901, Explanation: suspected HW - hard failure or HW related - no commonality on port/lane

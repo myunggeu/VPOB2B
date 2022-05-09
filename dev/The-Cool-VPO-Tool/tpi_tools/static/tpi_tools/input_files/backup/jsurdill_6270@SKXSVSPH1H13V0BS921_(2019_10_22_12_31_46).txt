@@ -1,0 +1,1 @@
+visid: M9KN918500134, Explanation: Could be a tester issue.  Unit has history of B1, but it is also failing SBFT CHKCLMF3 in new run

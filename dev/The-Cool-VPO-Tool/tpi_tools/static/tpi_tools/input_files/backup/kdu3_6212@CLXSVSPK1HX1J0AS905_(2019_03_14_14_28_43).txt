@@ -1,0 +1,3 @@
+visid: M8SA531000129, Explanation: Unit damaged - Failed THRSOAK 
+visid: M8SA531000167, Explanation: HW issue related - Marginal failed upper limit on VCCIO
+visid: M8SA531000443, Explanation: Failed THRSOAK - HWALARM - DCFF - Slot:0 - Pin=VCCFUSE - Channel:20 - might be bad unit

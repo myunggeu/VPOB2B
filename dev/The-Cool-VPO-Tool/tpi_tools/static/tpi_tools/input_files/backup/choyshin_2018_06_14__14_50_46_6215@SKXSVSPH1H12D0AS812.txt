@@ -1,0 +1,4 @@
+visid: M7N7K70500351, Explanation: invalid. HW related bin switching on S812TP. 
+visid: M7N7K70501146, Explanation: invalid. unit recovered.
+visid: M7N7K70500582, Explanation: invalid. HW related bin switching on S812TP. 
+visid: M7N7K70500564, Explanation: invalid. HW related bin switching on S812TP. 

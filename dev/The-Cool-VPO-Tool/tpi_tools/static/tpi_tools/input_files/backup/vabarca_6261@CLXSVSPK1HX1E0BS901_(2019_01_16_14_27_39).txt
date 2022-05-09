@@ -1,0 +1,7 @@
+visid: M83G18S200700, Explanation: Unit has history of Bin100 but fails Bin4621 only once in VPO history due to Hardware/Connection issue.
+visid: M83G18S200670, Explanation: Unit recovered to Bin1
+visid: M83G18S200696, Explanation: Unit recovered to Bin1 after failing b5422 once due to Hardware/Connection issue.
+visid: M83G18S200685, Explanation: Unit recovered to Bin1 after failing b1551 once due to Hardware/Connection issue.
+visid: M83G18S200446, Explanation: Unit recovered to Bin1 after failing b4625 once due to Hardware/Connection issue.
+visid: M8R42V9100078, Explanation: Unit has history of Bin100 but fails Bin4821 only once in VPO history due to Hardware/Connection issue.
+visid: M8R42V9100030, Explanation: Unit is failing bin5422 only once throughout the history. This is usually due to Hardware/Tester issue.

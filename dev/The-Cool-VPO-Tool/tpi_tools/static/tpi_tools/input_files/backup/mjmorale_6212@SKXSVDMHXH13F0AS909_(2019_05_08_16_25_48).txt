@@ -1,0 +1,11 @@
+visid: D9195AN200007, Explanation: Recovered from HW issue
+visid: D9432ME900098, Explanation: Recovered from HW issue
+visid: D9617FV304571, Explanation: Recovered from HW issue
+visid: D9432ME900089, Explanation: Recovered from HW issue
+visid: D9432ME900034, Explanation: Hardware/Socketing issue
+visid: D970U5V201065, Explanation: Hardware/Socketing issue
+visid: D970U5V201164, Explanation: Hardware/Socketing issue
+visid: D9481LV800538, Explanation: Hardware/Socketing issue
+visid: D9195AN200064, Explanation: Hardware/Socketing issue
+visid: D9195AN200105, Explanation: Hardware/Socketing issue
+visid: D997E7C700007, Explanation: Hardware/Socketing issue

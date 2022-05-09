@@ -1,0 +1,3 @@
+visid: M7N7K70500554, Explanation: Core 24 FIVR pin not connected during cold test. TIU / unit connection issue
+visid: M7N7K70501257, Explanation: Core 03 pin not connected during cold test. TIU / unit connection issue
+visid: M7SH412400905, Explanation: Core 01 pin not connected during cold test. TIU / unit connection issue

@@ -1,0 +1,23 @@
+<!--
+
+ User: vabarca
+ Date: Tue Dec 01 12:45:57 2015
+ CB: CrystalBall_Proto
+-->
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%s Collection %%%%%%%%%%%%%%%%%%%%%%% #TAG -->
+
+
+<collection type=material >
+<group >
+    J046141EV SITE=MIDAS DOMAIN=CLASS
+    J047011EV SITE=MIDAS DOMAIN=CLASS
+</group >
+</collection >
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%% Parameters %%%%%%%%%%%%%%%%%%%%%%% #TAG -->
+
+
+<parameters >

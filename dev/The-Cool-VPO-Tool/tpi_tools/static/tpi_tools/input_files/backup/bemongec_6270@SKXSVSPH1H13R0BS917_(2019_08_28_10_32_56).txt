@@ -1,0 +1,1 @@
+visid: M99S9J4201059, Explanation: Unit fails at most of the time throughout history. The actual fail is by IDSK disabled cores doesn't meet a valid core configuration.

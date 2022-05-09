@@ -1,0 +1,118 @@
+visid: M7N7K70500051, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70501310, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500485, Explanation: Historically B1 unit, Most likely a HW issue (Open)
+visid: M7L1Y26800030, Explanation: CRES fail, HW issue
+visid: M7L1Y26800113, Explanation: CRES fail, HW issue
+visid: M7L1Y26800131, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7L1Y26800147, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7L1Y26800289, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7L1Y26800290, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7L1Y26800292, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7L1Y26800300, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500034, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500045, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500052, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500054, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500069, Explanation: CRES fail, HW issue
+visid: M7N7K70500091, Explanation: Testing issu in previous TP.  No change in content
+visid: M7N7K70500150, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500175, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7N7K70500227, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500250, Explanation: unit is failing b4421 only once in history in the last run where the fail pattern has different configurations.
+visid: M7N7K70500270, Explanation: Marginal core. no change in content. 
+visid: M7N7K70500398, Explanation: invalid 2737 due to socketing issue at cold
+visid: M7N7K70500415, Explanation: Testing issu in previous TP.  No change in content
+visid: M7N7K70500479, Explanation: CRES fail, HW issue
+visid: M7N7K70500520, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500616, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500859, Explanation: Testing issu in previous TP.  No change in content
+visid: M7N7K70501109, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7N7K70501372, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412400011, Explanation: Testing issu in previous TP.  No change in content
+visid: M7SH412400018, Explanation: CRES fail, HW issue
+visid: M7SH412400074, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4821 out of 12 tests
+visid: M7SH412400160, Explanation: CRES fail, HW issue
+visid: M7SH412400165, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400284, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7SH412400457, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400523, Explanation: CRES fail, HW issue
+visid: M7SH412400586, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412400598, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412400625, Explanation: Testing issu in previous TP.  No change in content
+visid: M7SH412400766, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 12 tests
+visid: M7SH412400776, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400845, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 7 tests
+visid: M7SH412400854, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7SH412400877, Explanation: CRES fail, HW issue
+visid: M7SH412400890, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 12 tests
+visid: M7SH412401008, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7SH412401074, Explanation: CRES fail, HW issue
+visid: M7SH412401484, Explanation: CRES fail, HW issue
+visid: M7SH412401553, Explanation: CRES fail, HW issue
+visid: M7SH412401559, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7N7K70500579, Explanation: suspect HW issue, need to retest
+visid: M7L1Y26800282, Explanation: marginal fail, suspect HW issue, should recover at retest
+visid: M7L1Y26800128, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7N7K70500127, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7N7K70500309, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7N7K70500344, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7N7K70500370, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7N7K70500385, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7N7K70500641, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7N7K70501256, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7SH412400494, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7SH412400754, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7SH412400891, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7SH412400893, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7SH412401180, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7SH412401515, Explanation: Historically B1 unit, Most likely a HW issue
+visid: M7N7K70501417, Explanation: CRES fail, HW issue
+visid: M7N7K70501424, Explanation: CRES fail, HW issue
+visid: M7N7K70500887, Explanation: suspect HW issue, need to retest
+visid: M7L1Y26800032, Explanation: CRES fail, HW issue
+visid: M7N7K70500076, Explanation: CRES fail, HW issue
+visid: M7N7K70500029, Explanation: CRES fail, HW issue
+visid: M7N7K70501386, Explanation: CRES fail, HW issue
+visid: M7N7K70501406, Explanation: CRES fail, HW issue
+visid: M7SH412400147, Explanation: CRES fail, HW issue
+visid: M7N7K70500248, Explanation: CRES fail, HW issue
+visid: M7N7K70500153, Explanation: SOme kind of failure updating tracking structure - Mask: 0000001000110000000000000010 , A/I: 0100000000000000000000000000 ,P/F: 0000001000110000000000000010.  No changes for Reset content.
+visid: M7SH412401568, Explanation: Cache: No change in TP; Marginal failure in BCK domain for h_urfiiopsx_vsaretfreq1_END.
+visid: M7N7K70500640, Explanation: invalid 2737 due to socketing issue at cold
+visid: M7N7K70500429, Explanation: invalid. HW related miscorrelation. HW related bin switching observed on S804 retest data.
+visid: M7N7K70500402, Explanation: Cold marginality unit. TP S725 showing failure on same bin.
+visid: M7N7K70500390, Explanation: New TIU. TP re-tuning needed.
+visid: M7L1Y26800103, Explanation: Invalid. HW related miscorrelation.
+visid: M7N7K70500673, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501185, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400111, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400876, Explanation: Unit fails at bin4621 3 out of 14 tests in the history. Should be a valid failure
+visid: M7SH412400884, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7L1Y26800267, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500513, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501178, Explanation: Testing issue. No change in content
+visid: M7N7K70500027, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500033, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500047, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500060, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500140, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500459, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500462, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500503, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500527, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500606, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70501014, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70501142, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70501149, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70501173, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70501358, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7SH412400475, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7SH412400796, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7SH412400843, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7SH412400909, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7SH412400933, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7SH412401091, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70501085, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7SH412400826, Explanation: marginal core for SBFT
+visid: M7N7K70500418, Explanation: VCC
+visid: M7N7K70500468, Explanation: VCC

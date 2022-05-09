@@ -1,0 +1,2 @@
+visid: M7N7K70500988, Explanation: Unit fails bin1407 for exceeding power (VOLTAGE_:_0.913_EXCEEDS_VRELMAX:_0.900) in component CLM0 in scenario 128BP02 of SKU R37S. Not passing any Bucket.
+visid: M7N7K70501258, Explanation: Unit fails bin1498 due to IDSK disable (0010000000010000000000000000)

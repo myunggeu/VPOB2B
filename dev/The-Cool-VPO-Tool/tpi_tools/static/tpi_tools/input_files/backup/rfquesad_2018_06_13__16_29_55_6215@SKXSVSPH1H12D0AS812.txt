@@ -1,0 +1,2 @@
+visid: M7SH412400843, Explanation: The module SKX_ADCALIB_H receive recent changes from TP 810 to TP 812, description of changes:  OLD SKX_ADCALIB_H : kchivuku     01/10/18_06:02:19_PM New  SKX_ADCALIB_H:         kchivuku     05/30/18_04:41:17_PM And due to the previous Failure Failflow fail to run properly
+visid: M7N7K70500591, Explanation: Fail on ENDFLOW due to new changes on SKX_MIO_H, this Cause an error in the Failflow in the segment 120, SKX_RESET module was also updated but changes aren’t related to this failure or the failure on Module SKX_MIO_H

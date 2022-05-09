@@ -1,0 +1,9 @@
+visid: M7N7K70500507, Explanation: Historically good unit
+visid: M7N7K70501159, Explanation: Historically bin 1 unit
+visid: M7N7K70501181, Explanation: Historically bin 1 unit
+visid: M7N7K70501289, Explanation: Historically bin 1 unit
+visid: M7N7K70500498, Explanation: HW related issue
+visid: M7A176X401179, Explanation: HW related issue
+visid: M7N7K70500734, Explanation: HW related issue
+visid: M7N7K70500669, Explanation: Related to HW issue
+visid: M7N7K70500721, Explanation: Related to HW issue

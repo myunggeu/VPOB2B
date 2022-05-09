@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+{% extends "tpi_tools/home.html" %}
+{% block content %}
+
+<script>
+	function viewInTrace(openTrace){
+		traceLink += 'stpl=' + 'dummypath';
+		traceLink += '&referenceStpl=' + 'dummypath';
+		$(openTrace).attr('href', traceLink)
+	}
+</script>
+	<br><br>
+	<h2>Bin2Bin</h2>
+	<p>Old TP(Left->Down): {{old_tp}}</p>
+	<p>New TP(Top->Right): {{new_tp}}</p>
+	<br>
+	<table class="table table-bordered">
+
+
+	{% for row in b2b_table_array %}
+	    <tr>
+		{% for cell in row%}
+            <!-------------------------------THIS WORKS!!!!!---------------------------------------------------->
+            {% if forloop.parentloop.counter == 1 %}  <!--IF WORKING ON THE FIRST ROW (HEADER)-->
+                <td><span style="font-weight:bold">{{cell}}</span></td>
+            {% else %}
+                {% if forloop.counter == 1 %} <!--IF WORKING ON FIRST CELL OF FOLLOWING ROWS(SIDE HEADERS)-->
+                    <td><span style="font-weight:bold">{{cell}}</span></td>
+                {% else %} <!--EVERYTHING INSIDE-->
+                    <td><font size="1">{{cell}}</font></td>
+                {% endif %}
+            {% endif %}
+            <!-------------------------------------------------------------------------------------------------->
+		{% endfor %}
+		</tr>
+	{% endfor %}
+	</table>
+</script>
+	<br><br>
+	<p>VPOs Used: </p>
+	{% for vpos in vpos_old_new%}
+    	&nbsp&nbsp{{vpos}}<br>
+	{% endfor %}
+	<br><br>
+	<a href="/bin2bin/save_b2b/{{new_tp}}/">Save B2B Table (Full Table and Explanation for TPI)</a>
+	<br>
+	<a href="/bin2bin/save_b2b_explanation_only/{{new_tp}}/">Save B2B Table (Explanation Only, for MOs)</a>
+	<br><br>
+	<button id="button1" type="submit" class="submit">Submit All Explanations</button>
+	{% csrf_token %}
+	<br>
+	<table id="b2b_table" class="table table-condensed">
+		{% block javascript %}
+			<script>
+			$(document).ready( function() {
+				var table = $('#b2b_table').DataTable({"paging":   false,
+													   "order": [[ 2, "asc" ]]});
+				var tp_name_var = "{{new_tp}}";
+				var session_name = "{{session_name}}";
+				$(".submit").click( function() {
+					var explanations = table.$('input, select').serialize();
+					var data_post = {'explanations':  explanations,
+									'tp_name': tp_name_var,
+									'csrfmiddlewaretoken': document.getElementsByName('csrfmiddlewaretoken')[0].value,
+									'session_name': session_name,
+									};
+					alert(
+            		"Saving Explanations, press OK and wait for confirmation...\nDO NOT ENTER ANY OTHER EXPLANATION UNTIL CONFIRMATION\n"
+					)
+					$.ajax({
+						url: "/bin2bin/tp_bin2bin/submit_explanations/",
+						type: "POST",
+						data: data_post,
+						beforeSend: function() {
+							$(".submit").prop('disabled', true);
+						},
+						success: function(result){
+								alert("Explanations Saved, press OK and WAIT UNTIL PAGE REFRESHES\n");
+								window.location.reload();
+						},
+						error: function(jqXHR,textStatus,errorThrown ){
+							 alert('Exception:'+errorThrown );
+						}
+					});
+					return false;
+				});
+			});
+			</script>
+		{% endblock %}
+	<thead>
+		<tr>
+			<th>Visualid</th>
+			<th>Old Bin</th>
+			<th>New Bin</th>
+			<th>Explanation (No Apostrophes Please)</th>
+		</tr>
+	</thead>
+		<tfoot>
+		<tr>
+			<th>Visualid</th>
+			<th>Old Bin</th>
+			<th>New Bin</th>
+			<th>Explanation (No Apostrophes Please)</th>
+		</tr>
+		</tfoot>
+	<tbody>
+		{% for newbin in new_bins_sorted %}
+			{% for entry in tp_entries %}
+				{%if newbin in entry.new_bin%}
+					{%if entry.new_bin|slice:":-2" != entry.old_bin|slice:":-2"%}
+					<tr>
+						<td>
+							<a href="/bin2bin/tp_vid/{{new_tp}}/{{entry.unit}}" target="_blank"><font size="1">{{entry.unit}}</font></a>
+						</td>
+						<td><font size="1">{{entry.old_bin}}</font></td>
+						<td><font size="1">{{entry.new_bin}}</font></td>
+						<td>
+							<input type="text" name=explanation_{{new_tp}}_{{entry.unit}} class="form-control" id="explanation_{{new_tp}}_{{entry.unit}}" value = "{{entry.explanation}}" placeholder="Enter Here">
+
+					</tr>
+					{%endif%}
+				{%endif%}
+			{%endfor%}
+		{%endfor%}
+	</tbody>
+	</table>
+<br>
+<button id="button" type="submit" class="submit">Submit All Explanations</button>
+{% csrf_token %}
+<br>
+<br>
+---------------------------------
+{% endblock %}

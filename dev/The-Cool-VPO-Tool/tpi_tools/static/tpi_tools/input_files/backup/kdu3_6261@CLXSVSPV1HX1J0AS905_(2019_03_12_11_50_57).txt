@@ -1,0 +1,11 @@
+visid: M9FD363600692, Explanation: HW issue
+visid: M9FD363600407, Explanation: HW issue
+visid: M9FD363600184, Explanation: Failed THRSOAK
+visid: M9FD363600550, Explanation: HW issue
+visid: M9FD363600738, Explanation: HW issue
+visid: M9FD363600670, Explanation: HWALARM - Slot:11 - Pin:FIVR_VLOAD_LCDPS18 - Channel:11022
+visid: M9FD363600451, Explanation: Unit has a bad OCP for CLM. This would not explain why we are not failing VccContinuity. There are no FIVR changes in this release -- HWALARM - Slot:11 - Pin:FIVR_VLOAD_LCDPS18 - Channel:11022 
+visid: M9FD363600677, Explanation: HWALARM - Slot:11 - Pin:FIVR_VLOAD_LCDPS18 - Channel:11022
+visid: M9FD363600525, Explanation: HWALARM - Slot:11 - Pin:FIVR_VLOAD_LCDPS18 - Channel:11022
+visid: M9FD363600527, Explanation: HWALARM - Slot:11 - Pin:FIVR_VLOAD_LCDPS18 - Channel:11022
+visid: M9FD363600675, Explanation: HWALARM - Slot:11 - Pin:FIVR_VLOAD_LCDPS18 - Channel:11022

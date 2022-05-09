@@ -1,0 +1,2 @@
+visid: M8NE567700170, Explanation: Unit fails at bin4625 2 out of 4 tests in the history. Failure appears to be Valid
+visid: M8CQ906300461, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue

@@ -1,0 +1,6 @@
+visid: M9DE105400742, Explanation: Recovered from HW issue
+visid: M9DE105400151, Explanation: Recovered from HW issue
+visid: M9FD363600520, Explanation: HW related issue
+visid: M9DE105401372, Explanation: Recovered from HW issue
+visid: M9DE105400757, Explanation: HW related issue
+visid: M9DE105401238, Explanation: HW related issue, historically the unit have been bin 1307 

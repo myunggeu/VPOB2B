@@ -1,0 +1,5 @@
+visid: M73J2G6200848, Explanation: Unit recovered from HW Issue 
+visid: M7NN267100580, Explanation: Unit recovered from HW Issue  
+visid: M73J2G6200228, Explanation: Failing pin: PMSYNC due to a marginal open. Caused by HW Issue. 
+visid: M7NN267101277, Explanation: Failing pin: MCI_NOA_AVRB9 due to a marginal open. Caused by HW Issue. 
+visid: M73J2G6201147, Explanation: Fail Flow triggered, reset failing due to search setting not left clean for reset. 

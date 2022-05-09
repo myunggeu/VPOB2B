@@ -1,0 +1,11 @@
+visid: M73J2G6200232, Explanation: Unit recovered from a HW issue in old TP.
+visid: M73J2G6201155, Explanation: Unit recovered from a HW issue in old TP.
+visid: M73J2G6201207, Explanation: Unit recovered from a HW issue in old TP.
+visid: M73J2G6201247, Explanation: Unit recovered from a HW issue in old TP.
+visid: M73J2G6200069, Explanation: Unit failed due to HW issue. 
+visid: M73J2G6200181, Explanation: Unit failed due to HW issue. 
+visid: M73J2G6200483, Explanation: Unit failed due to HW issue. 
+visid: M73J2G6200741, Explanation: Unit failed due to HW issue. 
+visid: M73J2G6201197, Explanation: Unit failed due to HW issue. 
+visid: M73J2G6201280, Explanation: Unit failed due to HW issue. 
+visid: M7NN267100781, Explanation: Unit failed due to HW issue. 

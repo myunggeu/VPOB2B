@@ -1,0 +1,1 @@
+visid: M8KR236200546, Explanation: Unit fails bin1498: IDSK disables IA09 for exceeding Vmin variability limits making it unable to match any valid core combination.

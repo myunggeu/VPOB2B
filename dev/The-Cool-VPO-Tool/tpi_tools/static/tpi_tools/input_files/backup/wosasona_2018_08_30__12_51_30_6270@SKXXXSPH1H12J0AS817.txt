@@ -1,0 +1,6 @@
+visid: M7SH412401153, Explanation: Failure appears to be valid. Unit failed B4821 twice out of 22 tests. Bin9454 failed most of the time 
+visid: M7N7K70500963, Explanation: Unit fails at bin995(leakage) 6 out of 24 tests in the history. Should be a valid failure
+visid: M7N7K70500561, Explanation: There are multiple bin1 results from the same testing condition with 3 bin4621 out of 24 tests. should be connection issue
+visid: M7SH412401440, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7SH412400496, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500336, Explanation:  it is flaky. Mostly fall into b4430. Unit is failing bin4821 only once throughout the history. Most likely a tester issue

@@ -1,0 +1,1 @@
+visid: M7J13X7701990, Explanation: Reset failed for segment 10 (Basic TAP functionality).  Could have been some H/W interaction since unit history shows PASS bin mostly, but one B9792 indicating die force / contact issue.

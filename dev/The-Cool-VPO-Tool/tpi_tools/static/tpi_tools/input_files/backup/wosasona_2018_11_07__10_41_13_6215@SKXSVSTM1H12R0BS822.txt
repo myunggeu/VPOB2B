@@ -1,0 +1,2 @@
+visid: M8FK536300648, Explanation: Unit failed B4821 only once in VPO history. This is due to HW issue
+visid: M827E03600240, Explanation: Unit failed B4821 only once in VPO history. This is due to HW issue

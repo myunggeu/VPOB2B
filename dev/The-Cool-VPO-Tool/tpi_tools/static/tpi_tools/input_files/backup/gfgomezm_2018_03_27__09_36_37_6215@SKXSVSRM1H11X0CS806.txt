@@ -1,0 +1,10 @@
+visid: M7G050T401216, Explanation: Equivalent to OPENS. HW Related bin
+visid: M7G050T400167, Explanation: Equivalent to OPENS. HW Related bin
+visid: M7G050T400729, Explanation: Equivalent to OPENS. HW Related bin
+visid: M7G050T400763, Explanation: Equivalent to OPENS. HW Related bin
+visid: M7G050T400841, Explanation: Equivalent to OPENS. HW Related bin
+visid: M7G050T400859, Explanation: Equivalent to OPENS. HW Related bin
+visid: M7G050T400860, Explanation: Equivalent to OPENS. HW Related bin
+visid: M7G050T400979, Explanation: Equivalent to OPENS. HW Related bin
+visid: M7G050T401306, Explanation: Equivalent to OPENS. HW Related bin
+visid: M7G050T401453, Explanation: Equivalent to OPENS. HW Related bin

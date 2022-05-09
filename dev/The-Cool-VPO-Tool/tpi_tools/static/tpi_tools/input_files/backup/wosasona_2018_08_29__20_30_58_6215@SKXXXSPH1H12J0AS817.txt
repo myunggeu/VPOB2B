@@ -1,0 +1,10 @@
+visid: M7N7K70500131, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 26 tests
+visid: M7N7K70500239, Explanation: Unit is recovered to bin1 in the last VPO.
+visid: M7N7K70500502, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester/HW issue
+visid: M7N7K70501229, Explanation: Unit is recovered to bin1 in the last VPO with 6 bin4621 out of 29 tests
+visid: M7N7K70500269, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4621 out of 28 tests
+visid: M7L1Y26800274, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester/HW issue
+visid: M7N7K70500793, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4621 out of 26 tests
+visid: M7N7K70500606, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester/HW issue
+visid: M7N7K70501148, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4621 out of 37 tests
+visid: M7N7K70501194, Explanation: Unit is recovered to bin1 in the last VPO with 4 bin4621 out of 23 tests

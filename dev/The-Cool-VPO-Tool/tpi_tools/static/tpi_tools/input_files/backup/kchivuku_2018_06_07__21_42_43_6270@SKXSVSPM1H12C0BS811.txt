@@ -1,0 +1,1 @@
+visid: M7J13X7700852, Explanation: Unit started to degrade, retest also failed the unit in AFC testing. Flaky unit

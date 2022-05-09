@@ -1,0 +1,1 @@
+visid: M9F28E0200311, Explanation: Bin 9792 is a die force/contact issue when the unit was socketed. Failed due to loose contact (on TD1) with tester. Retesting on different cell should recover unit.

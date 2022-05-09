@@ -1,0 +1,1 @@
+visid: M7N7K70500511, Explanation: The SFR trim is 63 on every walk code and 63 is thr max trim value.Looks like the tap froze and unit history suggests that it was always Bin 1. This is a testing issue. As the retest passed the unit to Bin1.

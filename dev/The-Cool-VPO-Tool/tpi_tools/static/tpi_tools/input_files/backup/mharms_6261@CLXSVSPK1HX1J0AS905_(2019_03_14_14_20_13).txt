@@ -1,0 +1,3 @@
+visid: M8SA531000352, Explanation: HW+DCFF limit issue. New TP had shops fail (open) on chan 10109, then executed DCFF where a group G VCONT test with too tight limit failed. Limit will be addressed in next TP release.
+visid: M8SA531000476, Explanation: HW+DCFF limit issue. New TP had shops fail (open) on chan 10109, then executed DCFF where a group G VCONT test with too tight limit failed. Limit will be addressed in next TP release.
+visid: M8SA531000046, Explanation: HW+DCFF limit issue. New TP had shops fail (open) on chan 3016, then executed DCFF where a group H VCONT test with too tight limit failed. Limit will be addressed in next TP release.

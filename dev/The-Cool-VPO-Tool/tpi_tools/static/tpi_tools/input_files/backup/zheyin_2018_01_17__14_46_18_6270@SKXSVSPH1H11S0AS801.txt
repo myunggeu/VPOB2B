@@ -1,0 +1,5 @@
+visid: M7SH412400105, Explanation: FIVR VLOAD core24 bad contact, should be HW issue
+visid: M7SH412400423, Explanation: FIVR VLOAD core12a bad contact, should be HW issue
+visid: M7N7K70501161, Explanation: FIVR VLOAD core21b bad contact, should be HW issue
+visid: M7SH412400152, Explanation: CATERR_N fail, need retest
+visid: M7SH412400621, Explanation: CRES fail, bad contact due to HW issue

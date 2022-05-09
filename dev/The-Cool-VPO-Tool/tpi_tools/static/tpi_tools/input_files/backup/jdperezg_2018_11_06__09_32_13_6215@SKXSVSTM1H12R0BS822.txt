@@ -1,0 +1,2 @@
+visid: M827E03700151, Explanation: Unit history shows consistent passing bin, recovered unit. HW issue
+visid: M8GL547600315, Explanation: Unit recovered for QA locations, consistently passing unit. HW issue.

@@ -1,0 +1,4 @@
+visid: M9WC266701474, Explanation: HW issue since the unit was tested in a posterior VPO and passed bin100. VPO: J942119CR
+visid: M9EN577400721, Explanation: HW Issue, due to bad contact, unit failed after retesting bin4421
+visid: M9PB483200515, Explanation: HW Issue, due to bad contact, unit failed after retesting bin4821
+visid: M9PB483200115, Explanation: Marginal value, reflecting possible bad contact due to HW issue. 

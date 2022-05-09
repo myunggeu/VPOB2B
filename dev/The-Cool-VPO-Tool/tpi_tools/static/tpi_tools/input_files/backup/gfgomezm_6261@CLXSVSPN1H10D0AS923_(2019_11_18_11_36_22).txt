@@ -1,0 +1,15 @@
+visid: M8S78N4500309, Explanation: B13 caused by OPEN/SHORTs. HW issue.
+visid: M8S78N4500324, Explanation: B13 caused by OPEN/SHORTs. HW issue.
+visid: M8S78N4500428, Explanation: B13 caused by OPEN/SHORTs. HW issue.
+visid: M8601RW601165, Explanation: B13 caused by OPEN/SHORTs. HW issue.
+visid: M8S78N4500293, Explanation: B13 caused by OPEN/SHORTs. HW issue.
+visid: M8601RW600945, Explanation: B13 caused by OPEN/SHORTs. HW issue.
+visid: M8S78N4500252, Explanation: B13 caused by OPEN/SHORTs. HW issue.
+visid: M8S78N4500099, Explanation: B13 caused by OPEN/SHORTs. HW issue.
+visid: M8S78N4500477, Explanation: B13 caused by OPEN/SHORTs. HW issue.
+visid: M8601RW600695, Explanation: B13 caused by OPEN/SHORTs. HW issue.
+visid: M8S78N4500537, Explanation: B13 caused by OPEN/SHORTs. HW issue.
+visid: M8S78N4500341, Explanation: B13 caused by OPEN/SHORTs. HW issue.
+visid: M8601RW601153, Explanation: B13 caused by OPEN/SHORTs. HW issue.
+visid: M8601RW601340, Explanation: B13 caused by OPEN/SHORTs. HW issue.
+visid: M8S78N4500257, Explanation: B51 caused by OPEN/SHORTs. HW issue.

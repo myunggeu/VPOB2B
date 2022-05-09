@@ -1,0 +1,30 @@
+visid: D85V64V200133, Explanation: Hot failures
+visid: M8R42V9100083, Explanation: Hot failures
+visid: M8R42V9100078, Explanation: Hot failures
+visid: M83G18S200659, Explanation: Hot failures
+visid: M8R42V9100030, Explanation: Hot failures
+visid: M83G18S200535, Explanation: Hot failures
+visid: M83G18S200440, Explanation: Hot failures
+visid: M83G18S200003, Explanation: Hot failures
+visid: M83G18S200447, Explanation: Hot failures
+visid: M83G18S200420, Explanation: Hot failures
+visid: M8R42V9100193, Explanation: Hot failures
+visid: M83G18S200701, Explanation: Hot failures
+visid: M83G18S200658, Explanation: Hot failures
+visid: M83G18S200431, Explanation: Hot failures
+visid: M8SA531000539, Explanation: Hot failures
+visid: M8R42V9100117, Explanation: Hot failures
+visid: M8SA531000551, Explanation: Hot failures
+visid: M8R42V9100050, Explanation: Hot failures
+visid: M83G18S200604, Explanation: Hot failures
+visid: M8SA531000672, Explanation: Hot failures
+visid: M8R42V9100052, Explanation: Hot failures
+visid: M83G18S200691, Explanation: Hot failures
+visid: M8SA531000566, Explanation: Hot failures
+visid: M8R42V9100157, Explanation: Hot failures
+visid: M8SA531000602, Explanation: Hot failures
+visid: M83G18S200667, Explanation: Consistent Bin 96 from SBFT MLC Content
+visid: M8R42V9100051, Explanation: Consistent Bin 96 from SBFT Content
+visid: M8R42V9100013, Explanation: Consistent Bin 96 from SBFT MLC Content
+visid: M8R42V9100220, Explanation: Consistent Bin 96 from SBFT MLC Content
+visid: M83G18S200462, Explanation: THRSoak Issue. Recovered on re-run

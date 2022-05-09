@@ -1,0 +1,4 @@
+visid: M7A176X401384, Explanation:  Bucketer algorithm did not find a passing combination, because VNOM:_0.916_>_VRELMAX:_0.910
+visid: M7N7K70500074, Explanation: Unit failed due to IDSK disabling IA01 for exceeding voltage limit
+visid: M7A176X401288, Explanation: Unit failed due to IDSK disabling IA02 for exceeding voltage limit
+visid: M7N7K70500464, Explanation: Unit fails due to IDSK disabling IA09 for exceeding voltage limit

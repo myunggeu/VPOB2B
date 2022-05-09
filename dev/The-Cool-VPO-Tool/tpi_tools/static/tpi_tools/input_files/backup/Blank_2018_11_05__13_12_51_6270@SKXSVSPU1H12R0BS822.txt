@@ -1,0 +1,1 @@
+visid: M7NN267101146, Explanation: Unit is failing all cores for SKX_CACHE_H::c_lsfallksx_vclmminfreq3_CHKCLMF3.  Looks like a power induced failure

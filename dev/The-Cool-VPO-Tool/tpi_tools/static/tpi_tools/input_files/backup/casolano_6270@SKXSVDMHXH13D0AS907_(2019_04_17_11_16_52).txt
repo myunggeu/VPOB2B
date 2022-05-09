@@ -1,0 +1,15 @@
+visid: D997E7C700100, Explanation: Hardware/Socketing issue where unit recovered
+visid: D997E7C700017, Explanation: Hardware/Socketing issue where unit recovered
+visid: D9195AN200040, Explanation: Hardware/Socketing issue where unit recovered
+visid: D9481LV800517, Explanation: Hardware/Socketing issue where unit recovered
+visid: D9432ME900058, Explanation: Hardware/Socketing issue where unit recovered
+visid: D9481LV800556, Explanation: Hardware/Socketing issue where unit recovered
+visid: D970U5V200022, Explanation: Marginal unit, have never passed a test
+visid: D997E7C700057, Explanation: Marginal unit, have never passed a test
+visid: D9563MT000057, Explanation: Unit failed due to HW issue
+visid: D970U5V201105, Explanation: Unit failed due to HW issue
+visid: D970U5V201124, Explanation: Marginal unit, have never passed a test
+visid: D9563MT000082, Explanation: Unit failed due to HW issue
+visid: D970U5V201223, Explanation: Unit failed due to HW issue
+visid: D9481LV800527, Explanation: Unit failed due to HW issue
+visid: D9195AN200051, Explanation: Unit failed due to HW issue

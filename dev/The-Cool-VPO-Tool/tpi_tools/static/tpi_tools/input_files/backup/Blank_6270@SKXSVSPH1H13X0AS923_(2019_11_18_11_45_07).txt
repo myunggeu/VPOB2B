@@ -1,0 +1,4 @@
+visid: M9EN577400537, Explanation: same core was disabled before LTTC on previous run. that's why its bin1.
+visid: M9KN918500515, Explanation: outlier cores , one whole column got killed - high vmin 
+visid: M9LJ518200156, Explanation: no cores left for comparison as 3 cores are bad at incoming to SBFT. 
+visid: M99S9J4201045, Explanation: the same core got killed before LTTC and its bin 1 in new run

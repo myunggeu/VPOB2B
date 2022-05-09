@@ -1,0 +1,5 @@
+visid: D72N5Q3400223, Explanation: All of B-9497 are coming from tester site A402, tester HDS2556. This tester needs to be downed and Personality card repalced/ AP recalibrated.
+visid: D72N5Q3400285, Explanation: All of B-9497 are coming from tester site A402, tester HDS2556. This tester needs to be downed and Personality card repalced/ AP recalibrated.
+visid: D7WF637100108, Explanation: All of B-9497 are coming from tester site A402, tester HDS2556. This tester needs to be downed and Personality card repalced/ AP recalibrated.
+visid: D7WF637100213, Explanation: All of B-9497 are coming from tester site A402, tester HDS2556. This tester needs to be downed and Personality card repalced/ AP recalibrated.
+visid: D7WF637100217, Explanation: All of B-9497 are coming from tester site A402, tester HDS2556. This tester needs to be downed and Personality card repalced/ AP recalibrated.

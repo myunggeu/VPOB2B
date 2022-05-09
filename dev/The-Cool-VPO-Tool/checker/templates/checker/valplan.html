@@ -1,0 +1,388 @@
+
+<head>
+    <meta charset="UTF-8">
+
+    {% block header %}
+    {% include "base.html"  %}
+    {% endblock %}
+    <title>Validation Plan</title>
+    <h2 id="plan_head">{{tp}} (ww{{ww}}) Validation Plan</h2>
+
+    <br>
+
+</head>
+<body>
+    <style type="text/css">
+	    #content input
+        {
+            width:107%;
+            box-sizing:border-box;
+            -moz-box-sizing:border-box;
+        }
+        .ui-tooltip {
+            white-space: pre-line;
+        }
+    </style>
+
+<div>
+    <div class="col-sm-10">
+    <button id="submit" type="submit" class="submit">Update VPO Entry</button>
+    <button id="update_status" type="submit" class="update_status">Update Status</button><br><br>
+        <font color=red>NEW! </font><a href = "/save_to_csv/{{tp}}/">Save Table to CSV</a><font color=red> NEW!</font>
+    <table id="status_table" class="table table-bordered">
+    {% csrf_token %}
+        {%block javascript2%}
+        <script>
+			$(function () {
+                    $('[data-toggle="tooltip"]').tooltip()
+                });
+
+            $(document).ready(function() {
+
+                var table = $('#status_table').DataTable({
+                             "paging": false,
+                             "ordering": false,
+                             "deferRender": true,
+                });
+               
+                $(".submit").click( function() {
+                    var submit_table = table.$('input').serialize();
+                    var data_post = {'submit_table':  submit_table,
+									'tp': "{{tp}}",
+									'ww': "{{ww}}",
+									'csrfmiddlewaretoken': document.getElementsByName('csrfmiddlewaretoken')[0].value
+									};
+                    alert("Click OK to save vpo entry"
+                    );
+                    $.ajax({
+						url: "/update_vpo/",
+						type: "POST",
+						data: data_post,
+						success: function(result){
+								window.location.reload();
+						},
+						error: function(jqXHR,textStatus,errorThrown ){
+							 alert('Exception:'+errorThrown );
+						}
+					});
+                    return false;
+                } );
+                $(".update_status").click( function() {
+                    var data_post = {'tp': "{{tp}}",
+									'csrfmiddlewaretoken': document.getElementsByName('csrfmiddlewaretoken')[0].value
+									};
+                    alert("Click OK to update VPO Status.  A notification will pop up when finished."
+                    );
+                    $.ajax({
+						url: "/valid_plan/refresh/",
+						type: "POST",
+						data: data_post,
+						success: function(result){
+								alert("VPO status updated!");
+								window.location.reload();
+
+						},
+						error: function(jqXHR,textStatus,errorThrown ){
+							 alert('Exception:'+errorThrown );
+						}
+					});
+                    return false;
+                } );
+            } );
+        </script>
+        {% endblock %}
+        <thead>
+            <tr>
+                <th>BOM</th>
+                <th>WW</th>
+                <th>VPO</th>
+                <th>Site</th>
+                <th><font size="2"># Units</font></th>
+                <th>Device</th>
+                <th>Source Lot</th>
+                <th>Status</th>
+                <th>Description</th>
+                <th><font size="2">Type</font></th>
+                <th>Edit</th>
+            </tr>
+        </thead>
+        <tbody>
+
+        {%for vpo in vpo_desc|dictsort:'bom'|dictsort:"ww"%}
+                <tr>
+                    <td><font size="2">{{vpo.bom}}</font></td>
+                    <td><font size="2">{{vpo.ww}}</font></td>
+                    <td><input size="10" type="text" id="vpo_{{vpo.id}}" name="vpo_{{vpo.id}}" value="{{vpo.vpo}}" style='font-size: 10px'></td>
+                    <td><font size="2">{{vpo.site}}</font></td>
+                    <td><font size="2">{{vpo.units}}</font></td>
+                    <td><font size="2">{{vpo.device}}</font></td>
+                    <td><font size = "1">{{vpo.source_lot}}</font></td>
+                    <td>
+                    <table>
+                        {%if vpo.vpo != ""%}
+                            <tr>
+                                <td><font color="grey" size="1">Location</font></td>
+                                <td><font color="grey" size="1">Status</font></td>
+                                <td><font color="grey" size="1">Yield</font></td>
+                                <td><font color="grey" size="1">VPO TP/BOM</font></td>
+
+                            </tr>
+                            {%for vpo_entry in vpo_loc%}
+                                {%if vpo.vpo == vpo_entry.vpo%}
+                                <tr>
+                                    <td><font size="1">{{vpo_entry.location}}</font></td>
+                                    {%if vpo_entry.status == False%}
+                                        <td>
+                                            <a href="#" class="btn btn-danger btn-sm active" role="button" aria-pressed="true">.Pending.</a>
+                                        </td>
+                                    {%else%}
+                                        <td>
+                                            <a href="#" class="btn btn-success btn-sm active" role="button" aria-pressed="true" title="{{vpo_entry.bin_desc}}" data-toggle="tooltip">Complete</a>
+                                        </td>
+                                    <td><font size="1">{{vpo_entry.yield_val}} Good</font></td>
+                                    {%if vpo_entry.vpo_program|length == 19%}
+                                        <td><font size="1">{{vpo_entry.vpo_program}}</font><br>
+                                    {%else%}
+                                        {%if vpo_entry.location == 7899%}
+                                            <td><font size="1">{{vpo_entry.vpo_program}}</font><br>
+                                        {%else%}
+                                            <td><font color="red" size="1">{{vpo_entry.vpo_program}}</font><br>
+                                        {%endif%}
+                                    {%endif%}
+                                    {%if vpo.device in vpo_entry.vpo_part%}
+                                    <font size="1">{{vpo_entry.vpo_part}}</font></td>
+                                    {%else%}
+                                        <font color="red" size="1">{{vpo_entry.vpo_part}}</font></td>
+                                    {%endif%}
+                                    {%endif%}
+                                </tr>
+                                {%endif%}
+                            {%endfor%}
+                        {%else%}
+                            <tr>
+                                <td><font size="2">Submit VPO for, </font><br><font size="2">{{vpo.locations}}</font></td>
+                            </tr>
+                        {%endif%}
+                    </table>
+                    <td><font size="1.75">{{vpo.description}}</font></td>
+                    {%if "EV" in vpo.vpo%}
+                    <td><font size="1">ENG/RV</font></td>
+                    {%elif "CR" in vpo.vpo%}
+                    <td><font size="1">Pilot</font></td>
+                    {%elif "WTL" in vpo.vpo%}
+                    <td><font size="1">WTL</font></td>
+                    {%elif vpo.vpo == ""%}
+                        <td></td>
+                    {%else%}
+                        <td>Unknown</td>
+                    {%endif%}
+                    <td><button id="delete_entry_{{vpo.id}}" type="submit" class="delete_entry_{{vpo.id}}"><font size="1">Delete Entry</font></button>
+                    <script>
+                        $(".delete_entry_{{vpo.id}}").click( function() {
+                            var data_post = {'tp': "{{tp}}",
+                                            'vpo': "{{vpo.vpo}}",
+                                            'vpo_id': "{{vpo.id}}",
+                                            'csrfmiddlewaretoken': document.getElementsByName('csrfmiddlewaretoken')[0].value
+                                            };
+                            if (confirm("Are you sure you want to delete?")){
+                                $.ajax({
+                                    url: "/valid_plan/delete/",
+                                    type: "POST",
+                                    data: data_post,
+                                    success: function(result){
+                                            window.location.reload();
+                                    },
+                                    error: function(jqXHR,textStatus,errorThrown ){
+                                         alert('Exception:'+errorThrown );
+                                    }
+                                });
+                            };
+                            return false;
+                        } );
+                    </script>
+                        <!-- Button trigger modal -->
+                        <button type="button" class="edit_entry_{{vpo.id}}" data-toggle="modal" data-target="#myModal{{vpo.id}}">
+                            <font size="1">Edit Entry</font>
+                        </button>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="myModal{{vpo.id}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                          <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                              <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                <h4 class="modal-title" id="myModalLabel">Edit VPO info</h4>
+                              </div>
+                              <div class="modal-body">
+                                  <form id="edit_form">
+                                     <table class="table table-striped" id="vpo_edit_table_{{vpo.id}}">
+                                         <tr>
+                                             <td>BOM:</td>
+                                             <td><input type="text" id="bom_{{vpo.id}}" name="+++bom" value="{{vpo.bom}}"></td>
+                                         </tr>
+                                         <tr>
+                                             <td>WW:</td>
+                                             <td><input type="text" id="ww_{{vpo.id}}" name="ww" value="{{vpo.ww}}"></td>
+                                         </tr>
+                                         <tr>
+                                             <td>VPO:</td>
+                                             <td><input type="text" id="vpo{{vpo.id}}" name="vpo" value="{{vpo.vpo}}"></td>
+                                         </tr>
+                                         <tr>
+                                             <td>SITE:</td>
+                                             <td><input type="text" id="site_{{vpo.id}}" name="site" value="{{vpo.site}}"></td>
+                                         </tr>
+                                         <tr>
+                                             <td># Units:</td>
+                                             <td><input type="text" id="units_{{vpo.id}}" name="units" value="{{vpo.units}}"></td>
+                                         </tr>
+                                         <tr>
+                                             <td>Device:</td>
+                                             <td><input type="text" id="device_{{vpo.id}}" name="device" value="{{vpo.device}}"></td>
+                                         </tr>
+                                         <tr>
+                                             <td>Source Lot:</td>
+                                             <td><input type="text" id="source_{{vpo.id}}" name="source" value="{{vpo.source_lot}}"></td>
+                                         </tr>
+                                         <tr>
+                                             <td>Locations:</td>
+                                             <td><input type="text" id="locations_{{vpo.id}}" name="locations" value="{{vpo.locations}}"></td>
+                                         </tr>
+                                         <tr>
+                                             <td>Description:</td>
+                                             <td><input type="text" id="description_{{vpo.id}}" name="description" value="{{vpo.description}}" style='font-size: 10px'></td>
+                                         </tr>
+                                     </table>
+                                  </form>
+                              </div>
+                              <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                <button id="submit_edit_{{vpo.id}}" type="button" class="btn btn-primary" onclick="GetCellValues{{vpo.id}}()">Save changes</button>
+                                  <script>
+                                    function GetCellValues{{vpo.id}}() {
+                                        $(document).ready(function(){
+                                            var table = document.getElementById('vpo_edit_table_{{vpo.id}}');
+                                            var submit_list = [];
+                                            submit_list.push("{{vpo.id}}");
+                                            for (var r = 0, n = table.rows.length; r < n; r++) {
+                                                submit_list.push(table.rows[r].cells[1].children[0].value);
+                                            }
+                                            var data_post = {'vpo_info':  submit_list,
+                                                            'csrfmiddlewaretoken': document.getElementsByName('csrfmiddlewaretoken')[0].value
+                                                            };
+                                            $.ajax({
+                                                url: "/update_vpo_info/",
+                                                type: "POST",
+                                                data: data_post,
+                                                success: function(result){
+                                                        alert("VPO info updated!");
+                                                        window.location.reload();
+                                                },
+                                                error: function(jqXHR,textStatus,errorThrown ){
+                                                     alert('Exception:'+errorThrown );
+                                                }
+                                            });
+                                        });
+                                    }
+                                  </script>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                    </td>
+                </tr>
+        {%endfor%}
+        </tbody>
+    </table>
+        <br>
+        <div id="valplanstatus" class="panel panel-primary">
+            <div class="panel-heading">Validation Status</div>
+            <br>
+                    <form>
+                        &nbsp&nbsp&nbsp&nbsp<button id="update_valplan_status" type="submit" class="update_valplan_status">Update Status</button>
+                        <script>
+                        $(document).ready(function() {
+                            $('.update_valplan_status').click( function() {
+                                var checked = [];
+                                $('#valplanstatus input:checked').each(function(){
+                                    checked.push(this.name);
+                                });
+                                var data_post = {'checked': checked,
+                                                 'tp': "{{tp}}",
+                                                 'csrfmiddlewaretoken': document.getElementsByName('csrfmiddlewaretoken')[0].value,
+                                                };
+                                $.ajax({
+                                    url: "/valid_plan/update_valplan_status/",
+                                    type: "POST",
+                                    data: data_post,
+                                    success: function(result){
+                                            window.location.reload();
+                                    },
+                                    error: function(jqXHR,textStatus,errorThrown ){
+                                         alert('Exception:'+errorThrown );
+                                    }
+                                });
+                                return false;
+                            });
+                        });
+                        </script>
+                        <div class="panel-body">
+                            {%for bom, values in bom_and_statuses.items%}
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">{{bom}}</div>
+                                    <div class="panel-body">
+                                        <label class="checkbox-inline">
+                                            <input type="checkbox" id="ppilots_{{bom}}" name='ppilots_{{bom}}' value="ppilots_{{bom}}"
+                                            {%if values.ppilots == True%} checked="checked"{%endif%}> Pilots
+                                        </label>
+                                        <label class="checkbox-inline">
+                                            <input type="checkbox" id="pyield_{{bom}}" name='pyield_{{bom}}' value="pyield_{{bom}}"
+                                            {%if values.pyield == True%} checked="checked"{%endif%}> Yield
+                                        </label>
+                                        <label class="checkbox-inline">
+                                            <input type="checkbox" id="pbs_{{bom}}" name='pbs_{{bom}}' value="pbs_{{bom}}"
+                                            {%if values.pbs == True%} checked="checked"{%endif%}> B/S
+                                        </label>
+                                        <label class="checkbox-inline">
+                                            <input type="checkbox" id="ptherm_{{bom}}" name='ptherm_{{bom}}' value="ptherm_{{bom}}"
+                                            {%if values.ptherm == True%} checked="checked"{%endif%}> Thermal profile
+                                        </label>
+                                        <label class="checkbox-inline">
+                                            <input type="checkbox" id="pb2b_{{bom}}" name='pb2b_{{bom}}' value="pb2b_{{bom}}"
+                                            {%if values.pb2b == True%} checked="checked"{%endif%}> B2B
+                                        </label>
+                                        <label class="checkbox-inline">
+                                            <input type="checkbox" id="pqa_{{bom}}" name='pqa_{{bom}}' value="pqa_{{bom}}"
+                                            {%if values.pqa == True%} checked="checked"{%endif%}> QA Unfused
+                                        </label>
+                                        <label class="checkbox-inline">
+                                            <input type="checkbox" id="pinitwtl_{{bom}}" name='pinitwtl_{{bom}}' value="pinitwtl_{{bom}}"
+                                            {%if values.pinitwtl == True%} checked="checked"{%endif%}> Initial WTL
+                                        </label>
+                                        <label class="checkbox-inline">
+                                            <input type="checkbox" id="pfinwtl_{{bom}}" name='pfinwtl_{{bom}}' value="pfinwtl_{{bom}}"
+                                            {%if values.pfinwtl == True%} checked="checked"{%endif%}> Final WTL
+                                        </label>
+                                        <label class="checkbox-inline">
+                                            <input type="checkbox" id="pfwp_{{bom}}" name='pfwp_{{bom}}' value="pfwp_{{bom}}"
+                                            {%if values.pfwp == True%} checked="checked"{%endif%}> FWP
+                                        </label>
+                                        <label class="checkbox-inline">
+                                            <input type="checkbox" id="pfuse_{{bom}}" name='pfuse_{{bom}}' value="pfuse_{{bom}}"
+                                            {%if values.pfuse == True%} checked="checked"{%endif%}> Fuse Checkout
+                                        </label>
+                                    </div>
+                                </div>
+
+                            {%endfor%}
+                        </div>
+                    </form>
+                </div>
+        </div>
+    <div class="col-sm-2"></div>
+</div>
+
+</div>
+
+</div>
+</body>

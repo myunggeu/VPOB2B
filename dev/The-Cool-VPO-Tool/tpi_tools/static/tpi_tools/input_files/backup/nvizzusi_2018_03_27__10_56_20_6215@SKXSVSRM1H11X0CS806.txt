@@ -1,0 +1,1 @@
+visid: M7G050T400578, Explanation: Marginal Scan CHA failure, fails at 860mv, passes at 900/920 mv historically

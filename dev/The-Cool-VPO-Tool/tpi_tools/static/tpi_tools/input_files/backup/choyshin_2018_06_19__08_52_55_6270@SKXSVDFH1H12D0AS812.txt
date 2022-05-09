@@ -1,0 +1,2 @@
+visid: M7PU387100111, Explanation: invalid. HW related bin switching on S812TP.
+visid: M7774QA300064, Explanation: invalid. HW related bin switching on old TP.

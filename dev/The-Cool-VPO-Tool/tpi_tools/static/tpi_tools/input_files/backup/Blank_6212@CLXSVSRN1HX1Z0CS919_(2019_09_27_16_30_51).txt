@@ -1,0 +1,3 @@
+visid: M9V06E8800173, Explanation: HW Issue - retested, and failed the second time in parametric.
+visid: M9V06E8800338, Explanation: HW Issue - retested, and failed the second time in parametric.
+visid: M9V06E8801354, Explanation: Marginal fail due to outlier value in lower limit (open) 

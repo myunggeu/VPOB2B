@@ -1,0 +1,27 @@
+visid: M9FD363600715, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4625 out of 15 tests. should be connection issue
+visid: M9FD363600220, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue
+visid: M9FD363600211, Explanation: Unit is failing bin 9901 only once throughout the history. Most likely a tester issue
+visid: M9DE105401119, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue
+visid: M9DE105400478, Explanation: Unit is recovered to bin 1 in the last VPO with 2 bin 4821 out of 8 tests
+visid: M9FD363600248, Explanation: Unit is recovered to bin 1 in the last VPO with 18 bin 4621 out of 21 tests
+visid: M9DE105400764, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue
+visid: M9DE105400473, Explanation: Unit is failing bin 5433 only once throughout the history. Most likely a tester issue
+visid: M9DE105400252, Explanation: Unit is recovered to bin 1 in the last VPO with 2 bin 4625 out of 11 tests
+visid: M9DE105401147, Explanation: Unit is recovered to bin 1 in the last VPO with 2 bin 4621 out of 9 tests
+visid: M9DE105401273, Explanation: Unit is failing bin 1551 only once throughout the history. Most likely a tester issue
+visid: M9DE105401393, Explanation: Unit is failing bin 4621 only once throughout the history. Most likely a tester issue
+visid: M9DE105401402, Explanation: Unit is failing bin 5433 only once throughout the history. Most likely a tester issue
+visid: M9DE105400849, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue
+visid: M9FD363600678, Explanation: Unit is recovered to bin 1 in the last VPO with 2 bin 4821 out of 20 tests
+visid: M9FD363600743, Explanation: Unit fails at bin 5423 7 out of 13 tests in the history. Should be a valid failure 
+visid: M9DE105400819, Explanation: Unit is failing bin 5432 only once throughout the history. Most likely a tester issue
+visid: M9DE105400818, Explanation: Unit is failing bin 1551 only once throughout the history. Most likely a tester issue
+visid: M9DE105400259, Explanation: Unit fails at bin 4621 5 out of 8 tests in the history. Should be a valid failure
+visid: M9FD363600531, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue
+visid: M9FD363600856, Explanation: Unit is failing bin 4821 only once throughout the history. Most likely a tester issue
+visid: M9FD363600167, Explanation: There are multiple bin 1 results from the same testing condition with 3 bin 4821 out of 24 tests. should be connection issue
+visid: M9DE105400550, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 5432 out of 13 tests. should be connection issue
+visid: M9FD363600297, Explanation: Unit is failing bin 5433 only once throughout the history. Most likely a tester issue
+visid: M9DE105400166, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue
+visid: M9DE105400770, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue
+visid: M9FD363600244, Explanation: There are multiple bin 1 results from the same testing condition with 6 bin 9901 out of 21 tests. should be connection issue

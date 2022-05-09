@@ -1,0 +1,23 @@
+visid: M9KK695401125, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9EN577401748, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9LJ518200251, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9EN577400730, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9EN577400903, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9EN577400962, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9EN577400023, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9WC266701493, Explanation: OPENs/Poor Contact. HW Related bin.
+visid: M9WC266701789, Explanation: unit recovered during run with old TP. OPENs/Poor Contact. HW Related bin.(Mostly Level 4 -1701)
+visid: M9WC266701792, Explanation: unit recovered during run with old TP. OPENs/Poor Contact. HW Related bin.(Mostly Level 4 -1701)
+visid: M9LJ518200091, Explanation: OPENs/Poor Contact. HW Related bin.(Mostly Level 4 -1701)
+visid: M9EN577400022, Explanation: OPENs/Poor Contact. HW Related bin.(Mostly Level 4 -1701)
+visid: M9WC266701509, Explanation: OPENs/Poor Contact. HW Related bin.(Mostly Level 4 -1701)
+visid: M9WC266701314, Explanation: OPENs/Poor Contact. HW Related bin.(Mostly Level 4 -1701)
+visid: M9WC266700550, Explanation: OPENs/Poor Contact. HW Related bin.(Mostly Level 4 -1701)
+visid: M9WC266700490, Explanation: OPENs/Poor Contact. HW Related bin.(Mostly Level 4 -1701)
+visid: M9WC266701277, Explanation: OPENs/Poor Contact. HW Related bin.(Mostly Level 4 -1701)
+visid: M9WC266701811, Explanation: OPENs/Poor Contact. HW Related bin.(Mostly Level 4 -1701)
+visid: M9WC266701248, Explanation: OPENs/Poor Contact. HW Related bin.(Mostly Level 4 -1701)
+visid: M9KK695401362, Explanation: Marginal part. Showing pass/fail pattern from lot to lot.
+visid: M9EN577400742, Explanation: OPENs/Poor Contact. HW Related bin.(Mostly Level 4 -1701)
+visid: M9WC266700235, Explanation: OPENs/Poor Contact. HW Related bin.(Mostly Level 4 -1701)
+visid: M9KN918500054, Explanation: OPENs/Poor Contact. HW Related bin.(Mostly Level 4 -1701)

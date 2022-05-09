@@ -1,0 +1,8 @@
+visid: M7N7K70500418, Explanation: VCC
+visid: M7N7K70500468, Explanation: VCC
+visid: M7L1Y26800103, Explanation: Invalid. HW related miscorrelation.
+visid: M7N7K70500390, Explanation: New TIU. TP re-tuning needed.
+visid: M7N7K70500402, Explanation: Cold marginality unit. TP S725 showing failure on same bin.
+visid: M7N7K70500429, Explanation: invalid. HW related miscorrelation. HW related bin switching observed on S804 retest data.
+visid: M7N7K70500640, Explanation: invalid 2737 due to socketing issue at cold
+visid: M7N7K70500398, Explanation: invalid 2737 due to socketing issue at cold

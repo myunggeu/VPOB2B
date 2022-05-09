@@ -1,0 +1,2 @@
+visid: M7N7K70501093, Explanation:  all cores were failing @S815 . Tester issue on previous run.
+visid: M7SH412401477, Explanation: removes certain patterns at new run and it passed. 

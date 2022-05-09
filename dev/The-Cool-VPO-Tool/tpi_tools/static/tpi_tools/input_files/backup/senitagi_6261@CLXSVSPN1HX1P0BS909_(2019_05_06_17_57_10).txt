@@ -1,0 +1,12 @@
+visid: M8S78N4500292, Explanation: Recovered from HW issue
+visid: M8S78N4500505, Explanation: Recovered from HW issue
+visid: M8NP526700127, Explanation: Hardware/Socketing issue
+visid: M8S78N4500255, Explanation: Hardware/Socketing issue
+visid: M8S78N4500312, Explanation: Hardware/Socketing issue
+visid: M8S78N4500091, Explanation: Hardware/Socketing issue
+visid: M8S78N4500327, Explanation: Hardware/Socketing issue
+visid: M8S78N4500408, Explanation: Hardware/Socketing issue
+visid: M8S78N4500266, Explanation: Hardware/Socketing issue
+visid: M8S78N4500412, Explanation: Hardware/Socketing issue
+visid: M8WS509600112, Explanation: Hardware/Socketing issue
+visid: M8S78N4500109, Explanation: Hardware/Socketing issue

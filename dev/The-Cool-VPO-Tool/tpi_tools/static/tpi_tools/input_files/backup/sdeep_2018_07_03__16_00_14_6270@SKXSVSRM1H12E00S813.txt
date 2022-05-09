@@ -1,0 +1,2 @@
+visid: M7G050T401028, Explanation: dint get to sbft in old run
+visid: M7J53P3701435, Explanation: marginal core failed

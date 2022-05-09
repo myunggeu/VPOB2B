@@ -1,0 +1,17 @@
+visid: M7N7K70500595, Explanation: bad contact, HW issue
+visid: M7SH412400147, Explanation: bad contact, HW issue
+visid: M7SH412400015, Explanation: bad contact, HW issue
+visid: M7SH412400018, Explanation: bad contact, HW issue
+visid: M7N7K70500070, Explanation: bad contact, HW issue
+visid: M7N7K70500383, Explanation: bad contact, HW issue
+visid: M7N7K70500486, Explanation: bad contact, HW issue
+visid: M7N7K70500613, Explanation: bad contact, HW issue
+visid: M7N7K70500531, Explanation: suspect HW issue, need to rerun to confirm
+visid: M7N7K70501378, Explanation: suspect HW issue, need to rerun to confirm
+visid: M7N7K70500381, Explanation: suspect HW issue, need to rerun to confirm
+visid: M7N7K70500449, Explanation: suspect HW issue, need to rerun to confirm
+visid: M7N7K70500450, Explanation: suspect HW issue, need to rerun to confirm
+visid: M7N7K70500360, Explanation: suspect HW issue, need to rerun to confirm
+visid: M7N7K70500442, Explanation: suspect HW issue, need to rerun to confirm
+visid: M7N7K70500489, Explanation: suspect HW issue, need to rerun to confirm
+visid: M7SH412400819, Explanation: suspect HW issue, need to rerun to confirm

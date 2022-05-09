@@ -1,0 +1,2 @@
+visid: M7W84N4001479, Explanation: Unit failed due to connectivity issue. The fail is not valid.
+visid: M7W84N4001208, Explanation: Hardware/tester issue. The unit failed B4821 only once in history. Fail is not valid

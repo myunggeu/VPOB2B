@@ -1,0 +1,19 @@
+visid: M8S78N4500351, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8S78N4500353, Explanation: Unit recovered from last run
+visid: M8S78N4500418, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8S78N4500259, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8S78N4500269, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8S78N4500413, Explanation: Unit recovered from last run
+visid: M8S78N4500496, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8S78N4500342, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8S78N4500510, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8601RW600554, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8S78N4500309, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8S78N4500099, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8S78N4500035, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8601RW600695, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8S78N4500019, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8S78N4500316, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8S78N4500350, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8S78N4500432, Explanation: Hot failure, not related to Test Program nor cold runs
+visid: M8S78N4500290, Explanation: Marginal Core, no changes were recieved from SCAN

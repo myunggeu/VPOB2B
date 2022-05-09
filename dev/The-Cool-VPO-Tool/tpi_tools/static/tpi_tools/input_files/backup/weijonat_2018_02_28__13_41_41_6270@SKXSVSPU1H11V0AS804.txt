@@ -1,0 +1,4 @@
+visid: M7NN267101146, Explanation: this unit is consisently bin2742 in history, but failed SHOPS this one run, and became 2742 in the retest. This is OK
+visid: M73J2G6201423, Explanation: No changes in reset to induce recovery.  Content remains the same and unit history not conclusive.  May be FIVRFUNC related failure. (JW): CLM0 read all 0s during FIVRFUNC, possible socketing issue, but it was bin19 during the retest.
+visid: M73J2G6200796, Explanation: invalid 2738, FIVR is within limit. in the retest it was 2806.
+visid: M7NN267100830, Explanation: failed thermal soak in new TP for one run, but was 2742 in the retest.

@@ -1,0 +1,5 @@
+visid: M7J13X7700663, Explanation: marginal unit
+visid: M7HU061900752, Explanation: CRES fail, HW issue
+visid: M7HU061900781, Explanation: CRES fail, HW issue
+visid: M7J13X7700552, Explanation: HW related issue
+visid: M88J7X3800765, Explanation: HW related issue on previous run

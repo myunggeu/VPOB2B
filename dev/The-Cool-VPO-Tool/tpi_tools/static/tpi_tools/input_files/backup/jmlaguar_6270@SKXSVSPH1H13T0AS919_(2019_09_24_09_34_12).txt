@@ -1,0 +1,7 @@
+visid: M9S83J1700139, Explanation: Unit previously failed upper prochot limited because of bad HW that let the unit cool down to ~50C during test.
+visid: M9LJ518200090, Explanation: Unit previously failed upper prochot limited because of bad HW that let the unit cool down to ~50C during test.
+visid: M9WC266701235, Explanation: Unit previously failed upper prochot limited because of bad HW that let the unit cool down to ~50C during test.
+visid: M9WC266701750, Explanation: Unit previously failed upper prochot limited because of bad HW that let the unit cool down to ~50C during test.
+visid: M9WC266700494, Explanation: Unit previously failed upper prochot limited because of bad HW that let the unit cool down to ~50C during test.
+visid: M9WC266701231, Explanation: Unit previously failed upper prochot limited because of bad HW that let the unit cool down to ~50C during test.
+visid: M9WC266701746, Explanation: Unit previously failed upper prochot limited because of bad HW that let the unit cool down to ~50C during test.

@@ -1,0 +1,3 @@
+visid: M7SH412401381, Explanation: There's a Bin1 prior to the Bin1332 fail. This is due to HW/Tester issue
+visid: M7SH412400984, Explanation: There's a Bin1 prior to the Bin1332 fail. Fail is due to HW issue and not valid
+visid: M7SH412401430, Explanation: This unit fail seems valid. Majority Bin1404 fails throughout the VPO history, with only 3 Bin1330 fails

@@ -1,0 +1,12 @@
+visid: M9V06E8800387, Explanation: Unit failed due to HW issue
+visid: M9V06E8801446, Explanation: Unit failed due to HW issue
+visid: M9V06E8801351, Explanation: Unit failed due to HW issue
+visid: M9V06E8801801, Explanation: Unit failed due to HW issue
+visid: M9V06E8800599, Explanation: Unit failed due to HW issue
+visid: M9V06E8800180, Explanation: Unit failed due to HW issue
+visid: M9V06E8801450, Explanation: Unit failed due to HW issue
+visid: M9V06E8800107, Explanation: Unit failed due to HW issue
+visid: M9V06E8801481, Explanation: Unit failed due to HW issue
+visid: M9V06E8801429, Explanation: Unit failed due to HW issue
+visid: M9V06E8800578, Explanation: Unit failed due to HW issue
+visid: M9V06E8800580, Explanation: Unit failed due to HW issue

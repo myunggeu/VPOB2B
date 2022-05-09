@@ -1,0 +1,15 @@
+visid: M73J2G6200772, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M73J2G6201289, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M7NN267101303, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M7NN267100799, Explanation: Root caused to HW. No concern
+visid: M73J2G6200768, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M73J2G6201095, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M73J2G6200891, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M7NN267101246, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M7NN267101036, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M7NN267101003, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M7NN267101264, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M7NN267100821, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M7NN267100900, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M73J2G6200939, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M73J2G6201321, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.

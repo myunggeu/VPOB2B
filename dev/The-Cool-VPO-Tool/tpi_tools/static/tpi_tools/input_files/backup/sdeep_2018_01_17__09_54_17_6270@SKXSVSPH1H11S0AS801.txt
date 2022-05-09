@@ -1,0 +1,3 @@
+visid: M7SH412400809, Explanation: rerun on s801 is a bin9444
+visid: M7SH412400438, Explanation: Incoming bad core is different btn 2 runs, causing self sig to fail
+visid: M7SH412400503, Explanation: Marginal core 0 defeatured in the old run 

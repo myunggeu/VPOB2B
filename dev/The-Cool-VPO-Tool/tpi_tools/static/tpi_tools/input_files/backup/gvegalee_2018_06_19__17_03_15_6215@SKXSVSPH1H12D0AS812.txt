@@ -1,0 +1,1 @@
+visid: M7N7K70500981, Explanation: Unit is passing with new TP as expected. Old tp was hot reject bin 8 due to hw issues

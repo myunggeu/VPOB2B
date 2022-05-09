@@ -1,0 +1,59 @@
+visid: M73J2G6200150, Explanation: 
+visid: M73J2G6200191, Explanation: 
+visid: M73J2G6200302, Explanation: 
+visid: M73J2G6200306, Explanation: 
+visid: M73J2G6201119, Explanation: 
+visid: M73J2G6201169, Explanation: core 7 has  high vmin causing to fail in the old run. 
+visid: M73J2G6201319, Explanation: 
+visid: M73J2G6201466, Explanation: 
+visid: M73J2G6201527, Explanation: 
+visid: M7NN267100865, Explanation: 
+visid: M7NN267100887, Explanation: 
+visid: M7NN267101024, Explanation: 
+visid: M7NN267101034, Explanation: 
+visid: M7NN267101100, Explanation: 
+visid: M7NN267101138, Explanation: 
+visid: M7NN267101145, Explanation: 
+visid: M7NN267101188, Explanation: 
+visid: M7NN267101276, Explanation: 
+visid: M7NN267101295, Explanation: 
+visid: M7NN267101336, Explanation: 
+visid: M73J2G6201121, Explanation: 
+visid: M73J2G6201350, Explanation: 
+visid: M73J2G6201469, Explanation: 
+visid: M7NN267100615, Explanation: 
+visid: M7NN267101030, Explanation: 
+visid: M7NN267101128, Explanation: 
+visid: M7NN267101268, Explanation: 
+visid: M73J2G6201437, Explanation: 
+visid: M7NN267101146, Explanation: 
+visid: M73J2G6200199, Explanation: 
+visid: M7NN267101114, Explanation: 
+visid: M73J2G6201423, Explanation: No changes in reset to induce recovery.  Content remains the same and unit history not conclusive.  May be FIVRFUNC related failure.
+visid: M73J2G6200796, Explanation: 
+visid: M7NN267101308, Explanation: 
+visid: M7NN267100599, Explanation: 
+visid: M7NN267100648, Explanation: 
+visid: M7NN267100738, Explanation: 
+visid: M7NN267100747, Explanation: 
+visid: M7NN267100758, Explanation: 
+visid: M7NN267100793, Explanation: 
+visid: M7NN267100803, Explanation: 
+visid: M7NN267100846, Explanation: 
+visid: M7NN267100913, Explanation: 
+visid: M7NN267100954, Explanation: 
+visid: M7NN267100962, Explanation: 
+visid: M7NN267100971, Explanation: 
+visid: M73J2G6200735, Explanation: bin 4406 in the new run is due to core 7 getting killed. previous instance crfallksx_chkf6 as high vmin for that core.
+visid: M73J2G6200043, Explanation: 
+visid: M73J2G6201224, Explanation: 
+visid: M7NN267100394, Explanation: 
+visid: M73J2G6200374, Explanation: 
+visid: M73J2G6201203, Explanation: 
+visid: M73J2G6201324, Explanation: it didn't get to LTTC SBFT flow in the new run as PCIEDC failed in END flow.
+visid: M73J2G6200026, Explanation: incoming cores are different between old and new runs.
+visid: M7NN267100628, Explanation: 
+visid: M7NN267100830, Explanation: 
+visid: M7NN267101354, Explanation: 
+visid: M7NN267101162, Explanation: 
+visid: M7NN267101230, Explanation: 

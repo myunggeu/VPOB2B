@@ -1,0 +1,7 @@
+visid: M7SH412400859, Explanation: Core 17 pin was not seated correctly in TIU and no voltage was read as a result. this is not a FIVR issue.
+visid: M7SH412400996, Explanation: DDRD345 pin was not seated correctly in TIU and no voltage was read as a result. this is not a FIVR issue.
+visid: M7SH412400802, Explanation: Core03 pin was not seated correctly in TIU and no voltage was read as a result. this is not a FIVR issue.
+visid: M7SH412400979, Explanation: Core25 pin was not seated correctly in TIU and no voltage was read as a result. this is not a FIVR issue on reference. Unit typically fails 1306 on cold.
+visid: M7N7K70500650, Explanation: DDRA345 pin was not seated correctly in TIU and no voltage was read as a result. this is not a FIVR issue.
+visid: M7N7K70501226, Explanation: Core10 pin was not seated correctly in TIU and no voltage was read as a result. this is not a FIVR issue.
+visid: M7SH412401445, Explanation: Core20 pin was not seated correctly in TIU and no voltage was read as a result. this is not a FIVR issue.

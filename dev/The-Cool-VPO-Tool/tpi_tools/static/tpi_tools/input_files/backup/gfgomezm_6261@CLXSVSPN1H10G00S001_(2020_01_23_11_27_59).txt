@@ -1,0 +1,11 @@
+visid: M9349FY300634, Explanation: Many HW contact issues on previous run.
+visid: M8S78N4500293, Explanation: Many HW contact issues on previous run.
+visid: M8S78N4500257, Explanation: Many HW contact issues on previous run.
+visid: M8601RW600945, Explanation: Many HW contact issues on previous run.
+visid: M8S78N4500341, Explanation: Many HW contact issues on previous run.
+visid: M8S78N4500252, Explanation: Many HW contact issues on previous run.
+visid: M8601RW601153, Explanation: Many HW contact issues on previous run.
+visid: M8S78N4500099, Explanation: Many HW contact issues on previous run.
+visid: M8S78N4500477, Explanation: Many HW contact issues on previous run.
+visid: M8S78N4500537, Explanation: Many HW contact issues on previous run.
+visid: M8601RW600695, Explanation: Many HW contact issues on previous run.

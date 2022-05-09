@@ -1,0 +1,21 @@
+visid: M7L1Y26800300, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500227, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400165, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400457, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400766, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 12 tests
+visid: M7SH412400776, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400845, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 7 tests
+visid: M7SH412400890, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 12 tests
+visid: M7L1Y26800290, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7L1Y26800292, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500616, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7SH412400074, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4821 out of 12 tests
+visid: M7SH412400284, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500673, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501185, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400111, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400884, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400876, Explanation: Unit fails at bin4621 3 out of 14 tests in the history. Should be a valid failure
+visid: M7L1Y26800267, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500513, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501085, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue

@@ -1,0 +1,2 @@
+visid: M8S78N4500391, Explanation: Unit failed b4335 only once in VPO history due to possible Hardware/Socketing issue
+visid: M8601RW600544, Explanation: Fail might be valid. Unit failed the same Lane/Port (KTI0_TX_DP[8]) 3 times with no recovery. Hold unit for reject validation.

@@ -1,0 +1,27 @@
+visid: M8BD231400164, Explanation: Unit is failing bin995 and 4313 only once throughout the history. Most likely a tester issue
+visid: M8CQ906300075, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M8LM305300339, Explanation: Unit is failing bin5422 only once throughout the history. Most likely a tester issue
+visid: M8LM305300361, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M8LM305300357, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4821 out of 9 tests
+visid: M8BD231400018, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M8LM305300238, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4821 out of 11 tests
+visid: M8NE567700145, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M8LM305300509, Explanation: Unit is failing bin5423 only once throughout the history. Most likely a tester issue
+visid: M8BD231400158, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M8BD231400286, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M8NE567700529, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M8NE567700507, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M8NE567700701, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M8NE567700322, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M8NE567700002, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4625 out of 8 tests
+visid: M8NE567700483, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M8NE567700422, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M8BD231400085, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M8BD231400344, Explanation: Unit is failing bin5422 only once throughout the history. Most likely a tester issue
+visid: M8BD231400431, Explanation: Unit is failing bin5423 only once throughout the history. Most likely a tester issue
+visid: M8BD231400086, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4821 out of 12 tests
+visid: M8BD231400469, Explanation: Unit is failing bin5423 only once throughout the history. Most likely a tester issue
+visid: M8BD231400315, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4625 out of 11 tests
+visid: M8CQ906300304, Explanation: Unit is failing bin995 only once throughout the history. Most likely a tester issue
+visid: M8CQ906300143, Explanation: unit failed B4625 and B5422 once in each of the TP runs. Most likely due to tester/HW issue
+visid: M8NE567700134, Explanation: Unit is failing bin4625 and 5432 only once throughout the history. Most likely a tester issue

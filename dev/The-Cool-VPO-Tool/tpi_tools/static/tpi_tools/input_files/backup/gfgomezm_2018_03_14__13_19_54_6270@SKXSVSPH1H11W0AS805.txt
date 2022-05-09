@@ -1,0 +1,5 @@
+visid: M7N7K70500963, Explanation: HW Related. 2 units failing same lines. Recovered in RV
+visid: M7N7K70501295, Explanation: HW Related. 2 units failing same lines. Recovered in RV
+visid: M7N7K70500720, Explanation: Bin is equivalent to SHORTs. HW Related (recovered in RV)
+visid: M7N7K70501264, Explanation: Bin is equivalent to SHORTs. HW Related (recovered in RV)
+visid: M7SH412401062, Explanation: Bin is equivalent to SHORTs. HW Related (recovered in RV)

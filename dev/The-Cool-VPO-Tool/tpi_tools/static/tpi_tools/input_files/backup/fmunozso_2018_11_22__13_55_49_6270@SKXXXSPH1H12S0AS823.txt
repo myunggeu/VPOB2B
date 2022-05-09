@@ -1,0 +1,2 @@
+visid: M7N7K70500287, Explanation: HW issue on previous run
+visid: M7SH412401041, Explanation: Unit recovered from HW related issue. History shows previous b100

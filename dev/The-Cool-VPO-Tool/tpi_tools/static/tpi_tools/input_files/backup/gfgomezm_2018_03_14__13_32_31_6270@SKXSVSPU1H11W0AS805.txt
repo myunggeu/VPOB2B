@@ -1,0 +1,10 @@
+visid: M73J2G6200302, Explanation: Known design problem with TIU boards
+visid: M73J2G6200498, Explanation: Known design problem with TIU boards
+visid: M73J2G6201466, Explanation: Known design problem with TIU boards
+visid: M7NN267101188, Explanation: Known design problem with TIU boards
+visid: M7NN267101100, Explanation: B68 Known design problem with TIU boards
+visid: M7NN267100897, Explanation: Known design problem with TIU boards
+visid: M7NN267101143, Explanation: Known design problem with TIU boards
+visid: M73J2G6200306, Explanation: HW related. Equivalent to Opens
+visid: M73J2G6201527, Explanation: HW related. Equivalent to Opens (CMD lines)
+visid: M7NN267100800, Explanation: HW related. Equivalent to Opens

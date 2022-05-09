@@ -1,0 +1,2 @@
+visid: M7SH412400454, Explanation: sbft
+visid: M7SH412401491, Explanation: marginal scan failure, historicaly switches betwee these bins

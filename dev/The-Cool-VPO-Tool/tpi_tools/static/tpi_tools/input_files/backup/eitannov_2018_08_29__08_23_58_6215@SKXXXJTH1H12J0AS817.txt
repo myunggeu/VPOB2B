@@ -1,0 +1,3 @@
+visid: M8BD231400564, Explanation: Core 04 VDAC pin was not seated correctly with TIU. Not FIVR issue, No module issue.
+visid: M8BD231400192, Explanation: Core 03 VDAC pin was not seated correctly with TIU. Not FIVR issue, No module issue.
+visid: M8NE567700655, Explanation: Core 04 VDAC pin was not seated correctly with TIU. Not FIVR issue, No module issue.

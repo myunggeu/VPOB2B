@@ -1,0 +1,16 @@
+visid: M73K2D8500045, Explanation: marginal unit failing at bin4621
+visid: M7N7K70500056, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500088, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500834, Explanation: recover to bin1
+visid: M7N7K70500885, Explanation: recover to bin1
+visid: M7N7K70501127, Explanation: recover to bin1
+visid: M7N7K70501186, Explanation: recover to bin1
+visid: M7A176X401213, Explanation: recover to bin1
+visid: M7N7K70500753, Explanation: recover to bin1
+visid: M73K2D8500992, Explanation: Multiple bin4621 at different TIU, should be valid fallout
+visid: M7N7K70500704, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501369, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7A176X401300, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501152, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501183, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M73K2D8500878, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue

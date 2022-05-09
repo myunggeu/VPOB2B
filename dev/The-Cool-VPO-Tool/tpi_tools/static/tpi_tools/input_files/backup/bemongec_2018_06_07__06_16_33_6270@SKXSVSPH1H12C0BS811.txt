@@ -1,0 +1,2 @@
+visid: M7N7K70500074, Explanation: The unit fail due to the bucketer algorithm didn't find a valid passing combination
+visid: M7N7K70500082, Explanation: The unit failed in previous TP by IDSK disable blocks.

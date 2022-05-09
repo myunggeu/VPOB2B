@@ -1,0 +1,18 @@
+<collection type=material>
+   <group>
+      J210147CR SITE=MIDAS,CR,SVC,ARIES DOMAIN=CLASS
+   </group>
+</collection>
+
+<analysis app=cb >
+   TOOL=SCPREFETCH
+   /HASCLASS=T
+   /SEPARATEBY=NONE
+   CLASSDISPLAY=RAW
+   DISPLAYAS=TABLE
+   SORTDISPLAY=RAW
+   /COMBINEPARTFLOW
+   /FORMAT=CSV
+   /OUTPUT='C:\Users\myunggeu\dev\The-Cool-VPO-Tool\checker\static\checker\temp_files\outputR.csv'
+   /ASMERLIN
+</analysis>

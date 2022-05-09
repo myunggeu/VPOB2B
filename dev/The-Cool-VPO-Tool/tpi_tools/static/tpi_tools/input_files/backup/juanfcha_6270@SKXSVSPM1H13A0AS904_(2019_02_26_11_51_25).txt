@@ -1,0 +1,4 @@
+visid: M88J7X3800656, Explanation: Unit failed bin1404 because unit did not met any valid recovery configuration (1111111111001000101000000000_DOESNT_FIT_COREDEFEATURINGVECTOR/12C_THRMLOP_VALUES).
+visid: M7J13X7700552, Explanation: Unit failed bin1407 because it passed R3GB but that's no enough to pass any of the defined buckets.
+visid: M88J7X3800054, Explanation: Unit failed bin1404 because unit did not met any valid recovery configuration (1111111111000100011010001000_DOESNT_FIT_COREDEFEATURINGVECTOR/12C_THRMLOP_VALUES).
+visid: M88J7X3800157, Explanation: Unit failed bin1404 because unit did not met any valid recovery configuration (1111111111010000000010001110_DOESNT_FIT_COREDEFEATURINGVECTOR/12C_THRMLOP_VALUES).

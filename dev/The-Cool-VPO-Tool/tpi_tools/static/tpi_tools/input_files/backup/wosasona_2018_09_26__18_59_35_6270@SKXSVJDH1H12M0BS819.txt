@@ -1,0 +1,1 @@
+visid: M8CQ906300304, Explanation: Unit is failing bin995 only once throughout the history. Most likely a tester issue. However the B4321 fails seems valid, it failed 5 out of 6 tests in history.

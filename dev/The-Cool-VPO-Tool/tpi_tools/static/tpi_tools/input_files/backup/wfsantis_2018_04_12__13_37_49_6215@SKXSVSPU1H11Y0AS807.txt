@@ -1,0 +1,2 @@
+visid: M73J2G6201346, Explanation: No content or module changes at all for reset (Only vrev for TOS3.4).  Reset failing for seg111a (FIVRFUNC Resetcheck) probably associated to DDR voltage marginality @ cold as seen for CSE.
+visid: M73J2G6201268, Explanation: No content or module changes at all for reset (Only vrev for TOS3.4).  Reset failing for seg110e (FIVRTRIM U_KOfdccore_nom_BEGIN_cmem) probably associated to DDR voltage marginality @ cold as seen for CSE.

@@ -1,0 +1,1 @@
+visid: M88J7X3800656, Explanation: Unit fail for die recovery. It had cores 9,11 and 15 disabled. It failed before UPS in previous run

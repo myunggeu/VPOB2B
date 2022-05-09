@@ -1,0 +1,1 @@
+visid: M9WC266700562, Explanation: fail Reset which is before SBFT test. Reset fails in fail flow trigger by SBFT SRCHCLMF1 instance, failure due that corner identifier config left durty

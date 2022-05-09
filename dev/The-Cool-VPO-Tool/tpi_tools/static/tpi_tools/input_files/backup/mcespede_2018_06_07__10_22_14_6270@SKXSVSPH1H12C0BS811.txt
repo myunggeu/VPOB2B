@@ -1,0 +1,5 @@
+visid: M7N7K70501068, Explanation: Unit recovered from HW failure in previous TP
+visid: M7N7K70501132, Explanation: Unit recovered from HW failure in previous TP
+visid: M7N7K70501147, Explanation: Unit recovered from HW failure in previous TP
+visid: M7N7K70501179, Explanation: Unit recovered from HW failure in previous TP
+visid: M7SH412400571, Explanation: Unit recovered from HW failure in previous TP

@@ -1,0 +1,3 @@
+visid: M7N7K70500074, Explanation: Previous b13 due to HW related issue. Unit fails bin1407 for exceeding Vrel max (VOLTAGE_:_0.915_EXCEEDS_VRELMAX:_0.910) in component VSA0 in scenario 128BP0N of SKU R37S. Not passing any Bucket.
+visid: M7N7K70500082, Explanation: Unit failed bin1498 due to IDSK disabling IA15 for exceeding voltage limit.
+visid: M7N7K70500464, Explanation: Unit failed bin1498 due to IDSK disabling IA09 for exceeding voltage limit.. B60 was seen in S810 TP failing VmaxCoreF1 is marginal failure, original passing B1 in S807. 

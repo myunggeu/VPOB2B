@@ -1,0 +1,4 @@
+visid: M8SA531000225, Explanation: HW issue related
+visid: M8SA531000109, Explanation: HW issue related
+visid: D8S77S0700010, Explanation: HWALARM - Slot:11 - Pin:VCCD - Channel:11033 - might be bad unit
+visid: M8SA531000443, Explanation: Failed THRSOAK - DCFF - Slot:0 - Pin=VCCFUSE - Channel:20 - might be bad unit

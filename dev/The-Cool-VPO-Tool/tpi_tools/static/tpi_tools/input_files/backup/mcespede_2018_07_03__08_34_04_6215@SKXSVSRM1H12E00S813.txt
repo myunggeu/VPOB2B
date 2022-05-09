@@ -1,0 +1,25 @@
+visid: M7G050T400167, Explanation: Unit recovered from HW issue in old TP.
+visid: M7G050T400729, Explanation: Unit recovered from HW issue in old TP
+visid: M7G050T400763, Explanation: Unit recovered from HW issue in old TP
+visid: M7G050T400841, Explanation: Unit recovered from HW issue in old TP
+visid: M7G050T400859, Explanation: Unit recovered from HW issue in old TP
+visid: M7G050T400860, Explanation: Unit recovered from HW issue in old TP
+visid: M7G050T401306, Explanation: Unit recovered from HW issue in old TP
+visid: M7G050T401453, Explanation: Unit recovered from HW issue in old TP
+visid: M7G050T400090, Explanation: Unit failed due to HW issue. All b930 units failed the same lanes and ran in TIU BB2TLH1P4267
+visid: M7G050T400140, Explanation: Unit failed due to HW issue. All b930 units failed the same lanes and ran in TIU BB2TLH1P4267
+visid: M7G050T400296, Explanation: Unit failed due to HW issue. All b930 units failed the same lanes and ran in TIU BB2TLH1P4267
+visid: M7G050T400503, Explanation: Unit failed due to HW issue. All b930 units failed the same lanes and ran in TIU BB2TLH1P4267
+visid: M7G050T401138, Explanation: Unit failed due to HW issue. All b930 units failed the same lanes and ran in TIU BB2TLH1P4267
+visid: M7G050T401295, Explanation: Unit failed due to HW issue. All b930 units failed the same lanes and ran in TIU BB2TLH1P4267
+visid: M7J53P3701611, Explanation: Unit failed due to HW issue. All b930 units failed the same lanes and ran in TIU BB2TLH1P4267
+visid: M7G050T400073, Explanation: Unit failed due to HW issue.
+visid: M7G050T400129, Explanation: Unit failed due to HW issue.
+visid: M7G050T400130, Explanation: Unit failed due to HW issue.
+visid: M7G050T400135, Explanation: Unit failed due to HW issue.
+visid: M7G050T400173, Explanation: Unit failed due to HW issue.
+visid: M7G050T400455, Explanation: Unit failed due to HW issue.
+visid: M7G050T401013, Explanation: Unit failed due to HW issue.
+visid: M7G050T401127, Explanation: Unit failed due to HW issue.
+visid: M7G050T401229, Explanation: Unit failed due to HW issue.
+visid: M7G050T401336, Explanation: Unit failed due to HW issue.

@@ -1,0 +1,1 @@
+visid: M7G050T400588, Explanation: unit failed on Vcc continuity in new TP, cannot compare with b35 failure from old TP as Vcc continuity runs before Begin flow. b872 can be a HW failure

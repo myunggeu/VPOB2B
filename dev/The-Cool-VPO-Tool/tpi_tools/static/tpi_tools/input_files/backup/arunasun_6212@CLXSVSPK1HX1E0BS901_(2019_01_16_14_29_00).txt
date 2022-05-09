@@ -1,0 +1,8 @@
+visid: M83G18S200670, Explanation: Hot Rejects recovered
+visid: M83G18S200416, Explanation: Hot Rejects recovered
+visid: M8R42V9100075, Explanation: Hot Rejects recovered
+visid: M83G18S200446, Explanation: Hot Rejects recovered
+visid: M8R42V9100217, Explanation: Hot Rejects recovered
+visid: M8R42V9100122, Explanation: Hot Rejects recovered
+visid: M83G18S200685, Explanation: Hot Rejects recovered
+visid: M83G18S200696, Explanation: Hot Rejects recovered

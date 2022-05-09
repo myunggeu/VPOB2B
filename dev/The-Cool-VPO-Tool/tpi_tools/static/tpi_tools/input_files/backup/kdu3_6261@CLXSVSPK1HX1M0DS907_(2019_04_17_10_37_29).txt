@@ -1,0 +1,12 @@
+visid: M8R42V9100078, Explanation: Hardware/Socketing issue
+visid: M83G18S200705, Explanation: Hardware/Socketing issue
+visid: M8R42V9100085, Explanation: Hardware/Socketing issue
+visid: M8R42V9100022, Explanation: Hardware/Socketing issue
+visid: M83G18S200444, Explanation: Hardware/Socketing issue
+visid: D8S77S0700341, Explanation: Hardware/Socketing issue
+visid: M83G18S200550, Explanation: Hardware/Socketing issue
+visid: M8R42V9100134, Explanation: Hardware/Socketing issue
+visid: M8R42V9100011, Explanation: Hardware/Socketing issue
+visid: M81Y2E3800106, Explanation: Hardware/Socketing issue
+visid: M8SA531000268, Explanation: Hardware/Socketing issue
+visid: M8SA531000459, Explanation: Hardware/Socketing issue

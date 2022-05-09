@@ -1,0 +1,19 @@
+visid: M7G050T401375, Explanation: solid VCCD fail across hot and cold, should be damaged/degradation unit
+visid: M7G050T400404, Explanation: VCCIN hard fail, can be unit degradation, no module change
+visid: M7G050T400409, Explanation: VIO hard fail, can be uni degradation, no module change
+visid: M7G050T401354, Explanation: VCCIN hard fail, can be unit degradation, no module change
+visid: M7G050T401361, Explanation: VCCIN hard fail, can be unit degradation, no module change
+visid: M7G050T400622, Explanation: CRES fail, HW issue
+visid: M7G050T401314, Explanation: CRES fail, HW issue
+visid: M7G050T400416, Explanation: CRES fail, HW issue
+visid: M7G050T400568, Explanation: suspect HW related issue, no module change
+visid: M7G050T400921, Explanation: suspect HW related issue, no module change
+visid: M7G050T400078, Explanation: CRES fail, HW issue
+visid: M7G050T401272, Explanation: CRES fail, HW issue
+visid: M7G050T401238, Explanation: CRES fail, HW issue
+visid: M7G050T400396, Explanation: CRES fail, HW issue
+visid: M7G050T400124, Explanation: CRES fail, HW issue
+visid: M7G050T400141, Explanation: CRES fail, HW issue
+visid: M7G050T400454, Explanation: CRES fail, HW issue
+visid: M7G050T401359, Explanation: CRES fail on previous run, HW issue
+visid: M7G050T400037, Explanation: CRES fail, HW issue

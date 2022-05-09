@@ -1,0 +1,18 @@
+visid: M8NE567700718, Explanation: Recovered from a HW issue. Historically B1.
+visid: M8NE567700450, Explanation: Recovered from a HW issue. Historically B1.
+visid: M8NE567700096, Explanation: Recovered from a HW issue. Historically B1.
+visid: M8BD231400178, Explanation: Recovered from a HW issue. Historically B1.
+visid: M8BD231400310, Explanation: Recovered from a HW issue. Historically B1.
+visid: M8BD231400586, Explanation: Recovered from a HW issue. Historically B1.
+visid: M8BD231400338, Explanation: Recovered from a HW issue. Historically B1.
+visid: M8BD231400656, Explanation: Recovered from a HW issue. Historically B1.
+visid: M8LM305300103, Explanation: HW related issue. Historically B1.
+visid: M8NE567700359, Explanation: HW related issue. Historically B1.
+visid: M8NE567700109, Explanation: HW related issue. Historically B1.
+visid: M8BD231400286, Explanation: HW related issue. Historically B1.
+visid: M8CQ906300454, Explanation: HW related issue. Historically B1.
+visid: M8NE567700205, Explanation: HW related issue. Historically B1.
+visid: M8LM305300208, Explanation: HW related issue. Historically B1.
+visid: M8BD231400374, Explanation: HW related issue. Historically B1.
+visid: M8BD231400661, Explanation: HW related issue. Historically B1.
+visid: M8NE567700571, Explanation: HW related issue. Historically B1.

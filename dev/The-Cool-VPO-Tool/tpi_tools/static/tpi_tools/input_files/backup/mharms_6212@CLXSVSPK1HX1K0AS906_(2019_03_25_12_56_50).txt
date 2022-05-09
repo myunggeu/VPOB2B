@@ -1,0 +1,3 @@
+visid: M83G18S200713, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold
+visid: M8SA531000675, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold
+visid: M9HC416300736, Explanation: Old TP run  was a class hot fail (automatic b7299 at cold). New TP did not fail class hot, so was tested and passed cold

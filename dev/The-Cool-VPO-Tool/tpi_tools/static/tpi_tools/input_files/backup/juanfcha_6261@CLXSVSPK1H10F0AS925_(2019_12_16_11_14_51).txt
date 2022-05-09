@@ -1,0 +1,6 @@
+visid: M9R48M5000750, Explanation: Unit failed bin1407 because it passed RGZE but that is no enough to pass any of the defined buckets.
+visid: M9KB375201211, Explanation: Unit fails bin1404 because unit does not meets any valid recovery configuration (1111000000000000000000011100_DOESNT_FIT_COREDEFEATURINGVECTOR/16C_CATCHALL_VALUES).
+visid: M9R48M5000519, Explanation: Unit failed bin1407 because it passes RF94^RGZE but that is no enough to pass any of the defined buckets.
+visid: M9R48M5000578, Explanation: Unit failed bin1407 because it passes RF94^RGZE but that is no enough to pass any of the defined buckets.
+visid: M9KB375201099, Explanation: Unit failed bin1407 because it passes RGZE but that is no enough to pass any of the defined buckets.
+visid: M9R48M5000987, Explanation: Unit fails Bin1402 because it did not pass frequencies required by catch-all (GROUP:IAX2_-_GUARDBAND_FREQ_3.900_IS_OUT_OF_MEASUREMENT_BOUNDS:_[0.8,1.8,2.4,3,3.6,3.8]) (And does not has enough CC for the other SKUs)

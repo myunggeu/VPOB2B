@@ -1,0 +1,4 @@
+visid: M7G050T401166, Explanation:  sbft failed in both the runs
+visid: M7G050T400047, Explanation: recovered in rerun in the old tp
+visid: M7G050T400674, Explanation: Marginal cores recovered in the new run
+visid: M7J53P3701435, Explanation: Marginal cores recovered in the new run

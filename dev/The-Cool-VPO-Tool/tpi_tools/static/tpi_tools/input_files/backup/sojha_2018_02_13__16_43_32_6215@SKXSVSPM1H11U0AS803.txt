@@ -1,0 +1,1 @@
+visid: M7T131S100257, Explanation: Cache: Cache: In the old run additional core 11 was getting disabled by SKX_CACHE_H::U_MLCDATKSX_VCOREMINFREQ1_CHKCOREF1. In the new run, core 11 is already incoming disabled so its passing now and getting bin 1.

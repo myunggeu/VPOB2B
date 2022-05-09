@@ -1,0 +1,43 @@
+<!--
+ User: rshibano
+ Date: Tue Aug 29 10:14:13 2017
+ CB: CrystalBall_Proto
+-->
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%% Collection %%%%%%%%%%%%%%%%%%%%%%% #TAG -->
+
+<collection type=material >
+  <group >
+    J730109CR SITE=MIDAS DOMAIN=CLASS 
+    J732087CR SITE=MIDAS DOMAIN=CLASS 
+  </group >
+</collection >
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%% Parameters %%%%%%%%%%%%%%%%%%%%%%% #TAG -->
+
+<parameters  >
+  <param DATATYPE=DIEBIN DOMAIN=CLASS OPERATION=6262 SITE=MIDAS TESTNAME=FB />
+  <param DATATYPE=DIEBIN DOMAIN=CLASS OPERATION=6262 SITE=MIDAS TESTNAME=IB />
+  <param DOMAIN=CLASS SITE=SVC OPERATION=6262 DATATYPE=DI_INFO TESTNAME=VIS_ID />
+  <param DOMAIN=CLASS SITE=SVC OPERATION=6262 DATATYPE=DT_INFO TESTNAME=THERMAL_HEAD />
+  <param DOMAIN=CLASS SITE=SVC OPERATION=6262 DATATYPE=DT_INFO TESTNAME=TIUID />
+  <param DOMAIN=CLASS SITE=SVC OPERATION=6262 DATATYPE=DT_INFO TESTNAME=SITEID />
+  <param DOMAIN=CLASS SITE=SVC OPERATION=6262 DATATYPE=DT_INFO TESTNAME=TIU_PERSONALITY_CARD_ID />
+  <param DATATYPE=FIELD DOMAIN=CLASS OPERATION=6262 SITE=SVC FIELD=TESTER_ID TABLE=SCWAFSUMS />
+
+  </parameters>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%% Analysis %%%%%%%%%%%%%%%%%%%%%%% #TAG -->
+
+<analysis app=cb  >
+  TOOL=GIVEMEDATA
+  /HASCLASS=T
+  /IGNORE_VHL
+  /AUTOAKA
+  /AUTOCONTEXT
+  /NOMERGESCPROG
+
+ /ASMERLIN
+
+</analysis>
+

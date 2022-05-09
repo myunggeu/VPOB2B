@@ -1,0 +1,2 @@
+visid: M7SH412401025, Explanation: Core 15 VDAC pin did not seat correctly on TIU. No FIVR test program issue
+visid: M7N7K70500273, Explanation: Core 08 VDAC pin did not seat correctly on TIU. No FIVR test program issue

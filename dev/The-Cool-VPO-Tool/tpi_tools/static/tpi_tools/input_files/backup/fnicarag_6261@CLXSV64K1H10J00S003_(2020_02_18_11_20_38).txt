@@ -1,0 +1,3 @@
+visid: M8KR236200202, Explanation: Unstable unit, first bin1 in its history, multiple failures before
+visid: M8HC458500449, Explanation: Unit is failing bin 4480 only once throughout the history. Most likely a tester issue
+visid: M8KR236200551, Explanation: Unit's been bin4480 consistently, first time it hits bin1

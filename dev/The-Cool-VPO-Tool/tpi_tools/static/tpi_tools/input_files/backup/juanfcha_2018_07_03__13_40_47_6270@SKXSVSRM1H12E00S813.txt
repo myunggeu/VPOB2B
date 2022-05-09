@@ -1,0 +1,2 @@
+visid: M7G050T400572, Explanation: Unit fails bin1407 for exceeding Vrel max (VOLTAGE_:_0.982_EXCEEDS_VRELMAX:_0.980) in component CLM0 in scenario 128BP02 of SKU R3RT. Not passing any Bucket.
+visid: M7G050T400939, Explanation: Unit fails bin1498 due to IDSK disabling IA14 for exceeding voltage limit.

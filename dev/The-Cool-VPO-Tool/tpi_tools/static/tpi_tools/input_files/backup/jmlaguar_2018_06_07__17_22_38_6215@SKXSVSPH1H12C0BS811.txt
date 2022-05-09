@@ -1,0 +1,8 @@
+visid: M7SH412400546, Explanation: All B9763 came from sites A201 and A402. APs on these cells were too weak to chill unit to -5C. Retesting on a different cell should recover unit.
+visid: M7SH412400563, Explanation: All B9763 came from sites A201 and A402. APs on these cells were too weak to chill unit to -5C. Retesting on a different cell should recover unit.
+visid: M7SH412400611, Explanation: All B9763 came from sites A201 and A402. APs on these cells were too weak to chill unit to -5C. Retesting on a different cell should recover unit.
+visid: M7SH412400813, Explanation: All B9763 came from sites A201 and A402. APs on these cells were too weak to chill unit to -5C. Retesting on a different cell should recover unit.
+visid: M7SH412400890, Explanation: All B9763 came from sites A201 and A402. APs on these cells were too weak to chill unit to -5C. Retesting on a different cell should recover unit.
+visid: M7SH412401008, Explanation: All B9763 came from sites A201 and A402. APs on these cells were too weak to chill unit to -5C. Retesting on a different cell should recover unit.
+visid: M7SH412401177, Explanation: All B9763 came from sites A201 and A402. APs on these cells were too weak to chill unit to -5C. Retesting on a different cell should recover unit.
+visid: M7SH412401207, Explanation: All B9763 came from sites A201 and A402. APs on these cells were too weak to chill unit to -5C. Retesting on a different cell should recover unit.

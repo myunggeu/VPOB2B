@@ -1,0 +1,4 @@
+visid: M7SH412400521, Explanation: Historical Marginal units switching soft bin
+visid: M7N7K70500397, Explanation: Unit failed due to HW issue  was recovery with RV
+visid: M7SH412401297, Explanation: Failed due to hardware issue 
+visid: M7SH412401087, Explanation: Bin 8 is responsible for switch, as bin 9901 is consistent failure for this history unit

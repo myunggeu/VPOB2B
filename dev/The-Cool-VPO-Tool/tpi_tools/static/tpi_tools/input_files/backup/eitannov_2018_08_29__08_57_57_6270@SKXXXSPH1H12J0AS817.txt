@@ -1,0 +1,1 @@
+visid: M7N7K70500511, Explanation: SFR VDAC pin was not seated correctly during reference run with TIU. This is not a FIVR module issue.

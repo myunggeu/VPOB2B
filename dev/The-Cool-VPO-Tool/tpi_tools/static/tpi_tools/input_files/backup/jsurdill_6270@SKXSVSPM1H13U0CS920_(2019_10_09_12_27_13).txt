@@ -1,0 +1,2 @@
+visid: M7J13X7701214, Explanation: Cache failed untested due to invalid incoming Vmin.  Failure caused by SKX_SBFT_H::U_fcsemiburst_vclmminfreq1_CHKCLMF1
+visid: M7J13X7701574, Explanation: Cache failed untested due to invalid incoming Vmin.  Failure caused by SKX_SBFT_H::U_fcsemiburst_vclmminfreq1_CHKCLMF1

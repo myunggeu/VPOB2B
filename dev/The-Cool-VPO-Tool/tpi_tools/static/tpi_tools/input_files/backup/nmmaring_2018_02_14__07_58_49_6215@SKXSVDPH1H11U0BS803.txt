@@ -1,0 +1,7 @@
+visid: D72N5Q3400206, Explanation: Failure due to a known HW issue due to TIU design
+visid: D72N5Q3400286, Explanation: Failure due to a known HW issue due to TIU design
+visid: D73U27M900041, Explanation: Failure due to a known HW issue due to TIU design
+visid: D73U27M900042, Explanation: Failure due to a known HW issue due to TIU design
+visid: D73U27M900049, Explanation: Failure due to a known HW issue due to TIU design
+visid: D72N5Q3400173, Explanation: Failure due to a known HW issue due to TIU design
+visid: D7WF637100067, Explanation: Failure due to a known HW issue due to TIU design

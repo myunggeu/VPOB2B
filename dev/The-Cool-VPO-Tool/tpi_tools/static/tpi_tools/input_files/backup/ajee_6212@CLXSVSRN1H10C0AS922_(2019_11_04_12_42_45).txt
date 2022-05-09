@@ -1,0 +1,6 @@
+visid: M9F05R5401198, Explanation: Unit is failing bin 1306 only once throughout the history. Most likely a tester issue
+visid: M9F05R5400365, Explanation: Unit is failing bin 1306 only once throughout the history. Most likely a tester issue
+visid: M9F05R5401175, Explanation: Unit is failing bin 1528 only once throughout the history. Most likely a tester issue
+visid: M9F05R5400869, Explanation: Unit is failing bin 1551 only once throughout the history. Most likely a tester issue
+visid: M9F05R5400368, Explanation: Unit is failing bin 1551 only once throughout the history. Most likely a tester issue
+visid: M9F05R5400825, Explanation: Unit is failing bin 5441 only once throughout the history. Most likely a tester issue

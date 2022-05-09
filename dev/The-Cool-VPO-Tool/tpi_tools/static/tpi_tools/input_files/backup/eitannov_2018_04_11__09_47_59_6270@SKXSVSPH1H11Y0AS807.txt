@@ -1,0 +1,1 @@
+visid: M7N7K70500028, Explanation: Unit failed Short Opens on initial run. This unit typically fails for 2737 on most runs. On this new run it likely failed due to the VLOAD pin for DDRD012 not having good contact with the test interface.

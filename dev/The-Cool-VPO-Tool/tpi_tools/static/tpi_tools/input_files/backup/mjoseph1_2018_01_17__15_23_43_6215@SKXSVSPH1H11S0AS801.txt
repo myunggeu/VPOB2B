@@ -1,0 +1,1 @@
+visid: M7N7K70501425, Explanation: Hardware related fail: BB2TXH1P4454:SKXTFH11488; Unit did pass with different load board ID: BB2TLH1P4764:SKXTFH11717

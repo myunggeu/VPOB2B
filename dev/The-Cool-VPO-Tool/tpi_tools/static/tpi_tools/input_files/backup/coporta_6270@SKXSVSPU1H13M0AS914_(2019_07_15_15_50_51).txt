@@ -1,0 +1,10 @@
+visid: M7NN267101329, Explanation: connection issues, due to HW
+visid: M7NN267101265, Explanation: connection issues, due to HW
+visid: M7NN267101342, Explanation: connection issues, due to HW
+visid: M7NN267101351, Explanation: connection issues, due to HW
+visid: M7NN267101131, Explanation: connection issues, due to HW
+visid: M7NN267101364, Explanation: connection issues, due to HW
+visid: M7NN267101367, Explanation: connection issues, due to HW
+visid: M7NN267101272, Explanation: connection issues, due to HW
+visid: M7NN267101143, Explanation: connection issues, due to HW
+visid: M7NN267101058, Explanation: connection issues, due to HW

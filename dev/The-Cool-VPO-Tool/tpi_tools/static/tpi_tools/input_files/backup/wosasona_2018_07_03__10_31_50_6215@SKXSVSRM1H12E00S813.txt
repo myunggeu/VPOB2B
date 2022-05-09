@@ -1,0 +1,4 @@
+visid: M7G050T400023, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7G050T401061, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7G050T401078, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7G050T401287, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue

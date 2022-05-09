@@ -1,0 +1,2 @@
+visid: M7N7K70500038, Explanation: Core 06 FIVR VLOAD pin was not seated/connected for reference run. No FIVR issue
+visid: M7N7K70501190, Explanation: Core 17 FIVR VLOAD pin was not seated/connected for new run. No FIVR issue

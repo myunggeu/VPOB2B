@@ -1,0 +1,3 @@
+visid: M7N7K70500673, Explanation: invalid Cache urfiio retention failure. It was B1 in S807 and then B21 in S810, got recover to B1 in S812
+visid: M7N7K70500464, Explanation: Need explanation for B1498. B60 was seen in S810 TP failing VmaxCoreF1 is marginal failure, original passing B1 in S807. 
+visid: M7N7K70500638, Explanation: Marginal failure. B60 was seen in S807 and S805, it's failing core 27 and causing invalid combination, but in S810 it's passing B1.

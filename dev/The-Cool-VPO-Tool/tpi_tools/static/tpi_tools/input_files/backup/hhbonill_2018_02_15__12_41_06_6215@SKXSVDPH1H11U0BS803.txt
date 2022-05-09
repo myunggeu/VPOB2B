@@ -1,0 +1,13 @@
+visid: D72N5Q3400102, Explanation: 1st test it failed due to HW, so recovery was expected.
+visid: D72N5Q3400024, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400036, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400148, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400183, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400197, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400211, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400215, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400223, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400239, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400284, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400285, Explanation: Justification on Hot B2B, B72 is Hot reject.
+visid: D72N5Q3400327, Explanation: Justification on Hot B2B, B72 is Hot reject.

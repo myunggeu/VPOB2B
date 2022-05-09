@@ -1,0 +1,6 @@
+visid: M73J2G6201135, Explanation: Looks like one time hardware caused issue, as all failures coming from site A402 of tester 1785
+visid: M7NN267100915, Explanation: Looks like one time hardware caused issue, as all failures coming from site A402 of tester 1785
+visid: M7NN267100574, Explanation: Looks like one time hardware caused issue, as all failures coming from site A402 of tester 1785
+visid: M7NN267101123, Explanation: Looks like one time hardware caused issue, as all failures coming from site A402 of tester 1785
+visid: M7NN267101206, Explanation: Looks like one time hardware caused issue, as all failures coming from site A402 of tester 1785
+visid: M7NN267101051, Explanation: Looks like one time hardware caused issue, as all failures coming from site A402 of tester 1785

@@ -1,0 +1,9 @@
+visid: M7L1Y26800252, Explanation: bad contact, HW issue
+visid: M7L1Y26800033, Explanation: bad contact, HW issue
+visid: M73K2D8500968, Explanation: bad contact, HW issue
+visid: M7L1Y26800107, Explanation: bad contact, HW issue
+visid: M7L1Y26800114, Explanation: bad contact, HW issue
+visid: M7N7K70500237, Explanation: bad contact, HW issue
+visid: M7SH412400956, Explanation: bad contact, HW issue
+visid: M7SH412400449, Explanation: bad contact, HW issue
+visid: M7L1Y26800086, Explanation: bad contact, HW issue

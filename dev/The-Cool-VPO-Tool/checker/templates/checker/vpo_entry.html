@@ -1,0 +1,115 @@
+<head>
+    <meta charset="UTF-8">
+    {% block header %}
+    {% include "base.html"  %}
+    {% endblock %}
+</head>
+<body>
+<br>
+<h3>Create New Template Entry</h3>
+<br>
+<form action="/val_plan_admin/" class="form-horizontal" method="post">
+{% csrf_token %}
+  <div class="form-group">
+      <div class="col-sm-1" align="center">TP</div>
+    <div class="col-sm-10">
+      <input type="text" id="tp" name="tp" placeholder="ex:S721">
+    </div>
+  </div>
+  <div class="form-group">
+      <div class="col-sm-1" align="center">WW</div>
+    <div class="col-sm-10">
+      <input type="number" id="ww" name="ww" placeholder="ex:39">
+   </div>
+  </div>
+  <div class="form-group">
+      <div class="col-sm-1" align="center">
+          Supported Boms
+      </div>
+    <div class="col-sm-10">
+      <div class="checkbox">
+          {%for prod, boms in prod_and_boms.items%}
+                {{prod}}:<br>
+                {%for bom in boms%}
+                <label class="checkbox-inline">
+                    <input type="checkbox" id={{bom}} name={{bom}} value={{bom}}> {{bom}}
+                </label>
+                {%endfor%}
+          <br><br>
+          {%endfor%}
+      </div>
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="col-sm-offset-1 col-sm-10">
+        <button type="submit" class="btn btn-default">Create New Template</button>
+    </div>
+  </div>
+</form>
+<br>
+<h3>Add to Existing Template</h3>
+<br>
+<form action="/val_plan_admin_add/" class="form-horizontal" method="post">
+    <div class="form-group">
+        <div class="col-sm-1" align="center">TP</div>
+        <div class="col-sm-1">
+            <select class="form-control" name ='tp_select'>
+                {% for entry in tp_entries %}
+                <option value="{{entry.tp}}">{{entry.tp}}</option>
+                {%endfor%}
+            </select>
+        </div>
+        <div class="col-sm-10"></div>
+    </div>
+    <div class="form-group">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-5">
+            <button type="add_to_existing" class="btn btn-default">Add to Existing</button>{% csrf_token %}
+        </div>
+        <div class="col-sm-6"></div>
+    </div>
+</form>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;
+<!--<h3>Delete All TP Entries (Cannot be undone!)</h3>-->
+<!--<br>-->
+<!--<form action="/delete_all_entries/" class="form-horizontal" method="post">-->
+    <!--<div class="form-group">-->
+        <!--<div class="col-sm-1" align="center">TP</div>-->
+        <!--<div class="col-sm-1">-->
+            <!--<select class="form-control" name ='tp_select'>-->
+                <!--{% for entry in tp_entries %}-->
+                <!--<option value="{{entry.tp}}">{{entry.tp}}</option>-->
+                <!--{%endfor%}-->
+            <!--</select>-->
+        <!--</div>-->
+        <!--<div class="col-sm-10"></div>-->
+    <!--</div>-->
+    <!--<div class="form-group">-->
+        <!--<div class="col-sm-1"></div>-->
+        <!--<div class="col-sm-5">-->
+            <!--<button type="delete_all_entries" class="btn btn-default" onclick="confirmDelete()">Delete All Entries</button>{% csrf_token %}-->
+
+        <!--</div>-->
+        <!--<div class="col-sm-6"></div>-->
+    <!--</div>-->
+<!--</form>-->
+
+
+
+<br>
+<h3>Delete All TP Entries (Cannot be undone!)</h3>
+<br>
+<div>
+    <div class="col-sm-1" align="center">TP</div>
+    <div class="col-sm-1">
+        <select class="form-control" name ='tp_select'>
+            {% for entry in tp_entries %}
+                <option id="{{entry.tp}}" value="{{entry.tp}}">{{entry.tp}}</option>
+            {%endfor%}
+        </select>
+    </div>
+</div>
+Feature Disabled, Ask Ryo if you want to delete a TP entry
+</body>

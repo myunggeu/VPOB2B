@@ -1,0 +1,3 @@
+visid: M9F05R5400914, Explanation: sbft failed in both runs
+visid: M9F05R5400115, Explanation: marginal
+visid: M9F05R5400147, Explanation: marginal

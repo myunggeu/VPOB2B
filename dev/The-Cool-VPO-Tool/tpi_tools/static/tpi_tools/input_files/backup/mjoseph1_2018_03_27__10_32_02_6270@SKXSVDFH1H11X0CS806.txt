@@ -1,0 +1,7 @@
+visid: M7DR176200208, Explanation: If the fail is coming from SIOBSCAN and it looks hardware related - coming from following loadboard IDs: BB2TLH1P2866:SKXTFH11483 and BB2TLH1P2866:SKXTFH11716
+visid: M7774QA300890, Explanation: Hardware related fails - coming from following loadboard IDs: BB2TLH1P2866:SKXTFH11483 and BB2TLH1P2866:SKXTFH11716
+visid: M7PU387100270, Explanation: Hardware related fails - coming from following loadboard IDs: BB2TLH1P2866:SKXTFH11483 and BB2TLH1P2866:SKXTFH11716
+visid: M7DR176200195, Explanation: Hardware related fails - coming from following loadboard IDs: BB2TLH1P2866:SKXTFH11483 and BB2TLH1P2866:SKXTFH11716
+visid: M7774QA300779, Explanation: Hardware related fails - coming from following loadboard IDs: BB2TLH1P2866:SKXTFH11483 and BB2TLH1P2866:SKXTFH11716
+visid: M7774QA300871, Explanation: Hardware related fails - coming from following loadboard IDs: BB2TLH1P2866:SKXTFH11483 and BB2TLH1P2866:SKXTFH11716
+visid: M7774QA300907, Explanation: Hardware related fails - coming from following loadboard IDs: BB2TLH1P2866:SKXTFH11483 and BB2TLH1P2866:SKXTFH11716

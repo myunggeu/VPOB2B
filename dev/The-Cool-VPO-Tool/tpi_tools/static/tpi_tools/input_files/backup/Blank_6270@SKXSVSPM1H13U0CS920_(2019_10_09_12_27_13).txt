@@ -1,0 +1,2 @@
+visid: M7J13X7700707, Explanation: Unit failed b2806 on S904, S914 and S920 TPs. Might be valid failure. Please hold for RV
+visid: M7J13X7700736, Explanation: unit failed once due to Tester/HW issue

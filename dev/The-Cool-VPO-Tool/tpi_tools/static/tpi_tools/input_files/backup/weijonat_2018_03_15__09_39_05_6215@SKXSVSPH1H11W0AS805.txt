@@ -1,0 +1,5 @@
+visid: M7L1Y26800114, Explanation: Invalid 2737 in the original run, cold socketing issue
+visid: M7N7K70500398, Explanation: invalid 2737 during original run, cold socketing issue
+visid: M7N7K70500173, Explanation: core11 vload pin reading all 0s, likely cold socketing issue
+visid: M7N7K70500594, Explanation: core06 vload pin reading all 0s, likely cold socketing issue
+visid: M7SH412400872, Explanation: core03 vload pin readling all 0s, likely cold socketing issue

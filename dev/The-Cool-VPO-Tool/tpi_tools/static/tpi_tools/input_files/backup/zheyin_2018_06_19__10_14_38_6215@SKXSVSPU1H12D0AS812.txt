@@ -1,0 +1,7 @@
+visid: M73J2G6200120, Explanation: CRES fail, HW issue
+visid: M73J2G6201099, Explanation: CRES fail, HW issue
+visid: M73J2G6201373, Explanation: CRES fail, HW issue
+visid: M73J2G6200051, Explanation: CRES fail, HW issue
+visid: M7NN267101075, Explanation: CRES fail, HW issue on previous run
+visid: M7NN267101172, Explanation: CRES fail, HW issue on previous run
+visid: M73J2G6200729, Explanation: HW issue on previous run

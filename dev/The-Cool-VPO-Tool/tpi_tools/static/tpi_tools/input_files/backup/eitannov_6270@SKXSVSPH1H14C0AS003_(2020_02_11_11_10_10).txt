@@ -1,0 +1,2 @@
+visid: M9WC266701804, Explanation: Reference run had reset issue, No FIVR changes or issue here
+visid: M9EN577400603, Explanation: Unit typically fails for VDAC measurement. Worked once, not sure why, unit typically fails 2737. No FIVR module change

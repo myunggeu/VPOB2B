@@ -1,0 +1,6 @@
+visid: M83G18S200428, Explanation: Recovered from HW issue
+visid: M8R42V9100292, Explanation: Recovered from HW issue
+visid: M83G18S200697, Explanation: Recovered from HW, TIU commonality found
+visid: M8R42V9100110, Explanation: Recovered from HW, TIU commonality found
+visid: M83G18S200441, Explanation: HW related issue
+visid: M83G18S200710, Explanation: HW related issue

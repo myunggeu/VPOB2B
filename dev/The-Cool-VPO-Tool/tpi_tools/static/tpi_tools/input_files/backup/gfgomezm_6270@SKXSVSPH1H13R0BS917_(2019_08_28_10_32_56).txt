@@ -1,0 +1,14 @@
+visid: M9PB483200254, Explanation: Failed due to HW conditions on previous TP. Recovered
+visid: M9PB483200068, Explanation: Failed due to HW conditions on previous TP. Recovered
+visid: M9KK695401123, Explanation: Failed due to HW conditions on previous TP. Recovered
+visid: M9KK695401128, Explanation: Failed due to HW conditions on previous TP. Recovered
+visid: M9KK695400555, Explanation: Failed due to HW conditions on previous TP. Recovered
+visid: M9KK695401362, Explanation: Failed due to HW conditions on previous TP. Recovered
+visid: M9S83J1700109, Explanation: Failed due to HW conditions on previous TP. Recovered
+visid: M9WC266700243, Explanation: Failed due to HW conditions on previous TP. Recovered
+visid: M9WC266701501, Explanation: Failed due to HW conditions on previous TP. Recovered
+visid: M9PB483200173, Explanation: Open/Shorts caused by poor contact
+visid: M9PB483200656, Explanation: Open/Shorts caused by poor contact
+visid: M9KK695401135, Explanation: Marginal unit, no change in content / B1306 Open/Shorts caused by poor contact
+visid: M9WC266700234, Explanation: Open/Shorts caused by poor contact
+visid: M9WC266700193, Explanation: Failed due to HW conditions on previous TP. // VCC Cont en recent TP

@@ -1,0 +1,23 @@
+visid: M8LM305300132, Explanation: CRES fail for bad contact, HW issue
+visid: M8NE567700291, Explanation: CRES fail for bad contact, HW issue
+visid: M8BD231400088, Explanation: pass at retest
+visid: M8LM305300489, Explanation: pass at retest
+visid: M8BD231400338, Explanation: pass at retest
+visid: M8BD231400372, Explanation: pass at retest
+visid: M8NE567700651, Explanation: HW related issue
+visid: M8BD231400423, Explanation: CRES fail for bad contact, HW issue
+visid: M8NE567700359, Explanation: CRES fail for bad contact, HW issue
+visid: M8LM305300283, Explanation: CRES fail for bad contact, HW issue
+visid: M8NE567700391, Explanation: CRES fail for bad contact, HW issue
+visid: M8BD231400447, Explanation: CRES fail for bad contact, HW issue
+visid: M8NE567700122, Explanation: CRES fail for bad contact, HW issue
+visid: M8BD231400699, Explanation: CRES fail for bad contact, HW issue
+visid: M8LM305300273, Explanation: CRES fail for bad contact, HW issue
+visid: M8NE567700347, Explanation: HW issue on previous run
+visid: M8LM305300237, Explanation: CRES fail for bad contact, HW issue
+visid: M8LM305300709, Explanation: HW issue on previous run
+visid: M8BD231400337, Explanation: HW issue on previous run
+visid: M8LM305300599, Explanation: HW issue on previous run
+visid: M8BD231400538, Explanation: HW issue on previous run
+visid: M8CQ906300097, Explanation: HW issue on previous run
+visid: M8LM305300425, Explanation: same FB unit passed at retest

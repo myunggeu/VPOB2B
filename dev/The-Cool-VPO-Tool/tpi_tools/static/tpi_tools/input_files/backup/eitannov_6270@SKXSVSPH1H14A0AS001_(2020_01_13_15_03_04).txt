@@ -1,0 +1,1 @@
+visid: M9EN577400603, Explanation: No change to FIVR module. Core 08 FIVR typically fails to respond to Voltage setting during VDAC test. Failed during VPO. 

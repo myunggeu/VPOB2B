@@ -1,0 +1,4 @@
+visid: M7HU061900588, Explanation: bin 41 a false failure.
+visid: M7HU061901349, Explanation: bin 41 a false failure.
+visid: M7J13X7701861, Explanation: bin 41 a false failure.
+visid: M7J13X7701841, Explanation: this unit historically switches between bin 1 and bin 9447 at class hot. If it passes class hot, it fails same test at cold. So this a a valid unit we want to kill with LTTC

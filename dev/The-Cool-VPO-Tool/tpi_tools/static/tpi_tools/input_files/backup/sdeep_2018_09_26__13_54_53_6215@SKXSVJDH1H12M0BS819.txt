@@ -1,0 +1,128 @@
+Blank Entry: M8NE567700347
+visid: M8BD231400216, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8BD231400436, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8BD231400200, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8BD231400265, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8BD231400558, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8BD231400556, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8BD231400451, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8BD231400171, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8BD231400537, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8BD231400084, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8BD231400207, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8LM305300499, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8LM305300705, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8LM305300091, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8LM305300505, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8BD231400139, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8LM305300661, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8LM305300592, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8LM305300347, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8BD231400058, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8BD231400033, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+visid: M8LM305300447, Explanation: Unit recovered from HW issue in the previous TP, NO COOKIES for unit!
+Blank Entry: M8LM305300709
+Blank Entry: M8BD231400337
+Blank Entry: M8LM305300599
+Blank Entry: M8BD231400538
+Blank Entry: M8CQ906300097
+visid: M8CQ906300471, Explanation: CACHE retention marginal failure unit, passing in S813, S815, and S819 TP and failed for S818TP., NO COOKIES for unit!
+visid: M8CQ906300189, Explanation: CACHE retention marginal failure unit, passing in S813, S815, and S819 TP and failed for S818TP., NO COOKIES for unit!
+visid: M8CQ906300076, Explanation: CACHE retention marginal failure unit, passing in S813, S815, and S819 TP and failed for S818TP., NO COOKIES for unit!
+visid: M8BD231400357, Explanation: core20 FIVR vload pin reading all 0V, likely cold socketing issue, NO COOKIES for unit!
+visid: M8NE567700717, Explanation: core09 FIVR vload pin wasn't connected properly, reading all 0V, likely socketing issue at cold, NO COOKIES for unit!
+Blank Entry: M8LM305300421
+visid: M8NE567700455, Explanation: This is a basic tap test; most likely tap induce error; probably passed on rerun, NO COOKIES for unit!
+Blank Entry: M8LM305300440
+Blank Entry: M8BD231400529
+Blank Entry: M8BD231400031
+Blank Entry: M8CQ906300174
+visid: M8LM305300602, Explanation: No cores left for self sig comparison on old run, NO COOKIES for unit!
+Blank Entry: M8NE567700057
+Blank Entry: M8LM305300052
+Blank Entry: M8NE567700327
+Blank Entry: M8BD231400599
+Blank Entry: M8NE567700666
+Blank Entry: M8LM305300157
+Blank Entry: M8LM305300403
+Blank Entry: M8BD231400039
+Blank Entry: M8CQ906300200
+Blank Entry: M8LM305300419
+Blank Entry: M8BD231400597
+Blank Entry: M8CQ906300205
+Blank Entry: M8LM305300698
+Blank Entry: M8NE567700556
+Blank Entry: M8BD231400285
+Blank Entry: M8BD231400566
+Blank Entry: M8NE567700561
+visid: M8NE567700311, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M8BD231400252, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M8BD231400440, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M8NE567700120, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M8LM305300026, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M8NE567700354, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M8CQ906300400, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8LM305300301, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M8BD231400034, Explanation: Unit recovered in tha last run, NO COOKIES for unit!
+visid: M8LM305300201, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M8BD231400381, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M8BD231400487, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M8BD231400036, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M8BD231400049, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M8BD231400625, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+Blank Entry: M8LM305300132
+Blank Entry: M8NE567700291
+Blank Entry: M8LM305300237
+Blank Entry: M8BD231400088
+Blank Entry: M8LM305300425
+Blank Entry: M8LM305300489
+Blank Entry: M8BD231400338
+Blank Entry: M8BD231400372
+Blank Entry: M8NE567700651
+Blank Entry: M8BD231400423
+Blank Entry: M8NE567700359
+Blank Entry: M8LM305300283
+Blank Entry: M8NE567700391
+Blank Entry: M8BD231400447
+Blank Entry: M8NE567700122
+Blank Entry: M8BD231400699
+Blank Entry: M8LM305300273
+visid: M8NE567700398, Explanation: New TP had 2739 because frequency measurement was showing 0s for the FFC domain, seems to be due to tap read-out issue? No update from the module, need to monitor this behavior if it happens again., NO COOKIES for unit!
+Blank Entry: M8BD231400161
+Blank Entry: M8LM305300258
+Blank Entry: M8LM305300706
+Blank Entry: M8NE567700465
+Blank Entry: M8LM305300415
+Blank Entry: M8LM305300446
+visid: M8LM305300276, Explanation: No cores left for self sig comparison, NO COOKIES for unit!
+visid: M8CQ906300070, Explanation: failure caused by the new FC dragon content, NO COOKIES for unit!
+Blank Entry: M8BD231400332
+Blank Entry: M8NE567700657
+Blank Entry: M8LM305300085
+Blank Entry: M8LM305300019
+Blank Entry: M8LM305300390
+Blank Entry: M8NE567700097
+Blank Entry: M8LM305300590
+Blank Entry: M8LM305300417
+Blank Entry: M8LM305300604
+Blank Entry: M8CQ906300403
+Blank Entry: M8BD231400368
+Blank Entry: M8LM305300457
+Blank Entry: M8LM305300448
+Blank Entry: M8BD231400465
+Blank Entry: M8BD231400256
+Blank Entry: M8LM305300032
+Blank Entry: M8LM305300412
+Blank Entry: M8CQ906300105
+Blank Entry: M8NE567700006
+Blank Entry: M8BD231400051
+Blank Entry: M8NE567700267
+Blank Entry: M8LM305300597
+Blank Entry: M8NE567700689
+Blank Entry: M8CQ906300107
+Blank Entry: M8BD231400048
+Blank Entry: M8LM305300529
+Blank Entry: M8BD231400274
+Blank Entry: M8CQ906300126
+Blank Entry: M8CQ906300401
+Blank Entry: M8LM305300418

@@ -1,0 +1,1 @@
+visid: M8S78N4500264, Explanation: old data: HW related (open pin, CRES fail), new data: good contact

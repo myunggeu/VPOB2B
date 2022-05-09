@@ -1,0 +1,4 @@
+visid: M8GL547600019, Explanation: Invalid fail. The unit failed b4821 once in old TP due to HW issue. It has history of B100 under the same TP and also has B100 in new TP
+visid: M8GL547600016, Explanation: Invalid fail. The unit failed b1330 once in old TP due to HW issue. It has history of B100 under the same TP and also has B100 in new TP
+visid: M8N72D0500404, Explanation: Invalid fail. Unit fails B4821 only once due to HW issue.
+visid: M8GL547600830, Explanation: Unit is failing bin5422 only once throughout the history due to possible Tester/HW issue

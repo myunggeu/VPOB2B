@@ -1,0 +1,8 @@
+visid: M8S78N4500076, Explanation: Failed due to HW conditions on previous TP. Recovered
+visid: M8S78N4500528, Explanation: Failed due to HW conditions on previous TP. Recovered
+visid: M8S78N4500646, Explanation: Open/Shorts caused by poor contact
+visid: M8S78N4500026, Explanation: Open/Shorts caused by poor contact
+visid: M8S78N4500526, Explanation: Open/Shorts caused by poor contact
+visid: M8S78N4500611, Explanation: Open/Shorts caused by poor contact
+visid: M8S78N4500642, Explanation: Open/Shorts caused by poor contact
+visid: M8S78N4500344, Explanation: Open/Shorts caused by poor contact

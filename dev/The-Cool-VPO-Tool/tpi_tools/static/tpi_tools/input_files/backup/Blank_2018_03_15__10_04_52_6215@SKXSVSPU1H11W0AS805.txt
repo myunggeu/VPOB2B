@@ -1,0 +1,2 @@
+visid: M73J2G6201268, Explanation: No Reset module related changes to induce / recover failure.  This issue could be related to a DDR voltage dependency since FIVRFUNC failing on BEGIN flow and segment 111a failing.
+visid: M73J2G6201346, Explanation: No Reset module related changes to induce / recover failure.  This issue could be related to a DDR voltage dependency since FIVRFUNC failing on BEGIN flow and segment 111a failing.

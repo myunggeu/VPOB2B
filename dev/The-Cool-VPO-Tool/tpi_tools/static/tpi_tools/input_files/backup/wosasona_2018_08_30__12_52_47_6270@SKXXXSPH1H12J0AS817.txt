@@ -1,0 +1,2 @@
+visid: M7L1Y26800106, Explanation: There are multiple bin1 results from the same testing condition with 3 bin4625 out of 55 tests. should be connection issue
+visid: M7N7K70500802, Explanation: Leakage failure appears to be valid. Unit fails at bin973 most of the time throughout history with only 2 out of 27 times bin4621.

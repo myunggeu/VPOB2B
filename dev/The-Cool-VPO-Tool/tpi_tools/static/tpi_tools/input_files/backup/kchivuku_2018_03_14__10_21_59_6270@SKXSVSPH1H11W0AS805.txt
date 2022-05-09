@@ -1,0 +1,1 @@
+visid: M7SH412400477, Explanation: This unit failed ISEED before. It didnt reach the PLL flow when it failed Bin 9901. Since the ISEED passed this time it reached till PLL. But looks like a defective unit, almost all the SDSFR codes are below the kill limit. During some of the testing process, the unit might have got damaged. Not a test content related issue.

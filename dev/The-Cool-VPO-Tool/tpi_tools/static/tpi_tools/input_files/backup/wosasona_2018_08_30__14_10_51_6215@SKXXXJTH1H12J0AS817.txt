@@ -1,0 +1,4 @@
+visid: M8LM305300338, Explanation: Unit failed B1330 once in VPO history. This is usually due to HW/Tester issue. Fail is not valid
+visid: M8LM305300012, Explanation: Unit failed B1332 once in VPO history. This is usually due to HW/Tester issue. Fail is not valid
+visid: M8NE567700635, Explanation: Unit failed B1332 once in VPO history. This is usually due to HW/Tester issue. Fail is not valid
+visid: M8NE567700533, Explanation: Unit failed B1332 once in VPO history. This is usually due to HW/Tester issue. Fail is not valid

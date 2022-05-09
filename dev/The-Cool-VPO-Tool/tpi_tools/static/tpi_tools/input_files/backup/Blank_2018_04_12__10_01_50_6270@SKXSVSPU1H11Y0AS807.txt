@@ -1,0 +1,2 @@
+visid: M73J2G6201437, Explanation:  The unit not pass any QDF, it has 8 cores but  it didn't meet any valid recovery configuration in actual TP. String result: 1111111111111111110000001100-DOESNT-FIT-COREDEFEATURINGVECTOR/8C-VALUES.
+visid: M7NN267100835, Explanation: unit didn't meet any valid recovery configuration in actual TP. String result: 1111111111111111110011100000-DOESNT-FIT-COREDEFEATURINGVECTOR/8C-VALUES. Not pass any QDF due to have less of 8 cores.

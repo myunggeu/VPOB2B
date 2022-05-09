@@ -1,0 +1,8 @@
+visid: M88J7X3800409, Explanation: Recovered after pattern was yanked
+visid: M88J7X3800422, Explanation: Recovered after pattern was yanked
+visid: M88J7X3800346, Explanation: Recovered after pattern was yanked
+visid: M88J7X3800429, Explanation: Recovered after pattern was yanked
+visid: M88J7X3800532, Explanation: Recovered after pattern was yanked
+visid: M7HU061900740, Explanation: marginal fail
+visid: M88J7X3800458, Explanation: dint get to lttc in old flow
+visid: M7HU061900323, Explanation: failed before lttc

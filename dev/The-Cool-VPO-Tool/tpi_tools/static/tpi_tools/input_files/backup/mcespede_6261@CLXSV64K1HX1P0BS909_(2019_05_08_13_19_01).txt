@@ -1,0 +1,57 @@
+visid: M8KR236200437, Explanation: Unit recovered from HW issue in previous run
+visid: M8KR236200509, Explanation: Unit recovered from HW issue in previous run
+visid: M93Y2R6200390, Explanation: Unit recovered from HW issue in previous run
+visid: M8HC458500513, Explanation: Unit recovered from HW issue in previous run
+visid: M8HC458500199, Explanation: Unit recovered from HW issue in previous run
+visid: M8HC458500302, Explanation: Unit recovered from HW issue in previous run
+visid: M8HC458500312, Explanation: Unit recovered from HW issue in previous run
+visid: M94R2R2100217, Explanation: Unit recovered from HW issue in previous run
+visid: M8KR236200484, Explanation: Unit failed due to HW issue
+visid: M8KR236200529, Explanation: Unit failed due to HW issue
+visid: M8KR236200553, Explanation: Unit failed due to HW issue
+visid: M8KR236200459, Explanation: Unit failed due to HW issue
+visid: M8KR236200527, Explanation: Unit failed due to HW issue
+visid: M8KR236200344, Explanation: Unit failed due to HW issue
+visid: M8KR236200453, Explanation: Unit failed due to HW issue
+visid: M8KR236200209, Explanation: Unit failed due to HW issue
+visid: M8KR236200078, Explanation: Unit failed due to HW issue
+visid: M8KR236200230, Explanation: Unit failed due to HW issue
+visid: M8KR236200202, Explanation: Unit failed due to HW issue
+visid: M8KR236200201, Explanation: Unit failed due to HW issue
+visid: M8KR236200224, Explanation: Unit failed due to HW issue
+visid: M8KR236200213, Explanation: Unit failed due to HW issue
+visid: M8KR236200457, Explanation: Unit failed due to HW issue
+visid: M8KR236200206, Explanation: Unit failed due to HW issue
+visid: M8KR236200083, Explanation: Unit failed due to HW issue
+visid: M8X0G79900340, Explanation: Unit failed due to HW issue
+visid: M8X0G79900275, Explanation: Unit failed due to HW issue
+visid: M8HC458500309, Explanation: Unit failed due to HW issue
+visid: M8HC458500074, Explanation: Unit failed due to HW issue
+visid: M8HC458500352, Explanation: Unit failed due to HW issue
+visid: M8HC458500072, Explanation: Unit failed due to HW issue
+visid: M8HC458500346, Explanation: Unit failed due to HW issue
+visid: M8HC458500420, Explanation: Unit failed due to HW issue
+visid: M8HC458500214, Explanation: Unit failed due to HW issue
+visid: M8HC458500177, Explanation: Unit failed due to HW issue
+visid: M8HC458500167, Explanation: Unit failed due to HW issue
+visid: M8KR236200351, Explanation: Unit failed due to HW issue
+visid: M8HC458500450, Explanation: Unit failed due to HW issue
+visid: M8KR236200016, Explanation: Unit failed due to HW issue
+visid: M94R2R2100133, Explanation: Unit failed due to HW issue
+visid: M8HC458500114, Explanation: Unit failed due to HW issue
+visid: M8KR236200422, Explanation: Unit recovered from HW issue in previous run
+visid: M8KR236200048, Explanation: Unit recovered from HW issue in previous run
+visid: M8X0G79900046, Explanation: Unit recovered from HW issue in previous run
+visid: M93Y2R6200388, Explanation: Unit recovered from HW issue in previous run
+visid: M8HC458500186, Explanation: Unit recovered from HW issue in previous run
+visid: M8HC458500129, Explanation: Unit recovered from HW issue in previous run
+visid: M8HC458500120, Explanation: Unit recovered from HW issue in previous run
+visid: M8KR236200334, Explanation: Unit failed due to HW issue
+visid: M8KR236200158, Explanation: Unit failed due to HW issue
+visid: M8KR236200312, Explanation: Unit failed due to HW issue
+visid: M8KR236200232, Explanation: Unit failed due to HW issue
+visid: M8X0G79900497, Explanation: Unit failed due to HW issue
+visid: M8X0G79900308, Explanation: Unit failed due to HW issue
+visid: M8X0G79900362, Explanation: Unit failed due to HW issue
+visid: M8HC458500222, Explanation: Unit failed due to HW issue
+visid: M8HC458500057, Explanation: Unit failed due to HW issue

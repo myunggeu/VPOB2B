@@ -1,0 +1,4 @@
+visid: M7DR176200485, Explanation: Bad contact, HW issue
+visid: M7PU387100368, Explanation: CRES fail, HW issue
+visid: M7774QA300867, Explanation: CRES fail, HW issue
+visid: M7PU387100044, Explanation: CRES fail, HW issue

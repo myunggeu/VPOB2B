@@ -1,0 +1,39 @@
+visid: M7L1Y26800030, Explanation: CRES fail, HW issue
+visid: M7L1Y26800131, Explanation: 
+visid: M7L1Y26800147, Explanation: 
+visid: M7L1Y26800289, Explanation: 
+visid: M7N7K70500034, Explanation: 
+visid: M7N7K70500045, Explanation: 
+visid: M7N7K70500051, Explanation: 
+visid: M7N7K70500052, Explanation: 
+visid: M7N7K70500054, Explanation: 
+visid: M7N7K70500091, Explanation: Testing issu in previous TP.  No change in content
+visid: M7N7K70500150, Explanation: 
+visid: M7N7K70500175, Explanation: 
+visid: M7N7K70500250, Explanation: unit is failing b4421 only once in history in the last run where the fail pattern has different configurations.
+visid: M7N7K70500270, Explanation: Marginal core. no change in content. 
+visid: M7N7K70500398, Explanation: invalid 2737 due to socketing issue at cold
+visid: M7N7K70500415, Explanation: Testing issu in previous TP.  No change in content
+visid: M7N7K70500520, Explanation: 
+visid: M7N7K70500859, Explanation: Testing issu in previous TP.  No change in content
+visid: M7N7K70501109, Explanation: 
+visid: M7N7K70501310, Explanation: 
+visid: M7N7K70501372, Explanation: 
+visid: M7SH412400011, Explanation: Testing issu in previous TP.  No change in content
+visid: M7SH412400074, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4821 out of 12 tests
+visid: M7SH412400586, Explanation: 
+visid: M7SH412400598, Explanation: 
+visid: M7SH412400625, Explanation: Testing issu in previous TP.  No change in content
+visid: M7SH412400766, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 12 tests
+visid: M7SH412400845, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 7 tests
+visid: M7SH412400854, Explanation: 
+visid: M7SH412400890, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 12 tests
+visid: M7SH412401008, Explanation: 
+visid: M7SH412401491, Explanation: 
+visid: M7N7K70500579, Explanation: suspect HW issue, need to retest
+visid: M7L1Y26800282, Explanation: marginal fail, suspect HW issue, should recover at retest
+visid: M7SH412400494, Explanation: 
+visid: M7SH412401180, Explanation: 
+visid: M7N7K70501417, Explanation: CRES fail, HW issue
+visid: M7N7K70501424, Explanation: CRES fail, HW issue
+visid: M7N7K70500887, Explanation: suspect HW issue, need to retest

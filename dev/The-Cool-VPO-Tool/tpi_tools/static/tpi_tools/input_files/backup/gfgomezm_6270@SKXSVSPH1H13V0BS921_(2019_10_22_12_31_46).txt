@@ -1,0 +1,13 @@
+visid: M9PB483200374, Explanation: B51 Caused by OPENS/SHORTS. HW related
+visid: M9PB483200497, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9PB483200316, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M99S9J4201108, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9EN577401748, Explanation: B9 Caused by OPENS/SHORTS. HW related
+visid: M9KK695400570, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9EN577400729, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9PB483200255, Explanation: B51 Caused by OPENS/SHORTS. HW related
+visid: M9PB483200375, Explanation: B51 Caused by OPENS/SHORTS. HW related
+visid: M9EN577400722, Explanation: B51 Caused by OPENS/SHORTS. HW related
+visid: M9KK695401135, Explanation: B13 Caused by OPENS/SHORTS. HW related
+visid: M9PB483200015, Explanation: B9 Caused by OPENS/SHORTS. HW related
+visid: M9PB483200538, Explanation: B9 Caused by OPENS/SHORTS. HW related

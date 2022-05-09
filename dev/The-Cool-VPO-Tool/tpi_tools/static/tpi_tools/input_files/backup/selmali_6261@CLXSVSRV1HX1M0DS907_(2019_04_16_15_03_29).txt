@@ -1,0 +1,3 @@
+visid: M9F28E0200139, Explanation: Marginal failure in the old run
+visid: M9F28E0200437, Explanation: Looks like a marginal retention failure in the VSA domain, and now it is passing. Since there was no change in cache, this could be a hardware issue or the test point was pretty close to the falling edge of the unit that it failed
+visid: M9XJ460201386, Explanation: Unit failed in the old run for cache rom LTTC screen because of the hard coded ratio 44. once we reverted back to binmatrix for ratios, the unit is passing

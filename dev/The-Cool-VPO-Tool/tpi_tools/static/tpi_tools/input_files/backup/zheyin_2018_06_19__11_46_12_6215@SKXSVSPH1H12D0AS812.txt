@@ -1,0 +1,4 @@
+visid: M7A176X401241, Explanation: CRES fail, HW issue
+visid: M7N7K70500061, Explanation: CRES fail, HW issue
+visid: M7N7K70500388, Explanation: CRES fail, HW issue
+visid: M7N7K70500417, Explanation: CRES fail, HW issue

@@ -1,0 +1,3 @@
+visid: M8S78N4500505, Explanation: Old bin was due to a margin fail. This test has instability in test methodology and test hardware.
+visid: M8S78N4500490, Explanation: Marginal fail, same results in the re-test flow. Could be socketing issue or unit degradation.
+visid: M8S78N4500580, Explanation: Marginal fail, same results in the re-test flow. Could be socketing issue or unit degradation.

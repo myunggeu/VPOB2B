@@ -1,0 +1,3 @@
+visid: M7J13X7701123, Explanation: Unit recovered from HW Issue 
+visid: M7J13X7700678, Explanation: Unit recovered from HW Issue 
+visid: M7HU061901506, Explanation: Unit failed after retesting bin1306. SKX_MIO_H_C_PYTHON_NONE_END_VOXDATAMIN. Caused by HW issue.

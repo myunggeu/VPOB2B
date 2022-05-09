@@ -1,0 +1,11 @@
+visid: M9V06E8801319, Explanation: Failed due to retest
+visid: M9V06E8801453, Explanation: Failed due to retest
+visid: M9V06E8800991, Explanation: Failed due to retest
+visid: M9V06E8800915, Explanation: Marginal measure close to Lower Limit
+visid: M9V06E8801281, Explanation: Failed due to retest
+visid: M9V06E8801391, Explanation: Failed due to retest
+visid: M9V06E8800339, Explanation: Marginal measure close to Upper Limit
+visid: M9V06E8800565, Explanation: Marginal measure close to Upper Limit
+visid: M9V06E8801175, Explanation: Failed due to retest
+visid: M9V06E8801909, Explanation: Solid bin1500
+visid: M9V06E8801354, Explanation: Marginal measure close to Upper Limit

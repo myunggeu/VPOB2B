@@ -1,0 +1,5 @@
+visid: M7G050T401114, Explanation: one marginal core failing
+visid: M7G050T400743, Explanation: fc pattern not present at sort
+visid: M7G050T401098, Explanation: fc pattern not present at sort
+visid: M7G050T400964, Explanation: dint get to sbft in old run
+visid: M7G050T400983, Explanation: failed an additional core

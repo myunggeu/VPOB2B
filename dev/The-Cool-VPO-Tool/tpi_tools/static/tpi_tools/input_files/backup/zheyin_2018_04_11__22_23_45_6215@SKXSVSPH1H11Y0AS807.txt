@@ -1,0 +1,44 @@
+visid: M7N7K70500773, Explanation: bad contact causing thermal and Vcc fail, HW issue
+visid: M7L1Y26800311, Explanation: bad contact causing thermal and Vcc fail, HW issue
+visid: M7L1Y26800098, Explanation: CRES fail, HW issue
+visid: M7L1Y26800303, Explanation: CRES fail, HW issue
+visid: M7N7K70500420, Explanation: CRES fail, HW issue
+visid: M7N7K70500435, Explanation: CRES fail, HW issue
+visid: M7N7K70500533, Explanation: CRES fail, HW issue
+visid: M7SH412400541, Explanation: recovered at rerun
+visid: M7N7K70500415, Explanation: need to rerun to confirm, but bin15 shows HW commonality, should be HW issue
+visid: M7N7K70501410, Explanation: CRES fail, HW issue
+visid: M7SH412400102, Explanation: CRES fail, HW issue
+visid: M7SH412400121, Explanation: CRES fail, HW issue
+visid: M7SH412400652, Explanation: CRES fail, HW issue
+visid: M7SH412400672, Explanation: CRES fail, HW issue
+visid: M7N7K70501409, Explanation: CRES fail, HW issue
+visid: M7SH412400097, Explanation: CRES fail, HW issue
+visid: M7SH412401084, Explanation: CRES fail, HW issue
+visid: M7L1Y26800030, Explanation: CRES fail, HW issue
+visid: M7L1Y26800294, Explanation: CRES fail, HW issue
+visid: M7N7K70500004, Explanation: CRES fail, HW issue
+visid: M7N7K70500483, Explanation: CRES fail, HW issue
+visid: M7SH412401077, Explanation: CRES fail, HW issue
+visid: M7SH412401551, Explanation: CRES fail, HW issue
+visid: M7L1Y26800087, Explanation: CRES fail, HW issue
+visid: M7N7K70500840, Explanation: HW issue at previous run
+visid: M7SH412400120, Explanation: CRES fail, HW issue
+visid: M7SH412401180, Explanation: CRES fail, HW issue
+visid: M7SH412400080, Explanation: CRES fail, HW issue
+visid: M7N7K70500314, Explanation: CRES fail at previous run, HW issue
+visid: M7N7K70500575, Explanation: CRES fail at previous run, HW issue
+visid: M7SH412401435, Explanation: CRES fail at previous run, HW issue
+visid: M7SH412400755, Explanation: HW issue at previous run
+visid: M7N7K70500650, Explanation: HW issue at previous run
+visid: M7N7K70501087, Explanation: CRES fail at previous run, HW issue
+visid: M7SH412401553, Explanation: CRES fail at previous run, HW issue
+visid: M7SH412401150, Explanation: CRES fail at previous run, HW issue
+visid: M7N7K70500127, Explanation: CRES fail at previous run, HW issue
+visid: M7SH412401102, Explanation: CRES fail at previous run, HW issue
+visid: M7N7K70500255, Explanation: CRES fail at previous run, HW issue
+visid: M7N7K70500360, Explanation: CRES fail at previous run, HW issue
+visid: M7N7K70500523, Explanation: CRES fail at previous run, HW issue
+visid: M7SH412400533, Explanation: CRES fail at previous run, HW issue
+visid: M7L1Y26800092, Explanation: CRES fail at previous run, HW issue
+visid: M7N7K70501424, Explanation: CRES fail, HW issue

@@ -1,0 +1,2 @@
+visid: M88J7X3800079, Explanation: Bin 47 is a false failure, most likely tester issue
+visid: M88J7X3800912, Explanation: New super scan content is catching failure

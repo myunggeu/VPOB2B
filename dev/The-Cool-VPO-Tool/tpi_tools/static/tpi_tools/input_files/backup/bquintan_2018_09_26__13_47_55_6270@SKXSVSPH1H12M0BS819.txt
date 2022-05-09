@@ -1,0 +1,2 @@
+visid: M7A176X401207, Explanation: tap is not alive;This is a basic tap test; most likely tap induce error; please rerun
+visid: M7N7K70500234, Explanation: cannot confirm fuse download ; please rerun

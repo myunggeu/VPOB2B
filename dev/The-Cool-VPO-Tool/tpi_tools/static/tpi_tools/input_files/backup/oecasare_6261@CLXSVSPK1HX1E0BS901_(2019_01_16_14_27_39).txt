@@ -1,0 +1,5 @@
+visid: M8R42V9100075, Explanation: Hardware connection issue, recovered in New run
+visid: M83G18S200416, Explanation: Hardware connection issue, recovered in New run
+visid: M8R42V9100217, Explanation: Hardware connection issue, recovered in New run
+visid: M8R42V9100122, Explanation: Hardware connection issue, recovered in New run
+visid: M8R42V9100121, Explanation: Hardware connection issue, recovered in New run

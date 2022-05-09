@@ -1,0 +1,5 @@
+visid: D970U5V201085, Explanation: Consistently passing unit, recovered from last run, likely testing issue
+visid: D970U5V201054, Explanation: Consistently passing unit, recovered from last run, likely testing issue
+visid: D905541K00540, Explanation: Marginal unit, lots of bin switches, not TP related
+visid: D970U5V201083, Explanation: Consistently passing unit, matches VPO with lots of failures on this area, likely HW issue. Not TP related.
+visid: D905541K00538, Explanation: Consistently passing unit, matches VPO with lots of failures on this area, likely HW issue. Not TP related.

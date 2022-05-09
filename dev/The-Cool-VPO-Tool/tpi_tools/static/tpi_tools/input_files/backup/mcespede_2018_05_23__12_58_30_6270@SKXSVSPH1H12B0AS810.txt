@@ -1,0 +1,51 @@
+visid: M7N7K70500962, Explanation: Historically B1. Unit recovered from HW issue.
+visid: M7N7K70500497, Explanation: HW related failure. Bad contact.
+visid: M7N7K70500594, Explanation: HW related failure. Bad contact.
+visid: M7N7K70500619, Explanation: HW related failure. Bad contact.
+visid: M7N7K70500649, Explanation: HW related failure. Bad contact.
+visid: M7N7K70500954, Explanation: Unit recovered in retest
+visid: M7N7K70501179, Explanation: Unit recovered in retest
+visid: M7N7K70501393, Explanation: HW related failure. Bad contact.
+visid: M7SH412400017, Explanation: HW related failure. Bad contact
+visid: M7SH412400964, Explanation: HW related failure. Bad contact.
+visid: M7N7K70500367, Explanation: ODT kill limits adjusted.
+visid: M7N7K70500645, Explanation: Historically B1. Unit recovered from HW issue.
+visid: M7N7K70501372, Explanation: Historically B1. Unit recovered from HW issue.
+visid: M7N7K70501431, Explanation: Historically B1. Unit recovered from HW issue.
+visid: M7N7K70501435, Explanation: Historically B1. Unit recovered from HW issue.
+visid: M7SH412400165, Explanation: Historically B1. Unit recovered from HW issue.
+visid: M7SH412400475, Explanation: Historically B1. Unit recovered from HW issue.
+visid: M7SH412400787, Explanation: Historically B1. Unit recovered from HW issue.
+visid: M7N7K70501246, Explanation: Historically B1. Unit recovered from HW issue.
+visid: M73K2D8500873, Explanation: Unit recovered in retest
+visid: M7N7K70500016, Explanation: Unit recovered in retest.
+visid: M7N7K70500045, Explanation: Unit recovered in retest
+visid: M7N7K70500054, Explanation: Unit recovered in retest
+visid: M7N7K70500066, Explanation: Unit recovered in retest
+visid: M7N7K70500074, Explanation: Unit recovered in retest
+visid: M7N7K70500088, Explanation: Unit recovered in retest
+visid: M7N7K70500487, Explanation: HW related failure. Bad contact.
+visid: M7N7K70500501, Explanation: HW related failure. Bad contact.
+visid: M7N7K70500523, Explanation: HW related failure. Bad contact.
+visid: M7N7K70500550, Explanation: HW related failure. Bad contact.
+visid: M7N7K70500606, Explanation: HW related failure. Bad contact.
+visid: M7N7K70500608, Explanation: HW related failure. Bad contact.
+visid: M7N7K70501068, Explanation: Unit recovered in retest
+visid: M7N7K70501081, Explanation: Unit recovered in retest
+visid: M7N7K70501115, Explanation: HW related failure. Bad contact.
+visid: M7N7K70501123, Explanation: Unit recovered in retest
+visid: M7N7K70501132, Explanation: Unit recovered in retest
+visid: M7N7K70501187, Explanation: Unit recovered in retest
+visid: M7N7K70501210, Explanation: Unit recovered in retest
+visid: M7N7K70501231, Explanation: Unit recovered in retest
+visid: M7N7K70501321, Explanation: Unit recovered in retest
+visid: M7N7K70501385, Explanation: HW related failure. Bad contact.
+visid: M7N7K70501403, Explanation: HW related failure. Bad contact.
+visid: M7SH412400164, Explanation: HW related failure. Bad contact.
+visid: M7SH412400288, Explanation: HW related failure. Bad contact.
+visid: M7SH412400308, Explanation: HW related failure. Bad contact.
+visid: M7SH412400471, Explanation: HW related failure. Bad contact.
+visid: M7SH412400652, Explanation: HW related failure. Bad contact.
+visid: M7N7K70500400, Explanation: HIstorically B1 unit. HW related failure.
+visid: M7N7K70501147, Explanation: Unit recovered in retest
+visid: M7SH412400845, Explanation: Historically B1 unit. HW related failure.

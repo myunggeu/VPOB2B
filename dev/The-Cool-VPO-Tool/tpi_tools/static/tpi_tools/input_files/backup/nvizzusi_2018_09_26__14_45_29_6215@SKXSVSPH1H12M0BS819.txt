@@ -1,0 +1,2 @@
+visid: M7N7K70500382, Explanation: SBFT
+visid: M7N7K70500635, Explanation: cache is failing same, this unit is usually bin 96, bin 43 owner to explain.

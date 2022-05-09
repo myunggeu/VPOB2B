@@ -1,0 +1,15 @@
+visid: M7HU061900870, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7HU061900923, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7J13X7701580, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7HU061901079, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7HU061900996, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7J13X7700822, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7T131S100186, Explanation: There is no bin4625 in the unit history
+visid: M7J13X7700740, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7HU061901045, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7HU061901093, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7J13X7700951, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7J13X7702153, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7HX231100097, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7J13X7702097, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7T131S100044, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue

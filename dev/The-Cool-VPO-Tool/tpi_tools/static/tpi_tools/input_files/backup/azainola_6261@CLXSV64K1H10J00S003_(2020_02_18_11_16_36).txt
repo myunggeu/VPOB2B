@@ -1,0 +1,8 @@
+visid: M8HC458500114, Explanation: Unit recovered from HW Issue
+visid: M8HC458500488, Explanation: Unit failed due to an open in DDR012_SPDSDA1
+visid: M8HC458500375, Explanation: Unit failed after retesting bin9792. PTH_THRSOAK_THRSOAK_X_TDAU_X_START_X_X_X_X_CHKDIEFORCE_HDMT. Induced by HW Issue.  
+visid: M8HC458500166, Explanation:  Unit failed after retesting bin5423. SIO_PCIE_AC1_REUTANELB_X_FAST_K_END_X_VCCIOVCCSA_VMIN. Induced by HW Issue. 
+visid: M8HC458500515, Explanation:  Unit failed after retesting bin4625. SIO_KTI_DC1_DFXLEGCHK_X_CMEM_K_END_X_VCCIOVCCSA_VNOM_X_VIADELAMCMEM. Induced by HW Issue.  
+visid: M8HC458500340, Explanation: Unit failed after retesting bin4821. SIO_PCIE_DC1_DFXLEGCHK_RX_CMEM_K_END_X_VCCIOVCCSA_VNOM_X_DET. Induced by HW Issue.  
+visid: M8HC458500497, Explanation:   Unit failed after retesting bin4821. SIO_PCIE_DC1_DFXLEGCHK_RX_CMEM_K_END_X_VCCIOVCCSA_VNOM_X_DET. Induced by HW Issue.  
+visid: M8HC458500304, Explanation: Unit failed after retesting bin1321. MIO_DDR_C_PYTHON_NONE_END_VOXMDTLMIN. Induced by HW Issue.  

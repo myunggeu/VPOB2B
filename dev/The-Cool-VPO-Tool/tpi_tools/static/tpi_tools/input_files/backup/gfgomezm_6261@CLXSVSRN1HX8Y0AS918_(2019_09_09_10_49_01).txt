@@ -1,0 +1,12 @@
+visid: M9V06E8802090, Explanation: Unit recovered from a tester issue. Recovered RV
+visid: M9V06E8800925, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8800173, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8801176, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8800138, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8802046, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8801133, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8800387, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8800180, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8800557, Explanation: B1306 caused by OPENs. HW problem
+visid: M9V06E8801479, Explanation: Real B9 reject. Failed by OPENs before reaching LKG test.
+visid: M9V06E8801715, Explanation: B1306 caused by OPENs. HW problem on previous TP.

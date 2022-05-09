@@ -1,0 +1,68 @@
+visid: M7SH412401027, Explanation: Unit failed due to HW issue
+visid: M7SH412401164, Explanation: Unit failed due to HW issue
+visid: M7SH412401196, Explanation: Unit failed due to HW issue
+visid: M7N7K70500491, Explanation: Unit failed due to HW issue
+visid: M7L1Y26800132, Explanation: Unit failed due to HW issue
+visid: M7N7K70500212, Explanation: Unit failed due to HW issue
+visid: M7SH412400754, Explanation: Unit failed due to HW issue
+visid: M7N7K70500804, Explanation: Unit failed due to HW issue
+visid: M7N7K70501419, Explanation: Unit failed due to HW issue
+visid: M7N7K70501216, Explanation: Unit failed due to HW issue
+visid: M7SH412400970, Explanation: Unit failed due to HW issue
+visid: M7N7K70500995, Explanation: Unit failed due to HW issue
+visid: M7SH412401046, Explanation: Unit failed due to HW issue
+visid: M7SH412400082, Explanation: Unit failed due to HW issue
+visid: M7N7K70500350, Explanation: Unit failed due to HW issue
+visid: M7N7K70501128, Explanation: recovered from HW issue
+visid: M7N7K70500549, Explanation: recovered from HW issue
+visid: M7N7K70500648, Explanation: recovered from HW issue
+visid: M7SH412400802, Explanation: recovered from HW issue
+visid: M7N7K70500290, Explanation: recovered from HW issue
+visid: M7N7K70500164, Explanation: Unit failed due to HW issue
+visid: M7SH412400408, Explanation: recover at retest
+visid: M7N7K70500906, Explanation: Unit failed due to HW issue
+visid: M7SH412401461, Explanation: Unit failed due to HW issue
+visid: M7SH412401051, Explanation: recovered from HW issue
+visid: M7N7K70501399, Explanation: recovered from HW issue
+visid: M7N7K70500376, Explanation: recovered from HW issue
+visid: M7SH412401369, Explanation: recovered from HW issue
+visid: M7SH412400423, Explanation: recovered from HW issue
+visid: M7N7K70500443, Explanation: recovered from HW issue
+visid: M7SH412400776, Explanation: recovered from HW issue
+visid: M7SH412400329, Explanation: recovered from HW issue
+visid: M7SH412400458, Explanation: recovered from HW issue
+visid: M7N7K70500637, Explanation: recovered from HW issue
+visid: M7SH412401371, Explanation: recovered from HW issue
+visid: M7SH412401053, Explanation: recovered from HW issue
+visid: M7SH412400845, Explanation: recovered from HW issue
+visid: M7SH412400615, Explanation: recovered from HW issue
+visid: M7SH412400349, Explanation: recovered from HW issue
+visid: M7SH412400489, Explanation: recovered from HW issue
+visid: M7SH412400645, Explanation: recovered from HW issue
+visid: M7SH412400825, Explanation: recovered from HW issue
+visid: M7SH412400377, Explanation: recovered from HW issue
+visid: M7SH412400759, Explanation: recovered from HW issue
+visid: M7SH412401399, Explanation: recovered from HW issue
+visid: M7SH412400542, Explanation: recovered from HW issue
+visid: M7N7K70500409, Explanation: recovered from HW issue
+visid: M7SH412401464, Explanation: recovered from HW issue
+visid: M73K2D8500995, Explanation: recovered from HW issue
+visid: M7N7K70500731, Explanation: recovered from HW issue
+visid: M7SH412400121, Explanation: recovered from HW issue
+visid: M7SH412400099, Explanation: recovered from HW issue
+visid: M7SH412400995, Explanation: recovered from HW issue
+visid: M7SH412400787, Explanation: recovered from HW issue
+visid: M7N7K70500699, Explanation: recovered from HW issue
+visid: M7SH412401133, Explanation: recovered from HW issue
+visid: M7N7K70500796, Explanation: recovered from HW issue
+visid: M7SH412400822, Explanation: recovered from HW issue
+visid: M7N7K70501418, Explanation: recovered from HW issue
+visid: M7N7K70501036, Explanation: recovered from HW issue
+visid: M7SH412400483, Explanation: SIO fail
+visid: M7SH412401570, Explanation: Unit failed due to HW issue
+visid: M7SH412400972, Explanation: Unit failed due to HW issue
+visid: M7SH412400400, Explanation: Unit failed due to HW issue
+visid: M7SH412400514, Explanation: Unit failed due to HW issue
+visid: M7SH412400259, Explanation: Unit failed due to HW issue
+visid: M7SH412400438, Explanation: Unit failed due to HW issue
+visid: M7SH412400607, Explanation: Unit failed due to HW issue

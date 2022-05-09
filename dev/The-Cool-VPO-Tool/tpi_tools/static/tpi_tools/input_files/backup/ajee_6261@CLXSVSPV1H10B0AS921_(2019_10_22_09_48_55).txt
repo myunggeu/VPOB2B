@@ -1,0 +1,17 @@
+visid: M9FD363600206, Explanation: Unit is failing bin 1551 only once throughout the history. Most likely a tester issue
+visid: M9DE105400804, Explanation: Unit is failing bin 4331 only once throughout the history. Most likely a tester issue
+visid: M9DE105401157, Explanation: Unit is failing bin 4821 only once throughout the history. Most likely a tester issue
+visid: M9DE105400461, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue
+visid: M9DE105401378, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue
+visid: M9FD363600167, Explanation: Unit is failing bin 4621 only once throughout the history. Most likely a tester issue
+visid: M9FD363600450, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 1500 out of 14 tests. should be connection issue
+visid: M9DE105400849, Explanation: Unit is failing bin 1521 only once throughout the history. Most likely a tester issue
+visid: M9DE105400156, Explanation: Unit is failing bin 1525 only once throughout the history. Most likely a tester issue
+visid: M9DE105400744, Explanation: Unit is failing bin 1551 only once throughout the history. Most likely a tester issue
+visid: M9DE105401147, Explanation: Unit is failing bin 1552 only once throughout the history. Most likely a tester issue
+visid: M9DE105401150, Explanation: Unit is failing bin 5413 only once throughout the history. Most likely a tester issue
+visid: M9DE105401421, Explanation: Unit is failing bin 4821 only once throughout the history. Most likely a tester issue
+visid: M9DE105400549, Explanation: Unit is failing bin 4821 only once throughout the history. Most likely a tester issue
+visid: M9DE105401372, Explanation: Unit is failing bin 4821 only once throughout the history. Most likely a tester issue
+visid: M9DE105401375, Explanation: Unit is failing bin 4821 only once throughout the history. Most likely a tester issue
+visid: M9FD363600787, Explanation: Unit is failing bin 5433 only once throughout the history. Most likely a tester issue

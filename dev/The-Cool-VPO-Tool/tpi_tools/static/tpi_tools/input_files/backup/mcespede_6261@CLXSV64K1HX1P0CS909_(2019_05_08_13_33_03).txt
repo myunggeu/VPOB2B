@@ -1,0 +1,5 @@
+visid: M8HC458500302, Explanation: Unit recovered from HW issue in previous run
+visid: M8HC458500199, Explanation: Unit recovered from HW issue in previous run
+visid: M8HC458500513, Explanation: Unit recovered from HW issue in previous run
+visid: M8HC458500313, Explanation: Unit failed due to HW issue
+visid: M8HC458500186, Explanation: Unit recovered from HW issue in previous run

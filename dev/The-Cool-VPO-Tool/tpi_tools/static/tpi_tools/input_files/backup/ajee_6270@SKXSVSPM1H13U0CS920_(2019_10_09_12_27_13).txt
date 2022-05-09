@@ -1,0 +1,5 @@
+visid: M7J13X7701106, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7J13X7700803, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4625 out of 6 tests. should be connection issue
+visid: M7J13X7701186, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7J13X7700726, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7J13X7700837, Explanation: Unit is failing bin5433 only once throughout the history. Most likely a tester issue

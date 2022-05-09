@@ -1,0 +1,4 @@
+visid: M73J2G6200914, Explanation: Marginal retention failure in the old run
+visid: M7NN267101043, Explanation: In the old run, all cores failed for u_mlcdatksx_vcoreminfreq1_CHKCOREF1, u_mlctagksx_vcoreminfreq1_CHKCOREF1 and c_crfallksx_vcoreminfreq1_CHKCOREF1 This looks like a hardware issue since new changes were made to the cache module
+visid: M73J2G6200100, Explanation: In the new run, all cores failed for u_mlcdatksx_vcoreminfreq1_CHKCOREF1, u_mlctagksx_vcoreminfreq1_CHKCOREF1 and c_crfallksx_vcoreminfreq1_CHKCOREF1 This looks like a hardware issue since new changes were made to the cache module
+visid: M7NN267101306, Explanation: In the new run, all cores failed for u_mlcdatksx_vcoreminfreq1_CHKCOREF1, u_mlctagksx_vcoreminfreq1_CHKCOREF1 and c_crfallksx_vcoreminfreq1_CHKCOREF1 This looks like a hardware issue since new changes were made to the cache module

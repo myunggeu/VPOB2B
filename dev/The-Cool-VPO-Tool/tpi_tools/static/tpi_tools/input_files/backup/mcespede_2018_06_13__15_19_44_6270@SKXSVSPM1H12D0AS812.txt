@@ -1,0 +1,10 @@
+visid: M7J13X7700697, Explanation: Unit historically B1. HW issue related. TIU communality found.
+visid: M7J13X7700775, Explanation: Unit historically B1. HW issue related. TIU communality found.
+visid: M7J13X7700784, Explanation: Unit historically B1. HW issue related. TIU communality found.
+visid: M7J13X7700820, Explanation: Unit historically B1. HW issue related. TIU communality found.
+visid: M7J13X7701077, Explanation: Unit historically B1. HW issue related. TIU communality found.
+visid: M7J13X7701129, Explanation: Unit historically B1. HW issue related. TIU communality found.
+visid: M7J13X7701177, Explanation: Unit historically B1. HW issue related. TIU communality found.
+visid: M7J13X7702238, Explanation: Unit historically B1. HW issue related. TIU communality found.
+visid: M88J7X3800611, Explanation: Hard B9 unit. In new TP din't reach LKG test.
+visid: M7HU061901149, Explanation: Historically B1 unit. HW related issue

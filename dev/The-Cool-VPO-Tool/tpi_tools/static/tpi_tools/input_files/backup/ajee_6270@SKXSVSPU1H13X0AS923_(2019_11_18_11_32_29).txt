@@ -1,0 +1,14 @@
+visid: M73J2G6201220, Explanation: Unit is failing bin 5423 only once throughout the history. Most likely a tester issue
+visid: M73J2G6201202, Explanation: Unit fails at bin 9496 most of the time throughout history with only 2 out of 7 times bin 1502
+visid: M73J2G6200754, Explanation: Unit is failing bin 1502 only once throughout the history. Most likely a tester issue
+visid: M7NN267100966, Explanation: Unit is failing bin 1502 only once throughout the history. Most likely a tester issue
+visid: M73J2G6200848, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 1502 out of 8 tests. should be connection issue
+visid: M7NN267100898, Explanation: Unit is failing bin 1502 only once throughout the history. Most likely a tester issue
+visid: M7NN267100800, Explanation: Unit is failing bin 1502 only once throughout the history. Most likely a tester issue
+visid: M7NN267101056, Explanation: Unit is failing bin 1502 only once throughout the history. Most likely a tester issue
+visid: M7NN267101158, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin1502 out of 7 tests. should be connection issue
+visid: M7NN267100658, Explanation: Unit is failing bin 1562 only once throughout the history. Most likely a tester issue
+visid: M7NN267100779, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue
+visid: M73J2G6201102, Explanation: Unit is failing bin 4821 only once throughout the history. Most likely a tester issue
+visid: M7NN267101002, Explanation: Unit is failing bin 4821 only once throughout the history. Most likely a tester issue
+visid: M7NN267101026, Explanation: Unit is failing bin 5432 only once throughout the history. Most likely a tester issue

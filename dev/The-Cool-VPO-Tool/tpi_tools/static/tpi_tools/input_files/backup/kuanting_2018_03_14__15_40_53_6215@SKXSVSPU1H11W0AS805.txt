@@ -1,0 +1,2 @@
+visid: M73J2G6200756, Explanation: Unit is failing bin1131 only once throughout the history. Most likely a tester issue
+visid: M73J2G6200068, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue

@@ -1,0 +1,12 @@
+visid: M9PB483200248, Explanation: Unit is failing bin 4313 only once throughout the history. Most likely a tester issue
+visid: M9PB483200375, Explanation: Unit is failing bin 4621 only once throughout the history. Most likely a tester issue
+visid: M9WC266701415, Explanation: Unit is failing bin 5436 only once throughout the history. Most likely a tester issue
+visid: M99S9J4201056, Explanation: Unit is failing bin 4621 only once throughout the history. Most likely a tester issue
+visid: M9EN577400815, Explanation: Unit is failing bin 4623 only once throughout the history. Most likely a tester issue
+visid: M9EN577400895, Explanation: Unit is failing bin 5422 only once throughout the history. Most likely a tester issue
+visid: M9EN577401011, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin 4621 out of 17 tests
+visid: M9KK695401120, Explanation: Unit is failing bin 1306 only once throughout the history. Most likely a tester issue
+visid: M9EN577400649, Explanation: There are multiple bin 1 results from the same testing condition with 8 bin1502 out of 22 tests. should be connection issue
+visid: M9WC266700572, Explanation: There are multiple bin 1 results from the same testing condition with 4 bin4622 out of 39 tests. should be connection issue
+visid: M9PB483200282, Explanation: Unit is failing bin 5432 only once throughout the history. Most likely a tester issue
+visid: M9KK695400576, Explanation: Unit fails at bin 5436 15 out of 22 tests in the history. Should be a valid failure

@@ -1,0 +1,37 @@
+visid: M7HU061900285, Explanation: Previous failed caused by HW (OPENS/SHORT), NO COOKIES for unit!
+Blank Entry: M7HU061900100
+visid: M7HU061900926, Explanation: Previous failed caused by HW (OPENS/SHORT), NO COOKIES for unit!
+Blank Entry: M7HU061901105
+visid: M7HU061900638, Explanation: Previous failed caused by HW (OPENS/SHORT), NO COOKIES for unit!
+Blank Entry: M88J7X3800006
+Blank Entry: M88J7X3800090
+Blank Entry: M88J7X3800824
+visid: M88J7X3800240, Explanation: Unit failed bin 2018 only once throughout the history. Recovered to bin 100, NO COOKIES for unit!
+visid: M88J7X3800219, Explanation: Unit failed bin 2122 only once throughout the history. Recovered to bin 100, NO COOKIES for unit!
+Blank Entry: M88J7X3800821
+Blank Entry: M7J13X7701299
+visid: M7J13X7701184, Explanation: Previous failed caused by HW (OPENS/SHORT), NO COOKIES for unit!
+visid: M7J13X7700948, Explanation: Previous failed caused by HW (OPENS/SHORT), NO COOKIES for unit!
+visid: M7J13X7701118, Explanation: Previous failed caused by HW (OPENS/SHORT), NO COOKIES for unit!
+Blank Entry: M7J13X7701123
+visid: M7J13X7700553, Explanation: Previous failed caused by HW (OPENS/SHORT), NO COOKIES for unit!
+visid: M7J13X7700962, Explanation: Previous failed caused by HW (OPENS/SHORT), NO COOKIES for unit!
+Blank Entry: M7J13X7701092
+visid: M7J13X7700747, Explanation: Previous failed caused by HW (OPENS/SHORT), NO COOKIES for unit!
+Blank Entry: M7J13X7700678
+visid: M7HU061900090, Explanation: Clear Open/Short signature on B13, NO COOKIES for unit!
+visid: M7HU061900667, Explanation: Clear Open/Short signature on B13, NO COOKIES for unit!
+visid: M88J7X3800685, Explanation: Clear Open/Short signature on B13, NO COOKIES for unit!
+visid: M88J7X3800088, Explanation: Clear Open/Short signature on B13, NO COOKIES for unit!
+visid: M7J13X7701066, Explanation: Clear Open/Short signature on B13, NO COOKIES for unit!
+visid: M88J7X3800249, Explanation: Clear Open/Short signature on B13, NO COOKIES for unit!
+visid: M7HU061900883, Explanation: Unit could not find solution for bucketing, NO COOKIES for unit!
+visid: M7J13X7701282, Explanation: Unit could not find solution for bucketing, NO COOKIES for unit!
+Blank Entry: M7HU061901506
+Blank Entry: M7J13X7700780
+Blank Entry: M7HU061900696
+Blank Entry: M7HU061900210
+Blank Entry: M7HU061900607
+Blank Entry: M88J7X3800314
+visid: M7J13X7701107, Explanation: Poor contact with board. HW problem, NO COOKIES for unit!
+visid: M88J7X3800778, Explanation: First B6268 in unit history, usually binned as 100, NO COOKIES for unit!

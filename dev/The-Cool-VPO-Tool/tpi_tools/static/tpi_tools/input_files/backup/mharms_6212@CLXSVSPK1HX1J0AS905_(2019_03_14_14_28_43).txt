@@ -1,0 +1,2 @@
+visid: M8SA531000129, Explanation: Damaged unit: Fails VCONT, then fails TPI_VCONT::EDM
+visid: D8S77S0700325, Explanation: Damaged unit: Fails VCONT, then HW Alarm on VCCIO during TPI_VCONT::EDM

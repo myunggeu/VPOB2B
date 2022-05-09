@@ -1,0 +1,1 @@
+visid: M8KR236200552, Explanation: Unit failed due to a slow reacting chiller. Retesting should recover.

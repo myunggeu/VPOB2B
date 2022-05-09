@@ -1,0 +1,2 @@
+visid: M83G18S200532, Explanation: failing at cold for bin96, so good catch
+visid: D85V64V200133, Explanation: has always been bin9444

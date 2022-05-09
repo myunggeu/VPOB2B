@@ -1,0 +1,1 @@
+visid: M7J13X7700647, Explanation: SKX_SBFT_H triggers FAIL FLOW, tap unlock failure may be HW issue

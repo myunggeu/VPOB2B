@@ -1,0 +1,2 @@
+visid: M95B8W9300218, Explanation: Lower Slope limit reached due to low temperature (~50C) during DTS testing, indicating issue with AP hardware (on Cell A202). Retesting should recover unit.
+visid: M9617MB801483, Explanation: Lower Slope limit reached due to low temperature (~50C) during DTS testing, indicating issue with AP hardware (on Cell A202). Retesting should recover unit.

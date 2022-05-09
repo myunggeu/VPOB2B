@@ -1,0 +1,1 @@
+visid: M827E03700175, Explanation: Core 10 VDAC pin was not connected to TIU during measurement. There is no FIVR module issue here, it's a TIU/socket issue

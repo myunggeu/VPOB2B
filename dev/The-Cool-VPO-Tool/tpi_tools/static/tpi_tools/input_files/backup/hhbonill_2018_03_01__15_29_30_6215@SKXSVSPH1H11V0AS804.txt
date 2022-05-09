@@ -1,0 +1,8 @@
+visid: M7SH412400156, Explanation:  SKX_SBFT_H::C_llcLS_vcoreminfreq1_100_VMAXCOREF1_7911_SliceTracking_3 is causing an extra core failure: 1000000000000000000000000000. No change in content  
+visid: M7SH412400454, Explanation: LLCFG is turned sigon in the new tp. 
+visid: M7SH412400808, Explanation: different incoming core combinations between the old and new runs 
+visid: M7N7K70500133, Explanation: LLCFG is turned sigon in the new tp
+visid: M7N7K70501168, Explanation: LLCFG is turned sigon in the new tp
+visid: M7N7K70501197, Explanation: LLCFG is turned sigon in the new tp
+visid: M7N7K70501304, Explanation: LLCFG is turned sigon in the new tp
+visid: M7N7K70501166, Explanation:  always a bin1 unit. no change in content

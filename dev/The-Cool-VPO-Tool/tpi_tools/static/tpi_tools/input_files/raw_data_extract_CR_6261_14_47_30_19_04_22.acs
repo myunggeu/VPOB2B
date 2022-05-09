@@ -1,0 +1,52 @@
+<!--
+
+ User: myunggeu
+ Date: Tue Dec 01 12:45:57 2015
+ CB: CrystalBall_Proto
+-->
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%s Collection %%%%%%%%%%%%%%%%%%%%%%% #TAG -->
+
+
+<collection type=material >
+<group >
+    J216182CR SITE=MIDAS DOMAIN=CLASS
+    J217031CR SITE=MIDAS DOMAIN=CLASS
+</group >
+</collection >
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%% Parameters %%%%%%%%%%%%%%%%%%%%%%% #TAG -->
+
+
+<parameters >
+ <param DOMAIN=CLASS SITE=MIDAS OPERATION=6261 DATATYPE=DIEBIN TESTNAME=FB />
+ <param DOMAIN=CLASS SITE=MIDAS OPERATION=6261 DATATYPE=DIEBIN TESTNAME=IB />
+ <param DOMAIN=CLASS SITE=MIDAS OPERATION=6261 DATATYPE=DI_INFO TESTNAME=VIS_ID />
+ <param DOMAIN=CLASS SITE=MIDAS OPERATION=6261 DATATYPE=DT_INFO TESTNAME=THERMAL_HEAD />
+ <param DOMAIN=CLASS SITE=MIDAS OPERATION=6261 DATATYPE=DT_INFO TESTNAME=TIUID />
+ <param DOMAIN=CLASS SITE=MIDAS OPERATION=6261 DATATYPE=DT_INFO TESTNAME=SITEID />
+ <param DOMAIN=CLASS SITE=MIDAS OPERATION=6261 DATATYPE=DT_INFO TESTNAME=TIU_PERSONALITY_CARD_ID />
+ <param DOMAIN=CLASS SITE=MIDAS OPERATION=6261 DATATYPE=FIELD FIELD=TESTER_ID TABLE=SCWAFSUMS />
+</parameters>
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%% Analysis %%%%%%%%%%%%%%%%%%%%%%% #TAG -->
+
+
+<analysis app=cb  >
+  TOOL=GIVEMEDATA
+  /OUTPUT='C:\Users\myunggeu\dev\The-Cool-VPO-Tool\tpi_tools\static\tpi_tools\input_files\rawdata_CR_6261_14_47_30_19_04_22.csv'
+  /FORMAT=CSV
+  /HASCLASS=T
+  /IGNORE_VHL
+  /AUTOAKA
+  /AUTOCONTEXT
+  /NOMERGESCPROG
+  /ASMERLIN
+
+
+</analysis>
+
+

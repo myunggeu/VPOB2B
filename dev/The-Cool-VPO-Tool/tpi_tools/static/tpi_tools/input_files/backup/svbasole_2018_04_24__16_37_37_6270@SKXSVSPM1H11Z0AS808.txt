@@ -1,0 +1,2 @@
+visid: M7HU061900191, Explanation: Contact issue. Units is measuring -1.49 . CRES also failing
+visid: M7HU061900604, Explanation: Contact issue. Units is measuring -1.49 . CRES also failing

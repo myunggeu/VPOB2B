@@ -1,0 +1,4 @@
+visid: M73J2G6201420, Explanation: additional incomingbad core
+visid: M73J2G6200255, Explanation: additional incoming bad core
+visid: M73J2G6200331, Explanation: HW related
+visid: M73J2G6200011, Explanation: good catch, failed at cold

@@ -1,0 +1,4 @@
+visid: M73J2G6201461, Explanation: Unit recovered due to HW issues, no module change.
+visid: M7NN267100800, Explanation: RV and QA locations show consistent failure. May be unit issue. Non TP related.
+visid: M73J2G6200652, Explanation: No failure on instance changed. Non TP related, HW issue.
+visid: M7NN267101230, Explanation: No failure on instance changed. Non TP related, HW issue.

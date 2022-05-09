@@ -1,0 +1,7 @@
+visid: M88J7X3800604, Explanation: Cache failed untested due to invalid incoming Vmin.  Failure caused by SKX_SBFT_H::U_fcsemiburst_vclmminfreq1_CHKCLMF1
+visid: M88J7X3800537, Explanation: Cache failed untested due to invalid incoming Vmin.  Failure caused by SKX_SBFT_H::U_fcsemiburst_vclmminfreq1_CHKCLMF1
+visid: M88J7X3800659, Explanation: Cache failed untested due to invalid incoming Vmin.  Failure caused by SKX_SBFT_H::U_fcsemiburst_vclmminfreq1_CHKCLMF1
+visid: M88J7X3800641, Explanation: Cache failed untested due to invalid incoming Vmin.  Failure caused by SKX_SBFT_H::U_fcsemiburst_vclmminfreq1_CHKCLMF1
+visid: M88J7X3800361, Explanation: Cache failed untested due to invalid incoming Vmin.  Failure caused by SKX_SBFT_H::U_fcsemiburst_vclmminfreq1_CHKCLMF1
+visid: M88J7X3800383, Explanation: Cache failed untested due to invalid incoming Vmin.  Failure caused by SKX_SBFT_H::U_fcsemiburst_vclmminfreq1_CHKCLMF1
+visid: M88J7X3800628, Explanation: Cache failed untested due to invalid incoming Vmin.  Failure caused by SKX_SBFT_H::U_fcsemiburst_vclmminfreq1_CHKCLMF1

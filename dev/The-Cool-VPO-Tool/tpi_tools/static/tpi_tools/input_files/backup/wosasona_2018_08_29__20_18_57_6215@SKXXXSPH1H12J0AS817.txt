@@ -1,0 +1,7 @@
+visid: M7A176X401381, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400403, Explanation: Unit is failing bin4336 only once throughout the history. Most likely a tester/HW issue
+visid: M7SH412401295, Explanation: Unit is failing bin4336 only once throughout the history. Most likely a tester/HW issue
+visid: M7N7K70500144, Explanation: Unit is failing bin4321 only once throughout the history. Most likely a tester/HW issue
+visid: M7N7K70500871, Explanation: Unit is failing bin4335 only once throughout the history. Most likely a tester/HW issue
+visid: M7SH412400934, Explanation: Unit is failing bin4335 only once throughout the history. Most likely a tester/HW issue
+visid: M7SH412401141, Explanation: Unit is failing bin4336 only once throughout the history. Most likely a tester issue

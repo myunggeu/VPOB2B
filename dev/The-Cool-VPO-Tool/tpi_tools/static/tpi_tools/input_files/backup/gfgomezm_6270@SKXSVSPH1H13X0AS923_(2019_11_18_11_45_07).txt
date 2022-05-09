@@ -1,0 +1,30 @@
+visid: M9LJ518200251, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9LJ518200091, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9EN577400962, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9EN577400023, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality..
+visid: M9EN577400022, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9EN577400903, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9EN577400730, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9WC266701493, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9WC266701811, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9WC266701792, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9WC266701248, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9WC266700550, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9WC266701314, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9WC266701789, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9WC266701277, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9WC266701509, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9PB483200303, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9PB483200123, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9PB483200107, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9PB483200050, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9PB483200307, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9PB483200680, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9PB483200285, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9PB483200281, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9PB483200118, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9WC266700235, Explanation: B9 root-caused to HW issue. Recovered
+visid: M9EN577400742, Explanation: B9 root-caused to HW issue. Recovered
+visid: M9PB483200096, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9WC266700490, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.
+visid: M9PB483200101, Explanation: B13/51 caused by OPEN/SHORTs. HW issue. High commonality.

@@ -1,0 +1,11 @@
+visid: M7L1Y26800135, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M7N7K70500073, Explanation: VIX Fail due to HW, recovered in RV and new TP
+visid: M7N7K70500410, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M7N7K70500416, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M7N7K70500450, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M7N7K70500455, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M7N7K70500714, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M7SH412400376, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M7SH412400904, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M7SH412401060, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs
+visid: M7SH412401070, Explanation: HW issue, shops/opens on CMD Lines. Recovered on RV and next runs

@@ -1,0 +1,1 @@
+visid: M9F05R5400747, Explanation: Unit fails bin1498: IDSK disables IA15, IA14, IA16 for exceeding Vmin variability limits making it unable to match any valid core combination.

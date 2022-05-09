@@ -1,0 +1,3 @@
+visid: M73J2G6200390, Explanation: lttc is catching the failure
+visid: M73J2G6200901, Explanation: looks like a marginal fail
+visid: M73J2G6200654, Explanation: failing for a different core causing b96

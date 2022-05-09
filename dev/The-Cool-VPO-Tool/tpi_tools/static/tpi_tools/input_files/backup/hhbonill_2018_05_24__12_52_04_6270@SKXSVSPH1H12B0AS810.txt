@@ -1,0 +1,2 @@
+visid: M7N7K70500940, Explanation: There was a HW alarm then binned as 9901, btwit retested on new VPO and passed.
+visid: M7SH412400160, Explanation: Unit recovered on RV.

@@ -1,0 +1,41 @@
+visid: M9PB483200515, Explanation: Unit recovered from a HW issue
+visid: M99S9J4201114, Explanation: Unit recovered from a HW issue
+visid: M9PB483200643, Explanation: Unit recovered from a HW issue
+visid: M9LJ518200166, Explanation: Unit recovered from a HW issue
+visid: M9KK695401153, Explanation: Unit recovered from a HW issue
+visid: M9KK695401132, Explanation: Unit recovered from a HW issue
+visid: M9KK695401341, Explanation: Unit recovered from a HW issue
+visid: M9KK695401390, Explanation: Unit recovered from a HW issue
+visid: M9EN577400719, Explanation: Unit recovered from a HW issue
+visid: M9EN577400937, Explanation: Unit recovered from a HW issue
+visid: M9EN577400655, Explanation: Unit recovered from a HW issue
+visid: M9EN577400559, Explanation: Unit recovered from a HW issue
+visid: M99S9J4200852, Explanation: Unit recovered from a HW issue
+visid: M9WC266700498, Explanation: Unit recovered from a HW issue
+visid: M9WC266701319, Explanation: Unit recovered from a HW issue
+visid: M9WC266700542, Explanation: Unit recovered from a HW issue
+visid: M9WC266701444, Explanation: Unit recovered from a HW issue
+visid: M9KN918500406, Explanation: Unit recovered from a HW issue
+visid: M9WC266701329, Explanation: Unit recovered from a HW issue
+visid: M9WC266700552, Explanation: Unit recovered from a HW issue
+visid: M9KN918500419, Explanation: Unit recovered from a HW issue
+visid: M9WC266701275, Explanation: Unit recovered from a HW issue
+visid: M9WC266701490, Explanation: Unit recovered from a HW issue
+visid: M9LJ518200153, Explanation: This fail is due to a tester issue
+visid: M9MU857200005, Explanation: This fail is due to a tester issue
+visid: M9KK695401367, Explanation: This fail is due to a tester issue
+visid: M9WC266700495, Explanation: This fail is due to a tester issue
+visid: M9PB483200677, Explanation: This fail is due to a tester issue
+visid: M9KK695401330, Explanation: This fail is due to a tester issue
+visid: M99S9J4201047, Explanation: This fail is due to a tester issue
+visid: M9LJ518200150, Explanation: This fail is due to a tester issue
+visid: M9KK695401348, Explanation: This fail is due to a tester issue
+visid: M9KK695401294, Explanation: This fail is due to a tester issue
+visid: M9KK695401391, Explanation: This fail is due to a tester issue
+visid: M9KK695401377, Explanation: This fail is due to a tester issue
+visid: M9LJ518200263, Explanation: This fail is due to a tester issue
+visid: M9KK695401353, Explanation: This fail is due to a tester issue
+visid: M9LJ518200078, Explanation: This fail is due to a tester issue
+visid: M9LJ518200246, Explanation: This fail is due to a tester issue
+visid: M9EN577400606, Explanation: This fail is due to a tester issue
+visid: M99S9J4201132, Explanation: This fail is due to a tester issue

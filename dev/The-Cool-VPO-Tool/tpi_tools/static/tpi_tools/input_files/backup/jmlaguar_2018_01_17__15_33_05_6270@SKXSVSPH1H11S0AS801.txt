@@ -1,0 +1,1 @@
+visid: M7N7K70500165, Explanation: All B9497 coming from same tester "A301".  LTTC temp ramp down is showing issues when 35C temperature can't be achieved within LTTC time-out period.

@@ -1,0 +1,3 @@
+visid: M7HU061900937, Explanation: Unit recovered to Bin100. Failed bin28 once due to tester HW issue
+visid: M7HU061900088, Explanation: unit failed once due to HW instability issue. Not a valid falure
+visid: M7HU061900920, Explanation: unit failed once due to HW instability issue. Not a valid failure

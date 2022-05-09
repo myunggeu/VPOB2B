@@ -1,0 +1,3 @@
+visid: M7N7K70500337, Explanation: TAP overshift failure. There is no module change for S823, hence no change that would cause the TAP to fail.
+visid: M7SH412400005, Explanation: POD failure. There is no module change for S823, hence no change that would cause the Power on detect to fail.
+visid: M7SH412400160, Explanation: DDRA345 pin was not seated correctly in from unit to TIU. There is no module issue, and no module change for S823. 

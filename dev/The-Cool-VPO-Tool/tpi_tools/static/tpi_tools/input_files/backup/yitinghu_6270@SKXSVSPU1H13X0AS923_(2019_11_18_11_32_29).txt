@@ -1,0 +1,1 @@
+visid: M7NN267101061, Explanation: Failed Cache untested due to invalid incoming Vmin.  Caused by upstream failure on SKX_SBFT_H::U_FCSEMIBURST_VCLMMINFREQ1_CHKCLMF1

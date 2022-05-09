@@ -1,0 +1,6 @@
+visid: M8NE567700391, Explanation: Unit is failing bin4335 only once throughout the history. Most likely a tester/HW issue
+visid: M8CQ906300305, Explanation: Unit is recovered to Bin1 after failing B4821 only once. Most likely tester/HW issue
+visid: M8LM305300403, Explanation: Unit is recovered to Bin1 after failing Bin5422 only once, Most likely tester/HW issue
+visid: M8NE567700510, Explanation: Unit is failing bin4335 only once throughout the history. Most likely a tester/HW issue
+visid: M8LM305300140, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester/HW issue
+visid: M8NE567700385, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester/HW issue

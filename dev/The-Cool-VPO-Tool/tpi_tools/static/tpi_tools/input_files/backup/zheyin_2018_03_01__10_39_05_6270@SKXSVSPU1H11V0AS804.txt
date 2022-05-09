@@ -1,0 +1,9 @@
+visid: M73J2G6200794, Explanation: CRES fail, HW issue
+visid: M73J2G6201113, Explanation: VCCIO hard fail, might be unit degradation
+visid: M7NN267101208, Explanation: bad contact, HW issue
+visid: M73J2G6201188, Explanation: bad contact, HW issue
+visid: M73J2G6201306, Explanation: bad contact, HW issue
+visid: M7NN267101236, Explanation: suspect HW issue, should recover at retest
+visid: M7NN267101313, Explanation: suspect HW issue, should recover at retest
+visid: M7NN267101014, Explanation: suspect HW issue, should recover at retest
+visid: M7NN267101146, Explanation: CRES fail, HW issue

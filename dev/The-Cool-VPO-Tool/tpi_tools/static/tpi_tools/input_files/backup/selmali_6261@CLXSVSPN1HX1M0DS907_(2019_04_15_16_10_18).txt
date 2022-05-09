@@ -1,0 +1,8 @@
+visid: M8S78N4500510, Explanation: In both runs, the unit failed for cache ROM LTTC screen, but in the new run the screen was in EDC mode to assess the fall out  Core 10 failed for rom pattern in the LTTC screen in the old run, and it is no longer failing in the new run. It looks like we were over-killing before
+visid: M8S78N4500432, Explanation: Unit was overkilled in the old run, and now it is passing after we reverted our changes for ROM LTTC screen for clx hccsp
+visid: M8S78N4500316, Explanation: Unit was overkilled in the old run, and now it is passing after we reverted our changes for ROM LTTC screen for clx hccsp
+visid: M8601RW600695, Explanation: Unit failed for reset pattern and for all cores in the old run. With the changed reverted back in the rom LTTC screen, the unit is now passing. It looks like we were over-killing before
+visid: M8Q133Y400136, Explanation: Core 16 was failing for a rom pattern in the LTTC screen, and now it is passing after we reverted the changes in the rom LTTC screen. It looks like we were overkilling before
+visid: M8S78N4500533, Explanation: Unit failing for rom lttc screen in both runs, but in the new run the screen was put in EDC mode to assess fall out
+visid: M8S78N4500350, Explanation: Core 15 was overkilled in our rom LTTC screen with the new setup. Once we reverted the change, it passes.
+visid: M8S78N4500309, Explanation: Unit failing for the same screen and for the same pattern. The binning is different because we have a copy of the ROM LTTC screen in EDC mode with the same binning as the screen in the old run

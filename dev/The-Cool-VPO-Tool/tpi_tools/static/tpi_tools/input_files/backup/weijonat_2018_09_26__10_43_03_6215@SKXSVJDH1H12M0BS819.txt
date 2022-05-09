@@ -1,0 +1,3 @@
+visid: M8BD231400357, Explanation: core20 FIVR vload pin reading all 0V, likely cold socketing issue
+visid: M8NE567700717, Explanation: core09 FIVR vload pin wasn't connected properly, reading all 0V, likely socketing issue at cold
+visid: M8NE567700398, Explanation: New TP had 2739 because frequency measurement was showing 0s for the FFC domain, seems to be due to tap read-out issue? No update from the module, need to monitor this behavior if it happens again.

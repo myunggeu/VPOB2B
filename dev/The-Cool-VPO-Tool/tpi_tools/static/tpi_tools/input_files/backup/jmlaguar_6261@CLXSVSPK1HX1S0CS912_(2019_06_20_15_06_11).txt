@@ -1,0 +1,1 @@
+visid: D8S77S0700176, Explanation: Bin 9792 is a die force/contact issue when the unit was socketed. Retesting on different cell should recover unit.

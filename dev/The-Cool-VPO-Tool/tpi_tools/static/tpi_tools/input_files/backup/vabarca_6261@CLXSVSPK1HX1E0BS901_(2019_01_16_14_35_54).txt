@@ -1,0 +1,9 @@
+visid: M8SA531000412, Explanation:  Unit recovered to Bin1 after failing b5422 once due to Hardware/Connection issue.
+visid: M8SA531000480, Explanation: Unit recovered to Bin1 after failing b4625 once due to Hardware/Connection issue.
+visid: M8SA531000189, Explanation: Unit is failing bin1551 only once in VPO history due to possible Hardware/Connection issue.
+visid: M8SA531000448, Explanation: Unit recovered to Bin1 after failing b4621 once due to Hardware/Connection issue.
+visid: M8SA531000048, Explanation: Unit recovered to Bin1 after failing b4625 once due to Hardware/Connection issue.
+visid: M8SA531000217, Explanation: Unit recovered to Bin1 after failing b4625 once due to Hardware/Connection issue.
+visid: M8SA531000096, Explanation: Unit is failing bin4821 only once in VPO history due to possible Hardware/Connection issue.
+visid: M8SA531000455, Explanation: Unit has history of Bin100 but fails Bin5422 only once in VPO history due to Hardware/Connection issue.
+visid: M8SA531000268, Explanation: Unit has history of Bin100 but fails Bin5422 only once in VPO history due to Hardware/Connection issue.

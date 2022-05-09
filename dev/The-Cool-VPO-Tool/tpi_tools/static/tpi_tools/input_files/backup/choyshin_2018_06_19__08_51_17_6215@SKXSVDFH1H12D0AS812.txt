@@ -1,0 +1,3 @@
+visid: M7774QA300016, Explanation: invalid. HW related bin switching on S812TP.
+visid: M7774QA300805, Explanation: invalid. HW related bin switching on S812TP.
+visid: M7774QA300834, Explanation: invalid. HW related bin switching on S812TP.

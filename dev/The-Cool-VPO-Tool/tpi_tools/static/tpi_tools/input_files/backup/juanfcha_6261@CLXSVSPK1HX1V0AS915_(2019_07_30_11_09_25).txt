@@ -1,0 +1,2 @@
+visid: M8SA531000083, Explanation: Unit fails bin1407 because it passes RF93 but that's no enough to pass any of the defined buckets.
+visid: M9HC416301373, Explanation: Unit fails bin1407 because it passes RF93 but that's no enough to pass any of the defined buckets.

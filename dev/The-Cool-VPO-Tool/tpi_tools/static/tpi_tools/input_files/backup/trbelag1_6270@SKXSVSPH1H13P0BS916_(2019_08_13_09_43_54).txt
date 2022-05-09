@@ -1,0 +1,1 @@
+visid: M9KN918500626, Explanation: Unit failing to Bin 1823 due to calculated value of Slope of one of the Core ADCs is outside limits. Looks like instability since the same unit has pass history. No Power content changes have been made.

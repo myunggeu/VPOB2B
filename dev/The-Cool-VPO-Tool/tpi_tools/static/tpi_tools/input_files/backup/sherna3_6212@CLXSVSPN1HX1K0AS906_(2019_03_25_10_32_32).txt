@@ -1,0 +1,1 @@
+visid: M8S78N4500424, Explanation: SFR trim code is stuck at code 63 for Core0 instead of SFR walk from 0 to 63. Could be HW instability or induced by module changes before PLL.

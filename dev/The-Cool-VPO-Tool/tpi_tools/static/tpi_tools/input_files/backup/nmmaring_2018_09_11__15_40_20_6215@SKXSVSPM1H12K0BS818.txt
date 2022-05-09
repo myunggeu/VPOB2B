@@ -1,0 +1,13 @@
+visid: M88J7X3800863, Explanation: Recovered from HW issue. 
+visid: M7J13X7700988, Explanation: Recovered from HW issue.
+visid: M7J13X7700710, Explanation: Recovered from HW issue. 
+visid: M7HU061901502, Explanation: Recovered from HW issue. 
+visid: M7HU061900640, Explanation: Recovered from HW issue. 
+visid: M7HU061900902, Explanation: Recovered from HW issue. 
+visid: M7HU061900761, Explanation: Recovered from HW issue. 
+visid: M7HU061901567, Explanation: Recovered from HW issue. 
+visid: M7HU061900698, Explanation: Recovered from HW issue. 
+visid: M7J13X7700775, Explanation: HW issue related. Historically B1
+visid: M7J13X7701277, Explanation: HW issue related. Historically B1
+visid: M7J13X7701073, Explanation: HW issue related. Historically B1
+visid: M7J13X7700692, Explanation: HW issue related. Historically B1

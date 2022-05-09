@@ -1,0 +1,33 @@
+visid: D9432ME900100, Explanation: Hardware/Socketing issue where unit recovered
+visid: D9617FV304517, Explanation: Hardware/Socketing issue where unit recovered
+visid: D9481LV800571, Explanation: Hardware/Socketing issue where unit recovered
+visid: D9617FV304502, Explanation: Hardware/Socketing issue
+visid: D997E7C700055, Explanation: Hardware/Socketing issue
+visid: D9432ME900092, Explanation: Hardware/Socketing issue
+visid: D997E7C700073, Explanation: Hardware/Socketing issue
+visid: D997E7C700091, Explanation: Hardware/Socketing issue
+visid: D9195AN200090, Explanation: Hardware/Socketing issue
+visid: D9481LV800547, Explanation: Hardware/Socketing issue
+visid: D9195AN200072, Explanation: Hardware/Socketing issue
+visid: D9481LV800505, Explanation: Hardware/Socketing issue
+visid: D997E7C700026, Explanation: Hardware/Socketing issue
+visid: D9195AN200006, Explanation: Hardware/Socketing issue
+visid: D9617FV304568, Explanation: Hardware/Socketing issue
+visid: D9432ME900087, Explanation: Hardware/Socketing issue
+visid: D9195AN200069, Explanation: Hardware/Socketing issue
+visid: D9195AN200025, Explanation: Hardware/Socketing issue
+visid: D997E7C700006, Explanation: Hardware/Socketing issue
+visid: D997E7C700002, Explanation: Hardware/Socketing issue
+visid: D9195AN200083, Explanation: Hardware/Socketing issue
+visid: D997E7C700113, Explanation: Hardware/Socketing issue
+visid: D997E7C700022, Explanation: Hardware/Socketing issue
+visid: D997E7C700078, Explanation: Hardware/Socketing issue
+visid: D9195AN200102, Explanation: Hardware/Socketing issue
+visid: D997E7C700014, Explanation: Hardware/Socketing issue
+visid: D997E7C700068, Explanation: Hardware/Socketing issue
+visid: D997E7C700011, Explanation: Hardware/Socketing issue
+visid: D9481LV800568, Explanation: Hardware/Socketing issue
+visid: D997E7C700004, Explanation: Hardware/Socketing issue
+visid: D9432ME900062, Explanation: Hardware/Socketing issue
+visid: D9195AN200028, Explanation: Hardware/Socketing issue
+visid: D9481LV800528, Explanation: Hardware/Socketing issue

@@ -1,0 +1,1 @@
+visid: M7N7K70501275, Explanation: lamping VCCIO pin and the test does not use that power supply, this is a hardware related issue

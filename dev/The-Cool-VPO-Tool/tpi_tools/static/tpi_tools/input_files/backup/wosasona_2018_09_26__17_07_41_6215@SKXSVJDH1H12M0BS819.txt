@@ -1,0 +1,6 @@
+visid: M8NE567700057, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 7 tests
+visid: M8BD231400529, Explanation: Unit is failing bin4335 only once throughout the history. Most likely a tester issue
+visid: M8CQ906300174, Explanation: Unit is failing bin4336 only once throughout the history. Most likely a tester issue
+visid: M8LM305300440, Explanation: Unit is failing bin4313 only once throughout the history. Most likely a tester issue
+visid: M8BD231400031, Explanation: Unit is failing bin4335 only once throughout the history. Most likely a tester issue
+visid: M8NE567700561, Explanation: Unit is failing bin4332 only once throughout the history. Most likely a tester issue

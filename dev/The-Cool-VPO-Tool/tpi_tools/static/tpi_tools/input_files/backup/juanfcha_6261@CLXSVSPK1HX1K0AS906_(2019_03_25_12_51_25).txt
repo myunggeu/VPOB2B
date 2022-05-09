@@ -1,0 +1,1 @@
+visid: M83G18S200680, Explanation: Unit failed bin1407 because it passed RF93 but that's no enough to pass any of the defined buckets.

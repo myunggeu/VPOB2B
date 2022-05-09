@@ -1,0 +1,36 @@
+visid: M7HU061900105, Explanation: New TIU fix B68 bouncing bin.
+visid: M7HU061900644, Explanation: New TIU fix B68 bouncing bin.
+visid: M7HU061900703, Explanation: New TIU fix B68 bouncing bin.
+visid: M7HU061900939, Explanation: New TIU fix B68 bouncing bin.
+visid: M7HX231100091, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7700572, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7700734, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7701006, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7701052, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7701205, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7701473, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7701478, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7701565, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7701832, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7702001, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7702012, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7702075, Explanation: New TIU fix B68 bouncing bin.
+visid: M7T131S100031, Explanation: New TIU fix B68 bouncing bin.
+visid: M7T131S100188, Explanation: New TIU fix B68 bouncing bin.
+visid: M7T131S100212, Explanation: New TIU fix B68 bouncing bin.
+visid: M7T131S100258, Explanation: New TIU fix B68 bouncing bin.
+visid: M7T131S100363, Explanation: New TIU fix B68 bouncing bin.
+visid: M7T131S100745, Explanation: New TIU fix B68 bouncing bin.
+visid: M7T131S100762, Explanation: New TIU fix B68 bouncing bin.
+visid: M7HX231100107, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7701271, Explanation: Core combination passing R3GB but bucketer algoritm doesn't find any passing Bucket, not even catch all R3GF (1111111111000000000011000010_DOESNT_FIT_COREDEFEATURINGVECTOR/12C_THRMLOP_VALUES)./New TIU fix B68 bouncing bin.
+visid: M7J13X7700716, Explanation: New TIU fix B68 bouncing bin.
+visid: M7J13X7700746, Explanation: 9497 bins was likely due to HW variation and AP instability. LTTC temp ramp down is showing issues when 35C temperature can't be achieved within LTTC time-out period (13000 ms). No hardware commonality./New TIU fix B68 bouncing bin.
+visid: M7HU061900602, Explanation: Equivalent to OPENS, failed in socketing.
+visid: M7J13X7700832, Explanation: Equivalent to OPENS, failed in socketing.
+visid: M7J13X7701144, Explanation: Equivalent to OPENS, failed in socketing.
+visid: M7HU061901067, Explanation: Equivalent to OPENS, failed in socketing.
+visid: M7J13X7701136, Explanation: Equivalent to OPENS, failed in socketing.
+visid: M7J13X7701953, Explanation: Equivalent to OPENS, failed in socketing.
+visid: M7J13X7702181, Explanation: Equivalent to OPENS, failed in socketing.
+visid: M7HU061900714, Explanation: HW related. It had passed with same TP on prior run.

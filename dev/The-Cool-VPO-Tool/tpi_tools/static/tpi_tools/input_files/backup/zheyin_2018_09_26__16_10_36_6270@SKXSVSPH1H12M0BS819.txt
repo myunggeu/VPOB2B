@@ -1,0 +1,78 @@
+visid: M7SH412400730, Explanation: HW related issue
+visid: M7N7K70501140, Explanation: recovered from retest
+visid: M73K2D8500681, Explanation: HW related issue
+visid: M7SH412400454, Explanation: HW related issue
+visid: M7N7K70501414, Explanation: HW related issue
+visid: M7L1Y26800248, Explanation: HW related issue
+visid: M7N7K70500890, Explanation: marginal unit, can be HW related, no module chang
+visid: M7SH412400920, Explanation: recovered from retest
+visid: M7N7K70500355, Explanation: VCCD hard short, unit damage
+visid: M7SH412401164, Explanation: CRES fail, HW issue
+visid: M7N7K70501310, Explanation: CRES fail, HW issue
+visid: M7SH412400156, Explanation: recovered from retest
+visid: M7SH412401078, Explanation: recovered from retest
+visid: M7N7K70500281, Explanation: recovered from retest
+visid: M7N7K70500050, Explanation: recovered from retest
+visid: M7N7K70500684, Explanation: CRES fail, HW issue
+visid: M7N7K70500741, Explanation: CRES fail, HW issue
+visid: M7SH412401433, Explanation: CRES fail, HW issue
+visid: M7SH412400927, Explanation: CRES fail, HW issue
+visid: M7SH412400065, Explanation: CRES fail, HW issue
+visid: M7N7K70501230, Explanation: CRES fail, HW issue
+visid: M7SH412400091, Explanation: CRES fail, HW issue
+visid: M7N7K70500073, Explanation: CRES fail, HW issue
+visid: M7N7K70500875, Explanation: CRES fail, HW issue
+visid: M7SH412401241, Explanation: CRES fail, HW issue
+visid: M7N7K70500411, Explanation: CRES fail, HW issue
+visid: M7N7K70500251, Explanation: CRES fail, HW issue
+visid: M7N7K70500343, Explanation: same FB recovered from retest
+visid: M7N7K70500477, Explanation: same FB recovered from retest
+visid: M7N7K70500350, Explanation: CRES fail, HW issue
+visid: M7N7K70500976, Explanation: CRES fail, HW issue
+visid: M7SH412401345, Explanation: CRES fail, HW issue
+visid: M7N7K70500729, Explanation: HW issue on previous run
+visid: M7N7K70500951, Explanation: HW issue on previous run
+visid: M7A176X401239, Explanation: HW issue on previous run
+visid: M7A176X401270, Explanation: HW issue on previous run
+visid: M7N7K70500765, Explanation: HW issue on previous run
+visid: M7SH412401158, Explanation: same FB recovered from retest
+visid: M7SH412401203, Explanation: HW issue on previous run
+visid: M7N7K70500153, Explanation: HW issue on previous run
+visid: M7N7K70500039, Explanation: HW issue on previous run
+visid: M7SH412401198, Explanation: HW issue on previous run
+visid: M7SH412401094, Explanation: HW issue on previous run
+visid: M7SH412400471, Explanation: HW issue on previous run
+visid: M7SH412400121, Explanation: HW issue on previous run
+visid: M7SH412401167, Explanation: HW related issue
+visid: M7SH412401055, Explanation: CRES fail, HW issue
+visid: M7SH412401394, Explanation: HW issue on previous run
+visid: M7SH412401517, Explanation: HW issue on previous run
+visid: M7N7K70500287, Explanation: HW issue on previous run
+visid: M7N7K70500461, Explanation: HW issue on previous run
+visid: M7N7K70500048, Explanation: HW issue on previous run
+visid: M7SH412401190, Explanation: HW issue on previous run
+visid: M7SH412401367, Explanation: HW issue on previous run
+visid: M7SH412400636, Explanation: HW issue on previous run
+visid: M7N7K70501149, Explanation: HW issue on previous run
+visid: M7L1Y26800283, Explanation: HW issue on previous run
+visid: M7N7K70500347, Explanation: HW issue on previous run
+visid: M7N7K70500385, Explanation: HW issue on previous run
+visid: M7SH412400700, Explanation: HW issue on previous run
+visid: M7SH412400800, Explanation: HW issue on previous run
+visid: M7N7K70500934, Explanation: HW issue on previous run
+visid: M7SH412401174, Explanation: HW issue on previous run
+visid: M7SH412401440, Explanation: HW issue on previous run
+visid: M7N7K70500117, Explanation: HW issue on previous run
+visid: M7L1Y26800240, Explanation: HW issue on previous run
+visid: M73K2D8500682, Explanation: marginal unit, can be HW related, no module change
+visid: M7SH412401013, Explanation: marginal unit, can be HW related, no module change
+visid: M7SH412401046, Explanation: CRES fail, HW issue
+visid: M7N7K70500549, Explanation: HW related issue
+visid: M7N7K70500212, Explanation: CRES fail, HW issue
+visid: M7SH412400421, Explanation: HW related issue
+visid: M7SH412401463, Explanation: CRES fail, HW issue
+visid: M7SH412400950, Explanation: same FB recovered from retest
+visid: M7N7K70500638, Explanation: same FB recovered from retest
+visid: M7SH412400356, Explanation: same FB recovered from retest
+visid: M7SH412400458, Explanation: marginal unit, can be HW related, no module change
+visid: M7SH412400741, Explanation: VCCIN hard short, unit damage

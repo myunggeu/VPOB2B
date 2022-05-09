@@ -1,0 +1,1 @@
+visid: M9KB375201301, Explanation: There is no change to FIVR module to explain this recovery. Core 10 had voltage for 800mV test at about 855 on previous runs, and tested normal during new run. In addition, other voltage reads (for dac calibration) were consistent.

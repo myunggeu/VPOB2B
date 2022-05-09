@@ -1,0 +1,4 @@
+visid: M8N72D0500013, Explanation: Unit recovered from HW issue
+visid: M8GL547600832, Explanation: Unit recovered from HW issue
+visid: M8GL547600202, Explanation: Unit failed due to HW issue
+visid: M8GL547600036, Explanation: Unit failed due to HW issue

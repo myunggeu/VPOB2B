@@ -1,0 +1,86 @@
+visid: M73K2D8500684, Explanation: HW issue related. Unit recovered in retest., NO COOKIES for unit!
+visid: M7A176X401251, Explanation: HW issue related. Unit recovered in retest., NO COOKIES for unit!
+visid: M7N7K70500058, Explanation: HW issue related. Unit recovered in retest., NO COOKIES for unit!
+visid: M7N7K70500695, Explanation: HW issue related.Unit recovered in retest., NO COOKIES for unit!
+visid: M7N7K70500814, Explanation: HW issue related.Unit recovered in retest., NO COOKIES for unit!
+visid: M7N7K70501081, Explanation: HW issue related., NO COOKIES for unit!
+visid: M7N7K70501172, Explanation: HW issue related.Unit recovered in retest., NO COOKIES for unit!
+visid: M7N7K70501244, Explanation: HW issue related., NO COOKIES for unit!
+visid: M7N7K70500929, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7N7K70501151, Explanation: HW issue, NO COOKIES for unit!
+visid: M7N7K70500113, Explanation: HW issue, NO COOKIES for unit!
+visid: M7N7K70500874, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7N7K70500051, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7N7K70501119, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7N7K70500938, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7N7K70501177, Explanation: CRES fail, HW issue, NO COOKIES for unit!
+visid: M7N7K70500193, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70500988, Explanation: valid bin4621 failing at same pin at fidderent TIU, NO COOKIES for unit!
+visid: M7N7K70501069, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70501138, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70501371, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70501322, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M73K2D8500874, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M73K2D8500968, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70500709, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70500743, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70501304, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70501351, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M73K2D8500985, Explanation: Testing issue. Recovered to bin 1, NO COOKIES for unit!
+visid: M7N7K70500692, Explanation: Testing issue. Recovered to bin 1, NO COOKIES for unit!
+visid: M7N7K70501160, Explanation: Testing issue. No history of bin5432, NO COOKIES for unit!
+visid: M7N7K70501142, Explanation: Testing issue. Recovered to bin 1, NO COOKIES for unit!
+Blank Entry: M7N7K70500022
+visid: M7N7K70500979, Explanation: Cache failing Speckle shmoo screens mlcdat and crf, NO COOKIES for unit!
+visid: M7N7K70500981, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M7N7K70500071, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M7N7K70501178, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M7N7K70500802, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70501114, Explanation: Unit recovered from HW issue in old TP., NO COOKIES for unit!
+visid: M7N7K70500779, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70500091, Explanation: Unit recovered from HW issue in old TP., NO COOKIES for unit!
+visid: M7N7K70500118, Explanation: Unit recovered from HW issue in old TP., NO COOKIES for unit!
+visid: M7N7K70501065, Explanation: Unit recovered from HW issue in old TP., NO COOKIES for unit!
+visid: M7N7K70501191, Explanation: Unit recovered from HW issue in old TP., NO COOKIES for unit!
+visid: M7N7K70501290, Explanation: Unit recovered from HW issue in old TP., NO COOKIES for unit!
+visid: M7N7K70501307, Explanation: Unit recovered from HW issue in old TP., NO COOKIES for unit!
+visid: M7N7K70500686, Explanation: Unit recovered from HW issue in old TP., NO COOKIES for unit!
+visid: M7N7K70500064, Explanation: Unit recovered from HW issue in old TP., NO COOKIES for unit!
+visid: M7N7K70500700, Explanation: HW issue related.Unit recovered in retest., NO COOKIES for unit!
+visid: M7N7K70501357, Explanation: HW issue on previous run, NO COOKIES for unit!
+visid: M7N7K70500203, Explanation: Unit fails bin1404 because unit does not meets any valid recovery configuration (0000000000000000000000110001_DOESNT_FIT_COREDEFEATURINGVECTOR/14C_VALUES)., NO COOKIES for unit!
+visid: M7N7K70501140, Explanation: SKX_SBFT_H was update here the release notes: “Updated the wait time to add ml & id masking & put in the # for comments” and because we didn’t have this setup properly in the first run we weren’t able to bring up the cores, causing failflow to fail in segment 120, NO COOKIES for unit!
+visid: M7N7K70501163, Explanation: Unit recovered from HW issue in old TP., NO COOKIES for unit!
+visid: M7N7K70501344, Explanation: Unit recovered from HW issue in old TP., NO COOKIES for unit!
+visid: M7N7K70501166, Explanation: unit recovered., NO COOKIES for unit!
+visid: M73K2D8500682, Explanation: Unit fails bin1498 due to IDSK disabling IA03, IA00 for exceeding voltage limit., NO COOKIES for unit!
+visid: M7N7K70501336, Explanation: HW related issue, NO COOKIES for unit!
+Blank Entry: M7N7K70501066
+Blank Entry: M7N7K70501083
+Blank Entry: M7N7K70501165
+Blank Entry: M7N7K70500029
+Blank Entry: M7N7K70501297
+Blank Entry: M7N7K70501275
+visid: M7N7K70500047, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70500090, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70501036, Explanation: recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501115, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70501182, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70501317, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70500093, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70501170, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70500068, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!
+visid: M7N7K70500070, Explanation: recover to bin1, NO COOKIES for unit!
+visid: M7N7K70500131, Explanation: recover to bin1, NO COOKIES for unit!
+visid: M7N7K70500857, Explanation: recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501038, Explanation: recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501132, Explanation: recover to bin1, NO COOKIES for unit!
+visid: M7N7K70501137, Explanation: recover to bin1, NO COOKIES for unit!
+visid: M7N7K70500194, Explanation: valid fallout at KTI DC as history shows multiple bin4621/4625, NO COOKIES for unit!
+visid: M7N7K70500963, Explanation: Historically hard B9 unit. In old TP didn't reached LKG test., NO COOKIES for unit!
+visid: M7N7K70500657, Explanation: Testing Issue. No change in content, NO COOKIES for unit!
+visid: M7N7K70500687, Explanation: Testing Issue. No change in content, NO COOKIES for unit!
+visid: M7N7K70500898, Explanation: Testing Issue. No change in content, NO COOKIES for unit!
+visid: M7N7K70501354, Explanation: Cache marginal failure. it's passing for S812 in the first run then failed for the rerun. , NO COOKIES for unit!
+visid: M7N7K70501352, Explanation: 9497 bins was likely due to HW variation and AP instability. Recovered in new VPO, NO COOKIES for unit!
+visid: M7N7K70500055, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue, NO COOKIES for unit!

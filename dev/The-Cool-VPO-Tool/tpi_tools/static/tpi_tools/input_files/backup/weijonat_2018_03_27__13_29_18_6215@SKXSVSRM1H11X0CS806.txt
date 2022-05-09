@@ -1,0 +1,2 @@
+visid: M7G050T400548, Explanation: This unit had a setup issue at the hot VPO socket, with core10 FIVR pulled lower by something. This caused invalid hot FIVR calibration for core10 FIVR and makes cold testing fail
+visid: M7G050T401447, Explanation: invalid bin2737, likely due to cold socketing issue

@@ -1,0 +1,1 @@
+visid: M9KB375201301, Explanation: Core 10 shows high voltage read consistently post calibration. This unit has only passed once as fluke, fails 2738 in all other tests.

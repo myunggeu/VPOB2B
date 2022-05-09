@@ -1,0 +1,16 @@
+visid: M8NE567700107, Explanation: VCCD supply had bad contact, HW issue
+visid: M8CQ906300105, Explanation: VCCD supply HW issues
+visid: M8LM305300171, Explanation: VCCD supply HW issues
+visid: M8LM305300421, Explanation: VCCD supply HW issues
+visid: M8LM305300583, Explanation: VCCD supply HW issues
+visid: M8LM305300642, Explanation: VCCD supply HW issues
+visid: M8NE567700117, Explanation: HW issue
+visid: M8LM305300435, Explanation: HW issue
+visid: M8NE567700275, Explanation: HW issue
+visid: M8BD231400434, Explanation: HW issue
+visid: M8BD231400657, Explanation: HW issue
+visid: M8NE567700215, Explanation: HW issue
+visid: M8LM305300160, Explanation: HW issue
+visid: M8BD231400281, Explanation: HW issue
+visid: M8NE567700667, Explanation: HW issue
+visid: M8NE567700392, Explanation: HW issue

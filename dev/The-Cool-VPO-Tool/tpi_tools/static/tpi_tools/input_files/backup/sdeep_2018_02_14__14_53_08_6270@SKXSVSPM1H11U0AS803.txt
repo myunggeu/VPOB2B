@@ -1,0 +1,7 @@
+visid: M7J13X7701815, Explanation: Marginal core1 recovered
+visid: M7T131S100523, Explanation: Marginal core6 recovered
+visid: M7T131S100944, Explanation: We will take this on the tester to look.
+visid: M7J13X7701690, Explanation: did not get to lttc in the new run
+visid: M7J13X7701684, Explanation: did not get to lttc in the new run
+visid: M7J13X7700608, Explanation: Marginal core got killed
+visid: M7J13X7701262, Explanation: core0 was incoming bad in old run but got caught in lttc in new run

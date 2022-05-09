@@ -1,0 +1,2 @@
+visid: M8HC458500354, Explanation: HOTVAL limits reached due to problem with AP on cell A402 causing near room temperature testing
+visid: M8HC458500432, Explanation: HOTVAL limits reached due to problem with AP on cell A402 causing near room temperature testing

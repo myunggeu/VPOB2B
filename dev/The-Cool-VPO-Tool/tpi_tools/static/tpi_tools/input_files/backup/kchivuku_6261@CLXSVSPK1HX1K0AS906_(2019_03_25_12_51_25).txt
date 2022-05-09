@@ -1,0 +1,151 @@
+visid: M83G18S200428, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M8R42V9100093, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: D85V64V200133, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M83G18S200702, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M8SA531000310, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M83G18S200713, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M8R42V9100050, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9XB559800481, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: D8S77S0700327, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9HC416301001, Explanation: Bad unit, NO COOKIES for unit!
+visid: M8R42V9100098, Explanation: Bad unit , NO COOKIES for unit!
+visid: M9HC416300138, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9HC416301052, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9HC416300982, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9HC416300027, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: D8S77S0700211, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9HC416300022, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M83G18S200449, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M8SA531000675, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: M9HC416301372, Explanation: Recovered from HW issue, TIU commonality, NO COOKIES for unit!
+visid: M9HC416300089, Explanation: Recovered from HW issue, TIU commonality, NO COOKIES for unit!
+visid: M9HC416301068, Explanation: Previous history of Bin2826. Marginal unit., NO COOKIES for unit!
+Blank Entry: M9HC416300010
+visid: M9HC416300275, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416300736, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416300040, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000502, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100092, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: D8S77S0700082, Explanation: Recovered from HW issue, historically the unit have been bin 114, NO COOKIES for unit!
+visid: M8R42V9100199, Explanation: Recovered from HW issue, historically the unit have been bin 114, NO COOKIES for unit!
+visid: M9HC416300975, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100115, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416300058, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100102, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100293, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416300052, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000648, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9XB559800686, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9XB559800070, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416300980, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9XB559800419, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: D8S77S0700090, Explanation: HW related issue, NO COOKIES for unit!
+visid: M9XB559800581, Explanation: Marginal failed, NO COOKIES for unit!
+visid: M9XB559800582, Explanation: No change made to this test.  Appears to be a marginal unit.  Core failing for LTTC in ref run also fails cold in new run., NO COOKIES for unit!
+Blank Entry: D8S77S0700214
+visid: M8SA531000393, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200390, Explanation: HW related issue , NO COOKIES for unit!
+visid: M8R42V9100051, Explanation: HW related issue , NO COOKIES for unit!
+visid: M8R42V9100294, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200002, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100299, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100159, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200541, Explanation: HW related issue, NO COOKIES for unit!
+visid: D85V64V200149, Explanation: HW related issue, NO COOKIES for unit!
+visid: D8S77S0700370, Explanation: HW related issue, NO COOKIES for unit!
+visid: D8S77S0700030, Explanation: HW related issue, historically the unit have been bin 1, NO COOKIES for unit!
+visid: M9HC416300053, Explanation: HW related issue, historically the unit have been bin 1, NO COOKIES for unit!
+visid: M83G18S200562, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200411, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200601, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8SA531000398, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100194, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200454, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200673, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100073, Explanation: HW related issue for bin819. , NO COOKIES for unit!
+visid: D8S77S0700260, Explanation: HW related issue , NO COOKIES for unit!
+visid: M83G18S200686, Explanation: HW related issue , NO COOKIES for unit!
+visid: M8R42V9100078, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100056, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100022, Explanation: HW related issue, NO COOKIES for unit!
+visid: M9HC416300280, Explanation: HW related issue, NO COOKIES for unit!
+visid: M9XB559800683, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8R42V9100085, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8SA531000486, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200605, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000662, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000595, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200620, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416301018, Explanation: Bad unit, NO COOKIES for unit!
+visid: M83G18S200389, Explanation: Failed  shops in ref run, cache not tested, NO COOKIES for unit!
+Blank Entry: M8SA531000142
+Blank Entry: M8SA531000083
+Blank Entry: M8R42V9100128
+Blank Entry: M9HC416300801
+visid: M8R42V9100081, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200439, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200447, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416301017, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9XB559800113, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9XB559800632, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: D8S77S0700097, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9XB559800627, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100020, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100216, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200714, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100122, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200446, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200003, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200379, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: D85V64V200081, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200426, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200668, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100038, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: D8S77S0700301, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100082, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200695, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: D85V64V200011, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200662, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000298, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100076, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100217, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100103, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100033, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100219, Explanation: HW related issue for bin819, NO COOKIES for unit!
+visid: M8R42V9100184, Explanation: HW related issue for bin819, NO COOKIES for unit!
+visid: M83G18S200376, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200468, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8SA531000079, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200405, Explanation: HW related issue, NO COOKIES for unit!
+visid: M8SA531000602, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200535, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200680, Explanation: Unit failed bin1407 because it passed RF93 but that's no enough to pass any of the defined buckets., NO COOKIES for unit!
+visid: M9HC416300733, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9XB559800117, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200671, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100292, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M9HC416300941, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200407, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000406, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100074, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000389, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200378, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8R42V9100206, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M83G18S200613, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+visid: M8SA531000005, Explanation: Upper prochot limit reached due to low temperature during testing. Retesting should recover unit., NO COOKIES for unit!
+visid: D8S77S0700249, Explanation: HW related issue, NO COOKIES for unit!
+visid: M83G18S200705, Explanation: HW related issue, NO COOKIES for unit!
+visid: D8S77S0700328, Explanation: HW related issue, NO COOKIES for unit!
+visid: M9HC416301392, Explanation: No change made to this test.  Appears to be a marginal failure., NO COOKIES for unit!
+visid: M9HC416300797, Explanation: Unit killed by updated test conditions for CRF ROM Read LTTC screen, NO COOKIES for unit!
+visid: M9HC416301343, Explanation: Unit killed by updated test conditions for CRF ROM Read LTTC screen, NO COOKIES for unit!
+visid: M8SA531000179, Explanation: Unit killed by updated test conditions for CRF ROM Read LTTC screen, NO COOKIES for unit!
+visid: M9XB559800690, Explanation: Unit killed by updated test conditions for CRF ROM Read LTTC screen, NO COOKIES for unit!
+visid: M83G18S200534, Explanation: Unit killed by updated test conditions for CRF ROM Read LTTC screen, NO COOKIES for unit!
+visid: M8R42V9100063, Explanation: Unit killed by updated test conditions for CRF ROM Read LTTC screen, NO COOKIES for unit!
+visid: M8R42V9100161, Explanation: Unit killed by updated test conditions for CRF ROM Read LTTC screen, NO COOKIES for unit!
+visid: M8R42V9100132, Explanation: Unit killed by updated test conditions for CRF ROM Read LTTC screen, NO COOKIES for unit!
+visid: M83G18S200538, Explanation: Unit killed by updated test conditions for CRF ROM Read LTTC screen, NO COOKIES for unit!
+visid: M83G18S200423, Explanation:  Test instability or HW issue, NO COOKIES for unit!
+Blank Entry: M8SA531000589
+visid: M83G18S200527, Explanation: HW related issue for bin820, NO COOKIES for unit!

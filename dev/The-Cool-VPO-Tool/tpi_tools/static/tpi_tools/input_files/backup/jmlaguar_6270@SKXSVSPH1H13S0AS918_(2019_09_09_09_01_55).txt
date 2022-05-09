@@ -1,0 +1,8 @@
+visid: M9WC266701235, Explanation: Upper prochot limit reached due to low temperature (~50C) during DTS testing, issue with AP hardware on cell 502. Retesting should recover unit.
+visid: M9WC266701231, Explanation: Upper prochot limit reached due to low temperature (~50C) during DTS testing, issue with AP hardware on cell 502. Retesting should recover unit.
+visid: M9WC266701746, Explanation: Upper prochot limit reached due to low temperature (~50C) during DTS testing, issue with AP hardware on cell 502. Retesting should recover unit.
+visid: M9WC266701750, Explanation: Upper prochot limit reached due to low temperature (~50C) during DTS testing, issue with AP hardware on cell 502. Retesting should recover unit.
+visid: M9WC266700494, Explanation: Upper prochot limit reached due to low temperature (~50C) during DTS testing, issue with AP hardware on cell 502. Retesting should recover unit.
+visid: M9LJ518200090, Explanation: Upper prochot limit reached due to low temperature (~50C) during DTS testing, issue with AP hardware on cell 502. Retesting should recover unit.
+visid: M9KK695401136, Explanation: Upper prochot limit reached due to low temperature (~50C) during DTS testing, issue with AP hardware on cell 502. Retesting should recover unit.
+visid: M9S83J1700139, Explanation: Upper prochot limit reached due to low temperature (~50C) during DTS testing, issue with AP hardware on cell 502. Retesting should recover unit.

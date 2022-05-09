@@ -1,0 +1,8 @@
+visid: M7SH412400563, Explanation: Unit is recovered to Bin100
+visid: M7SH412401342, Explanation: Unit is failing bin4621 only once throughout the history; due to tester issue
+visid: M7SH412400892, Explanation: There are multiple bin1 results from the same testing condition with 4 bin4625 out of 30 tests; usually due to connection issue
+visid: M7SH412401213, Explanation: Unit is recovered to Bin100
+visid: M7SH412400568, Explanation: Unit is failing bin4625 only once throughout the history due to known test instability issues in this module
+visid: M7SH412400546, Explanation: Unit is failing bin4625 only once throughout the history; due to tester issues
+visid: M7SH412400765, Explanation: Unit is failing bin5422 only once throughout the history; due to tester issue
+visid: M7SH412400716, Explanation: Unit is failing bin5433 only once throughout the history; due to tester issues

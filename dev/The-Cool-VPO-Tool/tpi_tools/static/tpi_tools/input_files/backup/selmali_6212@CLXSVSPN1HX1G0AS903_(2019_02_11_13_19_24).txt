@@ -1,0 +1,1 @@
+visid: M8S78N4500489, Explanation: The only change we have between new and old TP is enabling CRF ROM Read LTTC screen. This looks like a marginal failure for retention test

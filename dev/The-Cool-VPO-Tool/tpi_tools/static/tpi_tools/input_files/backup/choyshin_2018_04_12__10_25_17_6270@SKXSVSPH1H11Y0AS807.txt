@@ -1,0 +1,3 @@
+visid: M7N7K70501114, Explanation: invalid. Testing issue happened to S805TP - HW bin swicthing observed.
+visid: M7SH412400152, Explanation: invalid. Testing issue happened to S805TP - HW bin swicthing observed.
+visid: M7N7K70501407, Explanation: invalid. Testing issue happened to S805TP - unit recovered as good bin at RT.

@@ -1,0 +1,6 @@
+visid: M7N7K70500184, Explanation: This is a basic tap test; most likely tap induce error; probably recovered on rerun
+visid: M7SH412400958, Explanation: This is a basic tap test; most likely tap induce error; probably recovered on rerun
+visid: M7SH412400739, Explanation: this unit was recovered from reset and new failure should be review but the corresponding team 
+visid: M7N7K70501212, Explanation: this unit was recovered from reset and new failure should be review but the corresponding team 
+visid: M7N7K70501434, Explanation: this unit was recovered from reset and new failure should be review but the corresponding team 
+visid: M7SH412401186, Explanation: This is a basic tap test; most likely tap induce error; probably will passed if  rerun

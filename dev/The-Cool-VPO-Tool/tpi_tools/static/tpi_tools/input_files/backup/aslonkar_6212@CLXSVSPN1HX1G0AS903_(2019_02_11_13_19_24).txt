@@ -1,0 +1,1 @@
+visid: M8S78N4500093, Explanation: Unit failed at Cold on Old TP, similar bin switch observed. No change in SCN Module

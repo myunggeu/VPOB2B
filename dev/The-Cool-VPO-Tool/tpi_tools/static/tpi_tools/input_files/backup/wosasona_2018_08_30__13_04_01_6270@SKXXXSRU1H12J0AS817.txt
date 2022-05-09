@@ -1,0 +1,1 @@
+visid: M7W84N4001208, Explanation: Possible hardware/tester issue. The unit failed B4821 only once in history. Fail is not valid

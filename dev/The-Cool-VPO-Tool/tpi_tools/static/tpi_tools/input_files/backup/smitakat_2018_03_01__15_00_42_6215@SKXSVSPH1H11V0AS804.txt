@@ -1,0 +1,29 @@
+visid: M7L1Y26800030, Explanation: CRES fail, HW issue
+visid: M7L1Y26800113, Explanation: CRES fail, HW issue
+visid: M7L1Y26800131, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7L1Y26800147, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7L1Y26800289, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7L1Y26800290, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7L1Y26800292, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7L1Y26800300, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500034, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500045, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500051, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500052, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500054, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500069, Explanation: CRES fail, HW issue
+visid: M7N7K70500091, Explanation: Testing issu in previous TP.  No change in content
+visid: M7N7K70500150, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500175, Explanation: Content updated for ACIOLB B68 reduction with New TIUs
+visid: M7N7K70500227, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500250, Explanation: unit is failing b4421 only once in history in the last run where the fail pattern has different configurations.
+visid: M7N7K70500270, Explanation: Marginal core. no change in content. 
+visid: M7N7K70500398, Explanation: invalid 2737 due to socketing issue at cold
+visid: M7N7K70500415, Explanation: Testing issu in previous TP.  No change in content
+visid: M7N7K70500479, Explanation: CRES fail, HW issue
+visid: M7N7K70500520, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70500616, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500859, Explanation: Testing issu in previous TP.  No change in content
+visid: M7N7K70501109, Explanation: Content updated for ACIOLB B68 reduction
+visid: M7N7K70501310, Explanation: Unit recovered due to recharacaterization with new TIU
+visid: M7N7K70501372, Explanation: Unit recovered due to recharacaterization with new TIU

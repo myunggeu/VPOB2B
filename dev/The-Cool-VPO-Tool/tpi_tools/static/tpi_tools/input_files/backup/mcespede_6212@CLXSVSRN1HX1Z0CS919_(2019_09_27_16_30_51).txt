@@ -1,0 +1,11 @@
+visid: M9V06E8801587, Explanation: Unit recovered from HW issue in previous run 
+visid: M9V06E8801617, Explanation: Unit recovered from HW issue in previous run 
+visid: M9V06E8801136, Explanation: Unit failed due to HW issue
+visid: M9V06E8801795, Explanation: Unit failed due to HW issue
+visid: M9V06E8801133, Explanation: Unit failed due to HW issue
+visid: M9V06E8801177, Explanation: Unit failed due to HW issue
+visid: M9V06E8802090, Explanation: Unit failed due to HW issue
+visid: M9V06E8801453, Explanation: Unit failed due to HW issue
+visid: M9V06E8800703, Explanation: Unit failed due to HW issue
+visid: M9V06E8800632, Explanation: Unit failed due to HW issue
+visid: M9V06E8801799, Explanation: Unit recovered from HW issue in previous run 

@@ -1,0 +1,95 @@
+visid: M7N7K70501104, Explanation: recover at rerun
+visid: M7N7K70500136, Explanation: recover at rerun
+visid: M7N7K70501322, Explanation: Hot and cold both failed VCCIO supply, may be unit defect
+visid: M7N7K70500942, Explanation: HW issue
+visid: M7SH412401078, Explanation: HW issue
+visid: M7N7K70500352, Explanation: HW issue
+visid: M7N7K70501128, Explanation: HW issue
+visid: M7L1Y26800283, Explanation: HW issue
+visid: M7L1Y26800257, Explanation: HW issue
+visid: M7SH412400291, Explanation: HW issue
+visid: M7SH412400649, Explanation: HW issue
+visid: M7N7K70500958, Explanation: recover at rerun
+visid: M7A176X401213, Explanation: same FB recover at rerun, HW related issue
+visid: M7N7K70500826, Explanation: same FB recover at rerun, HW related issue
+visid: M7N7K70500359, Explanation: HW related issue
+visid: M7SH412400761, Explanation: HW related issue
+visid: M7N7K70501234, Explanation: HW related issue
+visid: M7N7K70500555, Explanation: HW related issue
+visid: M7SH412401225, Explanation: HW issue
+visid: M7SH412401056, Explanation: HW issue
+visid: M7SH412401182, Explanation: HW issue
+visid: M7SH412401227, Explanation: HW issue
+visid: M7SH412401190, Explanation: HW issue
+visid: M7N7K70500306, Explanation: HW issue
+visid: M7N7K70500339, Explanation: HW issue
+visid: M7N7K70500290, Explanation: HW issue
+visid: M7L1Y26800262, Explanation: HW issue
+visid: M7SH412400563, Explanation: HW issue
+visid: M7N7K70501403, Explanation: HW issue
+visid: M7N7K70500236, Explanation: HW issue
+visid: M7N7K70500034, Explanation: HW issue
+visid: M7N7K70500785, Explanation: HW issue
+visid: M7N7K70500703, Explanation: HW issue
+visid: M7N7K70500432, Explanation: HW issue
+visid: M7N7K70500446, Explanation: HW issue
+visid: M7N7K70501392, Explanation: HW issue
+visid: M7N7K70500488, Explanation: HW issue
+visid: M7N7K70500351, Explanation: HW issue
+visid: M7N7K70500057, Explanation: HW issue
+visid: M7N7K70501420, Explanation: HW issue
+visid: M7SH412401533, Explanation: HW issue
+visid: M7L1Y26800246, Explanation: HW issue
+visid: M7SH412401230, Explanation: HW issue
+visid: M7N7K70500592, Explanation: HW issue
+visid: M7SH412400882, Explanation: HW issue
+visid: M7N7K70500478, Explanation: HW issue
+visid: M7N7K70500231, Explanation: HW issue
+visid: M7N7K70500701, Explanation: HW issue on previous run
+visid: M7SH412400003, Explanation: HW issue on previous run
+visid: M7SH412401169, Explanation: HW issue on previous run
+visid: M7N7K70500457, Explanation: HW issue on previous run
+visid: M7N7K70501044, Explanation: HW issue on previous run
+visid: M7SH412400938, Explanation: HW issue on previous run
+visid: M7SH412400586, Explanation: HW issue on previous run
+visid: M7N7K70501230, Explanation: HW issue on previous run
+visid: M7N7K70500038, Explanation: HW issue on previous run
+visid: M7N7K70500707, Explanation: HW issue on previous run
+visid: M7N7K70500634, Explanation: HW issue on previous run
+visid: M7SH412401402, Explanation: HW issue on previous run
+visid: M7SH412400833, Explanation: HW issue on previous run
+visid: M7SH412401300, Explanation: HW issue on previous run
+visid: M7SH412400083, Explanation: HW issue on previous run
+visid: M7SH412401006, Explanation: HW issue on previous run
+visid: M7L1Y26800115, Explanation: HW issue on previous run
+visid: M7N7K70500902, Explanation: HW issue on previous run
+visid: M7SH412401128, Explanation: HW issue on previous run
+visid: M7SH412400861, Explanation: HW issue on previous run
+visid: M7SH412400694, Explanation: HW issue on previous run
+visid: M7SH412400877, Explanation: HW issue on previous run
+visid: M7SH412401342, Explanation: HW issue on previous run
+visid: M7N7K70501225, Explanation: HW issue on previous run
+visid: M7N7K70501207, Explanation: HW issue on previous run
+visid: M7SH412401551, Explanation: HW issue on previous run
+visid: M7A176X401366, Explanation: HW issue on previous run
+visid: M7SH412401030, Explanation: HW issue on previous run
+visid: M7SH412400753, Explanation: HW issue on previous run
+visid: M7N7K70500467, Explanation: HW issue on previous run
+visid: M7N7K70500581, Explanation: HW issue on previous run
+visid: M7N7K70500280, Explanation: HW issue on previous run
+visid: M7SH412400088, Explanation: HW issue on previous run
+visid: M7N7K70500116, Explanation: HW issue on previous run
+visid: M7L1Y26800221, Explanation: HW issue on previous run
+visid: M7SH412401224, Explanation: HW issue on previous run
+visid: M7SH412400814, Explanation: HW issue on previous run
+visid: M7N7K70500167, Explanation: HW issue on previous run
+visid: M7SH412401528, Explanation: HW issue on previous run
+visid: M7N7K70501120, Explanation: HW issue on previous run
+visid: M7SH412400471, Explanation: HW issue on previous run
+visid: M7SH412400107, Explanation: HW issue
+visid: M7N7K70500139, Explanation: Hot and cold both failed VCCD supply, may be unit defect
+visid: M7N7K70500017, Explanation: HW issue
+visid: M7SH412400399, Explanation: HW issue
+visid: M7N7K70500013, Explanation: HW issue
+visid: M7N7K70501030, Explanation: HW issue
+visid: M7N7K70500635, Explanation: HW related issue

@@ -1,0 +1,2 @@
+visid: M8S78N4500510, Explanation: the unit didn't passing any SKU in actual TP due to invalid core configuration
+visid: M8S78N4500547, Explanation: previous TP the unit failed bin 14 due to bucketer algorithm didn't find a passing SKUcombinations

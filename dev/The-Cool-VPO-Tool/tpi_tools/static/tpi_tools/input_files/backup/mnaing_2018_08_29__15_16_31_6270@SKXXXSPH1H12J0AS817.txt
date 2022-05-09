@@ -1,0 +1,3 @@
+visid: M7SH412401032, Explanation:  that unit is mostly Bin1. 
+visid: M7N7K70500415, Explanation:  it was tester issue since all cores are failing @ S815.   Mostly Bin 1 all the time except 1 time Bin 94
+visid: M7SH412401468, Explanation: incoming core 0 is already Defeatured on the new run.  So its Bin1. In the old run, core 0th got defeatured by LTTC , its  bn 94.

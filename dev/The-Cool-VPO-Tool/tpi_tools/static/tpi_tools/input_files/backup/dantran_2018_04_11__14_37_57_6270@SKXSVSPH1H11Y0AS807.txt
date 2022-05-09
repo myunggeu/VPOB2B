@@ -1,0 +1,2 @@
+visid: M7SH412400356, Explanation: CACHE: mlcdata spk test marginal vmin failure, switching back and forth to good bin. 
+visid: M7N7K70500464, Explanation: CACHE: Additional core 11 getting disabled at mlcdatksx_vcoremaxfreq1_VMAXCOREF1_7911 for both old and new run but getting binned as bin 60 only in the old run.

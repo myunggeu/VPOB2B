@@ -1,0 +1,26 @@
+visid: M8HC458500044, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 5432 out of 33 tests. should be connection issue
+visid: M8HC458500493, Explanation: Unit is recovered to bin1 in the last VPO with 4 bin 4625 out of 37 tests
+visid: M8HC458500399, Explanation: Unit is failing bin 1340 only once throughout the history. Most likely a tester issue
+visid: M8HC458500409, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin 4313 out of 33 tests
+visid: M8HC458500337, Explanation: Unit is failing bin 1551 only once throughout the history. Most likely a tester issue
+visid: M8HC458500120, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue
+visid: M8HC458500289, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4821 out of 32 tests. should be connection issue
+visid: M8HC458500475, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 1552 out of 33 tests. should be connection issue
+visid: M8HC458500341, Explanation: There are multiple bin 1 results from the same testing condition with 3 bin 4313 out of 35 tests. should be connection issue
+visid: M8HC458500255, Explanation: Unit fails at bin 4622 20 out of 34 tests in the history. Should be a valid failure
+visid: M8HC458500129, Explanation: There are multiple bin 1 results from the same testing condition with 5 bin 4625 out of 37 tests. should be connection issue
+visid: M8HC458500280, Explanation: Unit fails at bin 1404 most of the time throughout history with only 5 out of 36 times bin 4625
+visid: M8HC458500494, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4625 out of 32 tests. should be connection issue
+visid: M8HC458500362, Explanation: There are multiple bin 1 results from the same testing condition with 4 bin 4625 out of 31 tests. should be connection issue
+visid: M8HC458500035, Explanation: Unit is failing bin 4625 only once throughout the history. Most likely a tester issue
+visid: M8HC458500319, Explanation: There are multiple bin 1 results from the same testing condition with 3 bin 4625 out of 25 tests. should be connection issue
+visid: M8HC458500528, Explanation: There are multiple bin 1 results from the same testing condition with 5 bin 4625 out of 31 tests. should be connection issue
+visid: M8HC458500405, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4625 out of 31 tests. should be connection issue
+visid: M8HC458500523, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4821 out of 31 tests. should be connection issue
+visid: M8HC458500533, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4821 out of 36 tests. should be connection issue
+visid: M8HC458500115, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 4823 out of 50 tests. should be connection issue
+visid: M8HC458500060, Explanation: Unit is failing bin 5432 only once throughout the history. Most likely a tester issue 
+visid: M8HC458500204, Explanation: Unit is failing bin 5433 only once throughout the history. Most likely a tester issue
+visid: M8HC458500189, Explanation: Unit is failing bin 5433 only once throughout the history. Most likely a tester issue
+visid: M8HC458500349, Explanation: There are multiple bin 1 results from the same testing condition with 2 bin 5433 out of 28 tests. should be connection issue
+visid: M8HC458500273, Explanation: Unit is failing bin 9901 only once throughout the history. Most likely a tester issue

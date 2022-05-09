@@ -1,0 +1,96 @@
+visid: D970U5V201155, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: D9563MT000152, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: D9563MT000041, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: D970U5V201203, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: D905541K00540, Explanation: Unit recovered on different run under this same TP, testing issue, NO COOKIES for unit!
+visid: D970U5V201185, Explanation: Hardware/Socketing issue where unit recovered, NO COOKIES for unit!
+visid: D970U5V201144, Explanation: Hardware/Socketing issue where unit recovered, NO COOKIES for unit!
+visid: D9563MT000122, Explanation: no module change, this is likely due to timing misalignment when using JNSTR , NO COOKIES for unit!
+visid: D970U5V201169, Explanation: Hardware/Socketing issue where unit recovered, NO COOKIES for unit!
+visid: D970U5V201238, Explanation: Hardware/Socketing issue where unit recovered, NO COOKIES for unit!
+visid: D970U5V201239, Explanation: Hardware/Socketing issue where unit recovered, NO COOKIES for unit!
+visid: D997E7C700100, Explanation: Hardware/Socketing issue where unit recovered, NO COOKIES for unit!
+visid: D9432ME900031, Explanation: Hardware/Socketing issue where unit recovered, NO COOKIES for unit!
+visid: D997E7C700017, Explanation: Hardware/Socketing issue where unit recovered, NO COOKIES for unit!
+visid: D9481LV800570, Explanation: Recovered from HW issue, NO COOKIES for unit!
+visid: D9432ME900034, Explanation: Hardware/Socketing issue where unit recovered, NO COOKIES for unit!
+visid: D9195AN200107, Explanation: no module change, this is likely due to timing misalignment when using JNSTR , NO COOKIES for unit!
+visid: D9195AN200040, Explanation: Hardware/Socketing issue where unit recovered, NO COOKIES for unit!
+visid: D997E7C700082, Explanation: Hardware/Socketing issue where unit recovered, NO COOKIES for unit!
+visid: D9481LV800517, Explanation: Hardware/Socketing issue where unit recovered, NO COOKIES for unit!
+visid: D9432ME900058, Explanation: Hardware/Socketing issue where unit recovered, NO COOKIES for unit!
+visid: D9481LV800556, Explanation: Hardware/Socketing issue where unit recovered, NO COOKIES for unit!
+visid: D9481LV801093, Explanation: no module change, this is likely due to timing misalignment when using JNSTR , NO COOKIES for unit!
+visid: D970U5V200008, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D905541K00538, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9563MT000139, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9195AN200045, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9617FV304549, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9195AN200084, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9481LV801106, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9481LV800555, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D997E7C700053, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V200022, Explanation: Marginal unit, have never passed a test, NO COOKIES for unit!
+visid: D997E7C700057, Explanation: Marginal unit, have never passed a test, NO COOKIES for unit!
+visid: D9563MT000035, Explanation: no module change from FIVR, NO COOKIES for unit!
+visid: D9195AN200007, Explanation: Unit shares HW with several parametric bins. Likely testing issues., NO COOKIES for unit!
+visid: D9563MT000145, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201153, Explanation: Several bin switches across TPs with no changes in content. Marginal unit. Not a TP issue., NO COOKIES for unit!
+visid: D970U5V201250, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9563MT000112, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9195AN200095, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9195AN200020, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D997E7C700065, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9481LV800518, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9563MT000148, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9563MT000001, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201059, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D905541K00532, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201047, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D905541K00523, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9563MT000149, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201266, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201240, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9563MT000150, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9195AN200028, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D997E7C700101, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9432ME900012, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D997E7C700098, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9481LV800516, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9481LV800560, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9481LV800561, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9195AN200030, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D997E7C700037, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201136, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201246, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201110, Explanation: no module change, this is likely due to timing misalignment when using JNSTR , NO COOKIES for unit!
+visid: D970U5V201182, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9563MT000022, Explanation: HW issue. trim maxed out. , NO COOKIES for unit!
+visid: D9563MT000007, Explanation: HW issue. trim maxed out. , NO COOKIES for unit!
+visid: D970U5V201193, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9563MT000135, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201102, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9563MT000120, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201183, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9563MT000017, Explanation: no content or SS change, looks marginal, NO COOKIES for unit!
+visid: D9563MT000095, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9563MT000106, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9563MT000131, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9432ME900089, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D997E7C700092, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201046, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9563MT000138, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201141, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201083, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201208, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D997E7C700054, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9195AN200097, Explanation: Unit failed due to HW issue (5115), no module change, this is likely due to timing misalignment when using JNSTR , NO COOKIES for unit!
+visid: D9563MT000057, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9563MT000021, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201105, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201114, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201124, Explanation: Marginal unit, have never passed a test, NO COOKIES for unit!
+visid: D9563MT000082, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D970U5V201223, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9481LV800527, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: D9195AN200051, Explanation: Unit failed due to HW issue, NO COOKIES for unit!

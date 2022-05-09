@@ -1,0 +1,3 @@
+visid: M8LM305300602, Explanation: ran out of good cores in a column for self sig
+visid: M8LM305300276, Explanation: Ran out of good cores for self sig compare
+visid: M8CQ906300070, Explanation: Caused by the new FC dargon content

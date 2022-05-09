@@ -1,0 +1,5 @@
+visid: D72N5Q3400117, Explanation: Unit doesn't reach frequency 2667 in component DDRD. It got frequencie 2400.
+visid: D72N5Q3400215, Explanation: Unit doesn't reach frequency 2667 in component DDRD. It got frequencie 2400.
+visid: D73U27M900001, Explanation: Unit doesn't reach frequency 2667 in component DDRD. It got frequencie 2400.
+visid: D73U27M900012, Explanation: Unit doesn't reach frequency 2667 in component DDRD. It got frequencie 2400.
+visid: D73U27M900067, Explanation: Unit doesn't reach frequency 2667 in component DDRD. It got frequencie 2400.

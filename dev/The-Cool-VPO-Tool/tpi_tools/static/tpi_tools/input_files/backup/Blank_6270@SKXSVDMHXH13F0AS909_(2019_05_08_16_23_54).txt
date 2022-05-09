@@ -1,0 +1,4 @@
+visid: D9195AN200007, Explanation: Recovering unit from previous run. Strong HW commonality on TIU BB2TLH1P7472. Limits verified on both TPs, likely testing issue
+visid: D9432ME900005, Explanation: Unit recovered for this same TP, unit data suggests marginality
+visid: D9617FV304549, Explanation: Marginal failure. Commonnality with B1306 switches. These two bins are usually correlated to HW and unit issues. Consider retesting this unit on RV and taking it out of the SL. Not a TP issue.
+visid: D9195AN200084, Explanation: Marginal failure. Commonnality with B1306 switches. These two bins are usually correlated to HW and unit issues. Consider retesting this unit on RV and taking it out of the SL. Not a TP issue.

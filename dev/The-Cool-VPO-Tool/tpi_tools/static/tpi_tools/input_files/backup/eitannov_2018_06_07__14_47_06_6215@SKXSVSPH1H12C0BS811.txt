@@ -1,0 +1,1 @@
+visid: M7N7K70501351, Explanation: Core 17 VDAC pin did not sit correctly on TIU. This is run to run issue, there is no FIVR module change.

@@ -1,0 +1,2 @@
+visid: D73U27M900108, Explanation: invalid bin 2737, core13 FIVR vload pin reading all 0s, likely socketing issue
+visid: D73U27M900085, Explanation: invalid bin 2737, DDRD012 FIVR vload pin reading all 0s, likely socketing issue

@@ -1,0 +1,2 @@
+visid: M7N7K70500024, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow, due to hardware issue. Recovered in retest.
+visid: M7SH412401556, Explanation: Unit reached temperature limit of 20C during CHKCOREF6 subflow, due to hardware issue. Recovered in retest.

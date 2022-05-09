@@ -1,0 +1,2 @@
+visid: M7SH412400423, Explanation: recover at retest
+visid: M7N7K70501161, Explanation: bad contact, HW issue

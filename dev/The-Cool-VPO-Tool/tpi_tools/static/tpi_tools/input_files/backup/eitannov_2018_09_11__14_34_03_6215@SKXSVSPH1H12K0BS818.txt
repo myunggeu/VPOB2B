@@ -1,0 +1,5 @@
+visid: M7N7K70500883, Explanation: Core 25 was not seated correctly at TIU and did not read voltage. No test program issue. 
+visid: M7SH412400976, Explanation: Core 25 was not seated correctly at TIU and did not read voltage. No test program issue. 
+visid: M7SH412401360, Explanation: Core 25 was not seated correctly at TIU and did not read voltage. No test program issue. 
+visid: M7N7K70500144, Explanation: Core 10 was not seated correctly at TIU and did not read voltage. No test program issue. 
+visid: M7SH412401441, Explanation: Core 01 was not seated correctly at TIU and did not read voltage. No test program issue. 

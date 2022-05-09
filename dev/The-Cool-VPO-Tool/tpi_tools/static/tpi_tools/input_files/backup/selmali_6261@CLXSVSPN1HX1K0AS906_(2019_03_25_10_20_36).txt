@@ -1,0 +1,6 @@
+visid: M8S78N4500432, Explanation: Unit failing for our new updated c_crfrmrscr_vcoreminfreq6_LTTC screen due to tighter screen limits based on our CSM learning
+visid: M8S78N4500350, Explanation: Unit failing for our new updated c_crfrmrscr_vcoreminfreq6_LTTC screen due to tighter screen limits based on our CSM learning
+visid: M8S78N4500316, Explanation: Unit failing for our new updated c_crfrmrscr_vcoreminfreq6_LTTC screen due to tighter screen limits based on our CSM learning
+visid: M8601RW600695, Explanation: Unit failing for our new updated c_crfrmrscr_vcoreminfreq6_LTTC screen due to tighter screen limits based on our CSM learning
+visid: M8S78N4500309, Explanation: Unit failing for our new updated c_crfrmrscr_vcoreminfreq6_LTTC screen due to tighter screen limits based on our CSM learning
+visid: M8S78N4500510, Explanation: Unit failing for our new updated c_crfrmrscr_vcoreminfreq6_LTTC screen due to tighter screen limits based on our CSM learning

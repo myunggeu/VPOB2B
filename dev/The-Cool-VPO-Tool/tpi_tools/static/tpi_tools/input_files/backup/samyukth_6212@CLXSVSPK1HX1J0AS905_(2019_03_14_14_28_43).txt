@@ -1,0 +1,8 @@
+visid: M8SA531000065, Explanation: HOT FAILURES
+visid: M8SA531000083, Explanation: HOT FAILURES
+visid: D8S77S0700021, Explanation: HOT FAILURES
+visid: M8SA531000048, Explanation: HOT FAILURES
+visid: M8SA531000125, Explanation: HOT FAILURES
+visid: M8SA531000662, Explanation: HOT FAILURES
+visid: M8SA531000006, Explanation: HOT FAILURES
+visid: M8SA531000162, Explanation: HOT FAILURES

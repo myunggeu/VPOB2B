@@ -1,0 +1,1 @@
+visid: M8SA531000156, Explanation: DTS failing at max HOTVAL limit due to low temperature (~50C) during DTS testing. Retesting recovered unit.

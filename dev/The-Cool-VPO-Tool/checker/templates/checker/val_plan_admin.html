@@ -1,0 +1,213 @@
+
+<head>
+    <meta charset="UTF-8">
+
+    {% block header %}
+    {% include "base.html"  %}
+    {% endblock %}
+    <title>Validation Plan</title>
+    <h2 id="plan_head">{{tp}} (ww{{ww}}) Validation Plan Admin</h2>
+
+    <br>
+
+</head>
+<body>
+
+<style type="text/css">
+	#content input
+    {
+        width:107%;
+        box-sizing:border-box;
+        -moz-box-sizing:border-box;
+    }
+    .input-append .btn.dropdown-toggle{
+        float: none;
+    }
+</style>
+
+<div>
+    <div class="col-sm-11" id='content'>
+        <button id="remove" type="submit" class="remove">Remove Selected Row</button>
+    <button id="add" type="submit" class="add">Add New Row</button>
+        &nbsp
+        &nbsp
+        &nbsp
+    <button id="submit" type="submit" class="submit">Submit Plan Template</button>
+        {% csrf_token %}
+    <table id="status_table" class="table table-bordered">
+{% csrf_token %}
+        {%block javascript2%}
+        <script>
+            /* Create an array with the values of all the input boxes in a column */
+                $.fn.dataTable.ext.order['dom-text'] = function  ( settings, col )
+                {
+                    return this.api().column( col, {order:'index'} ).nodes().map( function ( td, i ) {
+                        return $('input', td).val();
+                    } );
+                }
+
+                /* Create an array with the values of all the input boxes in a column, parsed as numbers */
+                $.fn.dataTable.ext.order['dom-text-numeric'] = function  ( settings, col )
+                {
+                    return this.api().column( col, {order:'index'} ).nodes().map( function ( td, i ) {
+                        return $('input', td).val() * 1;
+                    } );
+                }
+
+                /* Create an array with the values of all the select options in a column */
+                $.fn.dataTable.ext.order['dom-select'] = function  ( settings, col )
+                {
+                    return this.api().column( col, {order:'index'} ).nodes().map( function ( td, i ) {
+                        return $('select', td).val();
+                    } );
+                }
+
+                /* Create an array with the values of all the checkboxes in a column */
+                $.fn.dataTable.ext.order['dom-checkbox'] = function  ( settings, col )
+                {
+                    return this.api().column( col, {order:'index'} ).nodes().map( function ( td, i ) {
+                        return $('input', td).prop('checked') ? '1' : '0';
+                    } );
+                }
+
+            $(document).ready(function() {
+
+                var table = $('#status_table').DataTable({
+                             "paging": false,
+                             "ordering": true,
+                             "columns": [
+                                { "orderDataType": "dom-text", type: 'string' },
+                                { "orderDataType": "dom-text", type: 'string' },
+                                { "orderDataType": "dom-text", type: 'string' },
+                                { "orderDataType": "dom-text", type: 'string' },
+                                { "orderDataType": "dom-text", type: 'string' },
+                                { "orderDataType": "dom-text", type: 'string' },
+                                { "orderDataType": "dom-text", type: 'string' },
+                                null,
+                                null]
+                } );
+                $(".submit").click( function() {
+                    var submit_table = table.$('textarea, select, input').serialize();
+                    var data_post = {'submit_table':  submit_table,
+									'tp': "{{tp}}",
+									'ww': "{{ww}}",
+									'csrfmiddlewaretoken': document.getElementsByName('csrfmiddlewaretoken')[0].value
+									};
+                    alert("Click OK to save validation plan template"
+                    );
+                    $.ajax({
+						url: "/save_template/",
+						type: "POST",
+						data: data_post,
+						success: function(result){
+								alert("template saved!");
+						},
+						error: function(jqXHR,textStatus,errorThrown ){
+							 alert('Exception:'+errorThrown );
+						}
+					});
+                    return false;
+                } );
+
+                $('#status_table tbody').on( 'click', 'tr', function () {
+                    if ( $(this).hasClass('selected') ) {
+                        $(this).removeClass('selected');
+                    }
+                    else {
+                        table.$('tr.selected').removeClass('selected');
+                        $(this).addClass('selected');
+                    }
+                } );
+
+                $('#remove').click( function () {
+                    table.row('.selected').remove().draw( false );
+                } );
+
+                $('#add').on( 'click', function () {
+                    table.row.add( ['<div style="margin: 5px 10px"><input type="text" id="bom" name="bom" value=""></div>',
+                                    '<div style="margin: 5px 10px"><input type="text" id="ww" name="ww" value=""></div>',
+                                    '',
+                                    '<div style="margin: 5px 10px"><input type="text" id="site" name="site" value=""></div>',
+                                    '<div style="margin: 5px 10px"><input type="text" id="units" name="units" value=""></div>',
+                                    '<div style="margin: 5px 10px"><input type="text" id="device" name="device" value=""></div>',
+                                    '<div style="margin: 5px 10px"><input type="text" id="source" name="source" value=""></div>',
+                                    '<div style="margin: 5px 10px"><textarea id="locations" name="locations"></textarea></div>',
+                                    '<div style="margin: 5px 10px"><textarea id="description" name="description"></textarea></div>',
+                    ] ).draw( false );
+                } );
+
+            } );
+
+
+        </script>
+        {% endblock %}
+        <thead>
+            <tr>
+                <th>BOM</th>
+                <th>WW</th>
+                <th>VPO</th>
+                <th>Site</th>
+                <th># Units</th>
+                <th>Device</th>
+                <th>Source Material</th>
+                <th>Locations</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+        {%for template in supported_templates%}
+                {%for entry in template%}
+                <tr>
+                    <td>
+                        <div style="margin: 5px 10px">
+                            <input type="text" id="bom" name="+++bom" value="{{entry.0}}">
+                        </div>
+                    </td>
+
+                    <td>
+                        <div style="margin: 5px 10px">
+                            <input type="text" id="ww" name="ww" value="{{entry.1}}">
+                        </div>
+                    </td>
+                    <td></td>
+                    <td>
+                        <div style="margin: 5px 10px">
+                            <input type="text" id="site" name="site" value="{{entry.2}}">
+                        </div>
+                    </td>
+                    <td>
+                        <div style="margin: 5px 10px">
+                            <input type="text" id="units" name="units" value="{{entry.3}}">
+                        </div>
+                    </td>
+                    <td>
+                        <div style="margin: 5px 10px">
+                            <input type="text" id="device" name="device" value="{{entry.4}}">
+                        </div>
+                    </td>
+                    <td>
+                        <div style="margin: 5px 10px">
+                        <input type="text" id="source" name="source" value="{{entry.5}}">
+                        </div>
+                    </td>
+                    <td>
+                        <div style="margin: 5px 10px">
+                            <textarea id="locations" name="locations">{{entry.6}}</textarea>
+                        </div>
+                    </td>
+                    <td>
+                        <div style="margin: 5px 10px">
+                            <textarea id="description" name="description">{{entry.7}}</textarea>
+                        </div>
+                    </td>
+                </tr>
+                {%endfor%}
+        {%endfor%}
+        </tbody>
+    </table>
+    </div>
+
+</div>
+
+</div>
+</body>

@@ -1,0 +1,4 @@
+visid: M8BD231400120, Explanation: seems like hardware issue, 3 units failing similarly on same level 
+visid: M8NE567700694, Explanation: seems like hardware issue, 3 units failing similarly on same level 
+visid: M8NE567700439, Explanation: seems like hardware issue, 3 units failing similarly on same level 
+visid: M8NE567700394, Explanation: seems like hardware issue, 3 units failing similarly on same level 

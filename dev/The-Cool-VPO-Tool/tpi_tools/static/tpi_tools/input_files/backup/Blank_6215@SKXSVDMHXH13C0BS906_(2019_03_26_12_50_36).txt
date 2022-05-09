@@ -1,0 +1,21 @@
+visid: D970U5V201101, Explanation: Unit recovered from HW issue in previous TP 
+visid: D9563MT000009, Explanation: Unit recovered from HW issue in previous TP 
+visid: D9563MT000103, Explanation: Unit recovered from HW issue in previous TP 
+visid: D9563MT000032, Explanation: Unit recovered from HW issue in previous TP 
+visid: D9563MT000081, Explanation: Unit recovered from HW issue in previous TP 
+visid: D9563MT000107, Explanation: Unit recovered from HW issue in previous TP 
+visid: D970U5V201228, Explanation: Unit recovered from HW issue in previous TP 
+visid: D970U5V201245, Explanation: Unit recovered from HW issue in previous TP 
+visid: D9563MT000040, Explanation: Unit recovered from HW issue in previous TP 
+visid: D970U5V201073, Explanation: Unit recovered from HW issue in previous TP 
+visid: D970U5V201069, Explanation: Unit recovered from HW issue in previous TP 
+visid: D970U5V201092, Explanation: Unit recovered from HW issue in previous TP 
+visid: D970U5V201242, Explanation: Unit recovered from HW issue in previous TP 
+visid: D970U5V201180, Explanation: Unit recovered from HW issue in previous TP 
+visid: D970U5V201028, Explanation: Unit failed due to HW issue 
+visid: D905541K00551, Explanation: Unit failed due to HW issue 
+visid: D970U5V201160, Explanation: Unit failed due to HW issue 
+visid: D9563MT000013, Explanation: Unit failed due to HW issue 
+visid: D970U5V201202, Explanation: Unit failed due to HW issue 
+visid: D970U5V201102, Explanation: Unit recovered from HW issue in previous TP 
+visid: D970U5V201129, Explanation: Unit failed due to HW issue 

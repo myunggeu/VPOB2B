@@ -1,0 +1,16 @@
+visid: M73J2G6200891, Explanation: Previous failed caused by HW (OPENS/SHORT)
+visid: M73J2G6201095, Explanation: Previous failed caused by HW (OPENS/SHORT)
+visid: M7NN267101083, Explanation: Clear Open/Short signature on B13
+visid: M7NN267101159, Explanation: Clear Open/Short signature on B13
+visid: M7NN267101023, Explanation: Clear Open/Short signature on B13
+visid: M7NN267100131, Explanation: Clear Open/Short signature on B13
+visid: M73J2G6200117, Explanation: Clear Open/Short signature on B13
+visid: M73J2G6200133, Explanation: Clear Open/Short signature on B13
+visid: M7NN267100762, Explanation: Clear Open/Short signature on B13
+visid: M7NN267100776, Explanation: Clear Open/Short signature on B13
+visid: M73J2G6200764, Explanation: Clear Open/Short signature on B13
+visid: M73J2G6201219, Explanation: Clear Open/Short signature on B13
+visid: M73J2G6201321, Explanation: Clear Open/Short signature on B13
+visid: M7NN267100922, Explanation: Clear Open/Short signature on B13
+visid: M7NN267101059, Explanation: Poor contact with board, HW issue
+visid: M7NN267100636, Explanation: Poor contact with board, HW issue

@@ -1,0 +1,26 @@
+visid: M7HU061900090, Explanation: Unit recovered from HW issue in previous run
+visid: M7HU061901117, Explanation: Unit recovered from HW issue in previous run
+visid: M7HU061901351, Explanation: Unit recovered from HW issue in previous run
+visid: M7HU061900034, Explanation: Unit recovered from HW issue in previous run
+visid: M7HU061900948, Explanation: Unit recovered from HW issue in previous run
+visid: M7HU061900950, Explanation: Unit recovered from HW issue in previous run
+visid: M7HU061900192, Explanation: Unit recovered from HW issue in previous run
+visid: M7HU061900743, Explanation: Unit recovered from HW issue in previous run
+visid: M7HU061900759, Explanation: Unit recovered from HW issue in previous run
+visid: M7HU061900012, Explanation: Unit recovered from HW issue in previous run
+visid: M7HU061900978, Explanation: Unit recovered from HW issue in previous run
+visid: M7HU061901511, Explanation: Unit failed due to HW issue
+visid: M7HU061900595, Explanation: Unit failed due to HW issue
+visid: M7HU061900741, Explanation: Unit failed due to HW issue
+visid: M7HU061901018, Explanation: Unit failed due to HW issue
+visid: M7HU061900732, Explanation: Unit failed due to HW issue
+visid: M7HU061900999, Explanation: Unit failed due to HW issue
+visid: M7HU061901576, Explanation: Unit failed due to HW issue
+visid: M7HU061901053, Explanation: Unit failed due to HW issue
+visid: M7HU061900006, Explanation: Unit failed due to HW issue
+visid: M7HU061900942, Explanation: Unit failed due to HW issue
+visid: M7HU061900971, Explanation: Unit failed due to HW issue
+visid: M7HU061900180, Explanation: Unit failed due to HW issue
+visid: M7HU061901567, Explanation: Unit failed due to HW issue
+visid: M7HU061900315, Explanation: Unit failed due to HW issue
+visid: M7HU061900745, Explanation: Unit failed due to HW issue

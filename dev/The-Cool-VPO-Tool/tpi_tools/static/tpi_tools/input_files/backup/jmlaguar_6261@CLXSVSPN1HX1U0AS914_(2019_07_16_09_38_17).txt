@@ -1,0 +1,3 @@
+visid: M8S78N4500102, Explanation: 9787 bins are a HW/AP instability issue that caused the units to come in with a high delta compared to the handler setpoint. Recovered in new VPO
+visid: M8S78N4500294, Explanation: 9787 bins are a HW/AP instability issue that caused the units to come in with a high delta compared to the handler setpoint. Recovered in new VPO
+visid: M8S78N4500265, Explanation: 9787 bins are a HW/AP instability issue that caused the units to come in with a high delta compared to the handler setpoint. Recovered in new VPO

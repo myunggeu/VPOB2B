@@ -1,0 +1,1 @@
+visid: M94R2R2100337, Explanation: SBFT fails before scan, sbft need to explain

@@ -1,0 +1,18 @@
+visid: M7SH412401054, Explanation: HW related issue
+visid: M7N7K70500031, Explanation: HW related issue
+visid: M7N7K70500045, Explanation: HW related issue
+visid: M7N7K70500096, Explanation: HW related issue
+visid: M7N7K70500111, Explanation: HW related issue
+visid: M7N7K70500146, Explanation: HW related issue
+visid: M7N7K70501026, Explanation: HW related issue
+visid: M7N7K70501069, Explanation: HW related issue
+visid: M7N7K70501133, Explanation: HW related issue
+visid: M7SH412400533, Explanation: HW related issue
+visid: M7SH412400545, Explanation: HW related issue, unit recovered in retest
+visid: M7SH412400857, Explanation: HW related issue
+visid: M7SH412400876, Explanation: HW related issue, unit recovered in retest
+visid: M7SH412401006, Explanation: HW related issue, unit recovered in retest
+visid: M7SH412401017, Explanation: HW related issue, unit recovered in retest
+visid: M7SH412401025, Explanation: HW related issue, unit recovered in retest
+visid: M7SH412401065, Explanation: HW related issue, unit recovered in retest
+visid: M7SH412401079, Explanation: HW related issue, unit recovered in retest

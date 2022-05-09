@@ -1,0 +1,12 @@
+visid: M7774QA300021, Explanation: Recovered due to HW/TIU issues
+visid: M7774QA300058, Explanation: Recovered due to HW/TIU issues
+visid: M7774QA301024, Explanation: Recovered due to HW/TIU issues
+visid: M7DR176200259, Explanation: Recovered due to HW/TIU issues
+visid: M7DR176200331, Explanation: Recovered due to HW/TIU issues
+visid: M7PU387100060, Explanation: Recovered due to HW/TIU issues
+visid: M7PU387100082, Explanation: Recovered due to HW/TIU issues
+visid: M7PU387100084, Explanation: Recovered due to HW/TIU issues
+visid: M7PU387100099, Explanation: Recovered due to HW/TIU issues
+visid: M7PU387100221, Explanation: Recovered due to HW/TIU issues
+visid: M7PU387100293, Explanation: Recovered due to HW/TIU issues
+visid: M7PU387100315, Explanation: Recovered due to HW/TIU issues

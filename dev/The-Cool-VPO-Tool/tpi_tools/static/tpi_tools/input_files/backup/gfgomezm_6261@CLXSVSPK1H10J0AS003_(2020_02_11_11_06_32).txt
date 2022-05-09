@@ -1,0 +1,2 @@
+visid: M9FE297100532, Explanation: Marginal B68 fail, caused by HW problem.
+visid: M9KB375201040, Explanation: B13 caused by OPEN/SHORTs (poor contact with board) on previous run

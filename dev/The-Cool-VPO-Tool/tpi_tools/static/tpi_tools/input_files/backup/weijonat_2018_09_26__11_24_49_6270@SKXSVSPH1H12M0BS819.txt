@@ -1,0 +1,4 @@
+visid: M7SH412401025, Explanation: core15 had all 0V during DAC calibration in the original run. No module update. This is likely due to socketing issue
+visid: M7SH412400535, Explanation: failed for PMAX in the original run, but recovered with new TP
+visid: M7N7K70500273, Explanation: core08 FIVR read all 0V in the original VPO, likely due to sockeitng issue
+visid: M7L1Y26800146, Explanation: DDRD012 read all 0V during DAC calibration, no change from module, likely socketing issue

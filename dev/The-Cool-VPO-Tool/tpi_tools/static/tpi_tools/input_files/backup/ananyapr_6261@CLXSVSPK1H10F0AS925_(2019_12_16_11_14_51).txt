@@ -1,0 +1,2 @@
+visid: M9Q50W3800062, Explanation: Bin 9743 is a UEI connection issue and likely due to the cable being loose. Bin recovered on new hardware
+visid: M9Q50W3800614, Explanation: Bin 9743 is a UEI connection issue and likely due to the cable being loose. Bin recovered on new hardware

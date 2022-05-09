@@ -1,0 +1,1 @@
+visid: M9Q50W3800069, Explanation: 9764 bin was due to HW variation and AP instability on cell A202 that caused the unit to cool down below acceptable range during SOT. Recovered in new VPO

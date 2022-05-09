@@ -1,0 +1,6 @@
+visid: M9R48M5000519, Explanation: B9438 occured in latest runs, but unit recovered to b100, which is the most common bin of this unit
+visid: M9KB375201291, Explanation: B9438 occured in latest runs, but unit recovered to b14, which is the most common bin of this unit
+visid: M9KB375200431, Explanation: Unit recovered from b9438, but this is the expected bin according to the latest runs
+visid: M9KB375201330, Explanation: B9438 occured in latest runs, but unit recovered to b14, which is the most common bin of this unit
+visid: M9KB375201225, Explanation: Very unstable unit. Has not passed in a long time, and constantly changes bins between runs.
+visid: M9R48M5000809, Explanation: Very unstable unit. Has not passed in a long time, and constantly changes bins between runs.

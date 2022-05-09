@@ -1,0 +1,1 @@
+visid: M9FE297101258, Explanation: Marginal failure due to hardware. Unit was not within temperature limits but only off by 3C. Rerunning unit should recover

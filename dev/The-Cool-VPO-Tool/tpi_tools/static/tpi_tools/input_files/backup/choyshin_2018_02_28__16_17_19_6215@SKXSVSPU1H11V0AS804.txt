@@ -1,0 +1,45 @@
+visid: M7NN267101046, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7NN267101242, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7NN267101172, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M73J2G6200031, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M73J2G6200035, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M73J2G6200081, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M73J2G6201234, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M73J2G6201236, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M73J2G6201254, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M73J2G6201328, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M73J2G6201338, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M73J2G6201339, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M73J2G6201360, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M73J2G6201400, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M73J2G6201424, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M73J2G6201431, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M73J2G6201442, Explanation: Failed Port:0 Lane:5 only. HW related commnality as seen on other B4322 failing unit.
+visid: M73J2G6201111, Explanation: b1306 Caused by HW (opens)
+visid: M73J2G6201476, Explanation: b1306 Caused by HW (opens)
+visid: M73J2G6201557, Explanation: b1306 Caused by HW (opens)
+visid: M73J2G6201232, Explanation: HW Related VIX fail. Test still needs some tuning, it's more susceptible to HW fails at the moment.
+visid: M73J2G6201209, Explanation: b1306 Caused by HW (opens)
+visid: M7NN267101166, Explanation: Bin1307 Caused by HW before. Recovered following runs
+visid: M7NN267100123, Explanation: invalid - unit failed as other HW related bin on same testing flow.
+visid: M73J2G6200002, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6200022, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6200072, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6200145, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6200213, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6200730, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6200741, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6200896, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6201241, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6201448, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6201470, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6201541, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M7NN267100074, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M7NN267101121, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M7NN267101349, Explanation: bin 4716 failing cold reset, not a real scan failure
+visid: M73J2G6200062, Explanation: Unit fails at bin4821 2 out of 3 tests in the history. Should be a valid failure. PE1_TX_DN[4] reports as failing pin multiple times
+visid: M73J2G6200068, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M73J2G6201306, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M73J2G6200729, Explanation: marginal core, killed core 6 in mlc chkf6 in the old run 
+visid: M73J2G6200025, Explanation: 9764 bin was likely due to HW variation and AP instability on cell A101. Recovered in new VPO
+visid: M73J2G6201540, Explanation: 9764 bin was likely due to HW variation and AP instability on cell A101. Recovered in new VPO

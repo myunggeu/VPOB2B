@@ -1,0 +1,6 @@
+visid: M7N7K70500359, Explanation: Unit recovered from Reference run. Unit does not show history of 2710.  
+visid: M7N7K70500144, Explanation: Unit recovered from Reference run. Unit does not show history of 2710.  
+visid: M7SH412401348, Explanation: Unit passed on retest on S910. No FIVR module change
+visid: M7SH412400763, Explanation: Unit passed on retest on S910. No FIVR module change
+visid: M7N7K70500281, Explanation: Unit passed on retest on S910. No FIVR module change
+visid: M7N7K70500620, Explanation: SFR VDAC pin not connected from TIU to unit during test. This is likely TIU insertion issue. Unit passed on subsequent tests on S910, no FIVR issue

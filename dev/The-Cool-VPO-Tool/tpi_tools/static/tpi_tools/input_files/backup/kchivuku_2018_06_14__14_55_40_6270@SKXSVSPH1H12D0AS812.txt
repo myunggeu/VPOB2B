@@ -1,0 +1,2 @@
+visid: M7N7K70501336, Explanation: HW testing issue. Re-run should pass the unit
+visid: M7SH412400477, Explanation: Bad unit

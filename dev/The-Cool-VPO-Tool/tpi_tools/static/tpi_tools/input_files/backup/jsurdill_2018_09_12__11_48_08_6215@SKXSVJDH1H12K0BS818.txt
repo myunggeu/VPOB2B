@@ -1,0 +1,1 @@
+visid: M8LM305300282, Explanation: B6203 in new run appears to be a power induced failure.  Unit passed subsequent mulitipass EDC test in fail flow 

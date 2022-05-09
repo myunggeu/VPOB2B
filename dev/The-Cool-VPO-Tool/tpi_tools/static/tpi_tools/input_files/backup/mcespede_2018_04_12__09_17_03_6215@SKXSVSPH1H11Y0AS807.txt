@@ -1,0 +1,82 @@
+visid: M73K2D8500697, Explanation: Recovered due to a HW issue with the TIU design
+visid: M73K2D8500874, Explanation: Recovered due to a HW issue with the TIU design
+visid: M7L1Y26800102, Explanation: Recovered due to a HW issue with the TIU design
+visid: M7L1Y26800239, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500151, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500239, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500242, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500355, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500443, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500552, Explanation: Recovered due to content improvement
+visid: M7N7K70500721, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500731, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500911, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500959, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70500997, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501014, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501106, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501131, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501144, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501166, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501172, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501203, Explanation: Recovered due to content improvement
+visid: M7N7K70501224, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501252, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7N7K70501259, Explanation: Recovered due to content improvement
+visid: M7N7K70501369, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7SH412400004, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7SH412400435, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7SH412400488, Explanation: Recovered due to content improvement
+visid: M7SH412400549, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7SH412400587, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7SH412400594, Explanation: Recovered due to content improvement
+visid: M7SH412400628, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7SH412400647, Explanation: Recovered due to content improvement
+visid: M7SH412400696, Explanation: Recovered due to content improvement
+visid: M7SH412400808, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7SH412400810, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7SH412400817, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7SH412401008, Explanation: Recovered due to content improvement
+visid: M7SH412401041, Explanation: Recovered due to a HW issue with the TIU design 
+visid: M7SH412401479, Explanation: Recovered due to content improvement
+visid: M73K2D8500968, Explanation: HW issue with the TIU design 
+visid: M7L1Y26800084, Explanation: HW issue with the TIU design 
+visid: M7L1Y26800105, Explanation: HW issue with the TIU design 
+visid: M7L1Y26800109, Explanation: HW issue with the TIU design 
+visid: M7L1Y26800116, Explanation: HW issue with the TIU design 
+visid: M7L1Y26800132, Explanation: HW issue with the TIU design 
+visid: M7L1Y26800145, Explanation: HW issue with the TIU design 
+visid: M7L1Y26800246, Explanation: HW issue with the TIU design 
+visid: M7N7K70500001, Explanation: HW issue with the TIU design 
+visid: M7N7K70500054, Explanation: HW issue with the TIU design 
+visid: M7N7K70500164, Explanation: HW issue with the TIU design 
+visid: M7N7K70500167, Explanation: HW issue with the TIU design 
+visid: M7N7K70500172, Explanation: HW issue with the TIU design 
+visid: M7N7K70500173, Explanation: HW issue with the TIU design 
+visid: M7N7K70500176, Explanation: HW issue with the TIU design 
+visid: M7N7K70500238, Explanation: HW issue with the TIU design 
+visid: M7N7K70500263, Explanation: HW issue with the TIU design 
+visid: M7N7K70500379, Explanation: HW issue with the TIU design 
+visid: M7N7K70500504, Explanation: HW issue with the TIU design 
+visid: M7N7K70500594, Explanation: HW issue with the TIU design 
+visid: M7N7K70500885, Explanation: HW issue with the TIU design 
+visid: M7N7K70500900, Explanation: HW issue with the TIU design 
+visid: M7N7K70500909, Explanation: HW issue with the TIU design 
+visid: M7N7K70501377, Explanation: HW issue with the TIU design 
+visid: M7N7K70501395, Explanation: HW issue with the TIU design 
+visid: M7N7K70501427, Explanation: HW issue with the TIU design 
+visid: M7SH412400118, Explanation: HW issue with the TIU design 
+visid: M7SH412400396, Explanation: HW issue with the TIU design 
+visid: M7SH412400455, Explanation: HW issue with the TIU design 
+visid: M7SH412400507, Explanation: HW issue with the TIU design 
+visid: M7SH412400591, Explanation: HW issue with the TIU design 
+visid: M7SH412400762, Explanation: HW issue with the TIU design 
+visid: M7SH412400854, Explanation: HW issue with the TIU design 
+visid: M7SH412400866, Explanation: HW issue with the TIU design 
+visid: M7SH412401092, Explanation: HW issue with the TIU design 
+visid: M7SH412401161, Explanation: HW issue with the TIU design 
+visid: M7SH412401164, Explanation: HW issue with the TIU design 
+visid: M7SH412401560, Explanation: HW issue with the TIU design 
+visid: M7N7K70500127, Explanation: HW issue with the TIU design 
+visid: M7L1Y26800276, Explanation: HW issue with the TIU design 
+visid: M7N7K70501403, Explanation: HW issue with the TIU design 

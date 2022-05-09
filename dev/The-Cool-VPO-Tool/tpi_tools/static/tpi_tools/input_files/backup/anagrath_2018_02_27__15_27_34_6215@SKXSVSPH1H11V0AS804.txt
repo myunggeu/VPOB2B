@@ -1,0 +1,56 @@
+visid: M7N7K70500091, Explanation: Testing issu in previous TP.  No change in content
+visid: M7N7K70500415, Explanation: Testing issu in previous TP.  No change in content
+visid: M7N7K70500859, Explanation: Testing issu in previous TP.  No change in content
+visid: M7SH412400011, Explanation: Testing issu in previous TP.  No change in content
+visid: M7SH412400625, Explanation: Testing issu in previous TP.  No change in content
+visid: M7N7K70501178, Explanation: Testing issue. No change in content
+visid: M7N7K70500027, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500033, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500047, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500060, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500140, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500459, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500462, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500503, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500527, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70500606, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70501014, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70501142, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70501149, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70501173, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7N7K70501358, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7SH412400475, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7SH412400796, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7SH412400843, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7SH412400909, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7SH412400933, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7SH412401091, Explanation: Validating to see if we need to adjust limits because of new TIU. No change in content
+visid: M7L1Y26800290, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7L1Y26800292, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7L1Y26800300, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500227, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500398, Explanation: invalid 2737 due to socketing issue at cold
+visid: M7N7K70500616, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7SH412400074, Explanation: Unit is recovered to bin1 in the last VPO with 3 bin4821 out of 12 tests
+visid: M7SH412400165, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400284, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7SH412400457, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400766, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 12 tests
+visid: M7SH412400776, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400845, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 7 tests
+visid: M7SH412400890, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4621 out of 12 tests
+visid: M7N7K70500640, Explanation: invalid 2737 due to socketing issue at cold
+visid: M7N7K70500429, Explanation: invalid. HW related miscorrelation. HW related bin switching observed on S804 retest data.
+visid: M7N7K70500402, Explanation: Cold marginality unit. TP S725 showing failure on same bin.
+visid: M7N7K70500390, Explanation: New TIU. TP re-tuning needed.
+visid: M7L1Y26800103, Explanation: Invalid. HW related miscorrelation.
+visid: M7N7K70500673, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501185, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400111, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7SH412400876, Explanation: Unit fails at bin4621 3 out of 14 tests in the history. Should be a valid failure
+visid: M7SH412400884, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7L1Y26800267, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500513, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70501085, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7N7K70500418, Explanation: VCC
+visid: M7N7K70500468, Explanation: VCC

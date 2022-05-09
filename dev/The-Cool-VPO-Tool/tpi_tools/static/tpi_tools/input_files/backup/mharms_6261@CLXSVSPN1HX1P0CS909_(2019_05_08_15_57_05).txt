@@ -1,0 +1,1 @@
+visid: M8S78N4500099, Explanation: HW related (bad contact): Old TP run had SHOPS CRES fail (open on LYA0 pin)

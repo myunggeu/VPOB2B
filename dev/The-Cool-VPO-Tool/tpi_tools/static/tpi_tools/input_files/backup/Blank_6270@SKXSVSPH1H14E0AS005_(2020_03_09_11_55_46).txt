@@ -1,0 +1,10 @@
+visid: M99S9J4201045, Explanation: hit 9444 once, core24 has a higher vmin at llcavx128 F6 (core outlier) and could have caused the failure on past TP 
+visid: M9EN577400014, Explanation: single time failure, falied on cleanx, should recover if rerun
+visid: M9WC266701798, Explanation: failing core24 has a significant higher vmin than the other cores and could lead to switching bin cases
+visid: M9PB483200632, Explanation: would need to RV unit, seems like isolated failure
+visid: M9EN577401137, Explanation: first bin 4406, still bin44 related
+visid: M9WC266700451, Explanation: single time failure, would need to rerun to see if issue persists
+visid: M9WC266700101, Explanation: single time failure, would need to rerun to see if issue persists
+visid: M9EN577400534, Explanation: unit's been bin4421 historically
+visid: M9EN577400575, Explanation: unstable unit
+visid: M9KK695401135, Explanation: unit's been bin44 historically

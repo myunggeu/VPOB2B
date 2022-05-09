@@ -1,0 +1,14 @@
+visid: M9EN577400743, Explanation: B1306 is OPEN. HW related bin.
+visid: M99S9J4201066, Explanation: B1306 is OPEN. HW related bin.
+visid: M9KK695401199, Explanation: B1306 is OPEN. HW related bin.
+visid: M9PB483200068, Explanation: Unit/TIU dirty. Contact issue.
+visid: M9PB483200068, Explanation: Same unit as before. Visual ID Duplicated.
+visid: M9WC266700193, Explanation: B1306 is OPEN. HW related bin.
+visid: M9WC266700243, Explanation: B1306 is OPEN. HW related bin.
+visid: M9WC266701501, Explanation: B1306 is OPEN. HW related bin.
+visid: M9PB483200254, Explanation: B1306 is OPEN. HW related bin.
+visid: M9KK695401123, Explanation: B1306 is OPEN. HW related bin.
+visid: M9KK695401128, Explanation: B1306 is OPEN. HW related bin.
+visid: M9KK695400555, Explanation: B1306 is OPEN. HW related bin.
+visid: M9S83J1700109, Explanation: B1306 is OPEN. HW related bin.
+visid: M9KK695401362, Explanation: Unit/TIU dirty. Contact issue.

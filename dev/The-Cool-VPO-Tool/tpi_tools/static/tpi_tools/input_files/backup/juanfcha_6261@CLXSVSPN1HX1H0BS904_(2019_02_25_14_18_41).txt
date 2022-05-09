@@ -1,0 +1,1 @@
+visid: M8S78N4500342, Explanation: Unit fails bin1409 because F5 data is not found (NA:IDSKP3:NO_FREQUENCY_FOUND_FOR_POINT:'5'.): This is caused by having F4 & F5 with same value (32) in flow 4 of Flow BM.

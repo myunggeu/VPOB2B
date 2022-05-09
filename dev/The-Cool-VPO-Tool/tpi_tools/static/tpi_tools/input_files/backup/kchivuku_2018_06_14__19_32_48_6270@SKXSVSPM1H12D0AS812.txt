@@ -1,0 +1,1 @@
+visid: M88J7X3800564, Explanation: In previous run, ADC value for the SDSFR went down even when the ManualSFR and SDSFR values are equal. Testing issue so the unit was recovered now

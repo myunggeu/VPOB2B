@@ -1,0 +1,1 @@
+visid: M8HC458500323, Explanation: Alarm activated during check die force at thermal soak. Issue with hardware. Retesting will recover unit.

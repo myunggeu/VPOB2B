@@ -1,0 +1,8 @@
+visid: M7NN267100121, Explanation: bad contact, HW issue
+visid: M7NN267101185, Explanation: should be HW issue, need to rerun to confirm
+visid: M73J2G6200061, Explanation: should be HW issue, need to rerun to confirm
+visid: M7NN267100108, Explanation: CRES fail, HW issue
+visid: M73J2G6201422, Explanation: CRES fail, HW issue
+visid: M73J2G6201529, Explanation: HW issue at previous run
+visid: M73J2G6201176, Explanation: CRES issue at previous run, HW issue
+visid: M73J2G6201423, Explanation: bad contact, HW issue

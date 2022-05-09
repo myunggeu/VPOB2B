@@ -1,0 +1,1 @@
+visid: M8KR236200538, Explanation: Reference run had FIVR_VLOAD_CORE45 pin not connected during TIU insertion. No FIVR issue

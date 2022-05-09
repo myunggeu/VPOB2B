@@ -1,0 +1,2 @@
+visid: M7N7K70500073, Explanation: Reset failing for segment 10 (basic TAP functionality), no sense since other modules using TAP on BEGIN flow are passing.  Could be HW related since NEW run uses different site and TIU.  No changes in Reset module.
+visid: M7SH412400477, Explanation: Unit history shows HW alarms for previos runs on 6270 location.  There could be something wrong with the unit since FIVRTRIM also failing.  SOme of this failures eventually recover after manually adjusting DDR voltage.  No changes in Reset module.

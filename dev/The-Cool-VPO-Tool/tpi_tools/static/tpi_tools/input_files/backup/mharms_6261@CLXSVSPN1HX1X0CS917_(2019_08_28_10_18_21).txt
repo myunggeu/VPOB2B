@@ -1,0 +1,7 @@
+visid: M8S78N4500431, Explanation: New Data: Unit failed PTH_THRSOAK. Marginal fail at DCFF SHOPS is due to incorrect temperature. Should retest.
+visid: M8S78N4500047, Explanation: New Data: Unit failed PTH_THRSOAK. Marginal fail at DCFF SHOPS is due to incorrect temperature. Should retest.
+visid: M8601RW601192, Explanation: New Data: Unit failed PTH_THRSOAK. Marginal fail at DCFF SHOPS is due to incorrect temperature. Should retest.
+visid: M8S78N4500428, Explanation: TPI_SHOPS: fails for open pin. HW issue.
+visid: M8S78N4500252, Explanation: TPI_SHOPS: fails pin ERROR_N0 lower diode LKL non-marginally. DCFF reading inconsistent -- may be HW issue. Retest
+visid: M8S78N4500119, Explanation: TPI_SHOPS: fails for open pin. HW issue.
+visid: M8601RW600945, Explanation: TPI_SHOPS: New data fails different pin (THERMTRIP_N) non-marginal LKL fail. DCFF reading inconsistent -- may be HW issue. Retest

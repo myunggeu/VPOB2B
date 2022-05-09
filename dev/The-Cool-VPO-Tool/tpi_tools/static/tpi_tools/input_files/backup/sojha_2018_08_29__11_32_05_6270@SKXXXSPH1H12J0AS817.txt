@@ -1,0 +1,3 @@
+visid: M7SH412401154, Explanation: Cache: Additional core was failing for u_urfcrqksx_vclmminfreq1_CHKCLMF1 in old TP. This was a marginal failure and is getting recovered in the new run.
+visid: M7N7K70500464, Explanation: cache: Both old and new run is failing core 11 for c_mlcdatksx_vcoremaxfreq1_VMAXCOREF1. But it binned out only in the old run.
+visid: M7N7K70501321, Explanation: Cache: marginal unit that was failing for h_urfiiopsx_vsaretfreq1_END in the old run is getting recovered in the new run.

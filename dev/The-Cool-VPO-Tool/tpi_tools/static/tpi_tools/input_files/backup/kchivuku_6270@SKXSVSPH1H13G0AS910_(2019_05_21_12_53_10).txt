@@ -1,0 +1,43 @@
+visid: M7SH412401017, Explanation: Unit failed due to HW issue Before and passed in the current run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7SH412400811, Explanation: Unit failed due to HW issue Before and passed in the current run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70500073, Explanation: Unit failed due to HW issue Before and passed in the current run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70500286, Explanation: Unit failed due to HW issue Before and passed in the current run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70500013, Explanation: Unit failed due to HW issue Before and passed in the current run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7SH412400493, Explanation: Unit failed due to HW issue
+visid: M7N7K70500626, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70500212, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70500607, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7SH412401003, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7SH412401169, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7SH412401331, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70500038, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70501047, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70501013, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70501115, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70501072, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70501137, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70501096, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7L1Y26800301, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7SH412400104, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70500317, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70501064, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70501165, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70500385, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70500636, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70500625, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7SH412401071, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7SH412401359, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7SH412401115, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70501143, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7SH412400880, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7SH412400534, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70500540, Explanation: Unit failed due to HW issue
+visid: M7SH412400083, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70500032, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7SH412400561, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7SH412400540, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7SH412400574, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70500342, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70500363, Explanation: Unit failed due to HW issue now and passed in the previous run. Reason for failure is SFR TRIM maxed out and no proper code walk happened
+visid: M7N7K70501121, Explanation: Marginal unit
+visid: M7SH412400495, Explanation: Unit failed due to HW issue

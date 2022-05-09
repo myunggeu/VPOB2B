@@ -1,0 +1,5 @@
+visid: M9R48M5000578, Explanation: Before the unit had only 1 passing QDF but not meeting the core combination. Now the unit has more passing QDFs 
+visid: M9R48M5000711, Explanation: Before the unit had only 1 passing QDF but not meeting the core combination. Now the unit has more passing QDFs 
+visid: M9BR819701055, Explanation: Before the unit had only 1 passing QDF but not meeting the GB freq. Now the unit has more passing QDFs 
+visid: M9KB375201099, Explanation: Before the unit had only 1 passing QDF but not meeting the core combination. Now the unit has more passing QDFs 
+visid: M9KB375201211, Explanation: Before the unit had no passing QDFs. Now the unit has more passing QDFs 

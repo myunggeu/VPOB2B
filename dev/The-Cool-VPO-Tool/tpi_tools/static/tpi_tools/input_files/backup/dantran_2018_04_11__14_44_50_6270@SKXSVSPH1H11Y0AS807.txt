@@ -1,0 +1,2 @@
+visid: M7N7K70500805, Explanation: Cache: From S805 All cores failing in speckle screen for c_crfallspk_vcorefreq6_END_pass1_7911. Failure does not look real. it's passing when retest in S807.
+visid: M7N7K70501222, Explanation: Cache: From S805 All cores failing in speckle screen for c_crfallspk_vcorefreq6_END_pass1_7911. Failure does not look real. it's passing when retest in S807.

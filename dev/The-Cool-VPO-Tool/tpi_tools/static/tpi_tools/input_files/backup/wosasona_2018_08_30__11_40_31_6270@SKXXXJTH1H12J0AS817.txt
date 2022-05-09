@@ -1,0 +1,4 @@
+visid: M8LM305300357, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4821 out of 5 tests. This is due to possible connection issue
+visid: M8LM305300237, Explanation: Unit is failing bin4313 only once throughout the history. Most likely a tester issue
+visid: M8LM305300360, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M8LM305300287, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue

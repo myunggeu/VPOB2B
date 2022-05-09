@@ -1,0 +1,21 @@
+visid: M7G050T401250, Explanation: VCCIN hard fail, can be HW issue or unit degradation, no module change
+visid: M7G050T401375, Explanation: VCCD hard fail, can be HW issue or unit degradation, no module change
+visid: M7G050T400409, Explanation: VCCIO hard fail, can be HW issue or unit degradation, no module change
+visid: M7G050T401354, Explanation: VCCIN hard fail, can be HW issue or unit degradation, no module change
+visid: M7G050T401361, Explanation: VCCIN hard fail, can be HW issue or unit degradation, no module change
+visid: M7G050T400057, Explanation: CRES fail, HW issue
+visid: M7G050T400123, Explanation: suspect HW issue, no module change
+visid: M7J53P3701598, Explanation: suspect HW issue, no module change
+visid: M7G050T400885, Explanation: CRES fail, HW issue
+visid: M7G050T400159, Explanation: CRES fail, HW issue
+visid: M7G050T400069, Explanation: EDM fail, can be HW issue or unit damage, no module change
+visid: M7G050T400516, Explanation: CRES fail, HW issue
+visid: M7G050T401054, Explanation: HW issue on previous run
+visid: M7G050T400042, Explanation: HW issue on previous run
+visid: M7G050T400228, Explanation: HW issue on previous run
+visid: M7G050T400528, Explanation: HW issue on previous run
+visid: M7G050T400813, Explanation: HW issue on previous run
+visid: M7G050T400872, Explanation: HW issue on previous run
+visid: M7G050T400932, Explanation: HW issue on previous run
+visid: M7G050T401180, Explanation: HW issue on previous run
+visid: M7G050T401143, Explanation: HW issue on previous run

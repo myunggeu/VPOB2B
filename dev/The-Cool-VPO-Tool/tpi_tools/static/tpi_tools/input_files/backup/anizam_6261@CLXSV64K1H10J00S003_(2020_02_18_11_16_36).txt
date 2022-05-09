@@ -1,0 +1,1 @@
+visid: M8HC458500522, Explanation: Bin 9792 is a die force/contact issue when the unit was socketed. Failed due to bad contact on TD0 with tester. Value showing 0 indicating bad connection. Retesting on different cell should recover unit.

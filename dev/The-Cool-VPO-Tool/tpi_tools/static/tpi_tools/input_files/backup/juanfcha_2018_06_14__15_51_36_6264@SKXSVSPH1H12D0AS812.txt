@@ -1,0 +1,2 @@
+visid: M7N7K70500203, Explanation: Unit fails bin1404 because unit does not meets any valid recovery configuration (0000000000000000000000110001_DOESNT_FIT_COREDEFEATURINGVECTOR/14C_VALUES).
+visid: M73K2D8500682, Explanation: Unit fails bin1498 due to IDSK disabling IA03, IA00 for exceeding voltage limit.

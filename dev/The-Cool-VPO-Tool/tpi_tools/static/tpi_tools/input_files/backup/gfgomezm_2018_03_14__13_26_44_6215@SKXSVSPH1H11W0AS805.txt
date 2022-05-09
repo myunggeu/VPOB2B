@@ -1,0 +1,87 @@
+visid: M7L1Y26800131, Explanation: HW related. Equivalent to OPENs.
+visid: M7L1Y26800147, Explanation: HW related. Equivalent to OPENs.
+visid: M7L1Y26800289, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500034, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500045, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500052, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500054, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500150, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500520, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500743, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500757, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500999, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70501372, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412400598, Explanation: HW related. Equivalent to OPENs.
+visid: M7L1Y26800146, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500355, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500542, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500701, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500721, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500898, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500911, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500936, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500959, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70500997, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70501014, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70501166, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70501252, Explanation: HW related. Equivalent to OPENs.
+visid: M7N7K70501413, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412400435, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412400514, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412400530, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412400549, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412400554, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412400587, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412400628, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412400808, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412400810, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412400817, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412400871, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412401015, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412401041, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412401180, Explanation: HW related. Equivalent to OPENs.
+visid: M7SH412400854, Explanation: B1306 HW related. Equivalent to OPENs.
+visid: M7N7K70501055, Explanation: B1306 HW related. Equivalent to OPENs.
+visid: M7L1Y26800030, Explanation: CRES fail on previous run, HW issue
+visid: M7L1Y26800113, Explanation: CRES fail on previous run, HW issue
+visid: M7N7K70500069, Explanation: CRES fail on previous run, HW issue
+visid: M7N7K70500353, Explanation: CRES fail on previous run, HW issue
+visid: M7N7K70500483, Explanation: CRES fail on previous run, HW issue
+visid: M7N7K70500748, Explanation: CRES fail on previous run, HW issue
+visid: M7N7K70500774, Explanation: CRES fail on previous run, HW issue
+visid: M7N7K70501008, Explanation: CRES fail on previous run, HW issue
+visid: M7SH412400018, Explanation: CRES fail on previous run, HW issue
+visid: M7SH412400160, Explanation: CRES fail on previous run, HW issue
+visid: M7SH412400523, Explanation: CRES fail on previous run, HW issue
+visid: M7SH412400877, Explanation: CRES fail on previous run, HW issue
+visid: M7SH412401074, Explanation: CRES fail on previous run, HW issue
+visid: M7SH412401484, Explanation: CRES fail on previous run, HW issue
+visid: M7SH412401553, Explanation: CRES fail on previous run, HW issue
+visid: M7N7K70500579, Explanation: unit started to fail on VCCIO from S804 TP, suspect unit degradation. Suggest to remove the unit from pilot
+visid: M7N7K70500669, Explanation: HW related. Recovered in RV
+visid: M7N7K70501254, Explanation: HW related. Recovered in RV
+visid: M7N7K70501281, Explanation: HW related. Recovered in RV
+visid: M7N7K70500840, Explanation: KTI01_DFX_DN failed short, suspect HW issue
+visid: M7N7K70500314, Explanation: CRES fail, HW issue
+visid: M7N7K70500575, Explanation: CRES fail, HW issue
+visid: M7N7K70500643, Explanation: CRES fail, HW issue
+visid: M7SH412401067, Explanation: CRES fail, HW issue
+visid: M7N7K70500650, Explanation: CRES fail, HW issue
+visid: M7N7K70500127, Explanation: CRES fail, HW issue
+visid: M7N7K70500352, Explanation: CRES fail, HW issue
+visid: M7N7K70500615, Explanation: CRES fail, HW issue
+visid: M7SH412400527, Explanation: CRES fail, HW issue
+visid: M7SH412400895, Explanation: CRES fail, HW issue
+visid: M7SH412401102, Explanation: CRES fail, HW issue
+visid: M7N7K70500255, Explanation: CRES fail, HW issue
+visid: M7N7K70500360, Explanation: CRES fail, HW issue
+visid: M7N7K70500361, Explanation: CRES fail, HW issue
+visid: M7N7K70500523, Explanation: CRES fail, HW issue
+visid: M7N7K70501406, Explanation: CRES fail, HW issue
+visid: M7SH412400695, Explanation: CRES fail, HW issue
+visid: M7SH412400533, Explanation: CRES fail, HW issue
+visid: M7SH412400571, Explanation: CRES fail, HW issue
+visid: M7N7K70500511, Explanation: Flakiness in testing. The unit histrory says that after the re-run the unit passed with Bin01. looks like HW related.
+visid: M7N7K70500479, Explanation: CRES fail on previous run, HW issue
+visid: M7SH412400494, Explanation: SBFT test instance (SKX_SBFT_H::C_llcfg_vcoreminfreq1_CHKCOREF1) failing on all cores before scan 
+visid: M7SH412400594, Explanation: 

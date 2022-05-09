@@ -1,0 +1,6 @@
+visid: M7SH412401272, Explanation: Unit recovered from HW issue
+visid: M7SH412400247, Explanation: Unit recovered from HW issue
+visid: M7SH412400293, Explanation: Unit recovered from HW issue
+visid: M7SH412400163, Explanation: Unit recovered from HW issue
+visid: M7SH412400791, Explanation: Unit recovered from HW issue
+visid: M7SH412400643, Explanation: Unit recovered from HW issue

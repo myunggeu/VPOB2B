@@ -1,0 +1,12 @@
+visid: M7G050T400292, Explanation: Strong HW commonality on these B68s.
+visid: M7G050T400538, Explanation: Strong HW commonality on these B68s.
+visid: M7G050T400608, Explanation: Strong HW commonality on these B68s.
+visid: M7G050T400625, Explanation: Strong HW commonality on these B68s.
+visid: M7G050T400776, Explanation: Strong HW commonality on these B68s.
+visid: M7G050T401009, Explanation: Strong HW commonality on these B68s.
+visid: M7G050T401028, Explanation: Strong HW commonality on these B68s.
+visid: M7G050T401184, Explanation: Strong HW commonality on these B68s.
+visid: M7G050T401231, Explanation: Strong HW commonality on these B68s.
+visid: M7G050T401248, Explanation: Strong HW commonality on these B68s.
+visid: M7G050T401374, Explanation: Strong HW commonality on these B68s.
+visid: M7G050T400443, Explanation: Strong HW commonality on these B68s.

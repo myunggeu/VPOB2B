@@ -1,0 +1,18 @@
+visid: M73J2G6200134, Explanation: Unit is failing bin4625 on old TP only once throughout the history due to tester/HW issue
+visid: M73J2G6200272, Explanation: Unit is failing bin4821 on old TP only once throughout the history due to tester/HW issue
+visid: M73J2G6200605, Explanation: Unit is failing bin4621 on old TP only once throughout the history due to tester/HW issue
+visid: M73J2G6200292, Explanation: Unit is failing bin5423 on old TP only once throughout the history due to tester/HW issue
+visid: M73J2G6201209, Explanation: Unit is failing bin5423 on old TP only once throughout the history due to tester/HW issue
+visid: M73J2G6200793, Explanation: Unit is failing bin4621 on old TP only once throughout the history due to tester/HW issue
+visid: M73J2G6201464, Explanation: Unit is failing bin4621 on old TP only once throughout the history due to tester/HW issue
+visid: M7NN267100844, Explanation: Unit is failing bin5423 on old TP only once throughout the history due to tester/HW issue
+visid: M73J2G6200626, Explanation: Unit is failing b1053(SHOPS module) repeatedly in VPO history. SIO bin971 only failed once which is an indicator of possible tester/HW issue
+visid: M73J2G6200775, Explanation: Unit is failing bin1332 only once throughout the history due to tester/HW issue
+visid: M7NN267100911, Explanation: Unit is failing bin4313 only once throughout the history; due to tester/HW issue
+visid: M73J2G6200392, Explanation: Unit is failing bin4621 only once throughout the history due to tester/HW issue
+visid: M73J2G6201284, Explanation: Unit is failing bin4621 only once throughout the history due to tester/HW issue
+visid: M73J2G6200005, Explanation: Unit is failing bin4621 only once throughout the history due to tester/HW issue
+visid: M73J2G6201481, Explanation: Unit is failing bin4625 only once throughout the history; due to tester/HW issue
+visid: M73J2G6200875, Explanation: Unit is failing bin4821 only once throughout the history due to tester/HW issue
+visid: M7NN267100982, Explanation: Unit is failing bin4821 only once throughout the history; due to tester/HW issue
+visid: M7NN267100942, Explanation: Unit is failing bin4821 only once throughout the history; due to tester/HW issue

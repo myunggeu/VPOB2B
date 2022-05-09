@@ -1,0 +1,8 @@
+visid: M8BD231400599, Explanation: Unit recovered to B1 after multiple B4621 fails 1|KTI2_TX_DP[19]|1
+visid: M8BD231400161, Explanation: Unit is failing bin4313 only once throughout the history. Most likely a tester issue
+visid: M8LM305300706, Explanation: Unit is failing bin4335 only once throughout the history. Most likely a tester issue
+visid: M8NE567700657, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M8LM305300085, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M8LM305300019, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M8BD231400465, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M8BD231400256, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue

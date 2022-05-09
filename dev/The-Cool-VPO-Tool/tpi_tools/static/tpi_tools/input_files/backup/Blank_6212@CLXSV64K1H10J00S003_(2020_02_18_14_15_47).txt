@@ -1,0 +1,2 @@
+visid: M8HC458500475, Explanation: First bin20 in unit's history. Also, unit is very unstable, has resulted in several different bins throughout VPOs
+visid: M8HC458500256, Explanation: Unit failed Hot in previous run, hence failing b7299. Also, unit is very unstable, has resulted in several different bins throughout VPOs

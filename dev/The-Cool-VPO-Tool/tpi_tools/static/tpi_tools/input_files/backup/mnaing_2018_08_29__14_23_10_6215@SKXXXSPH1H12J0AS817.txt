@@ -1,0 +1,4 @@
+visid: M7N7K70501007, Explanation: marginal unit . Recovered on rerun
+visid: M7A176X400940, Explanation: marginal unit . Recovered on rerun
+visid: M73K2D8500878, Explanation: outlier column, Vmin higher compared to other columns
+visid: M7N7K70501055, Explanation: that unit is B96 all the time.

@@ -1,0 +1,1 @@
+visid: M7DR176200307, Explanation: New B44 from SBFT, from old run B62 unit is failing for llcdatksx_vclmminfreq3_CHKCLMF3 due to known power induced failure, got recovered in the new run. Failing SBFT

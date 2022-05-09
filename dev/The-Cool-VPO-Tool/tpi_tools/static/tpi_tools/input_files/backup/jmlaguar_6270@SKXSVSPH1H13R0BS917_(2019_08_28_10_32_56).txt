@@ -1,0 +1,2 @@
+visid: M9WC266700522, Explanation: Upper prochot limit reached due to low temperature (~50C) during DTS testing, indicating issue with AP hardware on cell A302. Retesting should recover unit.
+visid: M9WC266700402, Explanation: Upper prochot limit reached due to low temperature (~50C) during DTS testing, indicating issue with AP hardware on cell A302. Retesting should recover unit.

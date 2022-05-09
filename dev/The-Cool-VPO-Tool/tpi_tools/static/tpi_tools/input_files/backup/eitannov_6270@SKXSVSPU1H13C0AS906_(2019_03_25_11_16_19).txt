@@ -1,0 +1,1 @@
+visid: M7NN267101360, Explanation: PWM trim value is 1 or 0 for R1. This is marginal, and will go back and forth. CLX moved kill value to 3 eliminating this instability. Unit always fails 2742 otherwise due to too many OCP failures with 4 cores disabled. There is no recovery vector after these 4 cores are disabled.

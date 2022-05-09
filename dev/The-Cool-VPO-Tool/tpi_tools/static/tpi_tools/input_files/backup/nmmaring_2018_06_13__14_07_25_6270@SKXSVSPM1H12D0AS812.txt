@@ -1,0 +1,17 @@
+visid: M7HU061900003, Explanation: Recovered due to a HW issue
+visid: M7HU061900020, Explanation: Recovered due to a HW issue
+visid: M7HU061900902, Explanation: Recovered due to a HW issue
+visid: M7HU061901024, Explanation: Recovered due to a HW issue
+visid: M7HU061900196, Explanation: HW related issue
+visid: M7HU061900297, Explanation: HW related issue
+visid: M7HU061900869, Explanation: HW related issue
+visid: M7HU061900999, Explanation: HW related issue
+visid: M7HU061901014, Explanation: HW related issue
+visid: M7HU061901049, Explanation: HW related issue
+visid: M7HU061900750, Explanation: HW related issue
+visid: M7HU061900757, Explanation: HW related issue
+visid: M7HU061900874, Explanation: HW related issue
+visid: M7HU061900910, Explanation: HW related issue
+visid: M7HU061900986, Explanation: HW related issue
+visid: M7HU061900998, Explanation: HW related issue
+visid: M7HU061901143, Explanation: HW related issue

@@ -1,0 +1,1 @@
+visid: M9R48M5000608, Explanation: the unit didn't passing any SKU in actual TP due to invalid core configuration

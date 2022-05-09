@@ -1,0 +1,17 @@
+visid: M7HU061900209, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7T131S100875, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M88J7X3800919, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M88J7X3800922, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7HU061900764, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7HU061901104, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7HU061900688, Explanation: Unit is failing bin5423 only once throughout the history. Most likely a tester issue
+visid: M7HU061901067, Explanation: Unit is failing bin5435 only once throughout the history. Most likely a tester issue
+visid: M7HU061900703, Explanation: Unit is failing bin5423 only once throughout the history. Most likely a tester issue
+visid: M7J13X7701496, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7J13X7700539, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7J13X7701215, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7J13X7701212, Explanation: Unit is failing bin4621 only once throughout the history. Most likely a tester issue
+visid: M7J13X7700646, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7HU061900757, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7J13X7701027, Explanation: There are multiple bin1 results from the same testing condition with 2 bin4821 out of 6 tests. should be connection issue
+visid: M7J13X7701170, Explanation: Unit is failing bin5433 only once throughout the history. Most likely a tester issue

@@ -1,0 +1,1 @@
+visid: D970U5V201223, Explanation: DDRD345 Vload pin wasn't connected (TIU issue) on reference run. 

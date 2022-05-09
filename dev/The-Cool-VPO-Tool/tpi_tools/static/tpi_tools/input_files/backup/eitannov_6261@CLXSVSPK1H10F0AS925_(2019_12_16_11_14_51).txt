@@ -1,0 +1,2 @@
+visid: M9R48M5000575, Explanation: TIU issue. FIVR_VLOAD_VDDRA012 pin was not connected during test
+visid: M9KB375201301, Explanation: unit typically fails 2738. FIVR produces too much voltage

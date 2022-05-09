@@ -1,0 +1,5 @@
+visid: M73J2G6201281, Explanation: Unit is recovered to bin1 in the last VPO with 2 bin4625 out of 8 tests
+visid: M7NN267101025, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7NN267101026, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue
+visid: M7NN267101023, Explanation: Unit is failing bin4625 only once throughout the history. Most likely a tester issue
+visid: M7NN267101043, Explanation: Unit is failing bin4821 only once throughout the history. Most likely a tester issue

@@ -1,0 +1,7 @@
+visid: M7HU061901570, Explanation: Bad contact due to HW issue
+visid: M7HU061901465, Explanation: Bad contact due to HW issue
+visid: M7J13X7701203, Explanation: Bad contact due to HW issue
+visid: M7HU061900697, Explanation: Bad contact due to HW issue
+visid: M7HU061900929, Explanation: Bad contact due to HW issue
+visid: M7HU061900913, Explanation: Bad contact due to HW issue
+visid: M7J13X7700528, Explanation: Bad contact due to HW issue on previous run

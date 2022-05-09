@@ -1,0 +1,1 @@
+visid: M8601RW600695, Explanation: unit was failing for reset in the old run in the rom lttc screen, but in the new run, the unit failed in rom lttc screen but we already put the screen in EDC mode so it didnt bin out as bin 9422

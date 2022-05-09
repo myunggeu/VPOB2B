@@ -1,0 +1,5 @@
+visid: M9V06E8801319, Explanation: Marginal measure, might be related to HW 
+visid: M9V06E8801281, Explanation: Marginal measure, might be related to HW 
+visid: M9V06E8800339, Explanation: Marginal measure, might be related to HW 
+visid: M9V06E8800565, Explanation: Marginal measure, might be related to HW 
+visid: M9V06E8801354, Explanation: Marginal fail due to outlier value in lower limit (open) 

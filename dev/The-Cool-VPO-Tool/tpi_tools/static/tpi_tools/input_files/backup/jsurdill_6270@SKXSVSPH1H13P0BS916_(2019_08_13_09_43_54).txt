@@ -1,0 +1,2 @@
+visid: M9EN577400600, Explanation: Bin switch caused by SBFT failures in CHKCOREF6
+visid: M9PB483200249, Explanation: In old run, core 13 is defeatured, but in new run, core 13 fails for SKX_CACHE_H::c_mlcdatksx_vcoreminfreq6_LTTC_7911

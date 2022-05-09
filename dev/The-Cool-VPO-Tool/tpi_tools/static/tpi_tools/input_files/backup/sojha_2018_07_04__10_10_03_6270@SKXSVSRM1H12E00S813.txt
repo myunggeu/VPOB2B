@@ -1,0 +1,2 @@
+visid: M7G050T400029, Explanation: This is a known power induced failure in CLM domain. In the old run it was failing for llcdatksx_vclmminfreq3_CHKCLMF3 but in the new run it got recovered.
+visid: M7G050T400230, Explanation: In the old run, many cores were failing for mlcdatksx_vcoreminfreq6_CHKCOREF6. This did not look like a real failure. In the new re-run, it is getting recovered as expected.

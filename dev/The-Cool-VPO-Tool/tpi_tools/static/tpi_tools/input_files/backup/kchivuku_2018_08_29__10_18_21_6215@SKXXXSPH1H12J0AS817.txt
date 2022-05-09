@@ -1,0 +1,2 @@
+visid: M7SH412401007, Explanation: HW issue. Trim code maxed out for Core 26. Unit history suggests its a good unit
+visid: M7SH412400112, Explanation: lock failed in Core 25 ratio32 and relocked again. No signs of previous failures. Might be HW issue

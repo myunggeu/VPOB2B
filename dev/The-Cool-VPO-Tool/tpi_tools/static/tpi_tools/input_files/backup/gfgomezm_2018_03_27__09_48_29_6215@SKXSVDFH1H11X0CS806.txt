@@ -1,0 +1,10 @@
+visid: M7DR176200200, Explanation: B68 due to known Board design failure
+visid: M7774QA300751, Explanation: B68 due to known Board design failure
+visid: M7DR176200318, Explanation: B68 due to known Board design failure
+visid: M7774QA300877, Explanation: B13 Equivalent to OPENS. HW Related bin
+visid: M7774QA300756, Explanation: B13 Equivalent to OPENS. HW Related bin
+visid: M7774QA300895, Explanation: B13 Equivalent to OPENS. HW Related bin
+visid: M7DR176200438, Explanation: B13 Equivalent to OPENS. HW Related bin
+visid: M7DR176200479, Explanation: B13 Equivalent to OPENS. HW Related bin
+visid: M7PU387100046, Explanation: B13 Equivalent to OPENS. HW Related bin
+visid: M7PU387100070, Explanation: B13 Equivalent to OPENS. HW Related bin

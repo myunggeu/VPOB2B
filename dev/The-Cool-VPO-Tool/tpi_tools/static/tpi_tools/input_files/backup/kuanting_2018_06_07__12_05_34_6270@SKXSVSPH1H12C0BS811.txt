@@ -1,0 +1,19 @@
+visid: M7N7K70501126, Explanation: Recover to bin1
+visid: M7N7K70501229, Explanation: Recover to bin1
+visid: M7N7K70501354, Explanation: Recover to bin1
+visid: M7N7K70501085, Explanation: Recover to bin1
+visid: M7SH412400587, Explanation: Recover to bin1
+visid: M7SH412400862, Explanation: Recover to bin1
+visid: M7N7K70500086, Explanation: Recover to bin1
+visid: M7N7K70501125, Explanation: Recover to bin1
+visid: M7N7K70501214, Explanation: No bin4621 in the history. No content change
+visid: M7N7K70501325, Explanation: Recover to bin1
+visid: M7N7K70500097, Explanation: No bin4621 in the history. No content change
+visid: M7N7K70501067, Explanation: Multiple b4621 across TPs and locations. Looks like a real fallout
+visid: M7SH412400750, Explanation: History of bin4621 acrss multiple TPs. Looks like a real fallout
+visid: M7SH412400570, Explanation: No bin46 in the history. No content change
+visid: M7SH412401189, Explanation: No bin46 in the history. No content change
+visid: M7SH412401187, Explanation: No bin46 in the history. No content change
+visid: M7N7K70500066, Explanation: Multiple b4625 across TPs and locations. Looks like a real fallout
+visid: M7SH412400873, Explanation: No bin4625 in the history. No content change
+visid: M7N7K70501115, Explanation: No bin4821 in the history. No content change

@@ -1,0 +1,2 @@
+visid: M7SH412401304, Explanation: Unit recovered from HW issue in previous run
+visid: M7N7K70500446, Explanation: Unit failed due to HW issue

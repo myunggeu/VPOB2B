@@ -1,0 +1,11 @@
+visid: M7DR176200469, Explanation: recover at retest
+visid: M7DR176200304, Explanation: recover at retest
+visid: M7DR176200620, Explanation: recover at retest
+visid: M7DR176200005, Explanation: CRES fail, HW issue
+visid: M7DR176200435, Explanation: CRES fail, HW issue
+visid: M7DR176200196, Explanation: recovered at retest
+visid: M7DR176200485, Explanation: HW issue at previous run
+visid: M7DR176200336, Explanation: HW related issue
+visid: M7DR176200263, Explanation: recover at retest
+visid: M7PU387100368, Explanation: CRES fail at previous run, HW issue
+visid: M7DR176200274, Explanation: HW issue at previous run

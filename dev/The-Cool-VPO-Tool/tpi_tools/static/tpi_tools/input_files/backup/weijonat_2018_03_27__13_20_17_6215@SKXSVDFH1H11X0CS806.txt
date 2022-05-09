@@ -1,0 +1,1 @@
+visid: M7PU387100099, Explanation: bin2737 likely due to cold socketing issue, core14 vload pin reading all 0s. Not valid

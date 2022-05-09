@@ -1,0 +1,1 @@
+visid: M8KR236200548, Explanation: based on unit history, this unit has been a solid bin20 since S903 TP, and in the new run it didnt go through the full flow, but failed at start. Looks like a valid failure in the reference run

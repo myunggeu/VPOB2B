@@ -1,0 +1,1 @@
+visid: M7HU061901106, Explanation: Unit failed b1551 only once due to HW/Socketing issue

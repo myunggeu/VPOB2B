@@ -1,0 +1,3 @@
+visid: M9KB375200993, Explanation: Unit failed bin1407 because it passed RGZE but that was not enough to pass any of the defined buckets.
+visid: M9KB375201099, Explanation: Unit failed bin1407 because it passed RGZE but that was not enough to pass any of the defined buckets.
+visid: M9R48M5000711, Explanation: Unit failed bin1407 because it passed RGZE but that was not enough to pass any of the defined buckets.

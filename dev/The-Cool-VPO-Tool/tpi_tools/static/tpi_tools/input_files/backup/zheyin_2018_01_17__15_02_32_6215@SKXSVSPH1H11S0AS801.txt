@@ -1,0 +1,24 @@
+visid: M7SH412400355, Explanation: HW issue
+visid: M7SH412400862, Explanation: HW issue
+visid: M7SH412401180, Explanation: HW issue
+visid: M7L1Y26800085, Explanation: HW issue
+visid: M7N7K70500620, Explanation: HW issue
+visid: M7SH412400265, Explanation: HW issue
+visid: M7SH412400494, Explanation: HW issue
+visid: M7SH412400574, Explanation: HW issue
+visid: M7SH412401481, Explanation: HW issue
+visid: M7N7K70501412, Explanation: HW issue
+visid: M7N7K70500295, Explanation: VCCIO clamp at previous run, can be HW related
+visid: M7SH412400986, Explanation: HW issue
+visid: M7SH412400160, Explanation: CRES fail, HW issue
+visid: M7N7K70500657, Explanation: OVERCLK0 marginal fail, need retest
+visid: M7N7K70500069, Explanation: CRES fail, HW issue
+visid: M7SH412400018, Explanation: CRES fail, HW issue
+visid: M7SH412401553, Explanation: CRES fail, HW issue
+visid: M7L1Y26800113, Explanation: CRES fail, HW issue
+visid: M7N7K70500479, Explanation: CRES fail, HW issue
+visid: M7SH412401484, Explanation: CRES fail, HW issue
+visid: M7N7K70500353, Explanation: CRES fail, HW issue
+visid: M7SH412400523, Explanation: CRES fail, HW issue
+visid: M7SH412400877, Explanation: CRES fail, HW issue
+visid: M7SH412401074, Explanation: CRES fail, HW issue

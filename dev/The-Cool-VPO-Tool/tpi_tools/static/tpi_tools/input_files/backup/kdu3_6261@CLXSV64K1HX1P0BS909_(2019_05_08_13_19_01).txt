@@ -1,0 +1,22 @@
+visid: M8KR236200017, Explanation: HW related issue
+visid: M8HC458500073, Explanation: HW related issue
+visid: M8HC458500488, Explanation: Failed PTH_THRSOAK
+visid: M8HC458500506, Explanation: HW related issue
+visid: M94R2R2100218, Explanation: HW related issue
+visid: M8KR236200298, Explanation: HW related issue
+visid: M8KR236200353, Explanation: HW related issue
+visid: M93Y2R6200079, Explanation: HW related issue
+visid: M8HC458500525, Explanation: HW related issue
+visid: M8HC458500375, Explanation: HW related issue
+visid: M8HC458500063, Explanation: HW related issue
+visid: M94R2R2100214, Explanation: HW related issue
+visid: M8HC458500413, Explanation: HW related issue
+visid: M94R2R2100224, Explanation: HW related issue
+visid: M94R2R2100088, Explanation: HW related issue
+visid: M8HC458500337, Explanation: HW related issue
+visid: M8KR236200173, Explanation: HW related issue
+visid: M8KR236200521, Explanation: HW related issue
+visid: M8HC458500090, Explanation: HW related issue
+visid: M8X0G79900474, Explanation: HW related issue
+visid: M8KR236200458, Explanation: HW related issue
+visid: M93Y2R6200422, Explanation: HW related issue

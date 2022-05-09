@@ -1,0 +1,1 @@
+visid: M9PB483200365, Explanation: Unit failed bin1498: IDSK disabled IA07 for exceeding Vmin variability limits, with this the unit exceeded the limit of class core defeature.

@@ -1,0 +1,28 @@
+visid: M8CQ906300454, Explanation: Unit recovered from HW issue in previous run
+visid: M8NE567700205, Explanation: Unit recovered from HW issue in previous run
+visid: M8LM305300208, Explanation: Unit recovered from HW issue in previous run
+visid: M8BD231400661, Explanation: Unit recovered from HW issue in previous run
+visid: M8LM305300103, Explanation: Unit recovered from HW issue in previous run
+visid: M8NE567700571, Explanation: Unit recovered from HW issue in previous run
+visid: M8NE567700359, Explanation: Unit recovered from HW issue in previous run
+visid: M8NE567700109, Explanation: Unit recovered from HW issue in previous run
+visid: M8BD231400374, Explanation: Unit recovered from HW issue in previous run
+visid: M8LM305300347, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M8LM305300447, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M8LM305300592, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M8BD231400058, Explanation: Unit failed due to HW issue
+visid: M8BD231400084, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M8BD231400451, Explanation: Historically B1 unit at cold. It failed due to HW issue
+visid: M8BD231400171, Explanation: Unit failed due to HW issue
+visid: M8BD231400537, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M8LM305300091, Explanation: Historically B1 unit at cold. It failed due to HW issue
+visid: M8LM305300505, Explanation: Historically B1 unit at cold. It failed due to HW issue
+visid: M8BD231400216, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M8BD231400436, Explanation: Historically B1 unit at cold. It failed due to HW issue
+visid: M8LM305300661, Explanation: Historically B1 unit at cold. It failed due to HW issue
+visid: M8LM305300499, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M8BD231400139, Explanation: Historically B1 unit. It failed due to HW issue
+visid: M8LM305300705, Explanation: Unit recovered in RV
+visid: M8BD231400467, Explanation: Historically B1 unit at cold. It failed due to HW issue
+visid: M8BD231400207, Explanation: Unit recovered in RV
+visid: M8BD231400556, Explanation: Historically B1 unit. It failed due to HW issue

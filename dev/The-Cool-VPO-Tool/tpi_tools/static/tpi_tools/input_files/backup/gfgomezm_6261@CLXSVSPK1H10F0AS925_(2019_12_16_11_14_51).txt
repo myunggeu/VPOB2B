@@ -1,0 +1,15 @@
+visid: M9FE297101238, Explanation: Bin9 root caused to HW. Recovered
+visid: M9BR819701544, Explanation: False B68, HW related
+visid: M9FE297100721, Explanation: OPEN/Contact issues
+visid: M9R48M5000899, Explanation: OPEN/Contact issues
+visid: M9R48M5000798, Explanation: OPEN/Contact issues
+visid: M9KB375201252, Explanation: OPEN/Contact issues
+visid: M9R48M5000119, Explanation: OPEN/Contact issues
+visid: M9KB375201201, Explanation: OPEN/Contact issues
+visid: M9Q50W3800715, Explanation: OPEN/Contact issues
+visid: M95B8W9300193, Explanation: OPEN/Contact issues
+visid: M9Q50W3800699, Explanation: OPEN/Contact issues
+visid: M9FE297100985, Explanation: OPEN/Contact issues
+visid: M9R48M5000774, Explanation: OPEN/Contact issues
+visid: M9KB375200454, Explanation: OPEN/Contact issues
+visid: M9MH566301453, Explanation: OPEN/Contact issues

@@ -1,0 +1,5 @@
+visid: M73J2G6200535, Explanation: Recovered from HW issue
+visid: M73J2G6200317, Explanation: Recovered from HW issue
+visid: M73J2G6201542, Explanation: Unit failed due to HW issue
+visid: M73J2G6200626, Explanation: Unit failed due to HW issue
+visid: M73J2G6201296, Explanation: HW issue Module:HDMT_HDDPS_LC|Channel:11024|Time:Sun_Mar_24_17:00:04_2019

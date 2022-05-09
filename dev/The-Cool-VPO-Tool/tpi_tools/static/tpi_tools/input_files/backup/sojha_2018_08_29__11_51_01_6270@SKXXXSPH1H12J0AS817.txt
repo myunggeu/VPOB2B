@@ -1,0 +1,1 @@
+visid: M7N7K70500464, Explanation: Cache: Both old and new run is failing core 11 for c_mlcdatksx_vcoremaxfreq1_VMAXCOREF1. But it binned out only in the old run. This is also a bad unit. It has always been binned as bin 60 since 805TP.

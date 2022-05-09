@@ -1,0 +1,1 @@
+visid: M7J13X7701013, Explanation: Failing case did not record correct voltage during VDAC checkout. Read 1.38V for all test points. Unclear why it did this. There were no changes to FIVR module in this release. On retest, this part seems to work.

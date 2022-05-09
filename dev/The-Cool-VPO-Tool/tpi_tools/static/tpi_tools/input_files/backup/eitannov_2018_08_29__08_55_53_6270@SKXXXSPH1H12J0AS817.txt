@@ -1,0 +1,5 @@
+visid: M73K2D8500681, Explanation: OCP Core Recovery allowed core disable for core with bad OCP and unit recovery. 
+visid: M7A176X401200, Explanation: OCP Core Recovery allowed core disable for core with bad OCP and unit recovery. 
+visid: M7SH412400601, Explanation: OCP Core Recovery allowed core disable for core with bad OCP and unit recovery. 
+visid: M7SH412401162, Explanation: OCP Core Recovery allowed core disable for core with bad OCP and unit recovery. 
+visid: M7SH412400943, Explanation: OCP Core Recovery allowed core disable for core with bad OCP and unit recovery. 

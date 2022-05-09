@@ -1,0 +1,4 @@
+visid: M8BD231400227, Explanation: POD detect failure. VccIN of 0.9v resulted in powergood signal being high. No content change or module change in this release. Could be TAP failure (stuck at 1).
+visid: M8NE567700379, Explanation: POD detect failure. VccIN of 0.9v resulted in powergood signal being high. No content change or module change in this release. Could be TAP failure (stuck at 1).
+visid: M8LM305300717, Explanation: BG_trim on one fivr domain is now at 164. This is over the kill limit from SKX of 160. BG retrim values are high for all domains, and this does not match previous programs. there is no FIVRtrim content or module change to cause this. 
+visid: M8NE567700533, Explanation: BG_trim on all domains is heavily elevated. This is over the kill limit from SKX of 160. BG retrim values are high for all domains, and this does not match previous programs. there is no FIVRtrim content or module change to cause this. 

@@ -1,0 +1,34 @@
+visid: M8KR236200209, Explanation: Unit recovered from HW Issue 
+visid: M8KR236200433, Explanation: Unit recovered from HW Issue 
+visid: M8KR236200017, Explanation: Unit recovered from HW Issue 
+visid: M8KR236200217, Explanation: Unit recovered from HW Issue 
+visid: M8HC458500460, Explanation: Unit recovered from HW Issue 
+visid: M8KR236200180, Explanation: Unit recovered from HW Issue 
+visid: M8KR236200038, Explanation: Unit recovered from HW Issue 
+visid: M8KR236200465, Explanation: Unit recovered from HW Issue 
+visid: M8KR236200247, Explanation: Unit recovered from HW Issue 
+visid: M8KR236200553, Explanation: Unit recovered from HW Issue 
+visid: M8KR236200039, Explanation: Unit recovered from HW Issue 
+visid: M8KR236200458, Explanation: Unit recovered from HW Issue 
+visid: M8HC458500141, Explanation: Unit failed due to an open in the lower diode of MCP01_AMONI
+visid: M8KR236200543, Explanation: Unit failed due to an open in the upper diode of MCP01_AMONI 
+visid: M8KR236200152, Explanation: Unit failed due to an open in the lower diode of MCP01_AMONI and MCP01_DFX_DN
+visid: M8KR236200528, Explanation: Unit failed after retesting bin4625. SIO_KTI_DC1_DFXLEGCHK_X_CMEM_K_END_X_VCCIOVCCSA_VNOM_X_VIADELAMCMEM. Induced by HW Issue.  
+visid: M8KR236200312, Explanation: Unit failed due to an open in the upper diode of MCP01_DFX_DN
+visid: M8KR236200460, Explanation: Unit failed due to an open in the upper diode of KTI2_DFX_DP 
+visid: M8HC458500138, Explanation:  Unit failed due to an open in the upper diode of BCLK0_DN. 
+visid: M8KR236200354, Explanation: Unit failed due to an open in the upper diode of SOCKET_ID2
+visid: M8KR236200216, Explanation: Unit failed after retesting bin1306. MIO_DDR_C_PYTHON_NONE_INIT_SETUPEDSRUN. Induced by HW Issue.   
+visid: M8KR236200167, Explanation: Unit failed due to an open in MCI_NOA_AVRB6
+visid: M8KR236200205, Explanation: Unit failed due to an open in the upper diode of MCI_LGSPARE6
+visid: M8KR236200246, Explanation: Unit failed after retesting bin4313. SIO_KTI_AC1_REUTANELB_X_FAST_K_END_X_VCCIOVCCSA. Induced by HW Issue.   
+visid: M8KR236200526, Explanation: Unit failed due to an open in the lower diode of  BCLK1_DP
+visid: M8KR236200023, Explanation: Unit failed due to an open in the lower diode of DDR345_DRAM_PWR_OK 
+visid: M8KR236200202, Explanation: Unit failed due to an open in the upper diode of PROCHOT_N 
+visid: M8KR236200156, Explanation:  Unit failed due to an open in MBP_N0
+visid: M8KR236200524, Explanation: Unit failed after retesting bin4406. FUN_SBFT_c_mlc_vcoreminfreq6_CHKCOREF6. Induced by HW Issue.   
+visid: M8KR236200264, Explanation:  Same as other bin4406, lower vmin at F7 when failed, but on pass gets proper vmin
+visid: M8KR236200372, Explanation: Known issue for 64L, failing cores tested at lower vmins than required for F7 
+visid: M8HC458500146, Explanation: Known issue for 64L, failing cores tested at lower vmins than required for F7 
+visid: M8KR236200482, Explanation: Known issue for 64L, failing cores tested at lower vmins than required for F7 
+visid: M8KR236200043, Explanation: Unit failed after retesting bin4313. SIO_KTI_AC1_REUTANELB_X_FAST_K_END_X_VCCIOVCCSA. Induced by HW Issue.   

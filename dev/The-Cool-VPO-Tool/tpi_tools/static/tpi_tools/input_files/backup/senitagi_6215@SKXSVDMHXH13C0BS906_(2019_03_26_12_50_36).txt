@@ -1,0 +1,5 @@
+visid: D970U5V201230, Explanation: Fail due to HW 
+visid: D970U5V201183, Explanation: Fail due to HW 
+visid: D9563MT000089, Explanation: Fail due to HW 
+visid: D970U5V201065, Explanation: Fail due to HW 
+visid: D9711GR900505, Explanation: Fail due to HW 

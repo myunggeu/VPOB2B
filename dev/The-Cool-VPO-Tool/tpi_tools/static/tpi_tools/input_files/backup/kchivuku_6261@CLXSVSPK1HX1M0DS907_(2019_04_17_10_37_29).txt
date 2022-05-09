@@ -1,0 +1,1 @@
+visid: M9HC416301068, Explanation: Prior history of Bin 2826. Marginal Unit. The unit failed pll lock in the ratio sweep in Core 13. Failed ratio 8.

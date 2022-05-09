@@ -1,0 +1,4 @@
+visid: M9FD363600123, Explanation: Normally B9. Marginal pass on one TP.
+visid: M9FD363600137, Explanation: Normally B9. Marginal pass on one TP.
+visid: M9DE105400419, Explanation: B68 caused by HW contact
+visid: M9FD363600733, Explanation: Normally B9. Marginal pass on one TP.

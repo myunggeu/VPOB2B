@@ -1,0 +1,4 @@
+visid: M9KK695401199, Explanation: Failed due to HW issue after retesting bin1306 - SKX_MIO_H_C_PYTHON_NONE_END_VOXDATAMIN_2
+visid: M9MU857200009, Explanation: Failed due to HW issue after retesting bin5115 - SKX_MIO_H_C_PYTHON_NONE_END_ODTDATAMIN_2 
+visid: M9EN577401818, Explanation: Failed due to HW issue after retesting bin1306 - SKX_MIO_H_C_PYTHON_NONE_END_VOXDATAMIN_2
+visid: M9KK695401155, Explanation: Failed due to HW issue after retesting bin1306 - SKX_MIO_H_C_PYTHON_NONE_END_VOXDATAMIN_2

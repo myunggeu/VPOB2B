@@ -1,0 +1,2 @@
+visid: M8S78N4500198, Explanation: looking at unit history, this unit has been failing for cache in VSA domain since S903 TP - this looks like a real failure
+visid: M8601RW600695, Explanation: the unit failed  reset at c_crfrmrscr_vcoreminfreq6_LTTC_7932 and for several cores. this looks like a hardware issue

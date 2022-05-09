@@ -1,0 +1,4 @@
+visid: M7N7K70501258, Explanation: The unit failed in previous TP due to IDSK disable core IA16 and IA25.
+visid: M7A176X401288, Explanation: The unit failed in actual TP due to IDSK disable core IA02
+visid: M7SH412400429, Explanation: The unit failed in actual TP due to IDSK disable core IA01
+visid: M7SH412401430, Explanation: The unit fail in actual TP due to did not pass any QDF. 

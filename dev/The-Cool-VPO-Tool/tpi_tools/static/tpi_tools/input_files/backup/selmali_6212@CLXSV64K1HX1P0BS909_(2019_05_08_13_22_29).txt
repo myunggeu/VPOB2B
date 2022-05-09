@@ -1,0 +1,4 @@
+visid: M94R2R2100132, Explanation: core 18 was marginally de-featured in the old run, and it got recovered in the new run
+visid: M8KR236200360, Explanation: core 3 was marginally de-featured in the new run while it was passing the old run
+visid: M8HC458500256, Explanation: core 0 was de-featured by crfall F1 test in the reference run while in the new run, the same core was de-featured by crfall F3 test. in both runs, core 0 had a relatively high vmin compared to the rest 27 cores
+visid: M8KR236200232, Explanation: unit has been consistently failing bin20 since s903 TP. here in the old run it failed urfcrqksx_vclmminfreq2 didnt pass start subflow  at a vmin of 810mv at the first itere=ation while the new run

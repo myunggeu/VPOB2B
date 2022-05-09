@@ -1,0 +1,100 @@
+visid: M7N7K70500679, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70501239, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500833, Explanation: Unit recovered form HW issue in previous TP
+visid: M73K2D8501003, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70501253, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500721, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500667, Explanation: Unit recovered form HW issue in previous TP
+visid: M7SH412401124, Explanation: Unit recovered form HW issue in previous TP
+visid: M7SH412401315, Explanation: Unit recovered form HW issue in previous TP
+visid: M7SH412400752, Explanation: Unit recovered form HW issue in previous TP
+visid: M7SH412400557, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500372, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500304, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500428, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500563, Explanation: Unit recovered form HW issue in previous TP
+visid: M7L1Y26800295, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500413, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500632, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500552, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500288, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500973, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70501038, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500135, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500051, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500022, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70501062, Explanation: Unit recovered form HW issue in previous TP
+visid: M7SH412400113, Explanation: Unit recovered form HW issue in previous TP
+visid: M7SH412400097, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500189, Explanation: Unit recovered form HW issue in previous TP
+visid: M7SH412400612, Explanation: Unit recovered form HW issue in previous TP
+visid: M7SH412401505, Explanation: Unit recovered form HW issue in previous TP
+visid: M7SH412400819, Explanation: Unit recovered form HW issue in previous TP
+visid: M7SH412400436, Explanation: Unit recovered form HW issue in previous TP
+visid: M7SH412401405, Explanation: Unit recovered form HW issue in previous TP
+visid: M7SH412400949, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500625, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70500317, Explanation: Unit recovered form HW issue in previous TP
+visid: M7A176X401165, Explanation: Unit recovered form HW issue in previous TP
+visid: M7N7K70501281, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500835, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500201, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500787, Explanation: Uni fail due to HWW issue
+visid: M73K2D8500968, Explanation: Uni fail due to HWW issue
+visid: M7SH412401226, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412401321, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412400403, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412401126, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412401152, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412401331, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412400771, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412401140, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412401167, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412400979, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412401072, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500364, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500322, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500649, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500386, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500053, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70501422, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412401570, Explanation: Uni fail due to HWW issue
+visid: M7N7K70500561, Explanation: Uni fail due to HWW issue
+visid: M7N7K70500507, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500496, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500040, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7L1Y26800243, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70501068, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70501325, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7L1Y26800296, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70501205, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412400101, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500049, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412401408, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412400327, Explanation: Uni fail due to HWW issue
+visid: M7SH412401022, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500125, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500948, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412400761, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500212, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500029, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412400786, Explanation: Unit failed due to HWW issue
+visid: M7N7K70500701, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412401430, Explanation: Unit failed due to HWW issue
+visid: M7SH412400534, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412400540, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7SH412400495, Explanation: Unit failed due to HWW issue
+visid: M7SH412400514, Explanation: Unit failed due to HWW issue
+visid: M7SH412400493, Explanation: Unit failed due to HWW issue
+visid: M7SH412401498, Explanation: Unit failed due to HWW issue
+visid: M7SH412400625, Explanation: Unit failed due to HWW issue
+visid: M7N7K70500813, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500805, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70501286, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70501357, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500109, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500813, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500805, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70501286, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70501357, Explanation: Historically B1 unit. It fail due to HWW issue
+visid: M7N7K70500109, Explanation: Historically B1 unit. It fail due to HWW issue

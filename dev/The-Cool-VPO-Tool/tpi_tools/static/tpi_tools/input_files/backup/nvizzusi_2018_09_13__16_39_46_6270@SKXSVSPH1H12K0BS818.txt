@@ -1,0 +1,4 @@
+visid: M7SH412400741, Explanation: These are an onging issue for several sprints, these aren't specific to this test program release. But this issue is important to get fixed eventually since factory is seeing yeild loss from this bin
+visid: M7SH412400458, Explanation: These are an onging issue for several sprints, these aren't specific to this test program release. But this issue is important to get fixed eventually since factory is seeing yeild loss from this bin
+visid: M7SH412400741, Explanation: These are an onging issue for several sprints, these aren't specific to this test program release. But this issue is important to get fixed eventually since factory is seeing yeild loss from this bin
+visid: M7SH412400458, Explanation: These are an onging issue for several sprints, these aren't specific to this test program release. But this issue is important to get fixed eventually since factory is seeing yeild loss from this bin

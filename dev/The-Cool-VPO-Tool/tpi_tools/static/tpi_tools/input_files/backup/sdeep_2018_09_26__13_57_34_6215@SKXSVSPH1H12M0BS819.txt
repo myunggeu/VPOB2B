@@ -1,0 +1,218 @@
+visid: M7N7K70500321, Explanation: Recovered on RV. Not real failure, NO COOKIES for unit!
+visid: M7SH412400603, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7SH412400066, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7SH412401460, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7SH412400948, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7SH412401385, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7SH412401391, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70500624, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70500427, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70500340, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70500591, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70500374, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70501434, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70500351, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7L1Y26800248, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70500341, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7SH412401513, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70500375, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70500240, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70500645, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7SH412400075, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70501381, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70500441, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70500256, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70501186, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70501221, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70500264, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7SH412401569, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70501085, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70501207, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70501212, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70501087, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7L1Y26800302, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+Blank Entry: M7N7K70500145
+Blank Entry: M7N7K70500372
+Blank Entry: M7N7K70501396
+Blank Entry: M7N7K70500023
+Blank Entry: M7N7K70500013
+Blank Entry: M7N7K70500213
+Blank Entry: M7N7K70501421
+Blank Entry: M7SH412401480
+Blank Entry: M7N7K70501305
+Blank Entry: M7N7K70501411
+Blank Entry: M7SH412400239
+Blank Entry: M7N7K70500407
+Blank Entry: M7N7K70500445
+Blank Entry: M7SH412400166
+Blank Entry: M7L1Y26800133
+Blank Entry: M7N7K70500328
+Blank Entry: M7N7K70500316
+Blank Entry: M7N7K70500300
+Blank Entry: M7N7K70501311
+Blank Entry: M7N7K70501088
+Blank Entry: M7SH412400916
+Blank Entry: M7SH412400670
+Blank Entry: M7SH412400114
+Blank Entry: M7N7K70500401
+Blank Entry: M7N7K70500632
+visid: M7SH412401441, Explanation: core01 measured ~0V in the earlier VPO, likely due to socketing issue at cold, NO COOKIES for unit!
+visid: M7N7K70500144, Explanation: core10 measured all 0V in original VPO, likely due to socketing issue at cold, NO COOKIES for unit!
+Blank Entry: M7N7K70500567
+Blank Entry: M7N7K70500261
+Blank Entry: M7L1Y26800300
+Blank Entry: M7N7K70501220
+Blank Entry: M7N7K70500026
+Blank Entry: M7N7K70501192
+Blank Entry: M7SH412400112
+Blank Entry: M7L1Y26800251
+Blank Entry: M7SH412400946
+Blank Entry: M7SH412400389
+Blank Entry: M7SH412401426
+Blank Entry: M7N7K70500472
+Blank Entry: M7N7K70500581
+Blank Entry: M7N7K70500566
+Blank Entry: M7N7K70501229
+Blank Entry: M7N7K70501038
+Blank Entry: M7N7K70500218
+Blank Entry: M7SH412401469
+Blank Entry: M7N7K70500488
+Blank Entry: M7N7K70501228
+Blank Entry: M7N7K70501118
+Blank Entry: M7SH412400712
+Blank Entry: M7L1Y26800255
+Blank Entry: M7N7K70500382
+visid: M7N7K70500342, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+visid: M7N7K70501064, Explanation: Unit recovered from HW issue in previous TP, NO COOKIES for unit!
+Blank Entry: M7N7K70501142
+Blank Entry: M7N7K70500338
+Blank Entry: M7N7K70500606
+Blank Entry: M7SH412401552
+Blank Entry: M7N7K70500118
+Blank Entry: M7N7K70500409
+visid: M7SH412401040, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7SH412401364, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M7SH412400366, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7SH412400745, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7SH412400319, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7SH412400615, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7SH412400160, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7SH412401015, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M7SH412400645, Explanation: Unit recovered in last run, NO COOKIES for unit!
+visid: M7SH412400783, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7N7K70500585, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M7N7K70500167, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7N7K70500436, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7SH412401486, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7N7K70500546, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7N7K70500356, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7N7K70500586, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7N7K70500389, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7N7K70500621, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7L1Y26800266, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M7N7K70500020, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M7N7K70500286, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M7SH412400097, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M7N7K70501354, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M7N7K70500092, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M7N7K70501143, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M7N7K70501365, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M7N7K70501333, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M7N7K70500476, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7SH412400901, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7SH412400088, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M7N7K70501185, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M7N7K70500277, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M7N7K70500491, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M7N7K70500124, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M7N7K70500250, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7SH412400247, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M7N7K70501086, Explanation: Unit recovered in the last run, NO COOKIES for unit!
+visid: M7N7K70501097, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M7N7K70500412, Explanation: Unit failed due to HW issue, NO COOKIES for unit!
+visid: M7SH412400078, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+Blank Entry: M7N7K70500521
+Blank Entry: M7SH412400958
+Blank Entry: M7SH412400250
+Blank Entry: M7N7K70500344
+Blank Entry: M7N7K70500233
+Blank Entry: M7N7K70500103
+Blank Entry: M7N7K70500578
+Blank Entry: M7N7K70500501
+Blank Entry: M7L1Y26800308
+Blank Entry: M7N7K70500416
+Blank Entry: M7N7K70500572
+Blank Entry: M7SH412400111
+Blank Entry: M7SH412400259
+Blank Entry: M7SH412400165
+Blank Entry: M7N7K70500171
+Blank Entry: M7N7K70501105
+Blank Entry: M7N7K70500629
+Blank Entry: M7N7K70500268
+Blank Entry: M7N7K70500219
+Blank Entry: M7N7K70501339
+Blank Entry: M7L1Y26800293
+Blank Entry: M7SH412401487
+Blank Entry: M7N7K70500231
+Blank Entry: M7N7K70500207
+Blank Entry: M7SH412400793
+Blank Entry: M7N7K70501128
+Blank Entry: M7N7K70500151
+Blank Entry: M7N7K70500395
+Blank Entry: M7SH412400068
+Blank Entry: M7L1Y26800121
+Blank Entry: M7SH412400468
+Blank Entry: M7N7K70500872
+Blank Entry: M7N7K70500968
+Blank Entry: M7N7K70500012
+Blank Entry: M7SH412400266
+Blank Entry: M7N7K70501335
+Blank Entry: M7SH412400730
+Blank Entry: M7N7K70500391
+Blank Entry: M7SH412400759
+visid: M7N7K70500272, Explanation: BG trim code marginally failed in the second run. No update from the module, NO COOKIES for unit!
+visid: M7SH412400113, Explanation: core17 FIVR all read ~0V in DAC calibration. no update from module. Likely due to cold socketing issue, NO COOKIES for unit!
+visid: M7N7K70501368, Explanation: DDRD345 FIVR all read ~0V in Dac calibration. No update from module, likely due to socketing issue at cold, NO COOKIES for unit!
+visid: M7N7K70501405, Explanation: core18 FIVR all read ~0.4V in DAC calibration. No update from module. likely due to cold socketing issue, NO COOKIES for unit!
+visid: M7SH412401406, Explanation: This is a basic tap test; most likely tap induce error; probably will pass on rerun, NO COOKIES for unit!
+Blank Entry: M7SH412401369
+Blank Entry: M7SH412400104
+Blank Entry: M7N7K70501344
+Blank Entry: M7N7K70500635
+Blank Entry: M7SH412400373
+Blank Entry: M7SH412400433
+Blank Entry: M7N7K70501109
+Blank Entry: M7N7K70500025
+visid: M7N7K70500303, Explanation: Caused by the new FC dragon DPM content, NO COOKIES for unit!
+Blank Entry: M7SH412400451
+Blank Entry: M7SH412401070
+Blank Entry: M7SH412401495
+Blank Entry: M7N7K70500262
+Blank Entry: M7N7K70501227
+Blank Entry: M7N7K70500559
+Blank Entry: M7N7K70500616
+Blank Entry: M7N7K70500362
+Blank Entry: M7N7K70501384
+Blank Entry: M7N7K70500597
+Blank Entry: M7N7K70500397
+Blank Entry: M7N7K70500306
+Blank Entry: M7N7K70500047
+Blank Entry: M7N7K70500873
+Blank Entry: M7N7K70501016
+Blank Entry: M7N7K70501345
+Blank Entry: M7N7K70500141
+Blank Entry: M7N7K70501195
+Blank Entry: M7L1Y26800115
+Blank Entry: M7N7K70500378
+Blank Entry: M7N7K70500466
+visid: M7N7K70500146, Explanation: Failing CACHE MLC DAT in S818 B6002, this failure was marginal, it passed for S815TP, S817TP,and S819TP., NO COOKIES for unit!
+Blank Entry: M7N7K70501145
+Blank Entry: M7N7K70500555
+visid: M7N7K70500971, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+visid: M7N7K70500104, Explanation: Historically B1 unit. It failed due to HW issue, NO COOKIES for unit!
+Blank Entry: M7N7K70501133
+Blank Entry: M7N7K70501400
+Blank Entry: M7SH412401467
+Blank Entry: M7L1Y26800237
+Blank Entry: M7SH412400454
+Blank Entry: M7N7K70500289

@@ -1,0 +1,9 @@
+visid: M7N7K70500531, Explanation: We ran sample RV including some units with that bin and recovered. Also no change in module.
+visid: M7N7K70501378, Explanation: We ran sample RV including some units with that bin and recovered. Also no change in module
+visid: M7N7K70500381, Explanation: We ran sample RV including some units with that bin and recovered. Also no change in module
+visid: M7N7K70500449, Explanation: We ran sample RV including some units with that bin and recovered. Also no change in module
+visid: M7N7K70500450, Explanation: We ran sample RV including some units with that bin and recovered. Also no change in module
+visid: M7N7K70500360, Explanation: We ran sample RV including some units with that bin and recovered. Also no change in module
+visid: M7N7K70500442, Explanation: We ran sample RV including some units with that bin and recovered. Also no change in module
+visid: M7N7K70500489, Explanation: We ran sample RV including some units with that bin and recovered. Also no change in module
+visid: M7SH412400819, Explanation: We ran sample RV including some units with that bin and recovered. Also no change in module

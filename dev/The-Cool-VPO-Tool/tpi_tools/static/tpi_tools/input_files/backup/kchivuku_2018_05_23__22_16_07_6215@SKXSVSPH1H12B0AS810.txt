@@ -1,0 +1,7 @@
+visid: M7N7K70500434, Explanation: SFR TRIM maxed out, HW issue
+visid: M7N7K70500459, Explanation: SFR TRIM maxed out, HW issue
+visid: M7N7K70500544, Explanation: SFR TRIM maxed out, HW issue
+visid: M7N7K70500626, Explanation: SFR TRIM maxed out, testing issue before, re-test help pass the unit
+visid: M7N7K70501381, Explanation: SFR TRIM maxed out, testing issue before, re-test help pass the unit
+visid: M7N7K70500454, Explanation: SFR TRIM maxed out, testing issue before, re-test help pass the unit
+visid: M7N7K70501422, Explanation: SFR TRIM maxed out, testing issue before, re-test help pass the unit

@@ -1,0 +1,1 @@
+visid: M95B8W9300209, Explanation: Unit failed on parametric measuremnt on DC Fail Flow SubFlow, after Failling PTH_THRSOAK. Temperature variation can cause parametric to fail. So this fail is related to HW Issue,

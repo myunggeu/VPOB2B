@@ -1,0 +1,1 @@
+visid: M7N7K70500554, Explanation: Core 24 FIVR pin was not connected during reference run. When connected, unit passes. No FIVR issue here.
