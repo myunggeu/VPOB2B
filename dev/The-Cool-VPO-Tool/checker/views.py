@@ -241,7 +241,7 @@ def add_template(request):
             template = parse_vpo_template_file(
                 #r"I:\CMT_ENG\skx\tpi\user\rshibano\val_plan_template\vpo_template.csv".format(current_dir))
                 #r"C:\Users\vabarca\Dev\val_plan_template\vpo_template.csv".format(current_dir))
-                r"C:\Users\myunggeu\VPO_TEMPLATES\val_plan_template\vpo_template.csv".format(current_dir))
+                r"C:\Users\myunggeu\VPO_TEMPLATES\val_plan_template\vpo_template_6_16_2022.csv".format(current_dir))
 
             boms = template.keys()
             prod_and_boms = {}
@@ -265,7 +265,7 @@ def create_template(request):
     print("[System] -- Create Template")
     #template = parse_vpo_template_file(r"I:\CMT_ENG\skx\tpi\user\rshibano\val_plan_template\vpo_template.csv".format(current_dir))
     #template = parse_vpo_template_file(r"C:\Users\vabarca\Dev\val_plan_template\vpo_template.csv".format(current_dir))
-    template = parse_vpo_template_file(r"C:\Users\myunggeu\VPO_TEMPLATES\val_plan_template\vpo_template.csv".format(current_dir))
+    template = parse_vpo_template_file(r"C:\Users\myunggeu\VPO_TEMPLATES\val_plan_template\vpo_template_6_16_2022.csv".format(current_dir))
     boms = template.keys()
     form_value = TPEntry(request.POST)
     tp = form_value['tp'].value()

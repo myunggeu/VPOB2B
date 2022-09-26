@@ -72,7 +72,9 @@ bom_decoder_SPR = {"SPA2": "SPR XCCSP",
                    "SPE1": "SPR XCCSP",
                    "SPE2": "SPR XCCSP",
                    "SPE3": "SPR XCCSP",
-                   "XXXX": "SPR XCCSP",
+                   "SPE4": "SPR XCCSP",
+                   "SPE5": "SPR XCCSP",
+                   "XXXX": "SPR XCCSP" #fix for correct SPR
                    }
 
 # Queues
@@ -106,14 +108,20 @@ def parse_cb_csv_file(lot_file_name, old_tp, new_tp, location, lots_old_new, old
         unit_header = "VIS_ID"
     print("Parsing CSV File")
     print("Location: ", location) 
-    if location == "6167" or location == "6261" or location == "6262" or location == "6265" or location == "6266" or location == "6268" or location == "6269" or location == "6270" or location == "5261" or location == "5265" or location == "5266" or location == "5268" or location == "5269" or location == "5270":
+    if location == "6163" or location == "6167" or location == "6193"  or location == "6261" or location == "6262" or location == "6265" \
+        or location == "6266" or location == "6268" or location == "6269" or location == "6270" or location == "5261" or location == "5265" \
+        or location == "5266" or location == "5268" or location == "5269" or location == "5270":
         # add back [CLASSHOT] when putting back MIDAS
         group = "[CLASSHOT]"
-    elif location == "6242" :
+    elif location == "6242" or location == "6245" or location == "6260" or location == "5242" or location == "5193" or location == "5260"  \
+        or location == "6263" or location == "6208" or location == "5263":
         group =  "[QAHOT]"
-    elif location == "6212" or location == "6216" or location == "6218" or location == "6219" or location == "6220" or location == "5212" or location == "5216" or location == "5218" or location == "5219" or location == "5220":
+    elif location == "6212" or location == "6216" or location == "6218" or location == "6219" or location == "6220" or location == "5212" \
+        or location == "5216" or location == "5218" or location == "5219" or location == "5220":
         # add back [CLASSCOLD] when putting back MIDAS
         group = "[CLASSCOLD]"
+    elif location == "6243" or location == "6213" or location == "5213" or location == "6254":
+        group = "[QACOLD]"
     elif location == "132310" or location == "6051":
         group = ""
 
@@ -329,8 +337,11 @@ def parse_cb_csv_file(lot_file_name, old_tp, new_tp, location, lots_old_new, old
             # new_entry.old_bin = old_bin
 
             print("OLD_BIN BEFORE CALLING BIN MOD FUNCTION: ", old_bin)
+            print("NEW_BIN BEFORE CALLING BIN MOD FUNCTION: ", new_bin)
             new_entry.new_bin = BinMod(new_bin, newBinDef)
+            print("After BinMod new_bin: ", new_entry.new_bin)
             new_entry.old_bin = BinMod(old_bin, oldBinDef)
+            print("After BinMod old_bin: ", new_entry.old_bin)
 
             #########################################################
             # if new_tp[0:3] == 'CLX':
@@ -362,6 +373,9 @@ def BinMod(current_bin, BinRef_file):
     binLength = len(current_bin)
     hard_bin = 0
     print("CURRENT BIN: ", current_bin)
+    print("binLength: ", binLength)
+    print("press enter")
+    #heh = input()
 
     hard_bin = int(current_bin) // 100
     print("HARD_BIN MODIFIED: ", hard_bin)
@@ -464,14 +478,28 @@ def tpi_page(request):
         new_TP_Name = form_value['new_TP_Name'].value()
         print("new_TP_Name:", new_TP_Name)
         # HOT
+        loc_6092 = form_value['loc_6092'].value() #new
+        print("locations:", loc_6092)
+        loc_6163 = form_value['loc_6163'].value()
+        print("locations:", loc_6163)
         loc_6167 = form_value['loc_6167'].value()
         print("locations:", loc_6167)
+        loc_6193 = form_value['loc_6193'].value() #new
+        print("locations:", loc_6193)
+        loc_6208 = form_value['loc_6208'].value()
+        print("locations:", loc_6208)
         loc_6242 = form_value['loc_6242'].value()
         print("locations:", loc_6242)
+        loc_6245 = form_value['loc_6245'].value() #new
+        print("locations:", loc_6245)
+        loc_6260 = form_value['loc_6260'].value()
+        print("locations:", loc_6260)
         loc_6261 = form_value['loc_6261'].value()
         print("locations:", loc_6261)
         loc_6262 = form_value['loc_6262'].value()
         print("locations:", loc_6262)
+        loc_6263 = form_value['loc_6263'].value()
+        print("locations:", loc_6263)
         loc_6265 = form_value['loc_6265'].value()
         print("locations:", loc_6265)
         loc_6266 = form_value['loc_6266'].value()
@@ -482,8 +510,16 @@ def tpi_page(request):
         print("locations:", loc_6269)
         loc_6270 = form_value['loc_6270'].value()
         print("locations:", loc_6270)
+        loc_5193 = form_value['loc_5193'].value()
+        print("locations:", loc_5193)
+        loc_5242 = form_value['loc_5242'].value()
+        print("locations:", loc_5242)
+        loc_5260 = form_value['loc_5260'].value()
+        print("locations:", loc_5260)
         loc_5261 = form_value['loc_5261'].value()
         print("locations:", loc_5261)
+        loc_5263 = form_value['loc_5263'].value()
+        print("locations:", loc_5263)
         loc_5265 = form_value['loc_5265'].value()
         print("locations:", loc_5265)
         loc_5266 = form_value['loc_5266'].value()
@@ -497,6 +533,8 @@ def tpi_page(request):
         # COLD
         loc_6212 = form_value['loc_6212'].value()
         print("locations:", loc_6212)
+        loc_6213 = form_value['loc_6213'].value()
+        print("locations:", loc_6213)
         loc_6216 = form_value['loc_6216'].value()
         print("locations:", loc_6216)
         loc_6218 = form_value['loc_6218'].value()
@@ -505,8 +543,14 @@ def tpi_page(request):
         print("locations:", loc_6219)
         loc_6220 = form_value['loc_6220'].value()
         print("locations:", loc_6220)
+        loc_6243 = form_value['loc_6243'].value() #new
+        print("locations:", loc_6243)
+        loc_6254 = form_value['loc_6254'].value() #new
+        print("locations:", loc_6254)
         loc_5212 = form_value['loc_5212'].value()
         print("locations:", loc_5212)
+        loc_5213 = form_value['loc_5213'].value() #new
+        print("locations:", loc_5213)
         loc_5216 = form_value['loc_5216'].value()
         print("locations:", loc_5216)
         loc_5218 = form_value['loc_5218'].value()
@@ -520,8 +564,11 @@ def tpi_page(request):
         print("\n")
 
         # locations = str(loc_6167) + str(loc_6261) + "," + str(loc_6262) + "," + str(loc_6270) + "," + str(loc_6264) + "," + str(loc_6212) + "," + str(loc_6215)
-        hot_locations = [loc_6167, loc_6242, loc_6261, loc_6262, loc_6265, loc_6266, loc_6268, loc_6269, loc_6270, loc_5261, loc_5265, loc_5266, loc_5268, loc_5269, loc_5270]
-        cold_locations = [loc_6212, loc_6216, loc_6218, loc_6219, loc_6220, loc_5212, loc_5216, loc_5218, loc_5219, loc_5220]
+        hot_locations = [loc_6092, loc_6193, loc_6163, loc_6167, loc_6208, loc_6242, loc_6245,loc_6260, loc_6261, \
+                        loc_6263, loc_6262, loc_6265, loc_6266, loc_6268, loc_6269, loc_6270, loc_5193, \
+                        loc_5242, loc_5260, loc_5261, loc_5263, loc_5265, loc_5266, loc_5268, loc_5269, loc_5270]
+        cold_locations = [loc_6212, loc_6213, loc_6216, loc_6218, loc_6219, loc_6220,loc_6243,loc_6254, \
+                            loc_5212,loc_5213, loc_5216, loc_5218, loc_5219, loc_5220]
         locations = hot_locations + cold_locations
 
         wait_time = 0

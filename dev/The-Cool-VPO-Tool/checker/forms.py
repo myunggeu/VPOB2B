@@ -44,6 +44,7 @@ class TPEntry(forms.Form):
     xccspc1 = forms.BooleanField()
     xcc112La0 = forms.BooleanField()
     xccspd0 = forms.BooleanField()
+    xccspe4 = forms.BooleanField()
     xccspsrha0 = forms.BooleanField()
     ##################################
 
